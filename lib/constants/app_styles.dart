@@ -19,7 +19,7 @@ class AppTextStyles {
   static const heading2 = TextStyle(
     fontFamily: 'Pretendard',
     fontWeight: FontWeight.w600,
-    fontSize: 26,
+    fontSize: 24,
   );
 
   static const heading3 = TextStyle(

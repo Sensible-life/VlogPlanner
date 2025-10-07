@@ -13,15 +13,6 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
   final TextEditingController _locationController = TextEditingController();
   final TextEditingController _requiredLocationController = TextEditingController();
   final TextEditingController _topicsController = TextEditingController();
-  
-  // 레퍼런스 체크 상태
-  final Map<String, bool> _styleReferences = {
-    '브이로그 스타일 - 일상 기록형': false,
-    '토크 중심 - 대화형': false,
-    '리뷰/후기 형식': false,
-    '튜토리얼/설명형': false,
-    '챌린지/이벤트형': false,
-  };
 
   @override
   void dispose() {
@@ -109,7 +100,7 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const SizedBox(height: 14),
+                  const SizedBox(height: 22),
                   // 1. 촬영 장소 (필수)
                   _buildTitle('촬영 장소', Icons.location_on, isRequired: true),
                   const SizedBox(height: 12),
@@ -126,37 +117,6 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
                   _buildTitle('대화 주제', Icons.chat_bubble_outline),
                   const SizedBox(height: 12),
                   _inputField(_topicsController, '예: 최근 근황, 여행 이야기, 맛집 리뷰'),
-                  const SizedBox(height: 36),
-                  
-                  // 4. 선호 스타일 레퍼런스
-                  _buildTitle('선호 스타일 레퍼런스', Icons.bookmark_border),
-                  const SizedBox(height: 12),
-                  Container(
-                    decoration: BoxDecoration(
-                      color: AppColors.cardBackground,
-                      borderRadius: BorderRadius.circular(13),
-                    ),
-                    child: Column(
-                      children: _styleReferences.keys.map((reference) {
-                        return CheckboxListTile(
-                          title: Text(
-                            reference,
-                            style: AppTextStyles.bodyMedium.copyWith(
-                              color: AppColors.textPrimary,
-                            ),
-                          ),
-                          value: _styleReferences[reference],
-                          activeColor: AppColors.primary,
-                          checkColor: Colors.white,
-                          onChanged: (bool? value) {
-                            setState(() {
-                              _styleReferences[reference] = value ?? false;
-                            });
-                          },
-                        );
-                      }).toList(),
-                    ),
-                  ),
                   
                   const SizedBox(height: 40),
                 ],

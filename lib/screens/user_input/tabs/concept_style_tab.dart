@@ -100,10 +100,10 @@ class _ConceptStyleTabState extends State<ConceptStyleTab> {
         });
       },
       child: Container(
-        padding: const EdgeInsets.symmetric(vertical: 12),
+        padding: const EdgeInsets.symmetric(vertical: 10),
         decoration: BoxDecoration(
           color: isSelected ? AppColors.primary : AppColors.cardBackground,
-          borderRadius: BorderRadius.circular(10),
+          borderRadius: BorderRadius.circular(13),
         ),
         child: Center(
           child: Text(
@@ -131,7 +131,7 @@ class _ConceptStyleTabState extends State<ConceptStyleTab> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const SizedBox(height: 14),
+                  const SizedBox(height: 22),
                   // 1. 촬영 주제
                   _buildTitle('촬영 주제', Icons.videocam, isRequired: true),
                   const SizedBox(height: 12),

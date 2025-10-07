@@ -21,7 +21,7 @@ class AppColors {
   static const Color warning = Colors.orange;
   
   // 배경 색상
-  static const Color background = black;
+  static const Color background = Color(0xFF000000);
   static const Color cardBackground = Color(0xFF454545);   // 약간 밝은 회색
 }
 

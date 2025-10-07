@@ -99,10 +99,10 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
     return GestureDetector(
       onTap: () => onSelect(option),
       child: Container(
-        padding: const EdgeInsets.symmetric(vertical: 12),
+        padding: const EdgeInsets.symmetric(vertical: 10),
         decoration: BoxDecoration(
           color: isSelected ? AppColors.primary : AppColors.cardBackground,
-          borderRadius: BorderRadius.circular(10),
+          borderRadius: BorderRadius.circular(13),
         ),
         child: Center(
           child: Text(
@@ -130,7 +130,7 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const SizedBox(height: 14),
+                  const SizedBox(height: 22),
                   
                   // 1. 시간/날씨
                   _buildTitle('시간/날씨', Icons.wb_sunny, isRequired: true),
