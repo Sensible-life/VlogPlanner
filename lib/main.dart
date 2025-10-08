@@ -3,6 +3,7 @@ import 'config/api_config.dart';
 import 'constants/app_colors.dart';
 import 'screens/home_page.dart';
 import 'screens/user_input/user_input_page.dart';
+import 'screens/storyboard/storyboard_list_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -22,9 +23,9 @@ class MainApp extends StatelessWidget {
         scaffoldBackgroundColor: AppColors.background,
         fontFamily: 'Pretendard',
       ),
-      home: const MainScreen(),
+      home: const HomePage(),
       routes: {
-        '/home': (context) => const HomePage(),
+        '/main': (context) => const MainScreen(),
         '/user-input': (context) => const UserInputPage(),
       },
     );
@@ -43,9 +44,9 @@ class _MainScreenState extends State<MainScreen> {
 
   // 각 탭의 화면들
   static const List<Widget> _screens = [
-    HomePage(),  // 0: 스토리보드
-    HomePage(),  // 1: 큐카드 (임시로 HomePage)
-    HomePage(),  // 2: 사용자 정보 (임시로 HomePage)
+    StoryboardListPage(),  // 0: 스토리보드 (버튼이 있는 화면)
+    HomePage(),            // 1: 큐카드 (임시로 HomePage)
+    HomePage(),            // 2: 사용자 정보 (임시로 HomePage)
   ];
 
   void _onItemTapped(int index) {
@@ -61,10 +62,14 @@ class _MainScreenState extends State<MainScreen> {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _selectedIndex,
         onTap: _onItemTapped,
-        backgroundColor: AppColors.cardBackground,
+        backgroundColor: AppColors.textPrimary,
         selectedItemColor: AppColors.primary,
         unselectedItemColor: AppColors.textSecondary,
         type: BottomNavigationBarType.fixed,
+        selectedFontSize: 12,
+        unselectedFontSize: 11,
+        iconSize: 22,
+        elevation: 8,
         items: const [
           BottomNavigationBarItem(
             icon: Icon(Icons.view_timeline),

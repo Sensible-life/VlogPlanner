@@ -100,7 +100,7 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const SizedBox(height: 22),
+                  const SizedBox(height: 32),
                   // 1. 촬영 장소 (필수)
                   _buildTitle('촬영 장소', Icons.location_on, isRequired: true),
                   const SizedBox(height: 12),

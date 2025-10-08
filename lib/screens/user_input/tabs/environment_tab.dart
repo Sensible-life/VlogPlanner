@@ -130,7 +130,7 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const SizedBox(height: 22),
+                  const SizedBox(height: 32),
                   
                   // 1. 시간/날씨
                   _buildTitle('시간/날씨', Icons.wb_sunny, isRequired: true),

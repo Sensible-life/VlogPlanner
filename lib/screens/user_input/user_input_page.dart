@@ -189,10 +189,11 @@ class _UserInputPageState extends State<UserInputPage> {
               padding: const EdgeInsets.all(18.0),
               child: SizedBox(
                 width: double.infinity,
-                child: ElevatedButton(
-                  onPressed: () {
-                    // TODO: 완료 처리 로직
-                  },
+                  child: ElevatedButton(
+                    onPressed: () {
+                      // 스토리보드 화면으로 이동
+                      Navigator.pushReplacementNamed(context, '/main');
+                    },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: AppColors.primary,
                     foregroundColor: Colors.white,
