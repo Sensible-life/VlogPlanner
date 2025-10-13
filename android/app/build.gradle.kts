@@ -24,10 +24,13 @@ android {
         applicationId = "com.example.graduationdesign"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = flutter.minSdkVersion
+        minSdk = 21  // Google Maps requires minSdk 21
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
+        
+        // Google Maps API Key placeholder
+        manifestPlaceholders["GOOGLE_MAPS_API_KEY"] = "YOUR_API_KEY_HERE"
     }
 
     buildTypes {

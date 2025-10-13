@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import '../../constants/app_colors.dart';
 import '../../constants/app_styles.dart';
+import '../../widgets/style_radar_chart.dart';
+import '../../widgets/shooting_route_map.dart';
 
 class StoryboardPage extends StatefulWidget {
   const StoryboardPage({super.key});
@@ -182,7 +184,11 @@ class _StoryboardPageState extends State<StoryboardPage> {
                 
                 // 스타일/톤 분석
                 _buildSectionTitle('스타일/톤 분석'),
-                _buildSectionContent('차분하고 편안한 분위기 속에서 진행되는 토크 중심의 브이로그. 과도한 편집 없이 자연스러운 대화와 일상을 담아냅니다. 배경음악은 잔잔한 어쿠스틱 사운드를 사용합니다.'),
+                const SizedBox(height: 12),
+                const Padding(
+                  padding: EdgeInsets.symmetric(horizontal: 18.0),
+                  child: StyleRadarChart(),
+                ),
                 
                 const SizedBox(height: 16),
                 Padding(
@@ -193,7 +199,11 @@ class _StoryboardPageState extends State<StoryboardPage> {
                 
                 // 촬영 동선
                 _buildSectionTitle('촬영 동선'),
-                _buildSectionContent('1. 카페 입구에서 만나는 장면\n2. 자리 잡고 메뉴 고르기\n3. 음식 나오기 전 대화\n4. 음식 소개 및 시식\n5. 본격 토크 타임\n6. 마무리 인사'),
+                const SizedBox(height: 12),
+                const Padding(
+                  padding: EdgeInsets.symmetric(horizontal: 18.0),
+                  child: ShootingRouteMap(),
+                ),
                 
                 const SizedBox(height: 16),
                 Padding(

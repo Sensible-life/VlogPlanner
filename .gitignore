@@ -53,3 +53,9 @@ assets/.env
 *.env
 !env.example
 !assets/env.example
+
+# API keys in native code
+android/app/src/main/AndroidManifest.xml
+ios/Runner/AppDelegate.swift
+!android/app/src/main/AndroidManifest.xml.example
+!ios/Runner/AppDelegate.swift.example
