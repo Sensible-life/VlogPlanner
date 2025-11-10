@@ -55,7 +55,7 @@ ${inputLines.isEmpty ? '- 모든 항목을 기본 설정으로 생성하세요' 
 다음 형식의 JSON 객체를 반환해주세요 (코드 펜스 없이 순수 JSON만):
 
 {
-  "summary": "전체 스토리보드의 요약입니다. 브이로그의 전체적인 흐름과 내용을 4-5줄로 간결하게 설명합니다.",
+  "summary": "전체 스토리보드의 요약입니다. 브이로그의 전체적인 흐름과 내용을 간결하게 설명합니다.",
   "vlog_title": "매력적인 브이로그 제목 (예: 친구들과 오월드 나들이! 🎢)",
   "keywords": ["키워드1", "키워드2", "키워드3"],
   "goal_duration_min": 8,
@@ -158,7 +158,7 @@ ${inputLines.isEmpty ? '- 모든 항목을 기본 설정으로 생성하세요' 
 }
 
 중요 요구사항:
-1. summary는 전체 브이로그 스토리보드의 흐름과 내용을 4-5줄로 간결하게 요약
+1. summary는 전체 브이로그 스토리보드의 흐름과 내용을 간결하게 요약
 2. vlog_title은 ${userInput['location']?.isNotEmpty ?? false ? userInput['location'] : '촬영 장소'} 맥락을 반영한 매력적인 제목
 3. keywords는 정확히 3개 (예: "일상", "친구들과", "낮, 맑음")
 4. chapters는 최소 10개 이상의 씬 (opening, main scenes, ending 포함)

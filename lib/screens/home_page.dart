@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../constants/app_colors.dart';
 import '../constants/app_styles.dart';
+import '../services/vlog_data_service.dart';
 import 'user_input/user_input_page.dart';
 import 'home/storyboard_drawer.dart';
 import 'home/user_drawer.dart';
@@ -24,6 +25,10 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
   @override
   void initState() {
     super.initState();
+    
+    // 샘플 데이터 초기화
+    VlogDataService().initializeSampleData();
+    
     _animationController = AnimationController(
       duration: const Duration(milliseconds: 150), // 기본은 열릴 때 속도 (200 -> 150으로 더 빠르게)
       vsync: this,

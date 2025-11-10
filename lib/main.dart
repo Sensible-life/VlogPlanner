@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'config/api_config.dart';
 import 'constants/app_colors.dart';
 import 'screens/home_page.dart';
@@ -7,6 +8,13 @@ import 'screens/user_input/user_input_page.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await ApiConfig.initialize();
+  
+  // 안드로이드 시스템 UI 설정 (하단 바 숨김)
+  SystemChrome.setEnabledSystemUIMode(
+    SystemUiMode.immersiveSticky,
+    overlays: [SystemUiOverlay.top],
+  );
+  
   runApp(const MainApp());
 }
 

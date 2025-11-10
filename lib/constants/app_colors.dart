@@ -12,7 +12,7 @@ class AppColors {
   static const Color filmBorder = Color(0xFFD5D5D5);          // 얇은 테두리
   
   // 종이 질감 - warm off-white
-  static const Color paper = Color(0xFFF8F7F5);               // 크림화이트 (메인 배경)
+  static const Color paper = Color(0xFFFFFFFF);               // 크림화이트 (메인 배경)
   static const Color paperLight = Color(0xFFFBFAF8);          // 밝은 종이
   static const Color paperWarm = Color(0xFFF5F3F0);           // 따뜻한 종이
   
@@ -22,7 +22,7 @@ class AppColors {
   
   // Legacy compatibility
   static const Color black = filmBlack;
-  static const Color white = paper;
+  static const Color white = Color(0xFFFFFFFF);
   static const Color grey = filmMediumGray;
   static const Color lightGrey = filmBorder;
   static const Color green = brandGreen; // Brand Green

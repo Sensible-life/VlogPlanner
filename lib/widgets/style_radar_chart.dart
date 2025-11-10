@@ -10,113 +10,61 @@ class StyleRadarChart extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final dataService = VlogDataService();
-    return Column(
-      children: [
-        // 레이더 차트
-        SizedBox(
-          height: 300,
-          child: RadarChart(
-            RadarChartData(
-              radarShape: RadarShape.polygon,
-              radarBorderData: BorderSide(
-                color: AppColors.grey.withOpacity(0.3),
-                width: 1,
-              ),
-              gridBorderData: BorderSide(
-                color: AppColors.grey.withOpacity(0.2),
-                width: 1,
-              ),
-              tickCount: 5,
-              ticksTextStyle: AppTextStyles.bodySmall.copyWith(
-                color: AppColors.textSecondary,
-                fontSize: 10,
-              ),
-              tickBorderData: BorderSide(
-                color: AppColors.grey.withOpacity(0.2),
-                width: 1,
-              ),
-              getTitle: (index, angle) {
-                const titles = [
-                  '감정 표현',
-                  '동작',
-                  '강도',
-                  '장소 다양성',
-                  '속도/리듬',
-                  '흥분/놀람',
-                ];
-                return RadarChartTitle(
-                  text: titles[index],
-                  angle: 0,
-                );
-              },
-              titleTextStyle: AppTextStyles.bodyMedium.copyWith(
-                color: AppColors.textPrimary,
-                fontWeight: FontWeight.w500,
-              ),
-              dataSets: [
-                RadarDataSet(
-                  fillColor: AppColors.primary.withOpacity(0.2),
-                  borderColor: AppColors.primary,
-                  borderWidth: 2,
-                  entryRadius: 4,
-                  dataEntries: [
-                    RadarEntry(value: dataService.getEmotionalExpression().toDouble()), // 감정 표현
-                    RadarEntry(value: dataService.getMovement().toDouble()), // 동작
-                    RadarEntry(value: dataService.getIntensity().toDouble()), // 강도
-                    RadarEntry(value: dataService.getLocationDiversity().toDouble()), // 장소 다양성
-                    RadarEntry(value: dataService.getSpeedRhythm().toDouble()), // 속도/리듬
-                    RadarEntry(value: dataService.getExcitementSurprise().toDouble()), // 흥분/놀람
-                  ],
-                ),
-              ],
-            ),
+    return RadarChart(
+      RadarChartData(
+        radarShape: RadarShape.polygon,
+        radarBorderData: BorderSide(
+          color: AppColors.grey.withOpacity(0.3),
+          width: 1,
+        ),
+        gridBorderData: BorderSide(
+          color: AppColors.grey.withOpacity(0.2),
+          width: 1,
+        ),
+        tickCount: 5,
+        ticksTextStyle: AppTextStyles.bodySmall.copyWith(
+          color: AppColors.textSecondary,
+          fontSize: 10,
+        ),
+        tickBorderData: BorderSide(
+          color: AppColors.grey.withOpacity(0.2),
+          width: 1,
+        ),
+        getTitle: (index, angle) {
+          const titles = [
+            '동작 강도',
+            '감정 표현',
+            '장소 다양성',
+            '속도/리듬',
+            '흥분/놀람',
+          ];
+          return RadarChartTitle(
+            text: titles[index],
+            angle: 0,
+          );
+        },
+        titleTextStyle: const TextStyle(
+          fontFamily: 'Pretendard Variable',
+          color: Colors.black,
+          fontWeight: FontWeight.w300,
+          fontSize: 11,
+        ),
+        dataSets: [
+          RadarDataSet(
+            fillColor: AppColors.primary.withOpacity(0.2),
+            borderColor: AppColors.primary,
+            borderWidth: 2,
+            entryRadius: 3,
+            dataEntries: [
+              RadarEntry(value: (dataService.getMovement() + dataService.getIntensity()) / 2), // 동작 강도 (동작+강도 평균)
+              RadarEntry(value: dataService.getEmotionalExpression().toDouble()), // 감정 표현
+              RadarEntry(value: dataService.getLocationDiversity().toDouble()), // 장소 다양성
+              RadarEntry(value: dataService.getSpeedRhythm().toDouble()), // 속도/리듬
+              RadarEntry(value: dataService.getExcitementSurprise().toDouble()), // 흥분/놀람
+            ],
           ),
-        ),
-        
-        const SizedBox(height: 32),
-
-        // 각 항목별 점수 및 설명
-        _buildStyleItem(
-          '감정 표현',
-          dataService.getEmotionalExpression(),
-          dataService.getEmotionalExpressionRationale() ?? _getEmotionalExpressionDescription(dataService.getEmotionalExpression()),
-        ),
-        const SizedBox(height: 24),
-
-        _buildStyleItem(
-          '동작',
-          dataService.getMovement(),
-          dataService.getMovementRationale() ?? _getMovementDescription(dataService.getMovement()),
-        ),
-        const SizedBox(height: 24),
-
-        _buildStyleItem(
-          '강도',
-          dataService.getIntensity(),
-          dataService.getIntensityRationale() ?? _getIntensityDescription(dataService.getIntensity()),
-        ),
-        const SizedBox(height: 24),
-
-        _buildStyleItem(
-          '장소 다양성',
-          dataService.getLocationDiversity(),
-          dataService.getLocationDiversityRationale() ?? _getLocationDiversityDescription(dataService.getLocationDiversity()),
-        ),
-        const SizedBox(height: 24),
-
-        _buildStyleItem(
-          '속도/리듬',
-          dataService.getSpeedRhythm(),
-          dataService.getSpeedRhythmRationale() ?? _getSpeedRhythmDescription(dataService.getSpeedRhythm()),
-        ),
-        const SizedBox(height: 24),
-
-        _buildStyleItem(
-          '흥분/놀람',
-          dataService.getExcitementSurprise(),
-          dataService.getExcitementSurpriseRationale() ?? _getExcitementSurpriseDescription(dataService.getExcitementSurprise()),
-        ),
-      ],
+        ],
+      ),
     );
   }
 

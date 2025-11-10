@@ -320,8 +320,24 @@ class OpenAIService {
       }
     } catch (e) {
       print('[OPENAI_API] Script 생성 예외: $e');
+      // 네트워크 연결 중단 시 기본 스크립트 반환
+      if (e.toString().contains('connection abort') || e.toString().contains('SocketException')) {
+        print('[OPENAI_API] 네트워크 연결 중단, 기본 스크립트 반환');
+        return _generateFallbackScript(sceneLocation, sceneSummary, durationSec);
+      }
       return null;
     }
+  }
+
+  /// 네트워크 오류 시 기본 스크립트 생성
+  static String _generateFallbackScript(String location, String summary, int durationSec) {
+    return '''안녕하세요! 지금은 $location에 와 있어요.
+
+$summary
+
+정말 멋진 곳이네요! 
+
+다음 장소로 이동해볼게요!''';
   }
 
   // 캐시: 템플릿 매칭 결과

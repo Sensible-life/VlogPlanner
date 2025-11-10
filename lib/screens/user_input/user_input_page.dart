@@ -112,7 +112,7 @@ class _UserInputPageState extends State<UserInputPage> {
         showLoadingDialog(
           context,
           title: '스토리보드 생성 중',
-          message: 'AI가 당신만의 브이로그 스토리보드를\n작성하고 있습니다...\n\n잠시만 기다려주세요 (약 15-30초)',
+          message: 'AI가 당신만의 브이로그 스토리보드를\n작성하고 있습니다...\n\n⚠️ 앱을 백그라운드로 전환하지 마세요\n잠시만 기다려주세요 (약 15-30초)',
           progress: 0.2,
         );
       }
@@ -154,7 +154,7 @@ class _UserInputPageState extends State<UserInputPage> {
         showLoadingDialog(
           context,
           title: '세부 정보 생성 중',
-          message: 'Script, 이미지, 장비 추천 등을\n생성하고 있습니다...',
+          message: 'Script, 이미지, 장비 추천 등을\n생성하고 있습니다...\n\n⚠️ 앱을 백그라운드로 전환하지 마세요',
           progress: 0.6,
         );
       }
@@ -164,43 +164,69 @@ class _UserInputPageState extends State<UserInputPage> {
       // 병렬로 실행할 작업들
       final futures = <Future>[];
 
-      // 4-1. 씬별 Script 생성 (각 씬마다)
+      // 4-1. 씬별 스크립트 (병렬, 타임아웃 포함)
       final scriptFutures = result.cueCards!.asMap().entries.map((entry) {
         final index = entry.key;
         final cueCard = entry.value;
         return OpenAIService.generateScriptForScene(
-          sceneSummary: cueCard.summary.join(' '),
           sceneLocation: cueCard.title,
-          tone: result.plan!.styleAnalysis?.tone ?? '밝고 경쾌',
-          vibe: result.plan!.styleAnalysis?.vibe ?? 'MZ',
+          sceneSummary: cueCard.summary.join(' '),
+          tone: result.plan!.styleAnalysis?.tone ?? '',
+          vibe: result.plan!.styleAnalysis?.vibe ?? '',
           durationSec: cueCard.allocatedSec,
-          sceneIndex: index,
+          sceneIndex: index + 1,
           totalScenes: result.cueCards!.length,
+        ).timeout(
+          const Duration(seconds: 30),
+          onTimeout: () {
+            print('[USER_INPUT] 씬 #${index + 1} 스크립트 생성 타임아웃');
+            return '${cueCard.title}에 대한 멋진 장면입니다.';
+          },
         );
       }).toList();
 
-      // 4-2. 시나리오 요약 개선
+      // 4-2. 시나리오 요약 (SEO용, 타임아웃 포함)
       final scenarioSummaryFuture = OpenAIService.generateScenarioSummary(
         sceneSummaries: result.cueCards!.map((c) => c.summary.join(' ')).toList(),
         location: _userInput['location'] ?? '',
         tone: result.plan!.styleAnalysis?.tone ?? '',
-        durationMin: result.plan!.goalDurationMin,
+        durationMin: result.plan!.goalDurationMin ?? 10,
+      ).timeout(
+        const Duration(seconds: 15),
+        onTimeout: () {
+          print('[USER_INPUT] 시나리오 요약 생성 타임아웃');
+          return '${result.plan!.vlogTitle} 브이로그';
+        },
       );
 
-      // 4-3. 대표 썸네일 이미지
+      // 4-3. 대표 썸네일 (타임아웃 포함)
       final mainThumbnailFuture = ImageService.searchMainThumbnail(
-        title: result.plan!.vlogTitle,
+        title: result.plan!.vlogTitle ?? '브이로그',
         keywords: result.plan!.keywords,
         tone: result.plan!.styleAnalysis?.tone ?? '',
+      ).timeout(
+        const Duration(seconds: 15),
+        onTimeout: () {
+          print('[USER_INPUT] 대표 썸네일 검색 타임아웃');
+          return null;
+        },
       );
 
-      // 4-4. 씬별 이미지 (각 씬마다)
-      final sceneImageFutures = result.cueCards!.map((cueCard) {
+      // 4-4. 씬별 이미지 (병렬, 타임아웃 포함)
+      final sceneImageFutures = result.cueCards!.asMap().entries.map((entry) {
+        final index = entry.key;
+        final cueCard = entry.value;
         return ImageService.searchSceneImage(
           location: cueCard.title,
           summary: cueCard.summary.join(' '),
           tone: result.plan!.styleAnalysis?.tone ?? '',
           globalLocation: _userInput['location'],  // 전체 촬영 장소 (예: "바르셀로나")
+        ).timeout(
+          const Duration(seconds: 15),
+          onTimeout: () {
+            print('[USER_INPUT] 씬 #${index + 1} 이미지 검색 타임아웃');
+            return null;
+          },
         );
       }).toList();
 
@@ -224,14 +250,32 @@ class _UserInputPageState extends State<UserInputPage> {
       // 모든 작업 병렬 실행
       print('[USER_INPUT] 병렬 작업 시작 (${scriptFutures.length} 스크립트 + ${sceneImageFutures.length} 이미지 + 4개 추가 작업)');
 
-      final results = await Future.wait([
+      final results = await Future.wait<dynamic>([
         ...scriptFutures,
         scenarioSummaryFuture,
         mainThumbnailFuture,
         ...sceneImageFutures,
-        equipmentFuture,
-        weatherFuture,
-        budgetFuture,
+        equipmentFuture.timeout(
+          const Duration(seconds: 10),
+          onTimeout: () {
+            print('[USER_INPUT] 장비 추천 타임아웃');
+            return null;
+          },
+        ),
+        weatherFuture.timeout(
+          const Duration(seconds: 10),
+          onTimeout: () {
+            print('[USER_INPUT] 날씨 정보 타임아웃');
+            return null;
+          },
+        ),
+        budgetFuture.timeout(
+          const Duration(seconds: 10),
+          onTimeout: () {
+            print('[USER_INPUT] 예산 정보 타임아웃');
+            return <Map<String, dynamic>>[];
+          },
+        ),
       ]);
 
       print('[USER_INPUT] 병렬 작업 완료');

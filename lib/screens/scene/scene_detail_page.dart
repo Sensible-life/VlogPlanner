@@ -3,9 +3,11 @@ import 'package:cached_network_image/cached_network_image.dart';
 import '../../constants/app_colors.dart';
 import '../../constants/app_styles.dart';
 import '../../models/cue_card.dart';
-import '../../models/plan.dart';
 import '../../services/openai_service.dart';
 import '../../services/vlog_data_service.dart';
+import '../../services/system_check_service.dart';
+import '../../widgets/loading_dialog.dart';
+import '../shooting/shooting_page.dart';
 
 class SceneDetailPage extends StatefulWidget {
   final List<dynamic> scenes; // Map 또는 CueCard 모두 허용
@@ -173,12 +175,265 @@ class _SceneDetailPageState extends State<SceneDetailPage> {
           ),
         ],
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () => _showEditDialog(context),
-        backgroundColor: AppColors.primary,
-        child: const Icon(Icons.edit, color: Colors.white),
+      floatingActionButton: Column(
+        mainAxisAlignment: MainAxisAlignment.end,
+        children: [
+          // 촬영 버튼
+          FloatingActionButton.extended(
+            onPressed: () => _startShooting(context),
+            backgroundColor: AppColors.primary,
+            icon: const Icon(Icons.videocam, color: Colors.white),
+            label: const Text('촬영 시작', style: TextStyle(color: Colors.white)),
+            heroTag: 'shoot',
+          ),
+          const SizedBox(height: 12),
+          // 편집 버튼
+          FloatingActionButton(
+            onPressed: () => _showEditDialog(context),
+            backgroundColor: AppColors.grey,
+            child: const Icon(Icons.edit, color: Colors.white),
+            heroTag: 'edit',
+          ),
+        ],
       ),
     );
+  }
+
+  // 촬영 시작
+  Future<void> _startShooting(BuildContext context) async {
+    final currentScene = widget.scenes[_currentIndex];
+
+    // CueCard 타입인지 확인
+    if (currentScene is! CueCard) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('이 씬은 촬영을 시작할 수 없습니다')),
+      );
+      return;
+    }
+
+    // 촬영 전 시스템 체크
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (context) => const LoadingDialog(
+        title: '촬영 준비',
+        message: '시스템을 확인하고 있습니다...',
+      ),
+    );
+
+    final systemCheck = await SystemCheckService.performFullCheck();
+
+    if (!mounted) return;
+    Navigator.pop(context); // 로딩 다이얼로그 닫기
+
+    // 경고 표시
+    if (!systemCheck.isReady) {
+      final shouldContinue = await _showPreShootingWarningDialog(
+        context,
+        systemCheck.warnings,
+      );
+
+      if (!shouldContinue) return;
+    }
+
+    // 체크리스트 확인
+    final checklistConfirmed = await _showPreShootingChecklistDialog(
+      context,
+      currentScene,
+    );
+
+    if (!checklistConfirmed) return;
+
+    // 촬영 화면으로 이동
+    if (!mounted) return;
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => ShootingPage(scene: currentScene),
+      ),
+    ).then((result) {
+      if (result != null) {
+        // 촬영 완료 후 처리
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('촬영이 완료되었습니다!'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    });
+  }
+
+  // 촬영 전 경고 다이얼로그
+  Future<bool> _showPreShootingWarningDialog(
+    BuildContext context,
+    List<String> warnings,
+  ) async {
+    return await showDialog<bool>(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: Row(
+              children: [
+                Icon(Icons.warning, color: AppColors.error),
+                const SizedBox(width: 8),
+                const Text('촬영 전 주의사항'),
+              ],
+            ),
+            content: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text('다음 항목을 확인하세요:'),
+                const SizedBox(height: 12),
+                ...warnings.map((w) => Padding(
+                      padding: const EdgeInsets.only(bottom: 8.0),
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          const Text('• '),
+                          Expanded(child: Text(w)),
+                        ],
+                      ),
+                    )),
+              ],
+            ),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context, false),
+                child: const Text('취소'),
+              ),
+              ElevatedButton(
+                onPressed: () => Navigator.pop(context, true),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: AppColors.primary,
+                ),
+                child: const Text('계속 진행'),
+              ),
+            ],
+          ),
+        ) ??
+        false;
+  }
+
+  // 촬영 전 체크리스트 다이얼로그
+  Future<bool> _showPreShootingChecklistDialog(
+    BuildContext context,
+    CueCard scene,
+  ) async {
+    return await showDialog<bool>(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: Row(
+              children: [
+                Icon(Icons.checklist, color: AppColors.primary),
+                const SizedBox(width: 8),
+                Text('${scene.title} 촬영 준비'),
+              ],
+            ),
+            content: SingleChildScrollView(
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  // 씬 정보
+                  Container(
+                    padding: const EdgeInsets.all(12),
+                    decoration: BoxDecoration(
+                      color: AppColors.cardBackground,
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          '촬영 시간: ${scene.allocatedSec}초',
+                          style: AppTextStyles.bodyMedium,
+                        ),
+                        const SizedBox(height: 4),
+                        Text(
+                          '장소: ${scene.trigger}',
+                          style: AppTextStyles.bodyMedium,
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 16),
+
+                  // 체크리스트
+                  Text(
+                    '준비물 체크:',
+                    style: AppTextStyles.bodyLarge.copyWith(
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  ...scene.checklist.map((item) => Padding(
+                        padding: const EdgeInsets.only(bottom: 8.0),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Icon(
+                              Icons.check_circle_outline,
+                              color: AppColors.primary,
+                              size: 20,
+                            ),
+                            const SizedBox(width: 8),
+                            Expanded(child: Text(item)),
+                          ],
+                        ),
+                      )),
+                  const SizedBox(height: 16),
+
+                  // 힌트
+                  if (scene.startHint.isNotEmpty) ...[
+                    Container(
+                      padding: const EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: AppColors.primary.withOpacity(0.1),
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: AppColors.primary),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Icon(Icons.lightbulb, color: AppColors.primary, size: 20),
+                              const SizedBox(width: 8),
+                              Text(
+                                '촬영 시작 힌트',
+                                style: AppTextStyles.bodyMedium.copyWith(
+                                  fontWeight: FontWeight.bold,
+                                  color: AppColors.primary,
+                                ),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 8),
+                          Text(scene.startHint),
+                        ],
+                      ),
+                    ),
+                  ],
+                ],
+              ),
+            ),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context, false),
+                child: const Text('취소'),
+              ),
+              ElevatedButton(
+                onPressed: () => Navigator.pop(context, true),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: AppColors.primary,
+                ),
+                child: const Text('촬영 시작'),
+              ),
+            ],
+          ),
+        ) ??
+        false;
   }
 
   // 씬 수정 다이얼로그 표시
