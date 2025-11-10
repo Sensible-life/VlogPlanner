@@ -22,8 +22,8 @@ class _StoryboardPageState extends State<StoryboardPage> {
   final VlogDataService _dataService = VlogDataService();
   String _selectedTab = 'STRUCTURE'; // STRUCTURE or PRODUCTION
   Color _textColor = Colors.white; // 기본값은 흰색
-  late PageController _pageController;
   int _selectedSceneIndex = 0; // 선택된 씬 인덱스
+  late PageController _pageController;
 
   @override
   void initState() {
@@ -36,6 +36,20 @@ class _StoryboardPageState extends State<StoryboardPage> {
   void dispose() {
     _pageController.dispose();
     super.dispose();
+  }
+
+  // 탭 변경
+  void _changeTab(String newTab) {
+    if (_selectedTab != newTab) {
+      setState(() {
+        _selectedTab = newTab;
+      });
+      _pageController.animateToPage(
+        newTab == 'STRUCTURE' ? 0 : 1,
+        duration: const Duration(milliseconds: 200),
+        curve: Curves.easeInOut,
+      );
+    }
   }
 
   // 배경 이미지의 밝기를 계산하여 텍스트 색상 결정
@@ -113,54 +127,107 @@ class _StoryboardPageState extends State<StoryboardPage> {
     final locationImage = plan.locationImage ?? 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800';
     final keywords = plan.keywords.take(4).toList();
 
+    final screenHeight = MediaQuery.of(context).size.height;
+    final topPadding = screenHeight * 0.6 - 190; // 배경 이미지 하단 부근에 헤더 위치 (48px 위로)
+
     return Scaffold(
       body: Stack(
         children: [
-          // 배경 이미지
-          Positioned.fill(
-            child: _buildBackgroundImage(locationImage),
-          ),
-          
-          // 메인 컨텐츠 - 하단 고정
+          // 배경 이미지 (고정)
           Positioned(
-            left: 0,
-            right: 0,
-            bottom: 0,
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                // 헤더 섹션 (제목 + 키워드) - 고정
-                _buildHeaderSection(plan, userInput, keywords),
-                
-                // 탭 섹션 - 고정
-                _buildTabSection(),
-                
-                // 컨텐츠 섹션 - PageView로 슬라이드 전환
-                SizedBox(
-                  height: _calculateStructureContentHeight(),
-                  child: PageView(
-                    controller: _pageController,
-                    onPageChanged: (index) {
-                      setState(() {
-                        _selectedTab = index == 0 ? 'STRUCTURE' : 'PRODUCTION';
-                      });
-                    },
-                    physics: const PageScrollPhysics(parent: ClampingScrollPhysics()),
-                    children: [
-                      // STRUCTURE 탭
-                      _buildStructureContent(plan),
-                      // PRODUCTION 탭
-                      SingleChildScrollView(
-                        physics: const ClampingScrollPhysics(),
-                        child: _buildProductionContent(plan, cueCards),
-                      ),
-                    ],
-                  ),
-                ),
-              ],
+            left: -200,
+            right: -200,
+            top: 0,
+            height: screenHeight * 0.6,
+            child: CachedNetworkImage(
+              imageUrl: locationImage,
+              fit: BoxFit.cover,
+              placeholder: (context, url) => Container(color: Colors.grey[300]),
+              errorWidget: (context, url, error) => Container(color: Colors.grey[300]),
             ),
           ),
-          
+
+          // 메인 컨텐츠 - NestedScrollView
+          Positioned.fill(
+            child: NestedScrollView(
+              headerSliverBuilder: (context, innerBoxIsScrolled) {
+                // 그라데이션 높이 = topPadding + 헤더 높이 + 탭 상단 여백(32px)
+                // 헤더 높이: 제목(~60px) + 24px + 키워드(~12px) = ~88px
+                final headerHeight = 88.0;
+                final tabTopPadding = 32.0;
+                final gradientHeight = topPadding + headerHeight + tabTopPadding;
+
+                return [
+                  // 그라데이션과 헤더를 함께 렌더링
+                  SliverToBoxAdapter(
+                    child: Stack(
+                      children: [
+                        // 그라데이션 (배경)
+                        Container(
+                          height: gradientHeight,
+                          decoration: BoxDecoration(
+                            gradient: LinearGradient(
+                              begin: Alignment.topCenter,
+                              end: Alignment.bottomCenter,
+                              colors: [
+                                Color(0xFFC8C8C8).withOpacity(0.0),
+                                Color(0xFFFFFFFF).withOpacity(1.0),
+                              ],
+                              stops: [0.0, 1.0],
+                            ),
+                          ),
+                        ),
+                        // 헤더 섹션 (그라데이션 위)
+                        Column(
+                          children: [
+                            SizedBox(height: topPadding),
+                            _buildHeaderSection(plan, userInput, keywords),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
+
+                  // 탭 섹션 - 고정 (상단 32px)
+                  SliverPersistentHeader(
+                    pinned: true,
+                    delegate: _StickyTabDelegate(
+                      child: Container(
+                        color: Colors.white,
+                        padding: const EdgeInsets.only(top: 32),
+                        child: _buildTabSection(),
+                      ),
+                      height: 32 + 50 + 16, // 상단 여백 + 탭 높이 + 탭 마진
+                    ),
+                  ),
+                ];
+              },
+              body: Container(
+                color: Colors.white,
+                child: PageView(
+                  controller: _pageController,
+                  onPageChanged: (index) {
+                    setState(() {
+                      _selectedTab = index == 0 ? 'STRUCTURE' : 'PRODUCTION';
+                    });
+                  },
+                  children: [
+                    // STRUCTURE 탭
+                    SingleChildScrollView(
+                      physics: const ClampingScrollPhysics(),
+                      child: _buildStructureContent(plan),
+                    ),
+                    // PRODUCTION 탭
+                    SingleChildScrollView(
+                      physics: const ClampingScrollPhysics(),
+                      child: _buildProductionContent(plan, cueCards),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+
           // 플로팅 액션 버튼 (촬영 시작) - 오른쪽 하단
           Positioned(
             right: 24,
@@ -218,33 +285,30 @@ class _StoryboardPageState extends State<StoryboardPage> {
 
   // 헤더 섹션 (제목 + 키워드)
   Widget _buildHeaderSection(Plan plan, Map<String, String> userInput, List<String> keywords) {
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 8),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          // 제목 (중앙 정렬)
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 54),
-            child: Text(
-              plan.vlogTitle.replaceAll(RegExp(r'[\u{1F300}-\u{1F9FF}]', unicode: true), '').trim(),
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontFamily: 'Pretendard Variable',
-                fontWeight: FontWeight.w700,
-                fontSize: 28,
-                height: 1.2,
-                color: _textColor,
-              ),
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        // 제목 (중앙 정렬)
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 54),
+          child: Text(
+            plan.vlogTitle.replaceAll(RegExp(r'[\u{1F300}-\u{1F9FF}]', unicode: true), '').trim(),
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontFamily: 'Pretendard Variable',
+              fontWeight: FontWeight.w700,
+              fontSize: 28,
+              height: 1.2,
+              color: _textColor,
             ),
           ),
-          
-          const SizedBox(height: 24),
-          
-          // 키워드 (4개, dot으로 구분)
-          _buildKeywords(keywords, userInput),
-        ],
-      ),
+        ),
+
+        const SizedBox(height: 24),
+
+        // 키워드 (4개, dot으로 구분)
+        _buildKeywords(keywords, userInput),
+      ],
     );
   }
 
@@ -304,7 +368,7 @@ class _StoryboardPageState extends State<StoryboardPage> {
         children: [
           // 슬라이딩 하얀 배경
           AnimatedAlign(
-            duration: const Duration(milliseconds: 200), // 300 -> 200으로 속도 증가
+            duration: const Duration(milliseconds: 200),
             curve: Curves.easeInOut,
             alignment: _selectedTab == 'STRUCTURE' ? Alignment.centerLeft : Alignment.centerRight,
             child: Container(
@@ -322,14 +386,7 @@ class _StoryboardPageState extends State<StoryboardPage> {
             children: [
               Expanded(
                 child: GestureDetector(
-                  onTap: () {
-                    setState(() => _selectedTab = 'STRUCTURE');
-                    _pageController.animateToPage(
-                      0,
-                      duration: const Duration(milliseconds: 200),
-                      curve: Curves.easeInOut,
-                    );
-                  },
+                  onTap: () => _changeTab('STRUCTURE'),
                   child: Container(
                     alignment: Alignment.center,
                     child: Text(
@@ -346,14 +403,7 @@ class _StoryboardPageState extends State<StoryboardPage> {
               ),
               Expanded(
                 child: GestureDetector(
-                  onTap: () {
-                    setState(() => _selectedTab = 'PRODUCTION');
-                    _pageController.animateToPage(
-                      1,
-                      duration: const Duration(milliseconds: 200),
-                      curve: Curves.easeInOut,
-                    );
-                  },
+                  onTap: () => _changeTab('PRODUCTION'),
                   child: Container(
                     alignment: Alignment.center,
                     child: Text(
@@ -383,7 +433,7 @@ class _StoryboardPageState extends State<StoryboardPage> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const SizedBox(height: 16),
-          
+
           // 시나리오 요약 제목
           const Text(
             '시나리오 요약',
@@ -394,9 +444,9 @@ class _StoryboardPageState extends State<StoryboardPage> {
               color: Colors.black,
             ),
           ),
-          
+
           const SizedBox(height: 16),
-          
+
           // 시나리오 요약 내용
           Text(
             plan.summary,
@@ -408,17 +458,17 @@ class _StoryboardPageState extends State<StoryboardPage> {
               color: Colors.black,
             ),
           ),
-          
+
           const SizedBox(height: 24),
-          
+
           // 구분선
           Container(
             height: 1,
             color: AppColors.brandBlue,
           ),
-          
+
           const SizedBox(height: 24),
-          
+
           // 톤 & 분위기 제목 + 세부 내용 링크
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -448,27 +498,20 @@ class _StoryboardPageState extends State<StoryboardPage> {
               ),
             ],
           ),
-          
+
           const SizedBox(height: 24),
-          
+
           // 레이더 차트
           SizedBox(
             height: 190,
             child: StyleRadarChart(),
           ),
-          
-          const SizedBox(height: 32), // 버튼 공간 확보 (56 -> 32로 줄임)
+
+          // SizedBox(height: MediaQuery.of(context).size.height * 0.3), // 화면 높이의 30%만큼 하단 여백
+          const SizedBox(height: 24),
         ],
       ),
     );
-  }
-
-  // STRUCTURE 컨텐츠 영역의 높이 계산
-  double _calculateStructureContentHeight() {
-    // 16 (상단) + 20 (제목 높이 추정) + 16 + 요약 (가변) + 24 + 1 (구분선) + 24 + 20 (톤&분위기 제목) + 24 + 190 (차트) + 56 (하단)
-    // 대략적으로 고정 높이 합계: 16 + 16 + 24 + 1 + 24 + 24 + 190 + 56 = 351
-    // 요약 텍스트는 평균 60px 정도로 가정
-    return 430.0; // 약간 여유를 둔 높이
   }
 
   // PRODUCTION 컨텐츠 (촬영 동선, 예산, 체크리스트)
@@ -651,8 +694,9 @@ class _StoryboardPageState extends State<StoryboardPage> {
                 ],
               ),
             )).toList(),
-          
-          const SizedBox(height: 32), // 버튼 공간 확보
+
+          // SizedBox(height: MediaQuery.of(context).size.height * 0.3), // 화면 높이의 30%만큼 하단 여백
+          const SizedBox(height: 24),
         ],
       ),
     );
@@ -1033,5 +1077,29 @@ class _StoryboardPageState extends State<StoryboardPage> {
         ],
       ),
     );
+  }
+}
+
+// SliverPersistentHeader를 위한 Delegate
+class _StickyTabDelegate extends SliverPersistentHeaderDelegate {
+  final Widget child;
+  final double height;
+
+  _StickyTabDelegate({required this.child, required this.height});
+
+  @override
+  double get minExtent => height;
+
+  @override
+  double get maxExtent => height;
+
+  @override
+  Widget build(BuildContext context, double shrinkOffset, bool overlapsContent) {
+    return child;
+  }
+
+  @override
+  bool shouldRebuild(covariant _StickyTabDelegate oldDelegate) {
+    return oldDelegate.height != height || oldDelegate.child != child;
   }
 }
