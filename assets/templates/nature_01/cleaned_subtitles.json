@@ -1,0 +1,116 @@
+{
+  "cleaned_segments": [
+    {
+      "timestamp_formatted": "[00:00:32]",
+      "text": "안녕하세요 이나입니다"
+    },
+    {
+      "timestamp_formatted": "[00:01:40]",
+      "text": "벌나닥 많이 자랐네요"
+    },
+    {
+      "timestamp_formatted": "[00:01:46]",
+      "text": "발바닥 럴이 가려면 뛰어다닐때"
+    },
+    {
+      "timestamp_formatted": "[00:02:07]",
+      "text": "갑자기 장난기"
+    },
+    {
+      "timestamp_formatted": "[00:03:15]",
+      "text": "빗어줍니다"
+    },
+    {
+      "timestamp_formatted": "[00:03:51]",
+      "text": "목욕 다하고 끔돌이 귀로 변신 시켜줄2"
+    },
+    {
+      "timestamp_formatted": "[00:03:54]",
+      "text": "처음 미용실 온거라 낮설었을렌"
+    },
+    {
+      "timestamp_formatted": "[00:04:00]",
+      "text": "너무 대견하고 막 그래요ㅠㅠ앨"
+    },
+    {
+      "timestamp_formatted": "[00:04:33]",
+      "text": "방법도 있지만 어요"
+    },
+    {
+      "timestamp_formatted": "[00:04:36]",
+      "text": "방법은 아니지만 겔"
+    },
+    {
+      "timestamp_formatted": "[00:04:42]",
+      "text": "를 저희 미용실은 가"
+    },
+    {
+      "timestamp_formatted": "[00:04:48]",
+      "text": "그"
+    },
+    {
+      "timestamp_formatted": "[00:05:38]",
+      "text": "당당이에요"
+    },
+    {
+      "timestamp_formatted": "[00:06:23]",
+      "text": "꼬미는 저희 미용실 단골손님 이어"
+    },
+    {
+      "timestamp_formatted": "[00:06:26]",
+      "text": "잠깐만 배할라고 하셔서 말기고"
+    },
+    {
+      "timestamp_formatted": "[00:07:19]",
+      "text": "다 별 하루가 지나갔네요"
+    },
+    {
+      "timestamp_formatted": "[00:07:22]",
+      "text": "애견미용사라는 직업을 고민만 하다가 개"
+    },
+    {
+      "timestamp_formatted": "[00:07:25]",
+      "text": "년 전에 처음 시작하여 지금은 감사한 마음으로 행복하게 일하고 있습니다."
+    },
+    {
+      "timestamp_formatted": "[00:07:31]",
+      "text": "애견미용사는 생명을 다루는 직업이기에 단순히 미용만 아니라"
+    },
+    {
+      "timestamp_formatted": "[00:07:37]",
+      "text": "아이들의 행동 많은 것들을 공부해야 하는 직업이라고 생각해"
+    },
+    {
+      "timestamp_formatted": "[00:07:40]",
+      "text": "작은 드가 직업이기에 너무나도 귀엽고 예쁜 아이들과 암께하는 직업 제"
+    },
+    {
+      "timestamp_formatted": "[00:07:43]",
+      "text": "하루하루들 보내고 있지만"
+    },
+    {
+      "timestamp_formatted": "[00:07:55]",
+      "text": "실력있는 미용사가 되고 싶어요"
+    },
+    {
+      "timestamp_formatted": "[00:08:01]",
+      "text": "애견미용사 분들 너무너무 존경해요."
+    }
+  ],
+  "analysis": {
+    "has_meaningful_text": true,
+    "subtitle_count": 24,
+    "subtitle_style": "minimal",
+    "average_text_length": 16.6,
+    "sample_texts": [
+      "안녕하세요 이나입니다",
+      "벌나닥 많이 자랐네요",
+      "발바닥 럴이 가려면 뛰어다닐때",
+      "갑자기 장난기",
+      "빗어줍니다"
+    ]
+  },
+  "original_count": 131,
+  "cleaned_count": 24,
+  "reduction_rate": 81.7
+}

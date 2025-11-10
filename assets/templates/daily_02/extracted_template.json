@@ -1,0 +1,126 @@
+{
+  "template_name": "Korean Cafe Routine",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 5,
+      "description": "The video opens with a calm transition scene showing a glass door, indicating entry or exit from a room.",
+      "key_elements": [
+        "glass door",
+        "potted plants",
+        "carpeted floor"
+      ]
+    },
+    "body": {
+      "duration_seconds": 759,
+      "description": "The main content consists of various scenes of café operations, including food and drink preparation, packaging, and organizing tasks.",
+      "segments": [
+        {
+          "type": "transition scenes",
+          "description": "Scenes showing movement or transitions, such as entering or exiting rooms, handling doors, or moving between tasks.",
+          "typical_duration": 30,
+          "scene_activity": "Entering or exiting rooms, handling doors",
+          "location": "Indoor, various settings",
+          "mood": "Calm and routine"
+        },
+        {
+          "type": "food and drink preparation",
+          "description": "Detailed scenes of preparing drinks and food items, including using coffee machines, pouring liquids, and handling ingredients.",
+          "typical_duration": 300,
+          "scene_activity": "Preparing drinks and food items",
+          "location": "Indoor, café or kitchen setting",
+          "mood": "Focused and methodical"
+        },
+        {
+          "type": "packaging and organizing",
+          "description": "Scenes of organizing items, packaging drinks for takeaway, and handling supplies.",
+          "typical_duration": 200,
+          "scene_activity": "Organizing and packaging items",
+          "location": "Indoor, café or storage area",
+          "mood": "Calm and organized"
+        },
+        {
+          "type": "cleaning and maintenance",
+          "description": "Scenes showing cleaning tasks such as wiping surfaces and maintaining equipment.",
+          "typical_duration": 100,
+          "scene_activity": "Cleaning and maintaining equipment",
+          "location": "Indoor, café or kitchen setting",
+          "mood": "Routine and focused"
+        },
+        {
+          "type": "product handling",
+          "description": "Scenes involving handling and organizing products, such as coffee bags and packaged items.",
+          "typical_duration": 129,
+          "scene_activity": "Handling and organizing products",
+          "location": "Indoor, café or storage area",
+          "mood": "Calm and focused"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 15,
+      "description": "The video closes with a personal touch, showing a handwritten note on a yellow sticky note.",
+      "key_elements": [
+        "yellow sticky note",
+        "handwritten text",
+        "intimate mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#ceccc4",
+      "#847967",
+      "#a7a298"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.2,
+    "scene_changes": 352,
+    "camera_work": [
+      "close-ups",
+      "steady shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 2,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Minimal",
+      "style": "Conversational",
+      "content_type": "Explaining tasks and routines"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Task descriptions and instructions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Routine task focus",
+      "description": "Frequent focus on routine tasks and detailed preparation processes.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "daily routine vlogs",
+    "café operation tutorials"
+  ]
+}

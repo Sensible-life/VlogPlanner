@@ -1,0 +1,2233 @@
+{
+  "total_scenes": 217,
+  "scenes": [
+    {
+      "timestamp": 3.9475444538758593,
+      "timestamp_formatted": "0:00:03",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or video message.",
+      "location": "Indoor, likely in a personal or home setting.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or video message.\n2. **Location**: Indoor, likely in a personal or home setting.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: Person wearing a striped sweater, window blinds, light-colored walls, Korean subtitles.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 107.57058636811716,
+      "timestamp_formatted": "0:01:47",
+      "activity": "A person is speaking directly to the camera, possibly explaining or answering a question.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or answering a question.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person in a striped sweater, text overlay in Korean, window blinds, white walls.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 177.63950042441365,
+      "timestamp_formatted": "0:02:57",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person in a striped sweater, window blinds, light-colored walls, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 217.11494496317226,
+      "timestamp_formatted": "0:03:37",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Explanation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Window blinds\n   - Korean text overlay\n5. **Scene Type**: Dialogue/Explanation."
+    },
+    {
+      "timestamp": 226.9838060978619,
+      "timestamp_formatted": "0:03:46",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor, likely a home or studio setting.",
+      "mood": "Calm and informative.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor, likely a home or studio setting.\n3. **Mood**: Calm and informative.\n4. **Key Elements**: Person, striped sweater, smartphone, white wall, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 230.93135055173775,
+      "timestamp_formatted": "0:03:50",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person, striped sweater, smartphone, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 231.91823666520673,
+      "timestamp_formatted": "0:03:51",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person, striped sweater, pink object in hand, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 233.89200889214464,
+      "timestamp_formatted": "0:03:53",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Pink object in hand\n   - Window blinds in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 245.73464225377222,
+      "timestamp_formatted": "0:04:05",
+      "activity": "A person is speaking directly to the camera, possibly reviewing or discussing a product.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly reviewing or discussing a product.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 268.43302286355845,
+      "timestamp_formatted": "0:04:28",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Smartphone\n   - Window blinds\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 302.9740368349722,
+      "timestamp_formatted": "0:05:02",
+      "activity": "A person is demonstrating or explaining something on a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds, Korean text overlay.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 305.9346951753791,
+      "timestamp_formatted": "0:05:05",
+      "activity": "A person is selecting an app on a smartphone screen.",
+      "location": "Indoor, likely a personal or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is selecting an app on a smartphone screen.\n2. **Location**: Indoor, likely a personal or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, app icons (YouTube, VLLO, TubeBuddy), person's hand.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 308.895353515786,
+      "timestamp_formatted": "0:05:08",
+      "activity": "A person is demonstrating or reviewing a mobile app on their smartphone.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or reviewing a mobile app on their smartphone.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, app interface, person's hands, text in Korean.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 309.88223962925497,
+      "timestamp_formatted": "0:05:09",
+      "activity": "A person is demonstrating or explaining an app on their smartphone.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining an app on their smartphone.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, app interface, person's hand, text in Korean.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 310.8691257427239,
+      "timestamp_formatted": "0:05:10",
+      "activity": "A person is demonstrating how to select videos on a smartphone for editing.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating how to select videos on a smartphone for editing.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone displaying video thumbnails, person pointing at the screen, striped shirt, window blinds.\n5. **Scene Type**: Tutorial."
+    },
+    {
+      "timestamp": 311.8560118561929,
+      "timestamp_formatted": "0:05:11",
+      "activity": "A person is demonstrating or explaining something, possibly related to a smartphone or device.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something, possibly related to a smartphone or device.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Person, hands, smartphone, striped sweater, text overlay in Korean.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 312.84289796966186,
+      "timestamp_formatted": "0:05:12",
+      "activity": "A person is demonstrating or explaining something on a smartphone screen.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone screen.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Smartphone with app interface\n   - Person pointing at the screen\n   - Blurred background\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 314.8166701965998,
+      "timestamp_formatted": "0:05:14",
+      "activity": "A person is demonstrating how to use a video editing app on a smartphone.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating how to use a video editing app on a smartphone.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone with app interface, person pointing at the screen, striped sweater, window blinds.\n5. **Scene Type**: Tutorial."
+    },
+    {
+      "timestamp": 315.80355631006876,
+      "timestamp_formatted": "0:05:15",
+      "activity": "A person is adjusting settings on a smartphone, likely related to video or photo aspect ratios.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Focused and instructional.",
+      "key_elements": [],
+      "scene_type": "Instructional close-up.",
+      "raw_analysis": "1. **Activity**: A person is adjusting settings on a smartphone, likely related to video or photo aspect ratios.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Focused and instructional.\n4. **Key Elements**: Smartphone, hand with painted nails, text on screen, window blinds.\n5. **Scene Type**: Instructional close-up."
+    },
+    {
+      "timestamp": 318.76421465047565,
+      "timestamp_formatted": "0:05:18",
+      "activity": "A person is demonstrating how to adjust video settings on a smartphone.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Instructional close-up.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating how to adjust video settings on a smartphone.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, hand pointing at the screen, interface with video settings, text in Korean.\n5. **Scene Type**: Instructional close-up."
+    },
+    {
+      "timestamp": 319.7511007639446,
+      "timestamp_formatted": "0:05:19",
+      "activity": "A person is applying or demonstrating the use of a cosmetic product.",
+      "location": "Indoor, likely in a personal or professional setting such as a home or studio.",
+      "mood": "Intimate and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration/close-up.",
+      "raw_analysis": "1. **Activity**: A person is applying or demonstrating the use of a cosmetic product.\n2. **Location**: Indoor, likely in a personal or professional setting such as a home or studio.\n3. **Mood**: Intimate and focused.\n4. **Key Elements**: Hands with painted nails, a cosmetic product, a blurred background, text overlay in Korean.\n5. **Scene Type**: Demonstration/close-up."
+    },
+    {
+      "timestamp": 320.73798687741356,
+      "timestamp_formatted": "0:05:20",
+      "activity": "A person is holding a smartphone and appears to be interacting with an app.",
+      "location": "Indoor, likely in a room or office setting.",
+      "mood": "Focused and casual.",
+      "key_elements": [],
+      "scene_type": "Interaction/technology demonstration.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone and appears to be interacting with an app.\n2. **Location**: Indoor, likely in a room or office setting.\n3. **Mood**: Focused and casual.\n4. **Key Elements**: Smartphone, hand with colorful nail polish, text on the phone screen, person partially visible.\n5. **Scene Type**: Interaction/technology demonstration."
+    },
+    {
+      "timestamp": 321.72487299088255,
+      "timestamp_formatted": "0:05:21",
+      "activity": "A person is holding a smartphone, possibly waiting for an app or page to load.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Neutral and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone, possibly waiting for an app or page to load.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Neutral and focused.\n4. **Key Elements**: Smartphone, hand with painted nails, Korean text on the screen, loading indicator.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 323.69864521782046,
+      "timestamp_formatted": "0:05:23",
+      "activity": "A person is editing a video on a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Focused and casual.",
+      "key_elements": [],
+      "scene_type": "\"Editing tutorial\" or \"tech demonstration.\"",
+      "raw_analysis": "1. **Activity**: A person is editing a video on a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Focused and casual.\n4. **Key Elements**: Smartphone, video editing app, person's hand, colorful nails.\n5. **Scene Type**: \"Editing tutorial\" or \"tech demonstration.\""
+    },
+    {
+      "timestamp": 326.65930355822735,
+      "timestamp_formatted": "0:05:26",
+      "activity": "A person is showing a smartphone screen displaying a video editing app with a cooking video.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is showing a smartphone screen displaying a video editing app with a cooking video.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, video editing app, cooking video, person's hand, text overlay.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 327.64618967169633,
+      "timestamp_formatted": "0:05:27",
+      "activity": "A person is speaking to the camera, possibly explaining something or vlogging.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informal and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or vlog segment.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining something or vlogging.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informal and relaxed.\n4. **Key Elements**: \n   - Person in a striped sweater\n   - Smartphone in hand\n   - Blurred background\n   - Korean text overlay\n5. **Scene Type**: Dialogue or vlog segment."
+    },
+    {
+      "timestamp": 328.63307578516526,
+      "timestamp_formatted": "0:05:28",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Casual and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Casual and conversational.\n4. **Key Elements**: \n   - Person wearing a striped sweater\n   - Smartphone in hand\n   - Window blinds in the background\n   - Text overlay at the bottom\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 333.5675063525101,
+      "timestamp_formatted": "0:05:33",
+      "activity": "A person is explaining or demonstrating something using a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Explanation.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something using a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Smartphone displaying an app or video\n   - Striped sweater\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/Explanation."
+    },
+    {
+      "timestamp": 351.3314563949515,
+      "timestamp_formatted": "0:05:51",
+      "activity": "A person is speaking to the camera, possibly explaining or sharing information.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or sharing information.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 352.3183425084204,
+      "timestamp_formatted": "0:05:52",
+      "activity": "A person is speaking to the camera while showing something on their phone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while showing something on their phone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 409.5577370896204,
+      "timestamp_formatted": "0:06:49",
+      "activity": "A person is speaking directly to the camera, likely explaining or discussing a topic.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Calm and informative.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely explaining or discussing a topic.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Calm and informative.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, plain wall.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 427.32168713206175,
+      "timestamp_formatted": "0:07:07",
+      "activity": "A person is speaking directly to the camera, possibly discussing or explaining a topic.",
+      "location": "Indoor, likely a room or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly discussing or explaining a topic.\n2. **Location**: Indoor, likely a room or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person, smartphone, striped sweater, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 431.26923158593763,
+      "timestamp_formatted": "0:07:11",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person holding a pink phone, wearing a striped sweater, window blinds in the background, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 445.0856371745031,
+      "timestamp_formatted": "0:07:25",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person with a striped sweater, smartphone, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 466.79713167082036,
+      "timestamp_formatted": "0:07:46",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Presentation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person wearing a striped sweater, text overlay in Korean, neutral-colored walls, window blinds.\n5. **Scene Type**: Dialogue/Presentation."
+    },
+    {
+      "timestamp": 469.75779001122726,
+      "timestamp_formatted": "0:07:49",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person in a striped sweater, text overlay on the screen, window blinds in the background.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 514.1676651173307,
+      "timestamp_formatted": "0:08:34",
+      "activity": "A person is speaking, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely in a room or studio.",
+      "mood": "Calm and informative.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Instruction.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely in a room or studio.\n3. **Mood**: Calm and informative.\n4. **Key Elements**: Person, striped sweater, text overlay, window blinds.\n5. **Scene Type**: Dialogue/Instruction."
+    },
+    {
+      "timestamp": 521.0758679116134,
+      "timestamp_formatted": "0:08:41",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person in a striped sweater\n   - White and gray blinds\n   - Neutral-colored walls\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 522.0627540250824,
+      "timestamp_formatted": "0:08:42",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person in a striped sweater, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 523.0496401385514,
+      "timestamp_formatted": "0:08:43",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely in a home or studio setting.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely in a home or studio setting.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person wearing a striped sweater, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 524.0365262520203,
+      "timestamp_formatted": "0:08:44",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 525.0234123654893,
+      "timestamp_formatted": "0:08:45",
+      "activity": "A person is speaking directly to the camera, possibly giving a review or tutorial.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly giving a review or tutorial.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 528.9709568193651,
+      "timestamp_formatted": "0:08:48",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, striped sweater, plain wall, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 533.90538738671,
+      "timestamp_formatted": "0:08:53",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person wearing a striped sweater, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 534.8922735001789,
+      "timestamp_formatted": "0:08:54",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Window blinds\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 535.8791596136479,
+      "timestamp_formatted": "0:08:55",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor, likely in a home or studio setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor, likely in a home or studio setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 538.8398179540548,
+      "timestamp_formatted": "0:08:58",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely a room or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a room or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person speaking, striped sweater, white walls, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 540.8135901809927,
+      "timestamp_formatted": "0:09:00",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 542.7873624079307,
+      "timestamp_formatted": "0:09:02",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person in a striped sweater, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue or tutorial."
+    },
+    {
+      "timestamp": 543.7742485213996,
+      "timestamp_formatted": "0:09:03",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person in a striped sweater, text overlay in Korean, window blinds.\n5. **Scene Type**: Dialogue or tutorial."
+    },
+    {
+      "timestamp": 544.7611346348685,
+      "timestamp_formatted": "0:09:04",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.",
+      "location": "Indoor, likely a home or studio setting.",
+      "mood": "The atmosphere is casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.\n2. **Location**: Indoor, likely a home or studio setting.\n3. **Mood**: The atmosphere is casual and friendly.\n4. **Key Elements**: \n   - Person with expressive hand gestures\n   - Striped sweater\n   - Window blinds\n   - Korean text overlay\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 563.511970790779,
+      "timestamp_formatted": "0:09:23",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "The atmosphere is calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: The atmosphere is calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Window blinds\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/Monologue"
+    },
+    {
+      "timestamp": 574.3677180389375,
+      "timestamp_formatted": "0:09:34",
+      "activity": "A person is speaking directly to the camera, likely engaging in a vlog or personal message.",
+      "location": "Indoor setting, possibly a room or studio.",
+      "mood": "Intimate and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal message.\n2. **Location**: Indoor setting, possibly a room or studio.\n3. **Mood**: Intimate and friendly.\n4. **Key Elements**: \n   - Person wearing a striped sweater\n   - White walls\n   - Window blinds\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 582.2628069466892,
+      "timestamp_formatted": "0:09:42",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person wearing a striped sweater, white walls, window blinds, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 584.2365791736272,
+      "timestamp_formatted": "0:09:44",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Casual and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Casual and intimate.\n4. **Key Elements**: Person wearing a striped sweater, light-colored walls, window blinds, Korean text at the bottom.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 586.2103514005651,
+      "timestamp_formatted": "0:09:46",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or video message.",
+      "location": "Indoor, likely in a home or personal space.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or video message.\n2. **Location**: Indoor, likely in a home or personal space.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: Person in a striped sweater, white wall, window blinds, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 587.1972375140341,
+      "timestamp_formatted": "0:09:47",
+      "activity": "The person is speaking directly to the camera, possibly in a vlog or tutorial.",
+      "location": "Indoor, likely a home or studio setting.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: The person is speaking directly to the camera, possibly in a vlog or tutorial.\n2. **Location**: Indoor, likely a home or studio setting.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: Person with hands raised, striped sweater, window blinds, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 592.1316680813788,
+      "timestamp_formatted": "0:09:52",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor, likely a home or personal space.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor, likely a home or personal space.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 597.0660986487237,
+      "timestamp_formatted": "0:09:57",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Casual and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Casual and conversational.\n4. **Key Elements**: Person wearing a striped sweater, window blinds, white walls, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 600.0267569891306,
+      "timestamp_formatted": "0:10:00",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor setting, possibly a home or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor setting, possibly a home or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person in a striped sweater, white wall, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 615.816934804634,
+      "timestamp_formatted": "0:10:15",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely in a room or studio setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely in a room or studio setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, white walls, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 617.790707031572,
+      "timestamp_formatted": "0:10:17",
+      "activity": "A person is speaking to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 618.7775931450409,
+      "timestamp_formatted": "0:10:18",
+      "activity": "A person is speaking to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 621.7382514854478,
+      "timestamp_formatted": "0:10:21",
+      "activity": "A person is speaking to the camera while holding up a smartphone displaying a selfie.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding up a smartphone displaying a selfie.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 622.7251375989168,
+      "timestamp_formatted": "0:10:22",
+      "activity": "A person is demonstrating or explaining something using a smartphone.",
+      "location": "Indoor, likely in a room or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something using a smartphone.\n2. **Location**: Indoor, likely in a room or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 623.7120237123858,
+      "timestamp_formatted": "0:10:23",
+      "activity": "A person is speaking to the camera while holding up a smartphone.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding up a smartphone.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 625.6857959393237,
+      "timestamp_formatted": "0:10:25",
+      "activity": "A person is demonstrating or explaining something on a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 626.6726820527927,
+      "timestamp_formatted": "0:10:26",
+      "activity": "A person is speaking to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely in a room or studio setting.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely in a room or studio setting.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 627.6595681662616,
+      "timestamp_formatted": "0:10:27",
+      "activity": "A person is holding and possibly using a smartphone, likely recording or taking a photo.",
+      "location": "Indoor setting, possibly a room or office.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or vlog recording.",
+      "raw_analysis": "1. **Activity**: A person is holding and possibly using a smartphone, likely recording or taking a photo.\n2. **Location**: Indoor setting, possibly a room or office.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone, striped sweater, window blinds, person.\n5. **Scene Type**: Dialogue or vlog recording."
+    },
+    {
+      "timestamp": 628.6464542797306,
+      "timestamp_formatted": "0:10:28",
+      "activity": "A person is speaking, possibly addressing the camera.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly addressing the camera.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person wearing a striped sweater, light-colored walls, partially visible window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 631.6071126201375,
+      "timestamp_formatted": "0:10:31",
+      "activity": "A person is recording themselves, possibly for a vlog or video call, while waving at the camera.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is recording themselves, possibly for a vlog or video call, while waving at the camera.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Smartphone, striped sweater, person waving, plain background.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 632.5939987336064,
+      "timestamp_formatted": "0:10:32",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely a room with a plain background.",
+      "mood": "Informal and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue or vlog-style presentation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely a room with a plain background.\n3. **Mood**: Informal and conversational.\n4. **Key Elements**: \n   - Person with expressive hand gestures\n   - Smartphone with a pink case\n   - Striped sweater\n   - Window blinds in the background\n5. **Scene Type**: Dialogue or vlog-style presentation."
+    },
+    {
+      "timestamp": 636.5415431874823,
+      "timestamp_formatted": "0:10:36",
+      "activity": "A person is speaking to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Casual and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Casual and engaging.\n4. **Key Elements**: Person holding a phone, striped sweater, neutral background, subtitles.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 637.5284293009513,
+      "timestamp_formatted": "0:10:37",
+      "activity": "A person is demonstrating or explaining an object, possibly a gadget or tool.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining an object, possibly a gadget or tool.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, striped shirt, smartphone, gadget/tool, white wall.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 638.5153154144202,
+      "timestamp_formatted": "0:10:38",
+      "activity": "A person is demonstrating or explaining how to use a tripod.",
+      "location": "Indoor setting, likely a home or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining how to use a tripod.\n2. **Location**: Indoor setting, likely a home or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person holding a tripod, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 640.4890876413582,
+      "timestamp_formatted": "0:10:40",
+      "activity": "A person is explaining or demonstrating how to use a tripod or selfie stick.",
+      "location": "Indoor, likely in a home or studio setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating how to use a tripod or selfie stick.\n2. **Location**: Indoor, likely in a home or studio setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person holding a tripod, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 646.410404322172,
+      "timestamp_formatted": "0:10:46",
+      "activity": "A person is demonstrating or discussing a handheld device.",
+      "location": "Indoor, likely a home or studio setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or discussing a handheld device.\n2. **Location**: Indoor, likely a home or studio setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, handheld device, striped sweater, window blinds.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 648.3841765491098,
+      "timestamp_formatted": "0:10:48",
+      "activity": "A person is adjusting a smartphone holder or tripod.",
+      "location": "Indoor, likely in a home or studio setting.",
+      "mood": "Focused and instructional.",
+      "key_elements": [],
+      "scene_type": "Instructional or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is adjusting a smartphone holder or tripod.\n2. **Location**: Indoor, likely in a home or studio setting.\n3. **Mood**: Focused and instructional.\n4. **Key Elements**: Person, smartphone holder/tripod, striped sweater, window blinds.\n5. **Scene Type**: Instructional or tutorial."
+    },
+    {
+      "timestamp": 650.3579487760478,
+      "timestamp_formatted": "0:10:50",
+      "activity": "A person is demonstrating or discussing the use of a smartphone on a tripod.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or discussing the use of a smartphone on a tripod.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, tripod, person, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 651.3448348895167,
+      "timestamp_formatted": "0:10:51",
+      "activity": "A person is demonstrating or explaining something using a smartphone on a selfie stick.",
+      "location": "Indoor, likely in a room or studio setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something using a smartphone on a selfie stick.\n2. **Location**: Indoor, likely in a room or studio setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Selfie stick\n   - Striped sweater\n   - Window blinds in the background\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 654.3054932299236,
+      "timestamp_formatted": "0:10:54",
+      "activity": "A person is recording a video or livestreaming, possibly speaking or presenting content.",
+      "location": "Indoor, likely a home or studio setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or presentation.",
+      "raw_analysis": "1. **Activity**: A person is recording a video or livestreaming, possibly speaking or presenting content.\n2. **Location**: Indoor, likely a home or studio setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Smartphone on a tripod, person in a striped sweater, neutral background, window blinds.\n5. **Scene Type**: Dialogue or presentation."
+    },
+    {
+      "timestamp": 659.2399237972685,
+      "timestamp_formatted": "0:10:59",
+      "activity": "A person is adjusting a smartphone on a tripod or stand.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Focused and instructional.",
+      "key_elements": [],
+      "scene_type": "Instructional/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is adjusting a smartphone on a tripod or stand.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Focused and instructional.\n4. **Key Elements**: Smartphone, tripod/stand, person, striped sweater, window blinds.\n5. **Scene Type**: Instructional/tutorial."
+    },
+    {
+      "timestamp": 662.2005821376754,
+      "timestamp_formatted": "0:11:02",
+      "activity": "A person is demonstrating or reviewing a product, likely a selfie stick.",
+      "location": "Indoor, possibly a home or studio setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product review.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or reviewing a product, likely a selfie stick.\n2. **Location**: Indoor, possibly a home or studio setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, selfie stick, striped sweater, window blinds.\n5. **Scene Type**: Product review."
+    },
+    {
+      "timestamp": 669.1087849319581,
+      "timestamp_formatted": "0:11:09",
+      "activity": "A person is demonstrating or reviewing a product.",
+      "location": "Indoor, likely a home or studio setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or reviewing a product.\n2. **Location**: Indoor, likely a home or studio setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, striped sweater, product (possibly a selfie stick), window blinds.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 672.069443272365,
+      "timestamp_formatted": "0:11:12",
+      "activity": "A person is demonstrating or reviewing a product, likely a tripod or similar device.",
+      "location": "Indoor, possibly in a home or studio setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product review or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or reviewing a product, likely a tripod or similar device.\n2. **Location**: Indoor, possibly in a home or studio setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, tripod-like device, striped sweater, window blinds.\n5. **Scene Type**: Product review or demonstration."
+    },
+    {
+      "timestamp": 698.715368336027,
+      "timestamp_formatted": "0:11:38",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Person wearing a striped shirt\n   - Smartphone in a pink case\n   - Blinds in the background\n   - Korean text overlay\n5. **Scene Type**: Dialogue/Monologue."
+    },
+    {
+      "timestamp": 700.689140562965,
+      "timestamp_formatted": "0:11:40",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely in a room or studio setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely in a room or studio setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 704.6366850168408,
+      "timestamp_formatted": "0:11:44",
+      "activity": "A person is speaking or singing, possibly recording a video or vlog.",
+      "location": "Indoor, likely in a room or studio.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or vlog recording.",
+      "raw_analysis": "1. **Activity**: A person is speaking or singing, possibly recording a video or vlog.\n2. **Location**: Indoor, likely in a room or studio.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, smartphone, window blinds.\n5. **Scene Type**: Dialogue or vlog recording."
+    },
+    {
+      "timestamp": 707.5973433572477,
+      "timestamp_formatted": "0:11:47",
+      "activity": "A person is demonstrating or discussing a cosmetic product.",
+      "location": "Indoor, likely in a home or studio setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or discussing a cosmetic product.\n2. **Location**: Indoor, likely in a home or studio setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Cosmetic jar, person with striped sweater, window blinds, Korean text overlay.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 708.5842294707168,
+      "timestamp_formatted": "0:11:48",
+      "activity": "A person is demonstrating or discussing a product, possibly makeup or skincare.",
+      "location": "Indoor, likely in a home or studio setting.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or discussing a product, possibly makeup or skincare.\n2. **Location**: Indoor, likely in a home or studio setting.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Person holding a compact, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 709.5711155841857,
+      "timestamp_formatted": "0:11:49",
+      "activity": "A person is speaking directly to the camera, possibly giving advice or sharing information.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly giving advice or sharing information.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person speaking, striped sweater, subtitles in Korean, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 715.4924322649995,
+      "timestamp_formatted": "0:11:55",
+      "activity": "A person is speaking to the camera while holding a smartphone displaying a close-up of an eye.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding a smartphone displaying a close-up of an eye.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person speaking, smartphone with eye close-up, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 716.4793183784684,
+      "timestamp_formatted": "0:11:56",
+      "activity": "A person is speaking to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Casual and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Casual and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 717.4662044919374,
+      "timestamp_formatted": "0:11:57",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor, likely in a room or studio setting.",
+      "mood": "Casual and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor, likely in a room or studio setting.\n3. **Mood**: Casual and engaging.\n4. **Key Elements**: Person in a striped sweater, smartphone, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 719.4399767188753,
+      "timestamp_formatted": "0:11:59",
+      "activity": "A person is speaking directly to the camera, likely explaining or discussing a topic.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely explaining or discussing a topic.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 726.3481795131581,
+      "timestamp_formatted": "0:12:06",
+      "activity": "A person is demonstrating or explaining something using a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something using a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds, subtitles in Korean.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 727.335065626627,
+      "timestamp_formatted": "0:12:07",
+      "activity": "A person is demonstrating or explaining features on a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining features on a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 728.321951740096,
+      "timestamp_formatted": "0:12:08",
+      "activity": "A person is explaining or demonstrating something on a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something on a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 729.308837853565,
+      "timestamp_formatted": "0:12:09",
+      "activity": "A person is demonstrating or explaining features on a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining features on a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 731.2826100805029,
+      "timestamp_formatted": "0:12:11",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 732.2694961939719,
+      "timestamp_formatted": "0:12:12",
+      "activity": "A person is speaking to the camera while holding up a smartphone.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding up a smartphone.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 734.2432684209098,
+      "timestamp_formatted": "0:12:14",
+      "activity": "A person is speaking to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Explanation.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Person speaking\n   - Smartphone\n   - Striped sweater\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue/Explanation."
+    },
+    {
+      "timestamp": 735.2301545343788,
+      "timestamp_formatted": "0:12:15",
+      "activity": "A person is speaking to the camera while holding up a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding up a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 737.2039267613167,
+      "timestamp_formatted": "0:12:17",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, camera or phone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 741.1514712151926,
+      "timestamp_formatted": "0:12:21",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 743.1252434421305,
+      "timestamp_formatted": "0:12:23",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 746.0859017825373,
+      "timestamp_formatted": "0:12:26",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Explanation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Person gesturing with one hand.\n   - Smartphone held in the other hand.\n   - Striped sweater.\n   - Text overlay in Korean.\n5. **Scene Type**: Dialogue/Explanation."
+    },
+    {
+      "timestamp": 749.0465601229442,
+      "timestamp_formatted": "0:12:29",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue or tutorial."
+    },
+    {
+      "timestamp": 751.0203323498822,
+      "timestamp_formatted": "0:12:31",
+      "activity": "A person is speaking directly to the camera, possibly giving advice or instructions.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly giving advice or instructions.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person making a peace sign, striped sweater, subtitles in Korean, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 755.9547629172271,
+      "timestamp_formatted": "0:12:35",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or video chat.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or video chat.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - White walls\n   - Window blinds\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 764.8367379384478,
+      "timestamp_formatted": "0:12:44",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person wearing a striped sweater, neutral-colored walls, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 766.8105101653856,
+      "timestamp_formatted": "0:12:46",
+      "activity": "A person is interacting with a smartphone, possibly texting or using an app.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a smartphone, possibly texting or using an app.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Dialogue or interaction."
+    },
+    {
+      "timestamp": 768.7842823923236,
+      "timestamp_formatted": "0:12:48",
+      "activity": "A person is demonstrating or explaining something on a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 775.6924851866063,
+      "timestamp_formatted": "0:12:55",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Instructional.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and engaging.\n4. **Key Elements**: Person in a striped sweater, text overlay in Korean, neutral-colored walls, window blinds.\n5. **Scene Type**: Dialogue/Instructional."
+    },
+    {
+      "timestamp": 845.7613992429028,
+      "timestamp_formatted": "0:14:05",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person wearing a striped sweater\n   - Neutral-colored walls\n   - Window with blinds\n   - Text overlay at the bottom\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 848.7220575833097,
+      "timestamp_formatted": "0:14:08",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, striped sweater, text overlay, light-colored walls, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 851.6827159237166,
+      "timestamp_formatted": "0:14:11",
+      "activity": "A person is explaining or demonstrating something on their phone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Instruction.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something on their phone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, text overlay.\n5. **Scene Type**: Dialogue/Instruction."
+    },
+    {
+      "timestamp": 852.6696020371855,
+      "timestamp_formatted": "0:14:12",
+      "activity": "A person is speaking to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely a room or an office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely a room or an office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 854.6433742641235,
+      "timestamp_formatted": "0:14:14",
+      "activity": "A person is interacting with a smartphone, possibly explaining or demonstrating something.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a smartphone, possibly explaining or demonstrating something.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Window blinds in the background\n   - Korean text subtitle\n5. **Scene Type**: Dialogue or demonstration."
+    },
+    {
+      "timestamp": 855.6302603775924,
+      "timestamp_formatted": "0:14:15",
+      "activity": "A person is speaking to the camera while showing something on their phone.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while showing something on their phone.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone displaying content, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 856.6171464910615,
+      "timestamp_formatted": "0:14:16",
+      "activity": "A person is speaking to the camera while showing a smartphone screen.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while showing a smartphone screen.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 857.6040326045304,
+      "timestamp_formatted": "0:14:17",
+      "activity": "A person is holding up a smartphone displaying a video or image on the screen.",
+      "location": "Indoor, likely a personal or casual setting.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is holding up a smartphone displaying a video or image on the screen.\n2. **Location**: Indoor, likely a personal or casual setting.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Smartphone, video/image on screen, person's hand, light-colored sleeve.\n5. **Scene Type**: Transition or demonstration."
+    },
+    {
+      "timestamp": 858.5909187179993,
+      "timestamp_formatted": "0:14:18",
+      "activity": "A person is interacting with a smartphone, possibly watching or selecting a video.",
+      "location": "Indoor setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a smartphone, possibly watching or selecting a video.\n2. **Location**: Indoor setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone, video thumbnail, person's hand, text on screen.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 861.5515770584062,
+      "timestamp_formatted": "0:14:21",
+      "activity": "A person is explaining or demonstrating something using a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something using a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, video thumbnail on screen, text overlay in Korean.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 863.5253492853442,
+      "timestamp_formatted": "0:14:23",
+      "activity": "A person is showing a phone screen with a gallery of video thumbnails.",
+      "location": "Indoor, likely a home or personal space.",
+      "mood": "Informal and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Instruction.",
+      "raw_analysis": "1. **Activity**: A person is showing a phone screen with a gallery of video thumbnails.\n2. **Location**: Indoor, likely a home or personal space.\n3. **Mood**: Informal and casual.\n4. **Key Elements**: Person, smartphone, video thumbnails, subtitles.\n5. **Scene Type**: Dialogue/Instruction."
+    },
+    {
+      "timestamp": 864.5122353988131,
+      "timestamp_formatted": "0:14:24",
+      "activity": "A person is demonstrating how to use a feature on a smartphone.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating how to use a feature on a smartphone.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person pointing, striped clothing, text overlay.\n5. **Scene Type**: Tutorial."
+    },
+    {
+      "timestamp": 866.4860076257511,
+      "timestamp_formatted": "0:14:26",
+      "activity": "A person is holding and possibly interacting with a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual interaction.",
+      "raw_analysis": "1. **Activity**: A person is holding and possibly interacting with a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Smartphone, person with painted nails, striped sweater, window blinds.\n5. **Scene Type**: Casual interaction."
+    },
+    {
+      "timestamp": 867.47289373922,
+      "timestamp_formatted": "0:14:27",
+      "activity": "A person is explaining or demonstrating something using a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something using a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone displaying a gallery, person gesturing, striped sweater, text overlay in Korean.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 868.459779852689,
+      "timestamp_formatted": "0:14:28",
+      "activity": "A person is explaining or demonstrating something on their smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something on their smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person, striped sweater, text overlay.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 870.4335520796269,
+      "timestamp_formatted": "0:14:30",
+      "activity": "A person is explaining or demonstrating something using a smartphone.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is explaining or demonstrating something using a smartphone.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Dialogue or tutorial."
+    },
+    {
+      "timestamp": 872.4073243065649,
+      "timestamp_formatted": "0:14:32",
+      "activity": "A person is explaining something while showing a smartphone screen to the camera.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or explanation.",
+      "raw_analysis": "1. **Activity**: A person is explaining something while showing a smartphone screen to the camera.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or explanation."
+    },
+    {
+      "timestamp": 873.3942104200338,
+      "timestamp_formatted": "0:14:33",
+      "activity": "A person is showing a smartphone screen with a video upload interface.",
+      "location": "Indoor, likely a personal room or office.",
+      "mood": "Informal and focused.",
+      "key_elements": [],
+      "scene_type": "Instructional or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is showing a smartphone screen with a video upload interface.\n2. **Location**: Indoor, likely a personal room or office.\n3. **Mood**: Informal and focused.\n4. **Key Elements**: Smartphone, person in the background, striped sweater, text on screen.\n5. **Scene Type**: Instructional or demonstration."
+    },
+    {
+      "timestamp": 874.3810965335028,
+      "timestamp_formatted": "0:14:34",
+      "activity": "A person is speaking to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Window blinds in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 878.3286409873787,
+      "timestamp_formatted": "0:14:38",
+      "activity": "A person is speaking directly to the camera, possibly explaining or instructing something.",
+      "location": "Indoor, likely a room or office setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Instructional.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or instructing something.\n2. **Location**: Indoor, likely a room or office setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Window blinds in the background\n   - Text overlay at the bottom\n5. **Scene Type**: Dialogue/Instructional."
+    },
+    {
+      "timestamp": 883.2630715547235,
+      "timestamp_formatted": "0:14:43",
+      "activity": "A person is speaking to the camera while holding up a smartphone displaying a screen.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding up a smartphone displaying a screen.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 885.2368437816614,
+      "timestamp_formatted": "0:14:45",
+      "activity": "A person is speaking directly to the camera, possibly explaining or demonstrating something.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Instructional.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Person speaking\n   - Smartphone in hand\n   - Striped sweater\n   - Window blinds in the background\n5. **Scene Type**: Dialogue/Instructional."
+    },
+    {
+      "timestamp": 886.2237298951304,
+      "timestamp_formatted": "0:14:46",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person speaking\n   - White and striped sweater\n   - Light-colored walls\n   - Window with blinds\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 889.1843882355373,
+      "timestamp_formatted": "0:14:49",
+      "activity": "A person is demonstrating or explaining something about a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Tutorial or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something about a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person pointing, striped sweater, window blinds.\n5. **Scene Type**: Tutorial or demonstration."
+    },
+    {
+      "timestamp": 890.1712743490062,
+      "timestamp_formatted": "0:14:50",
+      "activity": "A person is demonstrating or discussing something on a smartphone.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or discussing something on a smartphone.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Demonstration or tutorial."
+    },
+    {
+      "timestamp": 891.1581604624752,
+      "timestamp_formatted": "0:14:51",
+      "activity": "A person is demonstrating or explaining something on a smartphone.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, person, striped shirt, window blinds.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 892.1450465759442,
+      "timestamp_formatted": "0:14:52",
+      "activity": "A person is demonstrating or discussing smartphone apps.",
+      "location": "Indoor, likely in a personal or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or discussing smartphone apps.\n2. **Location**: Indoor, likely in a personal or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, hand pointing, app icons, text overlay.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 896.09259102982,
+      "timestamp_formatted": "0:14:56",
+      "activity": "A person is demonstrating or explaining something on a smartphone screen.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration/tutorial.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone screen.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, person pointing, striped clothing, text on screen.\n5. **Scene Type**: Demonstration/tutorial."
+    },
+    {
+      "timestamp": 897.079477143289,
+      "timestamp_formatted": "0:14:57",
+      "activity": "A person is showing something on their smartphone screen, possibly explaining or discussing its content.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Explanation",
+      "raw_analysis": "1. **Activity**: A person is showing something on their smartphone screen, possibly explaining or discussing its content.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: \n   - Smartphone displaying a video platform interface\n   - Person pointing at the screen\n   - Text in Korean\n5. **Scene Type**: Dialogue/Explanation"
+    },
+    {
+      "timestamp": 898.066363256758,
+      "timestamp_formatted": "0:14:58",
+      "activity": "A person is showing a smartphone screen to the camera, possibly discussing or explaining its content.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Explanation.",
+      "raw_analysis": "1. **Activity**: A person is showing a smartphone screen to the camera, possibly discussing or explaining its content.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person, text on screen, striped clothing, subtitles.\n5. **Scene Type**: Dialogue/Explanation."
+    },
+    {
+      "timestamp": 899.0532493702269,
+      "timestamp_formatted": "0:14:59",
+      "activity": "A person is showing something on their smartphone screen, possibly explaining or demonstrating an app or feature.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration/Explanation.",
+      "raw_analysis": "1. **Activity**: A person is showing something on their smartphone screen, possibly explaining or demonstrating an app or feature.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, person's hand, text on the screen, subtitles in Korean.\n5. **Scene Type**: Demonstration/Explanation."
+    },
+    {
+      "timestamp": 900.0401354836958,
+      "timestamp_formatted": "0:15:00",
+      "activity": "A person is holding and interacting with a smartphone, possibly speaking or recording a video.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or vlog recording.",
+      "raw_analysis": "1. **Activity**: A person is holding and interacting with a smartphone, possibly speaking or recording a video.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone, person, striped sweater, window blinds.\n5. **Scene Type**: Dialogue or vlog recording."
+    },
+    {
+      "timestamp": 901.0270215971649,
+      "timestamp_formatted": "0:15:01",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 911.8827688453234,
+      "timestamp_formatted": "0:15:11",
+      "activity": "A person is speaking to the camera while showing something on their phone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while showing something on their phone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person, smartphone, striped sweater, window blinds, Korean subtitles.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 912.8696549587925,
+      "timestamp_formatted": "0:15:12",
+      "activity": "A person is holding and possibly using a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is holding and possibly using a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Blinds in the background\n   - Korean subtitles\n5. **Scene Type**: Dialogue or demonstration."
+    },
+    {
+      "timestamp": 913.8565410722614,
+      "timestamp_formatted": "0:15:13",
+      "activity": "A person is using a smartphone, possibly browsing or showing something on the screen.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration or explanation.",
+      "raw_analysis": "1. **Activity**: A person is using a smartphone, possibly browsing or showing something on the screen.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone, person's hand, blurred background, Korean text on screen.\n5. **Scene Type**: Demonstration or explanation."
+    },
+    {
+      "timestamp": 914.8434271857303,
+      "timestamp_formatted": "0:15:14",
+      "activity": "A person is using a smartphone, possibly browsing or selecting a video.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is using a smartphone, possibly browsing or selecting a video.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone, person's hand, person in the background, video thumbnails on the screen, subtitles in Korean.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 915.8303132991994,
+      "timestamp_formatted": "0:15:15",
+      "activity": "A person is demonstrating or explaining something on a smartphone.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is demonstrating or explaining something on a smartphone.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Smartphone, person, striped shirt, window blinds.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 916.8171994126683,
+      "timestamp_formatted": "0:15:16",
+      "activity": "A person is interacting with a smartphone, possibly scrolling or selecting something on the screen.",
+      "location": "Indoor, likely a personal or home setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a smartphone, possibly scrolling or selecting something on the screen.\n2. **Location**: Indoor, likely a personal or home setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone, person's hand, text on screen, blurred background.\n5. **Scene Type**: Demonstration or tutorial."
+    },
+    {
+      "timestamp": 917.8040855261372,
+      "timestamp_formatted": "0:15:17",
+      "activity": "A person is using a smartphone, possibly reading or editing text on the screen.",
+      "location": "Indoor, likely in a personal or home setting.",
+      "mood": "Focused and intimate.",
+      "key_elements": [],
+      "scene_type": "Close-up interaction.",
+      "raw_analysis": "1. **Activity**: A person is using a smartphone, possibly reading or editing text on the screen.\n2. **Location**: Indoor, likely in a personal or home setting.\n3. **Mood**: Focused and intimate.\n4. **Key Elements**: Smartphone, person's hand, text on screen, partially visible face.\n5. **Scene Type**: Close-up interaction."
+    },
+    {
+      "timestamp": 919.7778577530752,
+      "timestamp_formatted": "0:15:19",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and informative.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and informative.\n4. **Key Elements**: Person, smartphone, striped shirt, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 925.699174433889,
+      "timestamp_formatted": "0:15:25",
+      "activity": "A person is speaking directly to the camera, possibly discussing a topic or sharing information.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly discussing a topic or sharing information.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, text overlay, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 932.6073772281717,
+      "timestamp_formatted": "0:15:32",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person in a striped sweater, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 934.5811494551097,
+      "timestamp_formatted": "0:15:34",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a personal message.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person wearing a striped sweater\n   - White walls\n   - Window blinds\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 940.5024661359234,
+      "timestamp_formatted": "0:15:40",
+      "activity": "A person is speaking directly to the camera, possibly sharing information or giving a review.",
+      "location": "Indoor, likely a room or studio setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly sharing information or giving a review.\n2. **Location**: Indoor, likely a room or studio setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, window blinds, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 943.4631244763303,
+      "timestamp_formatted": "0:15:43",
+      "activity": "A person is speaking directly to the camera, likely explaining or discussing a topic.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely explaining or discussing a topic.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person in a striped sweater\n   - White walls\n   - Window blinds\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 944.4500105897993,
+      "timestamp_formatted": "0:15:44",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor, likely a personal room or studio.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor, likely a personal room or studio.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: Person, striped sweater, rings, window blinds, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 949.3844411571441,
+      "timestamp_formatted": "0:15:49",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, possibly a home or studio setting.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, possibly a home or studio setting.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person in a striped sweater, light-colored walls, window blinds, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 950.371327270613,
+      "timestamp_formatted": "0:15:50",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Intimate and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Intimate and conversational.\n4. **Key Elements**: \n   - Person wearing a striped sweater\n   - White and gray blinds in the background\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1043.1386219366957,
+      "timestamp_formatted": "0:17:23",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or vlog-style presentation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person speaking\n   - White and striped sweater\n   - Blinds or window covering in the background\n   - Neutral-colored walls\n5. **Scene Type**: Dialogue or vlog-style presentation."
+    },
+    {
+      "timestamp": 1059.9156858656681,
+      "timestamp_formatted": "0:17:39",
+      "activity": "A person is speaking or thinking, possibly addressing a camera.",
+      "location": "Indoor, likely a room with plain walls.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Dialogue or monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking or thinking, possibly addressing a camera.\n2. **Location**: Indoor, likely a room with plain walls.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: Person in a striped sweater, plain wall, window blinds.\n5. **Scene Type**: Dialogue or monologue."
+    },
+    {
+      "timestamp": 1076.6927497946406,
+      "timestamp_formatted": "0:17:56",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "The atmosphere appears calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: The atmosphere appears calm and focused.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Neutral-colored walls\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 1083.6009525889233,
+      "timestamp_formatted": "0:18:03",
+      "activity": "A person is speaking directly to the camera, possibly sharing a personal story or information.",
+      "location": "Indoor, likely a room with a plain background.",
+      "mood": "Intimate and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly sharing a personal story or information.\n2. **Location**: Indoor, likely a room with a plain background.\n3. **Mood**: Intimate and conversational.\n4. **Key Elements**: Person, striped sweater, plain wall, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1091.4960414966752,
+      "timestamp_formatted": "0:18:11",
+      "activity": "A person is speaking directly to the camera, possibly sharing thoughts or experiences.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly sharing thoughts or experiences.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: \n   - Person seated\n   - Striped sweater\n   - White wall background\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1121.102624900744,
+      "timestamp_formatted": "0:18:41",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person speaking, striped sweater, white wall, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1131.9583721489025,
+      "timestamp_formatted": "0:18:51",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor, likely a room with a plain background.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor, likely a room with a plain background.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person speaking, striped sweater, plain wall, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1142.8141193970612,
+      "timestamp_formatted": "0:19:02",
+      "activity": "A person is speaking directly to the camera, possibly giving a review or commentary.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "The atmosphere is casual and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly giving a review or commentary.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: The atmosphere is casual and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - White wall background\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1149.722322191344,
+      "timestamp_formatted": "0:19:09",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor setting, possibly a home or studio.",
+      "mood": "The atmosphere is calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor setting, possibly a home or studio.\n3. **Mood**: The atmosphere is calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - White wall background\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/Monologue"
+    },
+    {
+      "timestamp": 1160.5780694395025,
+      "timestamp_formatted": "0:19:20",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or personal message.",
+      "location": "Indoor setting, likely a room with plain walls.",
+      "mood": "Calm and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal message.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal message.\n2. **Location**: Indoor setting, likely a room with plain walls.\n3. **Mood**: Calm and friendly.\n4. **Key Elements**: \n   - Person with clasped hands\n   - Striped sweater\n   - Plain wall background\n5. **Scene Type**: Dialogue or personal message."
+    },
+    {
+      "timestamp": 1172.4207028011301,
+      "timestamp_formatted": "0:19:32",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or personal message.",
+      "location": "Indoor setting, possibly a room or studio.",
+      "mood": "Intimate and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or personal message.\n2. **Location**: Indoor setting, possibly a room or studio.\n3. **Mood**: Intimate and personal.\n4. **Key Elements**: Person speaking, striped sweater, plain wall, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1173.407588914599,
+      "timestamp_formatted": "0:19:33",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor setting, possibly a home or office.",
+      "mood": "Intimate and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor setting, possibly a home or office.\n3. **Mood**: Intimate and engaging.\n4. **Key Elements**: Person speaking, striped sweater, subtitles in Korean, neutral background.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1183.2764500492888,
+      "timestamp_formatted": "0:19:43",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: \n   - Person wearing a striped sweater\n   - White wall background\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1193.1453111839785,
+      "timestamp_formatted": "0:19:53",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor setting, likely a home or personal space.",
+      "mood": "The atmosphere is calm and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor setting, likely a home or personal space.\n3. **Mood**: The atmosphere is calm and personal.\n4. **Key Elements**: \n   - Person speaking\n   - Smartphone in hand\n   - White and striped sweater\n   - Blinds in the background\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1196.1059695243853,
+      "timestamp_formatted": "0:19:56",
+      "activity": "A person is speaking directly to the camera, possibly explaining or sharing a story.",
+      "location": "Indoor, likely a room or studio.",
+      "mood": "Intimate and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or sharing a story.\n2. **Location**: Indoor, likely a room or studio.\n3. **Mood**: Intimate and conversational.\n4. **Key Elements**: Person speaking, striped sweater, text overlay in Korean, light-colored wall.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1199.0666278647923,
+      "timestamp_formatted": "0:19:59",
+      "activity": "A person is looking at their phone and smiling, possibly engaged in a casual conversation or checking something amusing.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "The atmosphere is relaxed and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: A person is looking at their phone and smiling, possibly engaged in a casual conversation or checking something amusing.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: The atmosphere is relaxed and cheerful.\n4. **Key Elements**: \n   - Person holding a phone\n   - Striped shirt\n   - White walls\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 1200.0535139782612,
+      "timestamp_formatted": "0:20:00",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Person, striped sweater, light-colored wall, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1201.0404000917301,
+      "timestamp_formatted": "0:20:01",
+      "activity": "A person is speaking directly to the camera, possibly explaining or sharing a story.",
+      "location": "Indoor setting, likely a room or office.",
+      "mood": "The atmosphere is casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or sharing a story.\n2. **Location**: Indoor setting, likely a room or office.\n3. **Mood**: The atmosphere is casual and friendly.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Text overlay in Korean\n   - Light-colored walls\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 1202.027286205199,
+      "timestamp_formatted": "0:20:02",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely a room with plain walls.",
+      "mood": "The atmosphere is calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a room with plain walls.\n3. **Mood**: The atmosphere is calm and conversational.\n4. **Key Elements**: \n   - Person with dark hair\n   - Striped sweater\n   - Plain white wall\n   - Window blinds\n5. **Scene Type**: Dialogue/Monologue."
+    },
+    {
+      "timestamp": 1203.014172318668,
+      "timestamp_formatted": "0:20:03",
+      "activity": "A person is speaking directly to the camera, possibly addressing an audience or sharing information.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "The atmosphere appears calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Presentation",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience or sharing information.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: The atmosphere appears calm and engaging.\n4. **Key Elements**: \n   - Person speaking\n   - White wall background\n   - Text overlay in Korean\n   - Casual clothing\n5. **Scene Type**: Dialogue/Presentation"
+    },
+    {
+      "timestamp": 1209.922375112951,
+      "timestamp_formatted": "0:20:09",
+      "activity": "A person is speaking directly to the camera, possibly explaining or reviewing something.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Informal and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Presentation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Informal and engaging.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Pink object in hand\n   - White wall background\n5. **Scene Type**: Dialogue/Presentation."
+    },
+    {
+      "timestamp": 1211.8961473398888,
+      "timestamp_formatted": "0:20:11",
+      "activity": "A person is examining or using a small object, possibly a cosmetic or skincare product.",
+      "location": "Indoor, likely a room or personal space.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Personal moment.",
+      "raw_analysis": "1. **Activity**: A person is examining or using a small object, possibly a cosmetic or skincare product.\n2. **Location**: Indoor, likely a room or personal space.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, small bottle, rings, window blinds.\n5. **Scene Type**: Personal moment."
+    },
+    {
+      "timestamp": 1212.8830334533577,
+      "timestamp_formatted": "0:20:12",
+      "activity": "The scene shows a paused video on a smartphone screen, likely involving a review or discussion about items in a car.",
+      "location": "Indoor, inside a car.",
+      "mood": "Casual and observational.",
+      "key_elements": [],
+      "scene_type": "Dialogue or review.",
+      "raw_analysis": "1. **Activity**: The scene shows a paused video on a smartphone screen, likely involving a review or discussion about items in a car.\n2. **Location**: Indoor, inside a car.\n3. **Mood**: Casual and observational.\n4. **Key Elements**: Smartphone screen, paused video, shopping bag, car interior, subtitles in Korean.\n5. **Scene Type**: Dialogue or review."
+    },
+    {
+      "timestamp": 1214.8568056802956,
+      "timestamp_formatted": "0:20:14",
+      "activity": "Someone is watching a video on a smartphone.",
+      "location": "Indoor, likely a personal or casual setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or narrative explanation.",
+      "raw_analysis": "1. **Activity**: Someone is watching a video on a smartphone.\n2. **Location**: Indoor, likely a personal or casual setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Smartphone screen, video with subtitles, a blue bag, car interior.\n5. **Scene Type**: Dialogue or narrative explanation."
+    },
+    {
+      "timestamp": 1215.8436917937647,
+      "timestamp_formatted": "0:20:15",
+      "activity": "The scene shows a video being played on a smartphone, possibly a travel vlog or personal video.",
+      "location": "Indoor, likely inside a vehicle based on the visible seats and window.",
+      "mood": "Calm and reflective.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: The scene shows a video being played on a smartphone, possibly a travel vlog or personal video.\n2. **Location**: Indoor, likely inside a vehicle based on the visible seats and window.\n3. **Mood**: Calm and reflective.\n4. **Key Elements**: Smartphone screen, vehicle seats, window, text overlay on the video.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 1216.8305779072336,
+      "timestamp_formatted": "0:20:16",
+      "activity": "Someone is watching a video on a smartphone.",
+      "location": "Indoor, likely a personal or casual setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or commentary.",
+      "raw_analysis": "1. **Activity**: Someone is watching a video on a smartphone.\n2. **Location**: Indoor, likely a personal or casual setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Smartphone screen, video of a person in a vehicle, Korean subtitles.\n5. **Scene Type**: Dialogue or commentary."
+    },
+    {
+      "timestamp": 1217.8174640207026,
+      "timestamp_formatted": "0:20:17",
+      "activity": "A person is watching a video on a smartphone.",
+      "location": "Indoor, likely in a vehicle or a casual setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Viewing/interaction.",
+      "raw_analysis": "1. **Activity**: A person is watching a video on a smartphone.\n2. **Location**: Indoor, likely in a vehicle or a casual setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Smartphone screen, subtitles in Korean, car seats, hand holding the phone.\n5. **Scene Type**: Viewing/interaction."
+    },
+    {
+      "timestamp": 1218.8043501341715,
+      "timestamp_formatted": "0:20:18",
+      "activity": "A person is watching a video on a smartphone.",
+      "location": "Indoor, likely a personal or casual setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "\"Viewing/interaction with media\"",
+      "raw_analysis": "1. **Activity**: A person is watching a video on a smartphone.\n2. **Location**: Indoor, likely a personal or casual setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Smartphone, video content, subtitles, hand holding the phone.\n5. **Scene Type**: \"Viewing/interaction with media\""
+    },
+    {
+      "timestamp": 1219.7912362476404,
+      "timestamp_formatted": "0:20:19",
+      "activity": "A person is watching a video on a smartphone, showing a car interior and a cup holder.",
+      "location": "Indoor, likely inside a car.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "\"Product demonstration\" or \"informational video.\"",
+      "raw_analysis": "1. **Activity**: A person is watching a video on a smartphone, showing a car interior and a cup holder.\n2. **Location**: Indoor, likely inside a car.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Smartphone screen, car interior, cup holder, control panel, Korean text.\n5. **Scene Type**: \"Product demonstration\" or \"informational video.\""
+    },
+    {
+      "timestamp": 1220.7781223611094,
+      "timestamp_formatted": "0:20:20",
+      "activity": "A person is showcasing makeup products, possibly as part of a tutorial or review.",
+      "location": "Indoor, likely in a personal or casual setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: A person is showcasing makeup products, possibly as part of a tutorial or review.\n2. **Location**: Indoor, likely in a personal or casual setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Makeup palettes, a hand holding the products, a makeup bag, text overlay.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 1223.7387807015164,
+      "timestamp_formatted": "0:20:23",
+      "activity": "Someone is showcasing makeup products, likely as part of a beauty tutorial or review.",
+      "location": "Indoor, possibly in a car or small enclosed space.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: Someone is showcasing makeup products, likely as part of a beauty tutorial or review.\n2. **Location**: Indoor, possibly in a car or small enclosed space.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Makeup palette, makeup bag, hand holding the palette, text overlay.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 1224.7256668149853,
+      "timestamp_formatted": "0:20:24",
+      "activity": "A person is showcasing a makeup palette.",
+      "location": "Indoor, likely a personal space like a bedroom or bathroom.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is showcasing a makeup palette.\n2. **Location**: Indoor, likely a personal space like a bedroom or bathroom.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Makeup palette, makeup bag, hand, text overlay.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 1225.7125529284542,
+      "timestamp_formatted": "0:20:25",
+      "activity": "A person is holding and displaying a makeup palette.",
+      "location": "Indoor, possibly in a vehicle or a small enclosed space.",
+      "mood": "Casual and personal.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is holding and displaying a makeup palette.\n2. **Location**: Indoor, possibly in a vehicle or a small enclosed space.\n3. **Mood**: Casual and personal.\n4. **Key Elements**: Makeup palette, hand, text overlay, strap with a cartoon design.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 1228.6732112688612,
+      "timestamp_formatted": "0:20:28",
+      "activity": "Someone is examining or showcasing a makeup palette.",
+      "location": "Indoor, likely in a personal or professional setting.",
+      "mood": "Focused and informative.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: Someone is examining or showcasing a makeup palette.\n2. **Location**: Indoor, likely in a personal or professional setting.\n3. **Mood**: Focused and informative.\n4. **Key Elements**: Makeup palette, hand holding the palette, text overlay.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 1229.6600973823302,
+      "timestamp_formatted": "0:20:29",
+      "activity": "A person is holding up a book for display.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "\"Object closeup\"",
+      "raw_analysis": "1. **Activity**: A person is holding up a book for display.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book with illustrated cover, hand holding the book, dark background.\n5. **Scene Type**: \"Object closeup\""
+    },
+    {
+      "timestamp": 1233.607641836206,
+      "timestamp_formatted": "0:20:33",
+      "activity": "Someone is preparing or displaying sliced fish on a tray.",
+      "location": "Indoor, likely a kitchen or food preparation area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing or displaying sliced fish on a tray.\n2. **Location**: Indoor, likely a kitchen or food preparation area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Sliced fish, tray, hands, paper, container.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1234.594527949675,
+      "timestamp_formatted": "0:20:34",
+      "activity": "A person is arranging or picking food from a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is arranging or picking food from a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Plate of assorted food, hand reaching for food, wooden table, text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1238.5420724035507,
+      "timestamp_formatted": "0:20:38",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: Person speaking, striped shirt, white wall, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1259.266680786399,
+      "timestamp_formatted": "0:20:59",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Casual and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Casual and engaging.\n4. **Key Elements**: Person holding a smartphone, striped sweater, window blinds, subtitles in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1261.240453013337,
+      "timestamp_formatted": "0:21:01",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely a room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person speaking, striped sweater, white walls, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1289.860150303937,
+      "timestamp_formatted": "0:21:29",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, possibly in a home or office setting.",
+      "mood": "Casual and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, possibly in a home or office setting.\n3. **Mood**: Casual and conversational.\n4. **Key Elements**: Person wearing a striped sweater, smartphone, subtitles in Korean, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1298.7421253251578,
+      "timestamp_formatted": "0:21:38",
+      "activity": "A person is speaking, possibly explaining or reacting to something.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly explaining or reacting to something.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - White wall background\n   - Window blinds\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1317.492961481068,
+      "timestamp_formatted": "0:21:57",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Intimate and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Intimate and personal.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Text overlay at the bottom\n   - Blinds in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1318.479847594537,
+      "timestamp_formatted": "0:21:58",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely in a home or personal space.",
+      "mood": "Casual and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely in a home or personal space.\n3. **Mood**: Casual and conversational.\n4. **Key Elements**: \n   - Person holding a smartphone\n   - Striped sweater\n   - Neutral-colored wall\n   - Text overlay at the bottom\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1321.4405059349438,
+      "timestamp_formatted": "0:22:01",
+      "activity": "A person is gesturing for silence by placing a finger over their lips.",
+      "location": "Indoor, likely a room with plain walls.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal message.",
+      "raw_analysis": "1. **Activity**: A person is gesturing for silence by placing a finger over their lips.\n2. **Location**: Indoor, likely a room with plain walls.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, striped sweater, plain wall, window blinds.\n5. **Scene Type**: Dialogue or personal message."
+    },
+    {
+      "timestamp": 1344.13888654473,
+      "timestamp_formatted": "0:22:24",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely a room with plain walls.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a room with plain walls.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, striped sweater, plain wall, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1411.2471422606197,
+      "timestamp_formatted": "0:23:31",
+      "activity": "A person is speaking directly to the camera, possibly giving advice or sharing information.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Calm and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly giving advice or sharing information.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Calm and engaging.\n4. **Key Elements**: Person speaking, striped sweater, text overlay in Korean, window blinds.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1414.2078006010265,
+      "timestamp_formatted": "0:23:34",
+      "activity": "A person is speaking directly to the camera, possibly addressing an audience or recording a vlog.",
+      "location": "Indoor setting, likely a room or studio.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience or recording a vlog.\n2. **Location**: Indoor setting, likely a room or studio.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: Person with striped sweater, light-colored wall, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1416.1815728279644,
+      "timestamp_formatted": "0:23:36",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor setting, possibly a home or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor setting, possibly a home or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person in a striped sweater, white wall, window blinds, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1420.1291172818403,
+      "timestamp_formatted": "0:23:40",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a video message.",
+      "location": "Indoor, likely a room or an office.",
+      "mood": "The atmosphere is calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a video message.\n2. **Location**: Indoor, likely a room or an office.\n3. **Mood**: The atmosphere is calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Striped sweater\n   - Plain wall background\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 1423.0897756222473,
+      "timestamp_formatted": "0:23:43",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor setting, possibly a home or office.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor setting, possibly a home or office.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: Person speaking, striped sweater, white wall, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1430.984864529999,
+      "timestamp_formatted": "0:23:50",
+      "activity": "A person is waving and speaking directly to the camera, likely concluding a video.",
+      "location": "Indoor, possibly a home or studio setting.",
+      "mood": "Friendly and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Outro.",
+      "raw_analysis": "1. **Activity**: A person is waving and speaking directly to the camera, likely concluding a video.\n2. **Location**: Indoor, possibly a home or studio setting.\n3. **Mood**: Friendly and cheerful.\n4. **Key Elements**: Person waving, striped sweater, light-colored wall, text overlay.\n5. **Scene Type**: Dialogue/Outro."
+    },
+    {
+      "timestamp": 1434.932408983875,
+      "timestamp_formatted": "0:23:54",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or a message.",
+      "location": "Indoor, possibly in a home or personal space.",
+      "mood": "Friendly and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or a message.\n2. **Location**: Indoor, possibly in a home or personal space.\n3. **Mood**: Friendly and cheerful.\n4. **Key Elements**: Person smiling, striped shirt, subtitles in Korean, plain wall.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1435.9192950973438,
+      "timestamp_formatted": "0:23:55",
+      "activity": "The scene appears to be the end of a video, with a thank you message displayed.",
+      "location": "This is a digital screen, likely the closing frame of a video.",
+      "mood": "The atmosphere is appreciative and positive.",
+      "key_elements": [],
+      "scene_type": "Closing credits/thank you message.",
+      "raw_analysis": "1. **Activity**: The scene appears to be the end of a video, with a thank you message displayed.\n2. **Location**: This is a digital screen, likely the closing frame of a video.\n3. **Mood**: The atmosphere is appreciative and positive.\n4. **Key Elements**: \n   - Black background\n   - Korean text thanking viewers\n5. **Scene Type**: Closing credits/thank you message."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Dialogue.",
+        92
+      ],
+      [
+        "Tutorial or demonstration.",
+        14
+      ],
+      [
+        "Dialogue/monologue.",
+        13
+      ],
+      [
+        "Demonstration.",
+        8
+      ],
+      [
+        "Demonstration/tutorial.",
+        7
+      ]
+    ],
+    "locations": [
+      "Indoor, likely in a personal or home setting.",
+      "Indoor, likely a room or office.",
+      "Indoor setting, likely a room or office.",
+      "Indoor, likely a home or office setting.",
+      "Indoor, likely a home or studio setting.",
+      "Indoor setting, likely a home or office.",
+      "Indoor setting, likely a room or studio.",
+      "Indoor, likely a personal or office setting.",
+      "Indoor, likely in a home or office setting.",
+      "Indoor, possibly a home or office setting."
+    ],
+    "dominant_moods": [
+      [
+        "Informative and casual.",
+        47
+      ],
+      [
+        "Calm and focused.",
+        27
+      ],
+      [
+        "Calm and conversational.",
+        21
+      ],
+      [
+        "Informative and focused.",
+        14
+      ],
+      [
+        "Informal and engaging.",
+        13
+      ]
+    ]
+  }
+}

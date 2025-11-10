@@ -1,0 +1,132 @@
+{
+  "template_name": "Cafe Vlog with Beverage and Food Preparation",
+  "category": "food",
+  "structure": {
+    "opening": {
+      "duration_seconds": 5,
+      "description": "The video opens with a person setting up equipment in a café or restaurant kitchen.",
+      "key_elements": [
+        "Establishing shot",
+        "Calm and focused mood",
+        "Kitchen equipment"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1213,
+      "description": "The main content consists of various scenes of beverage and food preparation, interactions, and casual moments in a café setting.",
+      "segments": [
+        {
+          "type": "beverage preparation",
+          "description": "A person is preparing drinks, often involving coffee machines and blenders, in a café setting.",
+          "typical_duration": 300,
+          "scene_activity": "Preparing coffee and other beverages",
+          "location": "Indoor, in a café or coffee shop",
+          "mood": "Professional and focused"
+        },
+        {
+          "type": "food preparation",
+          "description": "Scenes of food preparation, including handling dough, wrapping sandwiches, and using kitchen equipment.",
+          "typical_duration": 200,
+          "scene_activity": "Preparing and handling food items",
+          "location": "Indoor, in a café or kitchen setting",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "interaction",
+          "description": "Casual interactions and dialogues, often with staff members engaging with the camera or customers.",
+          "typical_duration": 150,
+          "scene_activity": "Interacting with customers or the camera",
+          "location": "Indoor, in a café or shop setting",
+          "mood": "Casual and friendly"
+        },
+        {
+          "type": "establishing shots",
+          "description": "Shots showing the café setup, including equipment and prepared drinks.",
+          "typical_duration": 100,
+          "scene_activity": "Displaying café environment",
+          "location": "Indoor, in a café or coffee shop",
+          "mood": "Calm and organized"
+        },
+        {
+          "type": "transition scenes",
+          "description": "Scenes involving camera adjustments or setup changes, often with casual interactions.",
+          "typical_duration": 100,
+          "scene_activity": "Adjusting camera or transitioning between scenes",
+          "location": "Indoor, in a café or kitchen setting",
+          "mood": "Casual and informal"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 25,
+      "description": "The video closes with a playful interaction and a person waving at the camera.",
+      "key_elements": [
+        "Playful and friendly mood",
+        "Casual interaction",
+        "Ending shot"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#463b3d",
+      "#9f8f85",
+      "#18121d"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.7,
+    "scene_changes": 455,
+    "camera_work": [
+      "Handheld",
+      "Close-ups",
+      "Establishing shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Explaining and interacting"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean subtitles",
+      "content_type": "Emotional descriptions and instructions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Beverage Preparation Focus",
+      "description": "Frequent scenes of preparing various beverages, especially coffee, using different equipment.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Casual Interactions",
+      "description": "Casual and friendly interactions with the camera or customers, often with a relaxed tone.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Café promotional content",
+    "Beverage preparation tutorials"
+  ]
+}

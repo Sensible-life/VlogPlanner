@@ -1,0 +1,133 @@
+{
+  "template_name": "Korean Travel Vlog in Bali",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "The vlogger introduces the trip to Bali, showcasing excitement and preparation for the journey.",
+      "key_elements": [
+        "Introduction to Bali trip",
+        "Packing and preparation",
+        "Excitement for travel"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1080,
+      "description": "The main content covers various activities and experiences in Bali, including exploring local cafes, trying local food, and shopping.",
+      "segments": [
+        {
+          "type": "travel preparation",
+          "description": "Packing and discussing travel essentials for the Bali trip.",
+          "typical_duration": 180,
+          "scene_activity": "Packing and preparation",
+          "location": "Home",
+          "mood": "Excited"
+        },
+        {
+          "type": "flight and arrival",
+          "description": "Traveling to Bali and arriving at the destination.",
+          "typical_duration": 120,
+          "scene_activity": "Flight and arrival",
+          "location": "Airport and Bali",
+          "mood": "Anticipatory"
+        },
+        {
+          "type": "local exploration",
+          "description": "Exploring local cafes and trying local food in Bali.",
+          "typical_duration": 300,
+          "scene_activity": "Cafes and food tasting",
+          "location": "Bali cafes",
+          "mood": "Curious"
+        },
+        {
+          "type": "shopping experience",
+          "description": "Shopping for local goods and souvenirs in Bali.",
+          "typical_duration": 180,
+          "scene_activity": "Shopping",
+          "location": "Local markets",
+          "mood": "Joyful"
+        },
+        {
+          "type": "evening relaxation",
+          "description": "Relaxing in the evening and reflecting on the day's activities.",
+          "typical_duration": 300,
+          "scene_activity": "Relaxation and reflection",
+          "location": "Hotel",
+          "mood": "Content"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 288,
+      "description": "The vlogger wraps up the trip, sharing final thoughts and farewells.",
+      "key_elements": [
+        "Reflection on the trip",
+        "Farewell to viewers",
+        "Final thoughts"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#201b19",
+      "#d1d2ce",
+      "#887766",
+      "#aca59a",
+      "#594a40"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.932,
+    "scene_changes": 708,
+    "camera_work": [
+      "handheld",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional translations and highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Travel and Exploration",
+      "description": "Frequent exploration of new locations and experiences",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food Tasting",
+      "description": "Trying and reviewing local food and beverages",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

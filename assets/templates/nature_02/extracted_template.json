@@ -1,0 +1,159 @@
+{
+  "template_name": "Camping Adventure with Culinary Delights",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 12,
+      "description": "Introduction to a camping scene with serene natural surroundings.",
+      "key_elements": [
+        "camping setup",
+        "natural scenery",
+        "calm atmosphere"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2098,
+      "description": "A detailed exploration of camping activities, culinary preparations, and scenic views.",
+      "segments": [
+        {
+          "type": "camping setup",
+          "description": "Setting up tents and camping gear in a scenic outdoor location.",
+          "typical_duration": 180,
+          "scene_activity": "Setting up tents and camping gear.",
+          "location": "Outdoor, campsite",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "food preparation",
+          "description": "Preparing and cooking meals using a portable stove, featuring U.S. pork.",
+          "typical_duration": 300,
+          "scene_activity": "Cooking and preparing meals.",
+          "location": "Outdoor, campsite",
+          "mood": "Relaxed and casual"
+        },
+        {
+          "type": "dialogue",
+          "description": "Conversational segments where the host discusses the camping experience and culinary tips.",
+          "typical_duration": 240,
+          "scene_activity": "Speaking to the camera about the experience.",
+          "location": "Indoor, inside a tent",
+          "mood": "Calm and engaging"
+        },
+        {
+          "type": "travel montage",
+          "description": "Scenes of driving through rural roads and scenic landscapes.",
+          "typical_duration": 150,
+          "scene_activity": "Driving through scenic routes.",
+          "location": "Outdoor, rural roads",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "establishing shot",
+          "description": "Wide shots of the natural environment and campsite.",
+          "typical_duration": 200,
+          "scene_activity": "Displaying the natural surroundings.",
+          "location": "Outdoor, natural setting",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "intimate dining moment",
+          "description": "Enjoying meals at the campsite with a cozy setup.",
+          "typical_duration": 120,
+          "scene_activity": "Dining and toasting at the campsite.",
+          "location": "Outdoor, campsite",
+          "mood": "Relaxed and intimate"
+        },
+        {
+          "type": "food closeup",
+          "description": "Close-up shots of prepared dishes featuring U.S. pork.",
+          "typical_duration": 150,
+          "scene_activity": "Showcasing prepared meals.",
+          "location": "Outdoor, campsite",
+          "mood": "Inviting and appetizing"
+        },
+        {
+          "type": "transition",
+          "description": "Scenes transitioning between different activities and locations.",
+          "typical_duration": 100,
+          "scene_activity": "Transitioning between scenes.",
+          "location": "Various outdoor settings",
+          "mood": "Calm and reflective"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 12,
+      "description": "Concluding the camping vlog with a thank you message.",
+      "key_elements": [
+        "thank you message",
+        "calm and reflective mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#d5d4d7",
+      "#1e1b18",
+      "#79756d"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 11.0,
+    "scene_changes": 193,
+    "camera_work": [
+      "steady shots",
+      "aerial views"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and engaging",
+      "content_type": "Explaining and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Descriptions and instructions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Establishing shots",
+      "description": "Frequent use of wide shots to set the scene and mood.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food preparation",
+      "description": "Detailed focus on cooking and food presentation.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Dialogue with audience",
+      "description": "Direct engagement with the audience through conversational dialogue.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel vlogs",
+    "Culinary showcases"
+  ]
+}

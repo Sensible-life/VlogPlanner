@@ -1,0 +1,146 @@
+{
+  "template_name": "Vietnam Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "Introduction to the trip, packing, and heading to the airport.",
+      "key_elements": [
+        "introduction",
+        "packing",
+        "airport departure"
+      ]
+    },
+    "body": {
+      "duration_seconds": 958,
+      "description": "Exploration of Vietnam including hotel tour, local food tasting, shopping, and cultural experiences.",
+      "segments": [
+        {
+          "type": "hotel tour",
+          "description": "Tour of the hotel room, showcasing amenities and views.",
+          "typical_duration": 120,
+          "scene_activity": "Touring the hotel room and amenities.",
+          "location": "Indoor, hotel room",
+          "mood": "Calm and inviting"
+        },
+        {
+          "type": "food tasting",
+          "description": "Tasting local Vietnamese food and coffee.",
+          "typical_duration": 180,
+          "scene_activity": "Eating and reviewing local dishes and coffee.",
+          "location": "Indoor, various restaurants and cafes",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "shopping experience",
+          "description": "Browsing and purchasing clothes and souvenirs.",
+          "typical_duration": 150,
+          "scene_activity": "Shopping for clothes and souvenirs.",
+          "location": "Indoor, clothing stores and markets",
+          "mood": "Casual and focused"
+        },
+        {
+          "type": "cultural exploration",
+          "description": "Visiting historical sites and capturing cityscapes.",
+          "typical_duration": 180,
+          "scene_activity": "Exploring historical buildings and city views.",
+          "location": "Outdoor, city streets and landmarks",
+          "mood": "Calm and historical"
+        },
+        {
+          "type": "personal moments",
+          "description": "Selfie moments and personal reflections.",
+          "typical_duration": 120,
+          "scene_activity": "Taking selfies and reflecting on experiences.",
+          "location": "Various locations",
+          "mood": "Casual and personal"
+        },
+        {
+          "type": "interaction with locals",
+          "description": "Engaging with local people and vendors.",
+          "typical_duration": 120,
+          "scene_activity": "Conversing with locals and vendors.",
+          "location": "Outdoor, markets and streets",
+          "mood": "Casual and lively"
+        },
+        {
+          "type": "nightlife experience",
+          "description": "Experiencing the local nightlife and dining.",
+          "typical_duration": 86,
+          "scene_activity": "Dining and socializing in the evening.",
+          "location": "Indoor, restaurants and bars",
+          "mood": "Lively and social"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "Wrapping up the trip with final thoughts and farewells.",
+      "key_elements": [
+        "farewell",
+        "final thoughts"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#543d39",
+      "#b8bdbc",
+      "#1d1617"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.1,
+    "scene_changes": 505,
+    "camera_work": [
+      "handheld",
+      "selfie"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Sharing experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Informative captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Selfie moments",
+      "description": "Frequent selfies and personal reflections throughout the vlog.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food closeups",
+      "description": "Detailed shots of local dishes and drinks.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

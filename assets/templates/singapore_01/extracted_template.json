@@ -1,0 +1,128 @@
+{
+  "template_name": "Korean Travel Vlog in Singapore",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "Introduction with casual conversation and setting the mood for the travel vlog.",
+      "key_elements": [
+        "Conversational speech",
+        "Setting the scene",
+        "Casual introduction"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1020,
+      "description": "Exploration of Singapore with various activities and experiences.",
+      "segments": [
+        {
+          "type": "hotel exploration",
+          "description": "Exploring the hotel amenities and discussing the lack of certain facilities like a refrigerator.",
+          "typical_duration": 180,
+          "scene_activity": "Exploring hotel amenities",
+          "location": "Hotel",
+          "mood": "Casual and observational"
+        },
+        {
+          "type": "city exploration",
+          "description": "Walking through the city, experiencing the local atmosphere and discussing the surroundings.",
+          "typical_duration": 240,
+          "scene_activity": "Walking and observing city life",
+          "location": "City streets",
+          "mood": "Curious and engaged"
+        },
+        {
+          "type": "food tasting",
+          "description": "Trying local food and sharing reactions to the taste and presentation.",
+          "typical_duration": 300,
+          "scene_activity": "Tasting and reviewing food",
+          "location": "Local eateries",
+          "mood": "Enthusiastic and appreciative"
+        },
+        {
+          "type": "shopping experience",
+          "description": "Visiting shops and discussing purchases or interesting finds.",
+          "typical_duration": 180,
+          "scene_activity": "Shopping and browsing",
+          "location": "Shopping areas",
+          "mood": "Excited and exploratory"
+        },
+        {
+          "type": "cultural observation",
+          "description": "Observing cultural landmarks and sharing insights or personal reflections.",
+          "typical_duration": 120,
+          "scene_activity": "Observing cultural sites",
+          "location": "Cultural landmarks",
+          "mood": "Reflective and informative"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 307,
+      "description": "Wrapping up the day with final thoughts and a look back at the day's experiences.",
+      "key_elements": [
+        "Final reflections",
+        "Goodbye message",
+        "Encouragement to like and subscribe"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#4d3e3d",
+      "#b2a398",
+      "#181214",
+      "#dddcd9",
+      "#836d66"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.639156378600823,
+    "scene_changes": 810,
+    "camera_work": [
+      "Handheld",
+      "POV shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Sharing experiences and observations"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional translations or highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Conversational Exploration",
+      "description": "Frequent casual conversations while exploring different locations.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

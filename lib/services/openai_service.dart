@@ -261,6 +261,8 @@ class OpenAIService {
     required String vibe,
     required int durationSec,
     Map<String, dynamic>? contextData, // 추가 컨텍스트 데이터
+    int? sceneIndex, // 씬 인덱스 (0부터 시작)
+    int? totalScenes, // 전체 씬 개수
   }) async {
     try {
       // Few-shot 예시 찾기
@@ -278,6 +280,8 @@ class OpenAIService {
         durationSec: durationSec,
         contextData: contextData,
         fewShotExample: fewShotExample,
+        sceneIndex: sceneIndex,
+        totalScenes: totalScenes,
       );
 
       print('[OPENAI_API] Script 생성 중: $sceneLocation');
@@ -428,10 +432,44 @@ class OpenAIService {
     required int durationSec,
     Map<String, dynamic>? contextData, // 추가 컨텍스트 데이터
     String? fewShotExample, // Few-shot 예시
+    int? sceneIndex, // 씬 인덱스 (0부터 시작)
+    int? totalScenes, // 전체 씬 개수
   }) {
     // 시간에 따른 대사 줄 수 계산 (1줄 = 약 3-4초)
     final minLines = (durationSec / 4).floor();
     final maxLines = ((durationSec / 3) * 1.2).ceil(); // 약간 여유있게
+    
+    // 첫 번째 씬인지, 마지막 씬인지 판단
+    final isFirstScene = sceneIndex != null && sceneIndex == 0;
+    final isLastScene = sceneIndex != null && totalScenes != null && sceneIndex == totalScenes - 1;
+    
+    // 씬 타입에 따른 안내
+    String sceneTypeGuide = '';
+    if (isFirstScene) {
+      sceneTypeGuide = '''
+
+**[중요] 이것은 브이로그의 첫 번째 씬입니다**
+- 브이로그 시작 인사와 오프닝을 포함하세요
+- 예: "안녕하세요~", "오늘은...", "여러분 안녕~" 등
+- 오늘 무엇을 할 것인지 간단히 소개하세요
+''';
+    } else if (isLastScene) {
+      sceneTypeGuide = '''
+
+**[중요] 이것은 브이로그의 마지막 씬입니다**
+- 브이로그 마무리와 엔딩 멘트를 포함하세요
+- 예: "오늘 영상 재밌게 보셨나요?", "구독과 좋아요 부탁드려요~", "다음에 또 만나요!" 등
+- 전체 경험을 간단히 회고하고 마무리하세요
+''';
+    } else {
+      sceneTypeGuide = '''
+
+**[중요] 이것은 브이로그의 중간 씬입니다 (씬 ${(sceneIndex ?? 0) + 1}/${totalScenes ?? 1})**
+- 오프닝이나 엔딩 멘트 없이, 바로 이 씬의 내용으로 시작하세요
+- 이전 씬에서 자연스럽게 이어지는 느낌으로 작성하세요
+- 예: "자 그럼~", "이제...", "다음으로는..." 등의 자연스러운 전환으로 시작
+''';
+    }
 
     // Few-shot 예시가 있으면 포함
     String fewShotSection = '';
@@ -454,7 +492,8 @@ $fewShotExample
     return '''
 당신은 영화 시나리오 형태의 브이로그 대본(screenplay)을 작성하는 전문가입니다.
 실제 브이로거들의 자연스러운 말투를 학습하여, 생동감 있고 친근한 대본을 만들어주세요.
-$fewShotSection
+$fewShotSection$sceneTypeGuide
+
 [생성할 씬 정보]
 - 씬 제목: $sceneLocation
 - 내용: $sceneSummary

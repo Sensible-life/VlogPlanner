@@ -1,0 +1,153 @@
+{
+  "template_name": "Cozy Room Makeover Vlog",
+  "category": "personal_growth",
+  "structure": {
+    "opening": {
+      "duration_seconds": 10,
+      "description": "Introduction to the room makeover project, setting the stage for the transformation.",
+      "key_elements": [
+        "cluttered room",
+        "introduction to project"
+      ]
+    },
+    "body": {
+      "duration_seconds": 716,
+      "description": "Detailed walkthrough of the room makeover process, including cleaning, organizing, and decorating.",
+      "segments": [
+        {
+          "type": "Room Cleaning",
+          "description": "The vlogger cleans and organizes a cluttered room, preparing it for a makeover.",
+          "typical_duration": 60,
+          "scene_activity": "Cleaning and organizing",
+          "location": "Bedroom",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "Furniture Assembly",
+          "description": "Assembling and arranging furniture to fit the new room layout.",
+          "typical_duration": 120,
+          "scene_activity": "Assembling furniture",
+          "location": "Bedroom",
+          "mood": "Focused and practical"
+        },
+        {
+          "type": "Decorating",
+          "description": "Decorating the room with new curtains, bedding, and decorative items.",
+          "typical_duration": 90,
+          "scene_activity": "Decorating and arranging",
+          "location": "Bedroom",
+          "mood": "Cozy and playful"
+        },
+        {
+          "type": "Organizing Personal Items",
+          "description": "Organizing personal items and stationery on shelves and desks.",
+          "typical_duration": 90,
+          "scene_activity": "Organizing personal items",
+          "location": "Bedroom",
+          "mood": "Calm and organized"
+        },
+        {
+          "type": "Room Tour",
+          "description": "A tour of the newly organized and decorated room, showcasing the changes made.",
+          "typical_duration": 120,
+          "scene_activity": "Room tour and showcase",
+          "location": "Bedroom",
+          "mood": "Cozy and intimate"
+        },
+        {
+          "type": "Casual Interaction",
+          "description": "Casual interactions and commentary about the room makeover process.",
+          "typical_duration": 60,
+          "scene_activity": "Casual interaction",
+          "location": "Bedroom",
+          "mood": "Casual and informal"
+        },
+        {
+          "type": "Final Adjustments",
+          "description": "Making final adjustments and tweaks to the room setup.",
+          "typical_duration": 60,
+          "scene_activity": "Final adjustments",
+          "location": "Bedroom",
+          "mood": "Calm and satisfied"
+        },
+        {
+          "type": "Reflection",
+          "description": "Reflecting on the makeover process and the final result.",
+          "typical_duration": 60,
+          "scene_activity": "Reflection and commentary",
+          "location": "Bedroom",
+          "mood": "Reflective and content"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 10,
+      "description": "Conclusion of the room makeover vlog, with a final look at the transformed space.",
+      "key_elements": [
+        "final room tour",
+        "closing remarks"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#644e45",
+      "#dfd6d1",
+      "#bda799"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Fast",
+    "average_shot_length": 1.4,
+    "scene_changes": 512,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Explaining the makeover process and sharing personal thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Instructions and commentary"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Room Transformation",
+      "description": "Detailed step-by-step transformation of a personal space",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Personal Interaction",
+      "description": "Casual and personal interactions with the audience",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Room makeover inspiration",
+    "DIY home decor"
+  ]
+}

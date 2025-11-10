@@ -1,0 +1,3226 @@
+============================================================
+SCENE CONTEXT ANALYSIS
+============================================================
+
+Scene 1: 0:00:12
+----------------------------------------
+Activity: A camping scene is being depicted, likely setting up or relaxing in a tent.
+Location: Outdoor, in a natural setting with trees and mountains in the background.
+Mood: Calm and serene, with a cozy atmosphere.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A camping scene is being depicted, likely setting up or relaxing in a tent.
+2. **Location**: Outdoor, in a natural setting with trees and mountains in the background.
+3. **Mood**: Calm and serene, with a cozy atmosphere.
+4. **Key Elements**: Tent with light inside, trees, mountains, gravel ground, and string lights.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 2: 0:00:15
+----------------------------------------
+Activity: The scene is introducing a setting, likely for a camping or outdoor adventure.
+Location: Outdoor, in a rural or agricultural area with fields and distant hills.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene is introducing a setting, likely for a camping or outdoor adventure.
+2. **Location**: Outdoor, in a rural or agricultural area with fields and distant hills.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Fields, hills, blue sky with clouds, text overlay "Camping Sua."
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 3: 0:00:17
+----------------------------------------
+Activity: A person is preparing or setting up a camping stove inside a tent.
+Location: This is taking place outdoors, inside a tent.
+Mood: The atmosphere is calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is preparing or setting up a camping stove inside a tent.
+2. **Location**: This is taking place outdoors, inside a tent.
+3. **Mood**: The atmosphere is calm and cozy.
+4. **Key Elements**: 
+   - Camping stove
+   - Tent interior
+   - Mug
+   - Cutting board
+   - Person's hands
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 4: 0:00:20
+----------------------------------------
+Activity: A tent is set up in a scenic outdoor area, likely for camping.
+Location: Outdoor, in a natural setting with trees and mountains.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A tent is set up in a scenic outdoor area, likely for camping.
+2. **Location**: Outdoor, in a natural setting with trees and mountains.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent, trees, mountains, gravel area, text overlay "CAMPING SUA".
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 5: 0:00:22
+----------------------------------------
+Activity: A person is cooking pancakes on a portable stove.
+Location: Outdoor setting, likely at a campsite.
+Mood: Relaxed and casual.
+Type: Cooking/food preparation.
+
+Full Analysis:
+1. **Activity**: A person is cooking pancakes on a portable stove.
+2. **Location**: Outdoor setting, likely at a campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Portable stove, pancakes, cutting board, packaged food, tent interior.
+5. **Scene Type**: Cooking/food preparation.
+
+============================================================
+
+Scene 6: 0:00:24
+----------------------------------------
+Activity: A dog is standing in front of a camping tent.
+Location: Outdoor campsite in a natural setting with mountains in the background.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A dog is standing in front of a camping tent.
+2. **Location**: Outdoor campsite in a natural setting with mountains in the background.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Camping tent, dog, trees, gravel ground, mountains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 7: 0:00:26
+----------------------------------------
+Activity: A person is sitting inside a tent, possibly preparing or relaxing.
+Location: Indoor setting within a tent, likely at a campsite.
+Mood: Calm and relaxed.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is sitting inside a tent, possibly preparing or relaxing.
+2. **Location**: Indoor setting within a tent, likely at a campsite.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person sitting on a camping bed
+   - Tent interior
+   - Camping gear
+   - Gravel floor
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 8: 0:00:28
+----------------------------------------
+Activity: A person is using a torch to cook or finish a dish in a camping setting.
+Location: Outdoor, likely at a campsite inside a tent.
+Mood: Cozy and intimate.
+Type: Food preparation.
+
+Full Analysis:
+1. **Activity**: A person is using a torch to cook or finish a dish in a camping setting.
+2. **Location**: Outdoor, likely at a campsite inside a tent.
+3. **Mood**: Cozy and intimate.
+4. **Key Elements**: Cooking torch, pot with food, camping table, lantern, bottle.
+5. **Scene Type**: Food preparation.
+
+============================================================
+
+Scene 9: 0:00:29
+----------------------------------------
+Activity: The scene shows a campfire burning.
+Location: Outdoor, likely a campsite.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a campfire burning.
+2. **Location**: Outdoor, likely a campsite.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Campfire, dark background, text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 10: 0:00:33
+----------------------------------------
+Activity: The scene is introducing the title of a video or film.
+Location: Outdoor, likely in a rural or natural setting.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene is introducing the title of a video or film.
+2. **Location**: Outdoor, likely in a rural or natural setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sunrise or sunset, misty landscape, river, fields, title text "Camping Sua".
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 11: 0:00:35
+----------------------------------------
+Activity: A small dog is resting inside a tent, possibly during a camping trip.
+Location: Outdoor setting, inside a camping tent.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A small dog is resting inside a tent, possibly during a camping trip.
+2. **Location**: Outdoor setting, inside a camping tent.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Dog, sleeping bag, tent, small table, decorative item.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 12: 0:00:37
+----------------------------------------
+Activity: A person is sitting inside a tent, possibly preparing for or discussing a camping activity.
+Location: Indoor setting within a tent, likely at a campsite.
+Mood: Relaxed and casual.
+Type: Dialogue/Introduction.
+
+Full Analysis:
+1. **Activity**: A person is sitting inside a tent, possibly preparing for or discussing a camping activity.
+2. **Location**: Indoor setting within a tent, likely at a campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: 
+   - Person sitting on a chair
+   - Tent interior
+   - Camping gear (e.g., cooler, table)
+   - Text overlay "CAMPING SUA"
+   - Sign "AMERICAN GRILL and CHILL"
+5. **Scene Type**: Dialogue/Introduction.
+
+============================================================
+
+Scene 13: 0:00:40
+----------------------------------------
+Activity: The scene appears to be set up for a camping-themed event or activity.
+Location: Indoor, inside a tent.
+Mood: Relaxed and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be set up for a camping-themed event or activity.
+2. **Location**: Indoor, inside a tent.
+3. **Mood**: Relaxed and cozy.
+4. **Key Elements**: 
+   - Sign with "Camping Grill and Chill" text
+   - A small dog lying on a bed
+   - Plush toy or decoration
+   - Table with a hand visible
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 14: 0:00:43
+----------------------------------------
+Activity: The scene appears to be set up for a camping-themed grill and chill event.
+Location: Indoor, inside a tent.
+Mood: Relaxed and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be set up for a camping-themed grill and chill event.
+2. **Location**: Indoor, inside a tent.
+3. **Mood**: Relaxed and cozy.
+4. **Key Elements**: 
+   - Illuminated sign reading "American Grill and Chill"
+   - A dog resting on a bed
+   - Plush toy or decoration
+   - Camping gear
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 15: 0:00:49
+----------------------------------------
+Activity: A vehicle is parked or moving slowly on a road.
+Location: Outdoor, likely a rural or suburban roadside.
+Mood: Calm and neutral.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A vehicle is parked or moving slowly on a road.
+2. **Location**: Outdoor, likely a rural or suburban roadside.
+3. **Mood**: Calm and neutral.
+4. **Key Elements**: Orange truck, road, greenery, overcast sky, large text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 16: 0:00:50
+----------------------------------------
+Activity: A street sweeper truck is parked or moving along a road.
+Location: Outdoor, near a roadside with greenery and a bridge.
+Mood: Calm and routine.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A street sweeper truck is parked or moving along a road.
+2. **Location**: Outdoor, near a roadside with greenery and a bridge.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Orange street sweeper truck, greenery-covered hill, bridge, road.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 17: 0:00:51
+----------------------------------------
+Activity: A truck is driving past a road intersection.
+Location: Outdoor, near a tunnel or underpass.
+Mood: Calm and routine.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A truck is driving past a road intersection.
+2. **Location**: Outdoor, near a tunnel or underpass.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Orange truck, road sign, tunnel entrance, greenery, cloudy sky.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 18: 0:00:52
+----------------------------------------
+Activity: A vehicle is approaching or passing under a bridge.
+Location: Outdoor, near a road under a bridge.
+Mood: Calm and mundane.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A vehicle is approaching or passing under a bridge.
+2. **Location**: Outdoor, near a road under a bridge.
+3. **Mood**: Calm and mundane.
+4. **Key Elements**: Bridge, road, greenery, signage, cloudy sky.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 19: 0:00:53
+----------------------------------------
+Activity: A vehicle is driving under a bridge.
+Location: Outdoor, under a concrete bridge.
+Mood: Calm and mundane.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving under a bridge.
+2. **Location**: Outdoor, under a concrete bridge.
+3. **Mood**: Calm and mundane.
+4. **Key Elements**: Bridge, road, vehicle windshield, person walking, greenery.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 20: 0:00:54
+----------------------------------------
+Activity: A person is walking along a road under a bridge.
+Location: Outdoor, under a bridge near a parking area with buildings in the background.
+Mood: Calm and everyday.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is walking along a road under a bridge.
+2. **Location**: Outdoor, under a bridge near a parking area with buildings in the background.
+3. **Mood**: Calm and everyday.
+4. **Key Elements**: Bridge, person walking, parked cars, building with orange roof, trees.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 21: 0:00:55
+----------------------------------------
+Activity: A person is standing near a road under a bridge, possibly directing traffic or holding a sign.
+Location: Outdoor setting, near a roadside rest area or small commercial area.
+Mood: Calm and routine.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is standing near a road under a bridge, possibly directing traffic or holding a sign.
+2. **Location**: Outdoor setting, near a roadside rest area or small commercial area.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: 
+   - Person with a sign
+   - Road and vehicles
+   - Building with orange roof
+   - Trees and greenery
+   - Underpass structure
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 22: 0:00:56
+----------------------------------------
+Activity: A vehicle is approaching a parking area or entrance, with a person directing traffic.
+Location: Outdoor, near a building with a parking lot, surrounded by trees and hills.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A vehicle is approaching a parking area or entrance, with a person directing traffic.
+2. **Location**: Outdoor, near a building with a parking lot, surrounded by trees and hills.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Building with orange roof, parked cars, traffic director, trees, road signs.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 23: 0:00:57
+----------------------------------------
+Activity: A vehicle is approaching a rest area or parking lot.
+Location: Outdoor, near a roadside facility surrounded by trees and hills.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A vehicle is approaching a rest area or parking lot.
+2. **Location**: Outdoor, near a roadside facility surrounded by trees and hills.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Cars parked, a building with a triangular roof, road signs, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 24: 0:00:58
+----------------------------------------
+Activity: A vehicle is approaching an intersection or parking area.
+Location: Outdoor, near a parking lot surrounded by greenery and hills.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A vehicle is approaching an intersection or parking area.
+2. **Location**: Outdoor, near a parking lot surrounded by greenery and hills.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Cars parked, road signs, trees, hills, and a large map or signboard.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 25: 0:00:59
+----------------------------------------
+Activity: A vehicle is driving along a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Curving road, utility poles, trees, road signs, cloudy sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 26: 0:01:00
+----------------------------------------
+Activity: A vehicle is driving along a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Curved road, power lines, trees, cloudy sky, subtitles.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 27: 0:01:09
+----------------------------------------
+Activity: A vehicle is driving along a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, road sign, trees, guardrail, cloudy sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 28: 0:01:10
+----------------------------------------
+Activity: A vehicle is driving along a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road with yellow line, guardrail, power lines, trees, cloudy sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 29: 0:01:23
+----------------------------------------
+Activity: A vehicle is driving along a winding road.
+Location: Outdoor, rural road surrounded by greenery.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a winding road.
+2. **Location**: Outdoor, rural road surrounded by greenery.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, guardrail, trees, power lines, cloudy sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 30: 0:01:26
+----------------------------------------
+Activity: A vehicle is driving along a winding road.
+Location: Outdoor, rural road surrounded by trees.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a winding road.
+2. **Location**: Outdoor, rural road surrounded by trees.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Winding road, trees, guardrail, power lines.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 31: 0:01:27
+----------------------------------------
+Activity: A vehicle is driving along a winding road.
+Location: Outdoor, rural or forested area.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a winding road.
+2. **Location**: Outdoor, rural or forested area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Curved road, trees, guardrail, utility pole, overcast sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 32: 0:01:28
+----------------------------------------
+Activity: A vehicle is driving along a winding road.
+Location: Outdoor, rural road surrounded by trees and greenery.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a winding road.
+2. **Location**: Outdoor, rural road surrounded by trees and greenery.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, guardrail, trees, power lines, vehicle hood.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 33: 0:01:29
+----------------------------------------
+Activity: A vehicle is driving along a curved road.
+Location: Outdoor, on a rural or suburban road surrounded by trees.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a curved road.
+2. **Location**: Outdoor, on a rural or suburban road surrounded by trees.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Curved road, dense trees, road signs, overcast sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 34: 0:01:31
+----------------------------------------
+Activity: A vehicle is driving along a rural road.
+Location: Outdoor, on a countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a rural road.
+2. **Location**: Outdoor, on a countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Winding road, trees, power lines, overcast sky, vehicle hood.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 35: 0:01:32
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, trees, power lines, mountains, cloudy sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 36: 0:01:33
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, trees, power lines, distant hills, cloudy sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 37: 0:01:35
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, trees, power lines, cloudy sky, road signs.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 38: 0:01:39
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, trees, power lines, small building, overcast sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 39: 0:01:40
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road with fields and hills.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road with fields and hills.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, power lines, fields, hills, overcast sky.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 40: 0:01:49
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Winding road, utility poles, trees, cloudy sky.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 41: 0:01:52
+----------------------------------------
+Activity: A vehicle is approaching or parked near an entrance sign.
+Location: Outdoor, near a roadside or entrance to a facility.
+Mood: Calm and overcast.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A vehicle is approaching or parked near an entrance sign.
+2. **Location**: Outdoor, near a roadside or entrance to a facility.
+3. **Mood**: Calm and overcast.
+4. **Key Elements**: Entrance sign, trees, cloudy sky, gravel path, speed limit sign.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 42: 0:01:53
+----------------------------------------
+Activity: A vehicle is driving along a gravel road.
+Location: Outdoor, likely a rural or park area.
+Mood: Calm and serene.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a gravel road.
+2. **Location**: Outdoor, likely a rural or park area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Gravel road, trees, cloudy sky, speed limit sign.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 43: 0:01:54
+----------------------------------------
+Activity: A vehicle is driving along a curved road.
+Location: Outdoor, likely a park or countryside area.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving along a curved road.
+2. **Location**: Outdoor, likely a park or countryside area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Curved road, trees, cloudy sky, vehicle hood.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 44: 0:01:55
+----------------------------------------
+Activity: A person is sitting on a gravel path, possibly resting or contemplating.
+Location: Outdoor, in a rural or natural setting with mountains and trees.
+Mood: Calm and introspective.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is sitting on a gravel path, possibly resting or contemplating.
+2. **Location**: Outdoor, in a rural or natural setting with mountains and trees.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Person sitting, gravel path, trees, mountains, cloudy sky.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 45: 0:04:07
+----------------------------------------
+Activity: A person is setting up a tent.
+Location: Outdoor, likely a campsite or park.
+Mood: Calm and focused.
+Type: Action.
+
+Full Analysis:
+1. **Activity**: A person is setting up a tent.
+2. **Location**: Outdoor, likely a campsite or park.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tent, person, trees, gravel ground, mountains in the background.
+5. **Scene Type**: Action.
+
+============================================================
+
+Scene 46: 0:05:06
+----------------------------------------
+Activity: A person is setting up a folding chair inside a tent.
+Location: Outdoor camping area.
+Mood: Calm and practical.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up a folding chair inside a tent.
+2. **Location**: Outdoor camping area.
+3. **Mood**: Calm and practical.
+4. **Key Elements**: Tent, folding chair, gravel ground, person, car in the background.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 47: 0:05:09
+----------------------------------------
+Activity: A person is setting up a wooden table inside a tent.
+Location: Outdoor camping site, inside a tent.
+Mood: Calm and focused.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up a wooden table inside a tent.
+2. **Location**: Outdoor camping site, inside a tent.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tent, folding chair, wooden table, gravel ground, person wearing gloves.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 48: 0:05:11
+----------------------------------------
+Activity: The scene shows a setup of a small table or rack inside a tent.
+Location: This is taking place indoors, inside a tent.
+Mood: The atmosphere is calm and organized.
+Type: Establishing shot
+
+Full Analysis:
+1. **Activity**: The scene shows a setup of a small table or rack inside a tent.
+2. **Location**: This is taking place indoors, inside a tent.
+3. **Mood**: The atmosphere is calm and organized.
+4. **Key Elements**: 
+   - Tent interior
+   - Small metal table or rack
+   - Gravel floor
+5. **Scene Type**: Establishing shot
+
+============================================================
+
+Scene 49: 0:05:13
+----------------------------------------
+Activity: A person is installing or adjusting an air conditioning unit inside a tent.
+Location: Outdoor setting, inside a tent.
+Mood: Practical and focused.
+Type: Action.
+
+Full Analysis:
+1. **Activity**: A person is installing or adjusting an air conditioning unit inside a tent.
+2. **Location**: Outdoor setting, inside a tent.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Tent, air conditioning unit, person, gravel ground, metal shelf.
+5. **Scene Type**: Action.
+
+============================================================
+
+Scene 50: 0:05:15
+----------------------------------------
+Activity: A person is setting up or adjusting equipment inside a tent.
+Location: Indoor, inside a tent on a gravel surface.
+Mood: Practical and focused.
+Type: Setup or preparation scene.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting equipment inside a tent.
+2. **Location**: Indoor, inside a tent on a gravel surface.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Tent interior, portable heater or equipment, gravel floor, person wearing gloves.
+5. **Scene Type**: Setup or preparation scene.
+
+============================================================
+
+Scene 51: 0:05:17
+----------------------------------------
+Activity: A bed is being set up or arranged inside a tent.
+Location: Indoor setting within a tent, likely in a camping area.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A bed is being set up or arranged inside a tent.
+2. **Location**: Indoor setting within a tent, likely in a camping area.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: 
+   - Inflatable bed with "coody" branding
+   - Tent interior
+   - Blanket or fabric with red and white stripes
+   - Gravel floor
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 52: 0:05:18
+----------------------------------------
+Activity: A person is setting up or arranging a blanket on a mattress.
+Location: Indoor, inside a tent.
+Mood: Calm and casual.
+Type: Setup/transition.
+
+Full Analysis:
+1. **Activity**: A person is setting up or arranging a blanket on a mattress.
+2. **Location**: Indoor, inside a tent.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Mattress, blanket, tent, gravel floor, chair.
+5. **Scene Type**: Setup/transition.
+
+============================================================
+
+Scene 53: 0:05:19
+----------------------------------------
+Activity: A person is arranging blankets on an inflatable couch.
+Location: Outdoor setting, likely inside a tent or canopy.
+Mood: Calm and organized.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is arranging blankets on an inflatable couch.
+2. **Location**: Outdoor setting, likely inside a tent or canopy.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Inflatable couch, blankets, tent/canopy, gravel ground, person wearing white pants and sneakers.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 54: 0:05:22
+----------------------------------------
+Activity: A person is setting up or arranging a blanket on an inflatable couch.
+Location: Outdoor setting, likely a campsite or tent area.
+Mood: Calm and organized.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or arranging a blanket on an inflatable couch.
+2. **Location**: Outdoor setting, likely a campsite or tent area.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Inflatable couch, blanket, tent interior, gravel ground, person in casual clothing.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 55: 0:05:25
+----------------------------------------
+Activity: A person is setting up or adjusting a blanket on an inflatable mattress.
+Location: Outdoor setting, inside a tent.
+Mood: Calm and organized.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a blanket on an inflatable mattress.
+2. **Location**: Outdoor setting, inside a tent.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Inflatable mattress, red and white blanket, tent, gravel ground, person wearing gloves.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 56: 0:05:31
+----------------------------------------
+Activity: A person is setting up or adjusting a blanket on an inflatable mattress.
+Location: Outdoor setting, likely inside a tent.
+Mood: Casual and relaxed.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a blanket on an inflatable mattress.
+2. **Location**: Outdoor setting, likely inside a tent.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Inflatable mattress, striped blanket, tent interior, gravel ground, person in casual clothing.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 57: 0:05:32
+----------------------------------------
+Activity: A person is setting up or adjusting a bed inside a tent.
+Location: Outdoor camping site inside a tent.
+Mood: Calm and organized.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a bed inside a tent.
+2. **Location**: Outdoor camping site inside a tent.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Inflatable bed, striped blanket, tent interior, gravel ground, person adjusting the setup.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 58: 0:05:35
+----------------------------------------
+Activity: A person is setting up or adjusting a camping lantern on a portable metal shelf.
+Location: Outdoor, inside a tent.
+Mood: Practical and focused.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a camping lantern on a portable metal shelf.
+2. **Location**: Outdoor, inside a tent.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Camping lantern, metal shelf, mug labeled "Hiking Club," gloves, tent interior.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 59: 0:05:41
+----------------------------------------
+Activity: A small dog is eating from a bowl.
+Location: Indoor, inside a tent.
+Mood: Calm and cozy.
+Type: Pet moment.
+
+Full Analysis:
+1. **Activity**: A small dog is eating from a bowl.
+2. **Location**: Indoor, inside a tent.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Small dog, food bowl, colorful mat with cartoon designs, tent interior.
+5. **Scene Type**: Pet moment.
+
+============================================================
+
+Scene 60: 0:05:54
+----------------------------------------
+Activity: A camping setup is visible, likely for leisure or relaxation.
+Location: Outdoor campsite with tents on a gravel area.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A camping setup is visible, likely for leisure or relaxation.
+2. **Location**: Outdoor campsite with tents on a gravel area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, camping table, chairs, trees, gravel ground.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 61: 0:05:56
+----------------------------------------
+Activity: A tent is set up in a scenic outdoor area, likely for camping.
+Location: Outdoor, in a natural setting with trees and mountains in the background.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A tent is set up in a scenic outdoor area, likely for camping.
+2. **Location**: Outdoor, in a natural setting with trees and mountains in the background.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, trees, gravel path, mountains, camping chair.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 62: 0:06:09
+----------------------------------------
+Activity: A dog is standing outside near a tent.
+Location: Outdoor setting, likely a campsite.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A dog is standing outside near a tent.
+2. **Location**: Outdoor setting, likely a campsite.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Dog, tent, gravel path, trees, cloudy sky.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 63: 0:06:10
+----------------------------------------
+Activity: A dog is standing near a tent in a campsite.
+Location: Outdoor campsite in a natural setting with mountains in the background.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A dog is standing near a tent in a campsite.
+2. **Location**: Outdoor campsite in a natural setting with mountains in the background.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent, dog, trees, gravel ground, mountains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 64: 0:06:14
+----------------------------------------
+Activity: A dog is walking near a tent.
+Location: Outdoor campsite with a view of hills and trees.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A dog is walking near a tent.
+2. **Location**: Outdoor campsite with a view of hills and trees.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent, dog, trees, gravel ground, hills.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 65: 0:07:18
+----------------------------------------
+Activity: The scene shows an aerial view of a landscape, likely introducing a location.
+Location: Outdoor, rural area with mountains, a river, and fields.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an aerial view of a landscape, likely introducing a location.
+2. **Location**: Outdoor, rural area with mountains, a river, and fields.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, mountains, fields, road, text overlay with location details.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 66: 0:07:41
+----------------------------------------
+Activity: Someone is holding a boarding pass for a themed event or show.
+Location: Indoor setting, possibly an event or a promotional area.
+Mood: Promotional and engaging.
+Type: Promotional shot.
+
+Full Analysis:
+1. **Activity**: Someone is holding a boarding pass for a themed event or show.
+2. **Location**: Indoor setting, possibly an event or a promotional area.
+3. **Mood**: Promotional and engaging.
+4. **Key Elements**: Boarding pass, text "Episode 4", "American Meat Story", "Camping SUA", airplane graphic.
+5. **Scene Type**: Promotional shot.
+
+============================================================
+
+Scene 67: 0:07:44
+----------------------------------------
+Activity: A person is presenting or introducing something, holding up a card or ticket.
+Location: Indoor setting, likely inside a tent or camping setup.
+Mood: Casual and friendly.
+Type: Presentation/Introduction.
+
+Full Analysis:
+1. **Activity**: A person is presenting or introducing something, holding up a card or ticket.
+2. **Location**: Indoor setting, likely inside a tent or camping setup.
+3. **Mood**: Casual and friendly.
+4. **Key Elements**: 
+   - Person holding a card
+   - Tent interior
+   - "American Grill and Chill" sign
+   - Camping chair and table
+   - Drink with a straw
+5. **Scene Type**: Presentation/Introduction.
+
+============================================================
+
+Scene 68: 0:08:15
+----------------------------------------
+Activity: The scene shows a large American flag waving in the wind.
+Location: Outdoor, likely near a highway or rest area.
+Mood: Patriotic and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a large American flag waving in the wind.
+2. **Location**: Outdoor, likely near a highway or rest area.
+3. **Mood**: Patriotic and serene.
+4. **Key Elements**: American flag, highway, vehicles, trees, billboard.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 69: 0:08:17
+----------------------------------------
+Activity: This scene shows an aerial view of a cityscape.
+Location: Outdoor, urban area with a mix of skyscrapers and green spaces.
+Mood: Calm and expansive.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: This scene shows an aerial view of a cityscape.
+2. **Location**: Outdoor, urban area with a mix of skyscrapers and green spaces.
+3. **Mood**: Calm and expansive.
+4. **Key Elements**: Skyscrapers, park with baseball fields, residential buildings, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 70: 0:08:20
+----------------------------------------
+Activity: The scene captures a serene landscape, possibly for a nature documentary or travel video.
+Location: Outdoor, in a mountainous area with a forest of autumn-colored trees.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a serene landscape, possibly for a nature documentary or travel video.
+2. **Location**: Outdoor, in a mountainous area with a forest of autumn-colored trees.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Mountain, autumn trees, clouds, grassy field, path.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 71: 0:08:23
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+Location: Indoor setting, likely inside a tent or camping setup.
+Mood: Calm and relaxed.
+Type: Dialogue
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely inside a tent or camping setup.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person sitting on a chair
+   - Tent interior
+   - Camping gear (cooler, table)
+   - Sign with "AMERICAN GRILL and CHILL"
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue
+
+============================================================
+
+Scene 72: 0:08:47
+----------------------------------------
+Activity: A person is speaking to the camera while holding a plush toy.
+Location: Indoor setting, likely inside a tent.
+Mood: Casual and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking to the camera while holding a plush toy.
+2. **Location**: Indoor setting, likely inside a tent.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person holding a plush toy, tent interior, "American Grill and Chill" sign, small table with a cup.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 73: 0:09:07
+----------------------------------------
+Activity: The scene appears to involve a blend of outdoor landscape and a person, possibly indicating a reflective or narrative moment.
+Location: The setting is outdoors, likely in a rural or agricultural area with fields and mountains.
+Mood: The atmosphere is contemplative and serene.
+Type: Transition or reflective montage.
+
+Full Analysis:
+1. **Activity**: The scene appears to involve a blend of outdoor landscape and a person, possibly indicating a reflective or narrative moment.
+2. **Location**: The setting is outdoors, likely in a rural or agricultural area with fields and mountains.
+3. **Mood**: The atmosphere is contemplative and serene.
+4. **Key Elements**: 
+   - Agricultural fields
+   - Mountains
+   - A person’s face
+   - Blue sky with clouds
+   - Overlaid text or signage
+5. **Scene Type**: Transition or reflective montage.
+
+============================================================
+
+Scene 74: 0:09:12
+----------------------------------------
+Activity: A tent is set up in a natural setting, likely for camping.
+Location: Outdoor, in a scenic area with mountains and trees.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A tent is set up in a natural setting, likely for camping.
+2. **Location**: Outdoor, in a scenic area with mountains and trees.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, trees, mountains, gravel ground, cloudy sky.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 75: 0:09:15
+----------------------------------------
+Activity: The scene captures an aerial view of a rural landscape.
+Location: Outdoor, likely a countryside area with a river and farmland.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural landscape.
+2. **Location**: Outdoor, likely a countryside area with a river and farmland.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, farmland with crops, a building with a red roof, parking area with cars.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 76: 0:09:28
+----------------------------------------
+Activity: A person is speaking into a microphone, possibly recording or streaming content.
+Location: Indoor setting, possibly a tent or makeshift studio.
+Mood: Casual and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking into a microphone, possibly recording or streaming content.
+2. **Location**: Indoor setting, possibly a tent or makeshift studio.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person holding a microphone, small white dog, tent-like structure, shelving with items.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 77: 0:09:30
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or interview.
+Location: Indoor setting, likely a tent or temporary structure.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or interview.
+2. **Location**: Indoor setting, likely a tent or temporary structure.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person holding a microphone, small dog, tent-like structure, electronic equipment.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 78: 0:09:32
+----------------------------------------
+Activity: A person is speaking into a microphone, likely addressing an audience or recording a video.
+Location: Indoor setting, possibly a studio or a tent-like structure.
+Mood: Calm and focused.
+Type: Dialogue/Interview.
+
+Full Analysis:
+1. **Activity**: A person is speaking into a microphone, likely addressing an audience or recording a video.
+2. **Location**: Indoor setting, possibly a studio or a tent-like structure.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person holding a microphone
+   - Background equipment
+   - Text overlay in Korean
+   - Casual clothing
+5. **Scene Type**: Dialogue/Interview.
+
+============================================================
+
+Scene 79: 0:09:59
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+Location: Indoor setting, possibly a studio or a tent-like structure.
+Mood: Calm and focused.
+Type: Dialogue/Interview.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, possibly a studio or a tent-like structure.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person holding a microphone
+   - Tent-like structure in the background
+   - Couch with a dark blanket or jacket
+   - Metal equipment or instruments on the side
+5. **Scene Type**: Dialogue/Interview.
+
+============================================================
+
+Scene 80: 0:10:00
+----------------------------------------
+Activity: A person is speaking to the camera, possibly recording a vlog or interview.
+Location: Indoor, likely inside a tent or temporary structure.
+Mood: Intimate and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking to the camera, possibly recording a vlog or interview.
+2. **Location**: Indoor, likely inside a tent or temporary structure.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: 
+   - Person speaking
+   - Handheld microphone
+   - Kitchen or camping equipment in the background
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 81: 0:10:11
+----------------------------------------
+Activity: A person is speaking into a microphone, possibly recording or streaming content.
+Location: Indoor, likely a tent or temporary setup.
+Mood: Casual and engaging.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking into a microphone, possibly recording or streaming content.
+2. **Location**: Indoor, likely a tent or temporary setup.
+3. **Mood**: Casual and engaging.
+4. **Key Elements**: Person holding a microphone, tent structure, makeup or cosmetic items, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 82: 0:10:12
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or an interview.
+Location: Indoor setting, possibly a tent or a makeshift studio.
+Mood: The atmosphere is casual and engaging.
+Type: Dialogue
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or an interview.
+2. **Location**: Indoor setting, possibly a tent or a makeshift studio.
+3. **Mood**: The atmosphere is casual and engaging.
+4. **Key Elements**: 
+   - Person holding a microphone
+   - Tent-like structure in the background
+   - Couch or seating area with a blanket
+   - Makeup or personal items on a shelf
+5. **Scene Type**: Dialogue
+
+============================================================
+
+Scene 83: 0:10:29
+----------------------------------------
+Activity: A person is speaking, possibly explaining or sharing a story.
+Location: Indoor setting, likely inside a tent or similar structure.
+Mood: Calm and conversational.
+Type: Dialogue
+
+Full Analysis:
+1. **Activity**: A person is speaking, possibly explaining or sharing a story.
+2. **Location**: Indoor setting, likely inside a tent or similar structure.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person holding a microphone
+   - Tent interior
+   - Cooking or camping equipment in the background
+5. **Scene Type**: Dialogue
+
+============================================================
+
+Scene 84: 0:10:31
+----------------------------------------
+Activity: A person is speaking into a microphone, possibly recording or streaming.
+Location: Indoor setting, likely a tent or temporary structure.
+Mood: Intimate and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking into a microphone, possibly recording or streaming.
+2. **Location**: Indoor setting, likely a tent or temporary structure.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: Handheld microphone, person, tent interior, clothing, fluffy object (possibly a pet).
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 85: 0:11:42
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or interview.
+Location: Indoor setting, likely a tent or temporary structure.
+Mood: Calm and focused.
+Type: Dialogue/Interview.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or interview.
+2. **Location**: Indoor setting, likely a tent or temporary structure.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person holding a microphone
+   - Makeup or cosmetic items in the background
+   - Tent-like structure
+   - Casual clothing
+5. **Scene Type**: Dialogue/Interview.
+
+============================================================
+
+Scene 86: 0:11:58
+----------------------------------------
+Activity: A dish featuring U.S. pork is being presented or showcased.
+Location: Outdoor setting, possibly a patio or balcony.
+Mood: Calm and inviting.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: A dish featuring U.S. pork is being presented or showcased.
+2. **Location**: Outdoor setting, possibly a patio or balcony.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Plate of cooked pork, wooden table, U.S. pork label, glass with a red liquid.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 87: 0:12:11
+----------------------------------------
+Activity: A person is holding a smartphone, displaying the home screen with various app icons.
+Location: Indoor, possibly a casual setting like a café or living room.
+Mood: Relaxed and casual.
+Type: Close-up.
+
+Full Analysis:
+1. **Activity**: A person is holding a smartphone, displaying the home screen with various app icons.
+2. **Location**: Indoor, possibly a casual setting like a café or living room.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Smartphone with app icons, hand with painted nails, blurred background with a table and a cup.
+5. **Scene Type**: Close-up.
+
+============================================================
+
+Scene 88: 0:12:14
+----------------------------------------
+Activity: A person is holding a smartphone displaying the Homeplus app.
+Location: Indoor, possibly a café or casual setting.
+Mood: Casual and relaxed.
+Type: Product demonstration.
+
+Full Analysis:
+1. **Activity**: A person is holding a smartphone displaying the Homeplus app.
+2. **Location**: Indoor, possibly a café or casual setting.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Smartphone, Homeplus app logo, hand holding the phone, drink with a straw, wooden table.
+5. **Scene Type**: Product demonstration.
+
+============================================================
+
+Scene 89: 0:12:47
+----------------------------------------
+Activity: Someone is preparing to cook outdoors.
+Location: Outdoor setting, likely a campsite.
+Mood: Calm and relaxed.
+Type: Cooking preparation.
+
+Full Analysis:
+1. **Activity**: Someone is preparing to cook outdoors.
+2. **Location**: Outdoor setting, likely a campsite.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Cast iron pot, cutting board, packaged ingredients, portable stove, gravel ground.
+5. **Scene Type**: Cooking preparation.
+
+============================================================
+
+Scene 90: 0:14:03
+----------------------------------------
+Activity: Someone is cooking, placing a lid on a steaming pot.
+Location: Outdoor setting, likely a campsite inside a tent.
+Mood: Calm and cozy.
+Type: Cooking scene.
+
+Full Analysis:
+1. **Activity**: Someone is cooking, placing a lid on a steaming pot.
+2. **Location**: Outdoor setting, likely a campsite inside a tent.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Steaming pot, cutting board with vegetables, knife, soy sauce bottle, camping lantern.
+5. **Scene Type**: Cooking scene.
+
+============================================================
+
+Scene 91: 0:14:39
+----------------------------------------
+Activity: Someone is moving inside a tent, possibly setting up or organizing.
+Location: Outdoor, inside a camping tent.
+Mood: Casual and relaxed.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: Someone is moving inside a tent, possibly setting up or organizing.
+2. **Location**: Outdoor, inside a camping tent.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tent interior, bedding, a person, parked cars, trees.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 92: 0:14:40
+----------------------------------------
+Activity: A person is setting up or organizing items inside a tent.
+Location: Outdoor setting, inside a tent.
+Mood: Calm and casual.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is setting up or organizing items inside a tent.
+2. **Location**: Outdoor setting, inside a tent.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Tent interior, a small dog, bedding with cartoon designs, a person partially visible, parked cars outside.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 93: 0:14:50
+----------------------------------------
+Activity: A small dog is resting on a bed, surrounded by various items.
+Location: Outdoor setting, likely a campsite or backyard.
+Mood: Calm and relaxed.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A small dog is resting on a bed, surrounded by various items.
+2. **Location**: Outdoor setting, likely a campsite or backyard.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Inflatable bed, small dog, dog bowls, camping gear, gravel ground.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 94: 0:14:58
+----------------------------------------
+Activity: A person is setting up or organizing items inside a tent.
+Location: Indoor, inside a tent.
+Mood: Calm and focused.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is setting up or organizing items inside a tent.
+2. **Location**: Indoor, inside a tent.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Lantern, metal storage box, tent interior, person's arm.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 95: 0:15:07
+----------------------------------------
+Activity: The scene appears to be set up for a promotional or thematic display related to grilling.
+Location: Indoor setting, possibly inside a tent or a themed room.
+Mood: Relaxed and casual.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be set up for a promotional or thematic display related to grilling.
+2. **Location**: Indoor setting, possibly inside a tent or a themed room.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: 
+   - Sign with "American Grill and Chill"
+   - Small dog resting on a bed
+   - Plush toy on a side table
+   - Part of a hand visible
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 96: 0:15:14
+----------------------------------------
+Activity: A tent is set up with lights on inside, suggesting camping or outdoor relaxation.
+Location: Outdoor setting, likely a campsite or park.
+Mood: Calm and serene, with a cozy atmosphere.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A tent is set up with lights on inside, suggesting camping or outdoor relaxation.
+2. **Location**: Outdoor setting, likely a campsite or park.
+3. **Mood**: Calm and serene, with a cozy atmosphere.
+4. **Key Elements**: Tent, trees, gravel ground, interior lights, cloudy sky.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 97: 0:15:20
+----------------------------------------
+Activity: Someone is preparing to cook or serve a meal, possibly pouring a liquid into a small container.
+Location: Outdoor setting, likely in a tent or camping area.
+Mood: Calm and intimate, with a cozy atmosphere.
+Type: Cooking preparation.
+
+Full Analysis:
+1. **Activity**: Someone is preparing to cook or serve a meal, possibly pouring a liquid into a small container.
+2. **Location**: Outdoor setting, likely in a tent or camping area.
+3. **Mood**: Calm and intimate, with a cozy atmosphere.
+4. **Key Elements**: Cutting board, cooking pot, glass, bottle, and a small lamp.
+5. **Scene Type**: Cooking preparation.
+
+============================================================
+
+Scene 98: 0:15:36
+----------------------------------------
+Activity: A person is pouring a drink into a glass.
+Location: Indoor setting, possibly a kitchen or dining area.
+Mood: Intimate and focused.
+Type: Food preparation closeup.
+
+Full Analysis:
+1. **Activity**: A person is pouring a drink into a glass.
+2. **Location**: Indoor setting, possibly a kitchen or dining area.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: Wine glass, bottle, cutting board, tripod, U.S. Pork sign.
+5. **Scene Type**: Food preparation closeup.
+
+============================================================
+
+Scene 99: 0:15:44
+----------------------------------------
+Activity: Cooking is taking place, with a pot on a stove.
+Location: Outdoor setting, likely a patio or backyard.
+Mood: Calm and relaxed.
+Type: Cooking closeup.
+
+Full Analysis:
+1. **Activity**: Cooking is taking place, with a pot on a stove.
+2. **Location**: Outdoor setting, likely a patio or backyard.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Cast iron pot with wooden lid, cutting board, glass of wine, gravel ground.
+5. **Scene Type**: Cooking closeup.
+
+============================================================
+
+Scene 100: 0:15:50
+----------------------------------------
+Activity: Someone is cooking a dish in a pan.
+Location: Outdoor setting, possibly a campsite.
+Mood: Relaxed and casual.
+Type: Food preparation.
+
+Full Analysis:
+1. **Activity**: Someone is cooking a dish in a pan.
+2. **Location**: Outdoor setting, possibly a campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Cooking pan, food ingredients, wooden board, portable stove.
+5. **Scene Type**: Food preparation.
+
+============================================================
+
+Scene 101: 0:15:56
+----------------------------------------
+Activity: A person is enjoying a meal and holding up a drink, possibly making a toast or gesture towards the camera.
+Location: Outdoor setting, likely a campsite or backyard.
+Mood: Relaxed and intimate.
+Type: Intimate dining moment.
+
+Full Analysis:
+1. **Activity**: A person is enjoying a meal and holding up a drink, possibly making a toast or gesture towards the camera.
+2. **Location**: Outdoor setting, likely a campsite or backyard.
+3. **Mood**: Relaxed and intimate.
+4. **Key Elements**: Person sitting, a small table with food and drink, a decorative lamp, a sign reading "American Grill & Chill."
+5. **Scene Type**: Intimate dining moment.
+
+============================================================
+
+Scene 102: 0:18:05
+----------------------------------------
+Activity: A meal is being presented, likely for a food-related segment.
+Location: Outdoor setting, possibly a campsite or picnic area.
+Mood: Calm and inviting.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: A meal is being presented, likely for a food-related segment.
+2. **Location**: Outdoor setting, possibly a campsite or picnic area.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Plate of food, wooden table, small lantern, U.S. pork promotional card.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 103: 0:18:19
+----------------------------------------
+Activity: A dish featuring U.S. pork is being presented, likely for a culinary showcase or promotional purpose.
+Location: Outdoor setting, possibly a picnic or barbecue area.
+Mood: Inviting and appetizing.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: A dish featuring U.S. pork is being presented, likely for a culinary showcase or promotional purpose.
+2. **Location**: Outdoor setting, possibly a picnic or barbecue area.
+3. **Mood**: Inviting and appetizing.
+4. **Key Elements**: Plate of cooked pork, U.S. pork promotional card, wooden table, small lantern.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 104: 0:18:20
+----------------------------------------
+Activity: Cooking meat on a grill.
+Location: Outdoor setting, possibly a backyard or campsite.
+Mood: Relaxed and casual.
+Type: Cooking closeup.
+
+Full Analysis:
+1. **Activity**: Cooking meat on a grill.
+2. **Location**: Outdoor setting, possibly a backyard or campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Grill with meat, cutting board, knife, rocky ground.
+5. **Scene Type**: Cooking closeup.
+
+============================================================
+
+Scene 105: 0:18:21
+----------------------------------------
+Activity: Meat is being cooked on a grill.
+Location: Outdoor setting, likely a campsite or backyard.
+Mood: Cozy and inviting.
+Type: Food preparation.
+
+Full Analysis:
+1. **Activity**: Meat is being cooked on a grill.
+2. **Location**: Outdoor setting, likely a campsite or backyard.
+3. **Mood**: Cozy and inviting.
+4. **Key Elements**: Grill, cooking meat, cutting board, knife.
+5. **Scene Type**: Food preparation.
+
+============================================================
+
+Scene 106: 0:18:30
+----------------------------------------
+Activity: A person is cooking or grilling food on a portable stove.
+Location: Outdoor setting, likely a campsite.
+Mood: Cozy and relaxed.
+Type: Cooking/food preparation.
+
+Full Analysis:
+1. **Activity**: A person is cooking or grilling food on a portable stove.
+2. **Location**: Outdoor setting, likely a campsite.
+3. **Mood**: Cozy and relaxed.
+4. **Key Elements**: Portable stove with food, small lamp, person seated, food containers, drink bottle.
+5. **Scene Type**: Cooking/food preparation.
+
+============================================================
+
+Scene 107: 0:19:25
+----------------------------------------
+Activity: A tent is set up for camping at night.
+Location: Outdoor campsite.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A tent is set up for camping at night.
+2. **Location**: Outdoor campsite.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent, tree with string lights, two lanterns, night sky.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 108: 0:19:28
+----------------------------------------
+Activity: A person is setting up or adjusting a tent at night.
+Location: Outdoor campsite.
+Mood: Calm and cozy.
+Type: Camping setup.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent at night.
+2. **Location**: Outdoor campsite.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Tent, camping chair, table with drinks, string lights, person crouching.
+5. **Scene Type**: Camping setup.
+
+============================================================
+
+Scene 109: 0:19:51
+----------------------------------------
+Activity: A fire is burning, possibly for warmth or cooking.
+Location: Outdoor setting, likely a campsite or backyard.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A fire is burning, possibly for warmth or cooking.
+2. **Location**: Outdoor setting, likely a campsite or backyard.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Fire, metal grate, logs, darkness.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 110: 0:21:36
+----------------------------------------
+Activity: The scene shows a setup for outdoor cooking or camping.
+Location: Outdoor, likely a campsite.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a setup for outdoor cooking or camping.
+2. **Location**: Outdoor, likely a campsite.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Lantern, metal cooking setup, canned drink, mug, cooking utensils.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 111: 0:21:59
+----------------------------------------
+Activity: The scene captures a night sky with visible stars.
+Location: Outdoor, likely in a rural or natural setting.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a night sky with visible stars.
+2. **Location**: Outdoor, likely in a rural or natural setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Starry sky, horizon, faint silhouette of landscape.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 112: 0:22:00
+----------------------------------------
+Activity: The scene captures a sunrise or sunset over a landscape.
+Location: Outdoor, likely in a rural or agricultural area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a sunrise or sunset over a landscape.
+2. **Location**: Outdoor, likely in a rural or agricultural area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sun, fog or mist, fields, river or water body.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 113: 0:22:22
+----------------------------------------
+Activity: A tent is set up in a natural setting, possibly for camping.
+Location: Outdoor, in a park or campsite.
+Mood: Calm and serene, with a peaceful atmosphere.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A tent is set up in a natural setting, possibly for camping.
+2. **Location**: Outdoor, in a park or campsite.
+3. **Mood**: Calm and serene, with a peaceful atmosphere.
+4. **Key Elements**: Tent, trees, gravel ground, fence, sunrise or sunset.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 114: 0:22:27
+----------------------------------------
+Activity: A person is setting up or adjusting a tent.
+Location: Outdoor campsite, possibly in a rural or natural setting.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent.
+2. **Location**: Outdoor campsite, possibly in a rural or natural setting.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, person, small dog, trees, gravel ground.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 115: 0:22:54
+----------------------------------------
+Activity: A person is preparing or cooking food inside a tent.
+Location: Outdoor setting, inside a tent.
+Mood: Calm and cozy.
+Type: Cooking/food preparation.
+
+Full Analysis:
+1. **Activity**: A person is preparing or cooking food inside a tent.
+2. **Location**: Outdoor setting, inside a tent.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Tent, portable stove, person, cooking equipment, misty outdoor view.
+5. **Scene Type**: Cooking/food preparation.
+
+============================================================
+
+Scene 116: 0:23:31
+----------------------------------------
+Activity: Coffee is being brewed using a drip method.
+Location: Outdoor setting, possibly a campsite or backyard.
+Mood: Calm and relaxed.
+Type: Food preparation closeup.
+
+Full Analysis:
+1. **Activity**: Coffee is being brewed using a drip method.
+2. **Location**: Outdoor setting, possibly a campsite or backyard.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Drip coffee setup, kettle, mug, gravel ground.
+5. **Scene Type**: Food preparation closeup.
+
+============================================================
+
+Scene 117: 0:23:54
+----------------------------------------
+Activity: A steaming cloth is being placed or removed from a surface.
+Location: Indoor, possibly a kitchen or laundry area.
+Mood: Calm and routine.
+Type: Action (focused on a specific task).
+
+Full Analysis:
+1. **Activity**: A steaming cloth is being placed or removed from a surface.
+2. **Location**: Indoor, possibly a kitchen or laundry area.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Steaming cloth, metal surface, steam, blurred background.
+5. **Scene Type**: Action (focused on a specific task).
+
+============================================================
+
+Scene 118: 0:23:55
+----------------------------------------
+Activity: Coffee is being brewed using a drip method.
+Location: Outdoor setting, likely a campsite or picnic area.
+Mood: Calm and relaxed.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: Coffee is being brewed using a drip method.
+2. **Location**: Outdoor setting, likely a campsite or picnic area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Drip coffee setup, metal mug, gravel ground, wooden surface.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 119: 0:23:58
+----------------------------------------
+Activity: A person is relaxing inside a tent, possibly enjoying a drink.
+Location: Outdoor setting, inside a tent with a view of a misty landscape.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is relaxing inside a tent, possibly enjoying a drink.
+2. **Location**: Outdoor setting, inside a tent with a view of a misty landscape.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent interior, chessboard, lamp, person holding a cup, misty landscape.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 120: 0:24:07
+----------------------------------------
+Activity: A person is preparing or holding a drink inside a tent.
+Location: Outdoor setting, inside a tent with a view of a natural landscape.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is preparing or holding a drink inside a tent.
+2. **Location**: Outdoor setting, inside a tent with a view of a natural landscape.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent interior, person holding a cup, cutting board, lamp, outdoor scenery.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 121: 0:24:25
+----------------------------------------
+Activity: A small dog is resting inside a tent.
+Location: Indoor, inside a camping tent.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A small dog is resting inside a tent.
+2. **Location**: Indoor, inside a camping tent.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Small white dog, sleeping bag, camping tent, pillow, small table with a decorative item.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 122: 0:24:50
+----------------------------------------
+Activity: A person is sitting in a tent, smiling and interacting with the camera.
+Location: Outdoor camping setting inside a tent.
+Mood: Relaxed and cheerful.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting in a tent, smiling and interacting with the camera.
+2. **Location**: Outdoor camping setting inside a tent.
+3. **Mood**: Relaxed and cheerful.
+4. **Key Elements**: Person sitting on a camping chair, plush toy, tent interior, small table with a laptop.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 123: 0:25:18
+----------------------------------------
+Activity: The scene shows a person walking along a path near a tent.
+Location: Outdoor setting, likely a campsite or rural area near farmland.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a person walking along a path near a tent.
+2. **Location**: Outdoor setting, likely a campsite or rural area near farmland.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent, person walking, gravel path, farmland, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 124: 0:25:19
+----------------------------------------
+Activity: The scene shows a tranquil outdoor setting, possibly involving leisure or relaxation.
+Location: This is taking place outdoors, near a rural or agricultural area with visible fields.
+Mood: The atmosphere is calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a tranquil outdoor setting, possibly involving leisure or relaxation.
+2. **Location**: This is taking place outdoors, near a rural or agricultural area with visible fields.
+3. **Mood**: The atmosphere is calm and serene.
+4. **Key Elements**: 
+   - Agricultural fields
+   - A small structure or tent
+   - Gravel pathway
+   - Trees and greenery
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 125: 0:25:20
+----------------------------------------
+Activity: The scene captures an aerial view of a person walking along a path near a field.
+Location: Outdoor, near agricultural fields.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a person walking along a path near a field.
+2. **Location**: Outdoor, near agricultural fields.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Person walking, gravel path, agricultural fields, trees, and a small structure.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 126: 0:25:21
+----------------------------------------
+Activity: The scene captures an aerial view of a person walking along a path.
+Location: This is taking place outdoors, near a farm or agricultural field.
+Mood: The atmosphere is calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a person walking along a path.
+2. **Location**: This is taking place outdoors, near a farm or agricultural field.
+3. **Mood**: The atmosphere is calm and serene.
+4. **Key Elements**: 
+   - Agricultural fields with rows of crops
+   - A walking path
+   - A person walking
+   - Fenced area
+   - Trees and greenery
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 127: 0:25:22
+----------------------------------------
+Activity: The scene captures an aerial view of a landscape, likely for observational or cinematic purposes.
+Location: Outdoor, over a cultivated agricultural field and adjacent greenery.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a landscape, likely for observational or cinematic purposes.
+2. **Location**: Outdoor, over a cultivated agricultural field and adjacent greenery.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Agricultural fields with rows of crops
+   - Dense greenery on a slope
+   - A small paved area with a fence
+   - Trees and shrubs
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 128: 0:25:23
+----------------------------------------
+Activity: The scene shows an aerial view of agricultural fields.
+Location: Outdoor, likely a rural farming area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an aerial view of agricultural fields.
+2. **Location**: Outdoor, likely a rural farming area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Rows of crops
+   - A river or body of water
+   - Vegetation-covered land
+   - Pathways or roads
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 129: 0:25:24
+----------------------------------------
+Activity: The scene shows an aerial view of agricultural fields.
+Location: Outdoor, farmland near a body of water.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an aerial view of agricultural fields.
+2. **Location**: Outdoor, farmland near a body of water.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Rows of crops, a river or lake, surrounding vegetation, text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 130: 0:25:24
+----------------------------------------
+Activity: The scene captures an aerial view of agricultural fields next to a river.
+Location: Outdoor, in a rural farming area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of agricultural fields next to a river.
+2. **Location**: Outdoor, in a rural farming area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, agricultural fields, greenery, dirt path.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 131: 0:25:25
+----------------------------------------
+Activity: The scene captures a tranquil aerial view of a rural landscape.
+Location: Outdoor, likely a countryside or agricultural area near a river.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a tranquil aerial view of a rural landscape.
+2. **Location**: Outdoor, likely a countryside or agricultural area near a river.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields with crops, dirt paths, scattered trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 132: 0:25:26
+----------------------------------------
+Activity: The scene captures a wide aerial view of a natural landscape.
+Location: Outdoor, in a rural or natural area with fields and a river.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a wide aerial view of a natural landscape.
+2. **Location**: Outdoor, in a rural or natural area with fields and a river.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, grassy fields, dirt paths, mountains, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 133: 0:25:27
+----------------------------------------
+Activity: The scene captures a wide view of a natural landscape.
+Location: Outdoor, likely in a rural or mountainous area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a wide view of a natural landscape.
+2. **Location**: Outdoor, likely in a rural or mountainous area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Mountains, open fields, patches of greenery, and a clear sky.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 134: 0:26:15
+----------------------------------------
+Activity: The scene captures an aerial view of a rural landscape with a river running through it.
+Location: Outdoor, rural area with a river, fields, and a small bridge.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural landscape with a river running through it.
+2. **Location**: Outdoor, rural area with a river, fields, and a small bridge.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, bridge, fields, small buildings, road.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 135: 0:26:16
+----------------------------------------
+Activity: The scene captures an aerial view of a river and surrounding landscape.
+Location: Outdoor, rural area with a river and fields.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a river and surrounding landscape.
+2. **Location**: Outdoor, rural area with a river and fields.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields, small buildings, road, bridge.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 136: 0:26:17
+----------------------------------------
+Activity: The scene shows an aerial view of a river and surrounding landscape.
+Location: Outdoor, rural area with a river and fields.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an aerial view of a river and surrounding landscape.
+2. **Location**: Outdoor, rural area with a river and fields.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields, small buildings, pathways, text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 137: 0:26:18
+----------------------------------------
+Activity: The scene captures an aerial view of a river and surrounding landscape.
+Location: Outdoor, rural area with a river, fields, and some buildings.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a river and surrounding landscape.
+2. **Location**: Outdoor, rural area with a river, fields, and some buildings.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields, buildings, roads, parking area.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 138: 0:26:19
+----------------------------------------
+Activity: The scene captures an aerial view of a river flowing through a rural landscape.
+Location: Outdoor, in a countryside area with fields and a river.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a river flowing through a rural landscape.
+2. **Location**: Outdoor, in a countryside area with fields and a river.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields, roads, scattered buildings, and vehicles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 139: 0:26:22
+----------------------------------------
+Activity: The scene captures an aerial view of a river flowing through a rural landscape.
+Location: Outdoor, in a countryside area with fields and a river.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a river flowing through a rural landscape.
+2. **Location**: Outdoor, in a countryside area with fields and a river.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields, small buildings, roads, greenery.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 140: 0:26:24
+----------------------------------------
+Activity: The scene shows an aerial view of a rural landscape.
+Location: Outdoor, over a countryside area with fields and scattered buildings.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an aerial view of a rural landscape.
+2. **Location**: Outdoor, over a countryside area with fields and scattered buildings.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Fields, dirt roads, scattered houses, vegetation.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 141: 0:26:24
+----------------------------------------
+Activity: The scene captures an aerial view of a rural landscape.
+Location: Outdoor, likely a countryside area with fields and a river.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural landscape.
+2. **Location**: Outdoor, likely a countryside area with fields and a river.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, fields, houses, road, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 142: 0:26:25
+----------------------------------------
+Activity: The scene captures an aerial view of a rural area, likely showcasing the landscape and layout of the region.
+Location: Outdoor, in a rural or agricultural area with fields and a river.
+Mood: Calm and serene, highlighting the natural beauty and tranquility of the countryside.
+Type: Establishing shot
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural area, likely showcasing the landscape and layout of the region.
+2. **Location**: Outdoor, in a rural or agricultural area with fields and a river.
+3. **Mood**: Calm and serene, highlighting the natural beauty and tranquility of the countryside.
+4. **Key Elements**: 
+   - Agricultural fields
+   - River
+   - Roads
+   - Houses
+   - Trees
+5. **Scene Type**: Establishing shot
+
+============================================================
+
+Scene 143: 0:26:26
+----------------------------------------
+Activity: The scene captures an aerial view of a rural landscape.
+Location: Outdoor, likely a countryside or farming area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural landscape.
+2. **Location**: Outdoor, likely a countryside or farming area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Farmland with crops, a winding road, scattered houses, and a river.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 144: 0:26:27
+----------------------------------------
+Activity: The scene captures an aerial view of a rural area, possibly for an overview or establishing shot.
+Location: Outdoor, in a countryside or farming area with fields and houses.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural area, possibly for an overview or establishing shot.
+2. **Location**: Outdoor, in a countryside or farming area with fields and houses.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Agricultural fields
+   - River
+   - Residential houses
+   - Roads
+   - Vegetation
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 145: 0:26:28
+----------------------------------------
+Activity: The scene captures an aerial view of a rural area, likely showcasing the landscape.
+Location: Outdoor, in a countryside setting with fields and houses.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural area, likely showcasing the landscape.
+2. **Location**: Outdoor, in a countryside setting with fields and houses.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Agricultural fields
+   - Residential houses
+   - Roads
+   - Vegetation
+   - Vehicles
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 146: 0:26:29
+----------------------------------------
+Activity: The scene captures an aerial view of a rural area, likely showcasing farmland and surrounding structures.
+Location: Outdoor, rural farmland with adjacent residential and agricultural buildings.
+Mood: Calm and serene, with a focus on nature and open spaces.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures an aerial view of a rural area, likely showcasing farmland and surrounding structures.
+2. **Location**: Outdoor, rural farmland with adjacent residential and agricultural buildings.
+3. **Mood**: Calm and serene, with a focus on nature and open spaces.
+4. **Key Elements**: 
+   - Farmland with visible crop rows
+   - Residential houses
+   - Roads and pathways
+   - Parking area with vehicles
+   - Greenhouses or agricultural structures
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 147: 0:26:30
+----------------------------------------
+Activity: The scene shows an aerial view of a rural area, possibly captured by a drone.
+Location: Outdoor, over a farmland and residential area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an aerial view of a rural area, possibly captured by a drone.
+2. **Location**: Outdoor, over a farmland and residential area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Farmland with crops, residential houses, roads, parked vehicles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 148: 0:26:31
+----------------------------------------
+Activity: The scene shows a setup for outdoor cooking or a picnic.
+Location: Outdoor, likely in a camping or picnic area.
+Mood: Casual and relaxed.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a setup for outdoor cooking or a picnic.
+2. **Location**: Outdoor, likely in a camping or picnic area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Packaged hot dogs, a lantern, a mug, a wooden surface, and a sign with flags.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 149: 0:26:42
+----------------------------------------
+Activity: A person is preparing food, possibly mixing ingredients in a bowl.
+Location: Outdoor setting, likely inside a tent.
+Mood: Calm and casual.
+Type: Cooking preparation.
+
+Full Analysis:
+1. **Activity**: A person is preparing food, possibly mixing ingredients in a bowl.
+2. **Location**: Outdoor setting, likely inside a tent.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Mixing bowl, cooking utensils, packaged food, water bottle, tent interior.
+5. **Scene Type**: Cooking preparation.
+
+============================================================
+
+Scene 150: 0:26:48
+----------------------------------------
+Activity: A person is preparing a meal, possibly breakfast, in an outdoor setting.
+Location: Outdoor, likely at a campsite or picnic area.
+Mood: Calm and casual.
+Type: Cooking preparation.
+
+Full Analysis:
+1. **Activity**: A person is preparing a meal, possibly breakfast, in an outdoor setting.
+2. **Location**: Outdoor, likely at a campsite or picnic area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Mixing bowl with ingredients, cutting board, frying pan, bottle of water, and a sign with "U.S. Pork."
+5. **Scene Type**: Cooking preparation.
+
+============================================================
+
+Scene 151: 0:27:08
+----------------------------------------
+Activity: Someone is preparing to cook a meal, likely involving pancakes or similar food.
+Location: Outdoor setting, possibly at a campsite.
+Mood: Relaxed and casual.
+Type: Cooking preparation.
+
+Full Analysis:
+1. **Activity**: Someone is preparing to cook a meal, likely involving pancakes or similar food.
+2. **Location**: Outdoor setting, possibly at a campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Mixing bowl with batter, frying pan, cutting board, packaged food items, and a bottle.
+5. **Scene Type**: Cooking preparation.
+
+============================================================
+
+Scene 152: 0:27:35
+----------------------------------------
+Activity: Someone is cooking pancakes on a portable stove.
+Location: Outdoor setting, likely a campsite.
+Mood: Relaxed and casual.
+Type: Cooking/food preparation.
+
+Full Analysis:
+1. **Activity**: Someone is cooking pancakes on a portable stove.
+2. **Location**: Outdoor setting, likely a campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Pancakes on a pan, portable stove, cutting board, mug with flags, gravel ground.
+5. **Scene Type**: Cooking/food preparation.
+
+============================================================
+
+Scene 153: 0:27:37
+----------------------------------------
+Activity: A person is cooking pancakes on a portable stove.
+Location: Outdoor setting, likely at a campsite.
+Mood: Relaxed and casual.
+Type: Cooking scene.
+
+Full Analysis:
+1. **Activity**: A person is cooking pancakes on a portable stove.
+2. **Location**: Outdoor setting, likely at a campsite.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Pancakes on a griddle, cutting board, packaged food items, a cup with a straw, and a small flag display.
+5. **Scene Type**: Cooking scene.
+
+============================================================
+
+Scene 154: 0:28:38
+----------------------------------------
+Activity: Someone is preparing food, specifically hot dogs, and opening a can of corn.
+Location: Outdoor setting, likely a campsite or picnic area.
+Mood: Relaxed and casual.
+Type: Food preparation.
+
+Full Analysis:
+1. **Activity**: Someone is preparing food, specifically hot dogs, and opening a can of corn.
+2. **Location**: Outdoor setting, likely a campsite or picnic area.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Hot dogs, can of corn, cutting board, mustard bottle, and a small flag with "U.S. Pork".
+5. **Scene Type**: Food preparation.
+
+============================================================
+
+Scene 155: 0:29:13
+----------------------------------------
+Activity: A person is using a blowtorch to melt cheese on a hot dog.
+Location: Outdoor setting, likely a campsite or picnic area.
+Mood: Casual and relaxed.
+Type: Food preparation.
+
+Full Analysis:
+1. **Activity**: A person is using a blowtorch to melt cheese on a hot dog.
+2. **Location**: Outdoor setting, likely a campsite or picnic area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Blowtorch, hot dog with cheese, cutting board, U.S. Pork sign, beverage can.
+5. **Scene Type**: Food preparation.
+
+============================================================
+
+Scene 156: 0:29:42
+----------------------------------------
+Activity: A person is preparing food using a torch to melt cheese on a hot dog bun.
+Location: Outdoor setting, likely a campsite or picnic area.
+Mood: Casual and relaxed.
+Type: Food preparation.
+
+Full Analysis:
+1. **Activity**: A person is preparing food using a torch to melt cheese on a hot dog bun.
+2. **Location**: Outdoor setting, likely a campsite or picnic area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Hot dog bun with cheese, torch, grill or cooking surface, gravel ground, U.S. pork packaging.
+5. **Scene Type**: Food preparation.
+
+============================================================
+
+Scene 157: 0:29:51
+----------------------------------------
+Activity: The scene shows a food preparation setup, likely for a barbecue or outdoor meal.
+Location: Outdoor setting, possibly a backyard or picnic area.
+Mood: Casual and relaxed.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or outdoor meal.
+2. **Location**: Outdoor setting, possibly a backyard or picnic area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Cutting board with sandwiches and pancakes, knife, hot dog relish, and a sign for U.S. Pork.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 158: 0:29:52
+----------------------------------------
+Activity: The scene shows a food setup, likely for a meal or picnic.
+Location: Outdoor setting, possibly a campsite or backyard.
+Mood: Casual and inviting.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food setup, likely for a meal or picnic.
+2. **Location**: Outdoor setting, possibly a campsite or backyard.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Cutting board with sandwiches and pancakes, cherry tomatoes, condiments, knives, and a sign for U.S. pork.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 159: 0:29:53
+----------------------------------------
+Activity: The scene shows a food preparation setup, likely for a meal or picnic.
+Location: Outdoor setting, possibly a campsite or backyard.
+Mood: Casual and relaxed.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food preparation setup, likely for a meal or picnic.
+2. **Location**: Outdoor setting, possibly a campsite or backyard.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Cutting board with sandwiches and pancakes, condiments (mustard), knives, and a sign for U.S. Pork.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 160: 0:29:55
+----------------------------------------
+Activity: The scene shows a food preparation setup, likely for a barbecue or picnic.
+Location: Outdoor setting, possibly a patio or garden area.
+Mood: Casual and inviting.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or picnic.
+2. **Location**: Outdoor setting, possibly a patio or garden area.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Hot dog relish, cutting board with sandwiches and tomatoes, knives, and a U.S. Pork sign.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 161: 0:29:56
+----------------------------------------
+Activity: The scene shows a food preparation setup, likely for a barbecue or picnic.
+Location: Outdoor setting, possibly a backyard or campsite.
+Mood: Casual and relaxed.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or picnic.
+2. **Location**: Outdoor setting, possibly a backyard or campsite.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Cutting board with sandwiches and pancakes, mustard bottle, knife, tongs, and a sign for U.S. pork.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 162: 0:29:57
+----------------------------------------
+Activity: The scene shows a food preparation or display setup, likely for a barbecue or picnic.
+Location: Outdoor setting, possibly a backyard or patio.
+Mood: Casual and inviting.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food preparation or display setup, likely for a barbecue or picnic.
+2. **Location**: Outdoor setting, possibly a backyard or patio.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Hot dog relish, cutting board with sandwiches and pancakes, knife, small tomatoes, U.S. Pork sign.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 163: 0:29:58
+----------------------------------------
+Activity: The scene shows a food setup, likely for a meal or picnic.
+Location: Outdoor setting, possibly a campsite or backyard.
+Mood: Casual and inviting.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food setup, likely for a meal or picnic.
+2. **Location**: Outdoor setting, possibly a campsite or backyard.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Hot dog relish, cutting board with sandwiches and pancakes, knives, small bottles, promotional card for U.S. Meat and Pork.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 164: 0:29:59
+----------------------------------------
+Activity: The scene shows a food preparation setup, likely for a barbecue or outdoor meal.
+Location: Outdoor setting, possibly a backyard or picnic area.
+Mood: Casual and relaxed.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or outdoor meal.
+2. **Location**: Outdoor setting, possibly a backyard or picnic area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Cutting board with sandwiches and pancakes, knife, condiments (relish), and a sign for U.S. pork.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 165: 0:30:00
+----------------------------------------
+Activity: A person is sitting inside a tent, preparing or enjoying a meal.
+Location: Outdoor camping setting inside a tent.
+Mood: Relaxed and casual.
+Type: Casual outdoor dining.
+
+Full Analysis:
+1. **Activity**: A person is sitting inside a tent, preparing or enjoying a meal.
+2. **Location**: Outdoor camping setting inside a tent.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Tent, person, food on a cutting board, camping chair, camping gear.
+5. **Scene Type**: Casual outdoor dining.
+
+============================================================
+
+Scene 166: 0:31:48
+----------------------------------------
+Activity: A person is eating, possibly enjoying a meal outdoors.
+Location: The scene takes place outdoors, likely in a rural or natural setting.
+Mood: The atmosphere is calm and relaxed.
+Type: Food closeup with a scenic backdrop.
+
+Full Analysis:
+1. **Activity**: A person is eating, possibly enjoying a meal outdoors.
+2. **Location**: The scene takes place outdoors, likely in a rural or natural setting.
+3. **Mood**: The atmosphere is calm and relaxed.
+4. **Key Elements**: 
+   - Person eating
+   - Picnic setup with food
+   - Outdoor scenery with fields
+   - Car in the background
+   - American-themed decor
+5. **Scene Type**: Food closeup with a scenic backdrop.
+
+============================================================
+
+Scene 167: 0:31:49
+----------------------------------------
+Activity: The scene captures a view of a cultivated field, likely part of a farming or agricultural activity.
+Location: Outdoor, in a rural or countryside setting with fields and distant hills.
+Mood: Calm and serene, with a peaceful atmosphere.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a view of a cultivated field, likely part of a farming or agricultural activity.
+2. **Location**: Outdoor, in a rural or countryside setting with fields and distant hills.
+3. **Mood**: Calm and serene, with a peaceful atmosphere.
+4. **Key Elements**: 
+   - Cultivated field with crops
+   - Distant hills
+   - Blue sky with clouds
+   - River or stream nearby
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 168: 0:32:06
+----------------------------------------
+Activity: A person is organizing or setting up items inside a tent.
+Location: Indoor, inside a camping tent.
+Mood: Calm and organized.
+Type: Setup/organization.
+
+Full Analysis:
+1. **Activity**: A person is organizing or setting up items inside a tent.
+2. **Location**: Indoor, inside a camping tent.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Camping stove, canister, storage bag, person wearing gloves, gravel floor.
+5. **Scene Type**: Setup/organization.
+
+============================================================
+
+Scene 169: 0:32:11
+----------------------------------------
+Activity: A person is setting up or adjusting equipment inside a tent.
+Location: Indoor, inside a tent on a gravel surface.
+Mood: Calm and focused.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting equipment inside a tent.
+2. **Location**: Indoor, inside a tent on a gravel surface.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tent interior, person in casual clothing, portable stove, canister, gravel floor.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 170: 0:32:19
+----------------------------------------
+Activity: A person is setting up or adjusting something inside a tent.
+Location: Outdoor camping area.
+Mood: Calm and focused.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting something inside a tent.
+2. **Location**: Outdoor camping area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tent, air mattress, person, gravel ground, parked cars.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 171: 0:32:27
+----------------------------------------
+Activity: A person is moving inside a tent, possibly setting up or organizing.
+Location: Outdoor setting, inside a tent at a campsite.
+Mood: Casual and relaxed.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is moving inside a tent, possibly setting up or organizing.
+2. **Location**: Outdoor setting, inside a tent at a campsite.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tent, person in casual clothing, inflatable mattress, small bag, gravel ground.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 172: 0:32:28
+----------------------------------------
+Activity: A person is setting up or adjusting an inflatable mattress inside a tent.
+Location: Outdoor setting, inside a tent at a campsite.
+Mood: Calm and practical.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting an inflatable mattress inside a tent.
+2. **Location**: Outdoor setting, inside a tent at a campsite.
+3. **Mood**: Calm and practical.
+4. **Key Elements**: Inflatable mattress, tent, person in casual clothing, gravel ground, parked cars outside.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 173: 0:32:31
+----------------------------------------
+Activity: The scene shows a camping setup with a portable kitchen area.
+Location: This is taking place inside a tent, likely in an outdoor camping area.
+Mood: The atmosphere is calm and organized.
+Type: Establishing shot
+
+Full Analysis:
+1. **Activity**: The scene shows a camping setup with a portable kitchen area.
+2. **Location**: This is taking place inside a tent, likely in an outdoor camping area.
+3. **Mood**: The atmosphere is calm and organized.
+4. **Key Elements**: 
+   - Portable kitchen unit
+   - Lantern
+   - Can of drink
+   - Cooking utensils
+   - Tent interior
+5. **Scene Type**: Establishing shot
+
+============================================================
+
+Scene 174: 0:32:44
+----------------------------------------
+Activity: A person is setting up or adjusting a piece of equipment inside a tent.
+Location: Outdoor, inside a tent.
+Mood: Focused and practical.
+Type: Setup/Preparation.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a piece of equipment inside a tent.
+2. **Location**: Outdoor, inside a tent.
+3. **Mood**: Focused and practical.
+4. **Key Elements**: Tent, person in casual clothing, equipment (possibly a heater or fan), gravel floor.
+5. **Scene Type**: Setup/Preparation.
+
+============================================================
+
+Scene 175: 0:32:46
+----------------------------------------
+Activity: A person is assembling or disassembling a metal object, possibly a piece of equipment or furniture.
+Location: Outdoor setting, likely in a garden or patio area.
+Mood: Focused and industrious.
+Type: Action/assembly.
+
+Full Analysis:
+1. **Activity**: A person is assembling or disassembling a metal object, possibly a piece of equipment or furniture.
+2. **Location**: Outdoor setting, likely in a garden or patio area.
+3. **Mood**: Focused and industrious.
+4. **Key Elements**: 
+   - Person wearing gloves
+   - Metal object or equipment
+   - Pebble or gravel ground
+   - Shadow of plants on a wall
+5. **Scene Type**: Action/assembly.
+
+============================================================
+
+Scene 176: 0:32:47
+----------------------------------------
+Activity: The scene shows a tent interior with shadows of tree branches on the fabric.
+Location: Indoor, inside a tent.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a tent interior with shadows of tree branches on the fabric.
+2. **Location**: Indoor, inside a tent.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent fabric, shadows of branches, gravel floor, small metal rack.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 177: 0:32:49
+----------------------------------------
+Activity: A person is setting up or adjusting a metal rack inside a tent-like structure.
+Location: Indoor, inside a tent or greenhouse.
+Mood: Calm and focused.
+Type: Setup or preparation scene.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a metal rack inside a tent-like structure.
+2. **Location**: Indoor, inside a tent or greenhouse.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person wearing a hoodie, metal rack, tent structure, gravel floor, shadows of plants on the tent wall.
+5. **Scene Type**: Setup or preparation scene.
+
+============================================================
+
+Scene 178: 0:33:03
+----------------------------------------
+Activity: A person is setting up or adjusting a metal rack or grill.
+Location: Indoor, inside a tent or temporary shelter.
+Mood: Focused and practical.
+Type: Setup or preparation scene.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a metal rack or grill.
+2. **Location**: Indoor, inside a tent or temporary shelter.
+3. **Mood**: Focused and practical.
+4. **Key Elements**: Person in a hoodie, metal rack, tent structure, gravel floor.
+5. **Scene Type**: Setup or preparation scene.
+
+============================================================
+
+Scene 179: 0:33:04
+----------------------------------------
+Activity: The scene appears to show a projection or reflection on a tent-like structure.
+Location: Outdoor setting, possibly in a campsite or garden area.
+Mood: Calm and relaxed.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to show a projection or reflection on a tent-like structure.
+2. **Location**: Outdoor setting, possibly in a campsite or garden area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Tent fabric, shadows of leaves, gravel ground, projected text/image.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 180: 0:33:35
+----------------------------------------
+Activity: A person is setting up or adjusting a tent.
+Location: Outdoor campsite.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent.
+2. **Location**: Outdoor campsite.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, person, trees, gravel path, grassy area.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 181: 0:33:45
+----------------------------------------
+Activity: A person is setting up or adjusting a tent.
+Location: Outdoor, likely a campsite or park.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent.
+2. **Location**: Outdoor, likely a campsite or park.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tent, person, trees, gravel path, distant hills.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 182: 0:33:52
+----------------------------------------
+Activity: A person is setting up or adjusting a tent.
+Location: Outdoor, likely a campsite or park area.
+Mood: Calm and focused.
+Type: Action.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent.
+2. **Location**: Outdoor, likely a campsite or park area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tent, person in casual clothing, gravel ground, trees, distant hills.
+5. **Scene Type**: Action.
+
+============================================================
+
+Scene 183: 0:33:54
+----------------------------------------
+Activity: A person is setting up or adjusting a tent.
+Location: Outdoor, likely a campsite with a scenic view.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent.
+2. **Location**: Outdoor, likely a campsite with a scenic view.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, person in casual clothing, gravel ground, mountains, and a river in the background.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 184: 0:33:55
+----------------------------------------
+Activity: A person is setting up or inspecting a tent.
+Location: Outdoor, likely a campsite near a river or open field.
+Mood: Calm and relaxed.
+Type: Outdoor activity.
+
+Full Analysis:
+1. **Activity**: A person is setting up or inspecting a tent.
+2. **Location**: Outdoor, likely a campsite near a river or open field.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Tent, person in casual clothing, gravel ground, trees, distant hills.
+5. **Scene Type**: Outdoor activity.
+
+============================================================
+
+Scene 185: 0:33:59
+----------------------------------------
+Activity: A person is setting up or adjusting a tent.
+Location: Outdoor, in a scenic camping area with trees and mountains.
+Mood: Calm and peaceful.
+Type: Outdoor activity.
+
+Full Analysis:
+1. **Activity**: A person is setting up or adjusting a tent.
+2. **Location**: Outdoor, in a scenic camping area with trees and mountains.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Tent, person, trees, mountains, gravel ground.
+5. **Scene Type**: Outdoor activity.
+
+============================================================
+
+Scene 186: 0:34:16
+----------------------------------------
+Activity: A person is setting up a tent.
+Location: Outdoor, in a scenic, rural area with mountains in the background.
+Mood: Calm and peaceful.
+Type: Action.
+
+Full Analysis:
+1. **Activity**: A person is setting up a tent.
+2. **Location**: Outdoor, in a scenic, rural area with mountains in the background.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Person in casual clothing, tent components, trees, gravel ground.
+5. **Scene Type**: Action.
+
+============================================================
+
+Scene 187: 0:34:17
+----------------------------------------
+Activity: A person is setting up or handling equipment outdoors.
+Location: Outdoor setting, likely a garden or park area.
+Mood: Calm and peaceful.
+Type: Action/setup.
+
+Full Analysis:
+1. **Activity**: A person is setting up or handling equipment outdoors.
+2. **Location**: Outdoor setting, likely a garden or park area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Person in a hoodie, trees, gravel ground, mountains in the background, equipment in hand.
+5. **Scene Type**: Action/setup.
+
+============================================================
+
+Scene 188: 0:34:18
+----------------------------------------
+Activity: A person appears to be setting up a tent or preparing a campsite.
+Location: Outdoor, in a scenic natural area with mountains and trees.
+Mood: Calm and peaceful.
+Type: Transition or establishing shot.
+
+Full Analysis:
+1. **Activity**: A person appears to be setting up a tent or preparing a campsite.
+2. **Location**: Outdoor, in a scenic natural area with mountains and trees.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Person in a hoodie, tent on the ground, trees, mountains, gravel area.
+5. **Scene Type**: Transition or establishing shot.
+
+============================================================
+
+Scene 189: 0:34:53
+----------------------------------------
+Activity: The scene appears to be a view from inside a vehicle, possibly concluding a journey.
+Location: Outdoor, near a rural or suburban road with trees and utility poles.
+Mood: Calm and serene.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a view from inside a vehicle, possibly concluding a journey.
+2. **Location**: Outdoor, near a rural or suburban road with trees and utility poles.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Trees, utility poles, gravel road, text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 190: 0:35:01
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, on a tree-lined country road.
+Mood: Calm and serene.
+Type: Travel montage.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, on a tree-lined country road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, trees, power lines, vehicle hood, subtitles.
+5. **Scene Type**: Travel montage.
+
+============================================================
+
+Scene 191: 0:35:12
+----------------------------------------
+Activity: A vehicle is driving down a rural road.
+Location: Outdoor, countryside road.
+Mood: Calm and serene.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A vehicle is driving down a rural road.
+2. **Location**: Outdoor, countryside road.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Road, trees, power lines, cloudy sky, text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 192: 0:35:18
+----------------------------------------
+Activity: The scene shows the end of a video, likely a travel vlog, with a thank you message.
+Location: Outdoor, on a rural road.
+Mood: Calm and reflective.
+Type: Transition/closing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows the end of a video, likely a travel vlog, with a thank you message.
+2. **Location**: Outdoor, on a rural road.
+3. **Mood**: Calm and reflective.
+4. **Key Elements**: Road, trees, power lines, thank you text overlay.
+5. **Scene Type**: Transition/closing shot.
+
+============================================================
+
+Scene 193: 0:35:19
+----------------------------------------
+Activity: The scene is concluding a video, likely a camping vlog.
+Location: The setting appears to be outdoors, possibly a road or natural area.
+Mood: The atmosphere is calm and reflective, typical of an ending scene.
+Type: Conclusion/End credits.
+
+Full Analysis:
+1. **Activity**: The scene is concluding a video, likely a camping vlog.
+2. **Location**: The setting appears to be outdoors, possibly a road or natural area.
+3. **Mood**: The atmosphere is calm and reflective, typical of an ending scene.
+4. **Key Elements**: 
+   - Text overlay thanking viewers
+   - "Camping Vlog" title
+   - Copyright notice
+5. **Scene Type**: Conclusion/End credits.
+
+============================================================
+

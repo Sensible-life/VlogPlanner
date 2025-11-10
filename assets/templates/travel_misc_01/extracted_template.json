@@ -1,0 +1,122 @@
+{
+  "template_name": "Nature Exploration and Casual Dining",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 14,
+      "description": "The video opens with a completely black or blank frame, setting a calm and serene mood.",
+      "key_elements": [
+        "black frame",
+        "calm mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 654,
+      "description": "The main content involves exploring natural landscapes, personal reflections, and casual dining experiences.",
+      "segments": [
+        {
+          "type": "nature exploration",
+          "description": "Multiple establishing shots of serene outdoor landscapes, including forested areas, lakesides, and grassy fields, often with mountains in the background.",
+          "typical_duration": 300,
+          "scene_activity": "Capturing views of natural landscapes with no visible human activity.",
+          "location": "Outdoor, various natural settings",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "personal reflection",
+          "description": "Scenes of individuals taking selfies or recording themselves in scenic outdoor locations, often near water bodies and mountains.",
+          "typical_duration": 100,
+          "scene_activity": "Selfie or personal recording moments.",
+          "location": "Outdoor, scenic natural areas",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "travel montage",
+          "description": "Sequences showing people walking towards or interacting near camper vans in scenic locations, suggesting a travel or camping theme.",
+          "typical_duration": 150,
+          "scene_activity": "Walking and interacting near camper vans.",
+          "location": "Outdoor, near lakes and mountains",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "casual dining",
+          "description": "Indoor scenes of people preparing and enjoying meals, often in a relaxed and informal setting.",
+          "typical_duration": 104,
+          "scene_activity": "Preparing and eating meals.",
+          "location": "Indoor, likely a camper or small dining area",
+          "mood": "Casual and relaxed"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 20,
+      "description": "The video ends with a call to action, encouraging viewers to subscribe and like the content.",
+      "key_elements": [
+        "subscribe text",
+        "like icon",
+        "promotional mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#718aaf",
+      "#08080a",
+      "#babcc0"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Fast",
+    "average_shot_length": 1.7,
+    "scene_changes": 409,
+    "camera_work": [
+      "establishing shots",
+      "selfie shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 5
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and reflective",
+      "content_type": "Sharing experiences and reflections"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Emotional descriptions and instructions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Establishing Nature Shots",
+      "description": "Frequent use of establishing shots to showcase natural landscapes.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Selfie Moments",
+      "description": "Regular inclusion of selfie or personal recording moments in scenic locations.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel vlogs",
+    "Nature exploration content"
+  ]
+}

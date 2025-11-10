@@ -165,13 +165,17 @@ class _UserInputPageState extends State<UserInputPage> {
       final futures = <Future>[];
 
       // 4-1. 씬별 Script 생성 (각 씬마다)
-      final scriptFutures = result.cueCards!.map((cueCard) {
+      final scriptFutures = result.cueCards!.asMap().entries.map((entry) {
+        final index = entry.key;
+        final cueCard = entry.value;
         return OpenAIService.generateScriptForScene(
           sceneSummary: cueCard.summary.join(' '),
           sceneLocation: cueCard.title,
           tone: result.plan!.styleAnalysis?.tone ?? '밝고 경쾌',
           vibe: result.plan!.styleAnalysis?.vibe ?? 'MZ',
           durationSec: cueCard.allocatedSec,
+          sceneIndex: index,
+          totalScenes: result.cueCards!.length,
         );
       }).toList();
 

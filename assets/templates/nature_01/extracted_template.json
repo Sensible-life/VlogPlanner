@@ -1,0 +1,146 @@
+{
+  "template_name": "Pet Grooming Vlog",
+  "category": "nature_animal",
+  "structure": {
+    "opening": {
+      "duration_seconds": 10,
+      "description": "Introduction to the grooming setting with a calm and relaxed mood.",
+      "key_elements": [
+        "Dog resting",
+        "Grooming salon",
+        "Calm atmosphere"
+      ]
+    },
+    "body": {
+      "duration_seconds": 482,
+      "description": "Main content showcasing various pet grooming activities and interactions.",
+      "segments": [
+        {
+          "type": "grooming session",
+          "description": "A series of grooming activities including bathing, drying, and trimming of pets.",
+          "typical_duration": 180,
+          "scene_activity": "Grooming dogs with clippers and scissors, bathing and drying.",
+          "location": "Indoor, pet grooming salon",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "interaction",
+          "description": "Playful and affectionate interactions between the groomer and the pets.",
+          "typical_duration": 60,
+          "scene_activity": "Playing with dogs, offering treats, and showcasing pets.",
+          "location": "Indoor, grooming salon or home",
+          "mood": "Playful and affectionate"
+        },
+        {
+          "type": "pet care",
+          "description": "Detailed pet care moments including washing and comforting pets.",
+          "typical_duration": 80,
+          "scene_activity": "Washing dogs in sinks, comforting them during grooming.",
+          "location": "Indoor, grooming salon or bathroom",
+          "mood": "Calm and caring"
+        },
+        {
+          "type": "establishing shot",
+          "description": "Scenes setting the context of the grooming environment.",
+          "typical_duration": 30,
+          "scene_activity": "Showing the grooming salon setup and equipment.",
+          "location": "Indoor, grooming salon",
+          "mood": "Clinical and organized"
+        },
+        {
+          "type": "food closeup",
+          "description": "Close-up shots of meal setups, likely during a break.",
+          "typical_duration": 20,
+          "scene_activity": "Displaying meal setups with pasta dishes and drinks.",
+          "location": "Indoor, dining area",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "pet closeup",
+          "description": "Close-up shots of pets, highlighting their features and expressions.",
+          "typical_duration": 30,
+          "scene_activity": "Close-ups of dogs' faces and expressions.",
+          "location": "Indoor, grooming salon or home",
+          "mood": "Calm and intimate"
+        },
+        {
+          "type": "transition",
+          "description": "Scenes transitioning between activities or concluding the video.",
+          "typical_duration": 82,
+          "scene_activity": "Turning off lights, opening doors, and displaying closing messages.",
+          "location": "Indoor, grooming salon or urban setting",
+          "mood": "Conclusive and calm"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 10,
+      "description": "Concluding scene with a 'Thanks for watching' message.",
+      "key_elements": [
+        "Text overlay",
+        "Calm and appreciative mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#8f8474",
+      "#d9d8d4",
+      "#100e0d"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 2.7,
+    "scene_changes": 187,
+    "camera_work": [
+      "Close-ups",
+      "Establishing shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and caring",
+      "content_type": "Explaining grooming process, interacting with pets"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Instructions and closing messages"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Grooming Focus",
+      "description": "Frequent focus on grooming activities with detailed close-ups.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Pet Interaction",
+      "description": "Regular interactions with pets, showcasing their personalities.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Pet grooming tutorials",
+    "Animal care vlogs"
+  ]
+}

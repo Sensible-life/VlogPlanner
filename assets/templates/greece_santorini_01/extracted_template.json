@@ -1,0 +1,148 @@
+{
+  "template_name": "Korean Travel and Lifestyle Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "The vlog starts with the host arriving in Korea, mentioning travel fatigue and the desire to freshen up at the accommodation.",
+      "key_elements": [
+        "arrival in Korea",
+        "travel fatigue",
+        "desire to freshen up"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1710,
+      "description": "Main content includes exploring the local area, trying out local food, discussing beauty routines, and sharing experiences of the trip.",
+      "segments": [
+        {
+          "type": "arrival and accommodation",
+          "description": "The host arrives at the accommodation, expresses excitement about the location, and discusses plans to freshen up.",
+          "typical_duration": 180,
+          "scene_activity": "Arriving at accommodation, expressing excitement",
+          "location": "Accommodation in Korea",
+          "mood": "Excited"
+        },
+        {
+          "type": "beauty routine discussion",
+          "description": "The host discusses completing their makeup and getting ready for the day.",
+          "typical_duration": 120,
+          "scene_activity": "Discussing makeup and getting ready",
+          "location": "Accommodation",
+          "mood": "Casual"
+        },
+        {
+          "type": "local exploration",
+          "description": "Exploring the local area, commenting on the beauty of the surroundings, and interacting with locals.",
+          "typical_duration": 300,
+          "scene_activity": "Exploring local area, interacting with locals",
+          "location": "Local streets and attractions",
+          "mood": "Adventurous"
+        },
+        {
+          "type": "food tasting",
+          "description": "Trying out local food, expressing delight and surprise at the flavors.",
+          "typical_duration": 300,
+          "scene_activity": "Tasting local food, expressing opinions",
+          "location": "Local restaurants and cafes",
+          "mood": "Delighted"
+        },
+        {
+          "type": "product discussion",
+          "description": "Discussing a specific product, its benefits, and personal experiences with it.",
+          "typical_duration": 180,
+          "scene_activity": "Discussing product benefits",
+          "location": "Various locations",
+          "mood": "Informative"
+        },
+        {
+          "type": "cultural experience",
+          "description": "Engaging in cultural activities or visiting cultural sites, sharing insights and personal reflections.",
+          "typical_duration": 300,
+          "scene_activity": "Engaging in cultural activities",
+          "location": "Cultural sites",
+          "mood": "Reflective"
+        },
+        {
+          "type": "personal reflections",
+          "description": "Sharing personal thoughts and reflections on the travel experience.",
+          "typical_duration": 330,
+          "scene_activity": "Reflecting on travel experiences",
+          "location": "Various locations",
+          "mood": "Contemplative"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 100,
+      "description": "The vlog concludes with a reflection on the day's experiences and a farewell to the audience.",
+      "key_elements": [
+        "reflection on experiences",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#1e1617",
+      "#e0edf2",
+      "#acafb4",
+      "#5c4a49",
+      "#8d7d79"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.592,
+    "scene_changes": 1288,
+    "camera_work": [
+      "handheld",
+      "dynamic angles"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Sharing experiences and reflections"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Emotional descriptions and instructions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Frequent Scene Changes",
+      "description": "The vlog frequently changes scenes to maintain viewer engagement.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Product Placement",
+      "description": "Discussion and promotion of specific products during the vlog.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

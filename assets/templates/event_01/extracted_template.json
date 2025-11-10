@@ -1,0 +1,140 @@
+{
+  "template_name": "Concert Experience Vlog",
+  "category": "event_entertainment",
+  "structure": {
+    "opening": {
+      "duration_seconds": 6,
+      "description": "Establishing shots of rain falling on a tiled pavement, setting a calm and reflective mood.",
+      "key_elements": [
+        "rain",
+        "puddles",
+        "tiled pavement"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2840,
+      "description": "Main content of the vlog, featuring a mix of concert performances, audience interactions, and casual moments in transit.",
+      "segments": [
+        {
+          "type": "establishing shot",
+          "description": "Rain falling on pavement, setting a calm mood.",
+          "typical_duration": 6,
+          "scene_activity": "Rain is falling, creating ripples in puddles on the pavement.",
+          "location": "Outdoor, on a sidewalk or pedestrian area.",
+          "mood": "Calm and reflective."
+        },
+        {
+          "type": "concert performance",
+          "description": "Various scenes of a performer singing on stage during a concert, with audience engagement.",
+          "typical_duration": 1200,
+          "scene_activity": "A performer is singing on stage during a concert.",
+          "location": "Indoor concert venue.",
+          "mood": "Energetic and lively."
+        },
+        {
+          "type": "audience interaction",
+          "description": "Scenes of audience members holding signs and engaging with the concert.",
+          "typical_duration": 300,
+          "scene_activity": "Audience members are holding signs and engaging with the concert.",
+          "location": "Indoor concert venue.",
+          "mood": "Energetic and lively."
+        },
+        {
+          "type": "casual interaction",
+          "description": "Casual moments of people interacting, eating snacks, and traveling.",
+          "typical_duration": 400,
+          "scene_activity": "People are eating snacks and interacting casually.",
+          "location": "Indoor, likely inside a vehicle or public transport.",
+          "mood": "Casual and relaxed."
+        },
+        {
+          "type": "transition",
+          "description": "Scenes showing transitions between locations, often with rain or vehicle interiors.",
+          "typical_duration": 300,
+          "scene_activity": "Views from inside a vehicle looking out at a rainy street.",
+          "location": "Indoor, inside a vehicle.",
+          "mood": "Calm and reflective."
+        },
+        {
+          "type": "performance conclusion",
+          "description": "Performers bowing on stage, concluding the concert.",
+          "typical_duration": 100,
+          "scene_activity": "A performer is bowing on stage, likely concluding a performance.",
+          "location": "Indoor concert venue.",
+          "mood": "Appreciative and emotional."
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 90,
+      "description": "Final scenes of the audience exiting the venue and casual interactions post-concert.",
+      "key_elements": [
+        "audience exiting",
+        "casual interactions",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#3171af",
+      "#c9c0c6",
+      "#0f1017"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 4.4,
+    "scene_changes": 666,
+    "camera_work": [
+      "handheld",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 4,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and concert commentary"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean subtitles",
+      "content_type": "Emotional descriptions and dialogue"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Concert Performance",
+      "description": "Frequent scenes of live concert performances with audience interaction.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Rainy Transitions",
+      "description": "Transitions featuring rain and reflections, setting a calm mood.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Concert vlogs",
+    "Event coverage",
+    "Music performance highlights"
+  ]
+}

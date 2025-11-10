@@ -1,0 +1,157 @@
+{
+  "template_name": "Beijing Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction to the travel vlog, setting the mood and initial travel plans.",
+      "key_elements": [
+        "Introduction to the trip",
+        "Initial travel excitement",
+        "Departure preparations"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1441,
+      "description": "Main travel experiences in Beijing, including food, sightseeing, and cultural exploration.",
+      "segments": [
+        {
+          "type": "airport and travel preparation",
+          "description": "Preparing for the trip, including packing and heading to the airport.",
+          "typical_duration": 120,
+          "scene_activity": "Packing and airport check-in",
+          "location": "Home and airport",
+          "mood": "Excited"
+        },
+        {
+          "type": "food experience",
+          "description": "Trying local cuisine, including a detailed experience of eating Beijing duck.",
+          "typical_duration": 180,
+          "scene_activity": "Dining at a local restaurant",
+          "location": "Beijing restaurant",
+          "mood": "Savoring"
+        },
+        {
+          "type": "sightseeing",
+          "description": "Exploring historical sites such as the Summer Palace and the Forbidden City.",
+          "typical_duration": 300,
+          "scene_activity": "Walking through historical sites",
+          "location": "Beijing landmarks",
+          "mood": "Awe-inspired"
+        },
+        {
+          "type": "cultural exploration",
+          "description": "Engaging with local culture, including visiting traditional markets and shops.",
+          "typical_duration": 180,
+          "scene_activity": "Shopping and exploring local markets",
+          "location": "Beijing streets and markets",
+          "mood": "Curious"
+        },
+        {
+          "type": "relaxation and reflection",
+          "description": "Visiting a hot spring and reflecting on the travel experiences.",
+          "typical_duration": 120,
+          "scene_activity": "Relaxing at a hot spring",
+          "location": "Beijing hot spring",
+          "mood": "Relaxed"
+        },
+        {
+          "type": "nightlife and entertainment",
+          "description": "Experiencing Beijing's nightlife, including attending a traditional performance.",
+          "typical_duration": 120,
+          "scene_activity": "Watching a cultural performance",
+          "location": "Beijing theater",
+          "mood": "Entertained"
+        },
+        {
+          "type": "travel logistics",
+          "description": "Discussing travel logistics and tips for future travelers.",
+          "typical_duration": 120,
+          "scene_activity": "Explaining travel tips",
+          "location": "Various locations",
+          "mood": "Informative"
+        },
+        {
+          "type": "final reflections",
+          "description": "Reflecting on the overall trip and experiences in Beijing.",
+          "typical_duration": 120,
+          "scene_activity": "Reflecting on the trip",
+          "location": "Hotel room",
+          "mood": "Nostalgic"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 180,
+      "description": "Concluding the vlog with final thoughts and farewells.",
+      "key_elements": [
+        "Final reflections",
+        "Goodbye message",
+        "Encouragement to visit Beijing"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#897768",
+      "#5a4a40",
+      "#ada49a",
+      "#d0d7d4",
+      "#231b19"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.36,
+    "scene_changes": 1369,
+    "camera_work": [
+      "Handheld",
+      "Drone shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 5,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and engaging",
+      "content_type": "Sharing experiences and travel tips"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Cultural immersion",
+      "description": "Frequent exploration of local culture and traditions.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food exploration",
+      "description": "Detailed focus on trying and reviewing local cuisine.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural education"
+  ]
+}

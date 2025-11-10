@@ -1,0 +1,144 @@
+{
+  "template_name": "Casual Camping and Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 15,
+      "description": "The vlog opens with a serene view through a window in a suburban area, followed by a friendly introduction from the vlogger in a personal space.",
+      "key_elements": [
+        "calm suburban view",
+        "friendly wave",
+        "indoor setting"
+      ]
+    },
+    "body": {
+      "duration_seconds": 791,
+      "description": "The main content includes packing and organizing for a camping trip, traveling by car, enjoying outdoor activities, dining experiences, and setting up a campsite.",
+      "segments": [
+        {
+          "type": "packing and organizing",
+          "description": "Scenes of packing and organizing items for a camping trip, including preparing travel gear and loading a car.",
+          "typical_duration": 60,
+          "scene_activity": "Packing and organizing items",
+          "location": "Indoor, likely a bedroom or storage area",
+          "mood": "Practical and focused"
+        },
+        {
+          "type": "car travel",
+          "description": "Traveling by car, including interactions inside the vehicle and views of the road and surrounding landscape.",
+          "typical_duration": 120,
+          "scene_activity": "Driving and interacting in a car",
+          "location": "Inside a car, on highways and roads",
+          "mood": "Relaxed and cheerful"
+        },
+        {
+          "type": "outdoor exploration",
+          "description": "Exploring outdoor settings such as beaches, parks, and campsites, with activities like walking and enjoying nature.",
+          "typical_duration": 180,
+          "scene_activity": "Walking and exploring outdoor areas",
+          "location": "Outdoor, at beaches and campsites",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "dining experiences",
+          "description": "Dining at various locations, including cafes and outdoor picnic spots, with food closeups and casual interactions.",
+          "typical_duration": 120,
+          "scene_activity": "Eating and interacting over meals",
+          "location": "Indoor and outdoor dining areas",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "camp setup",
+          "description": "Setting up a campsite, including pitching tents and organizing camping gear.",
+          "typical_duration": 180,
+          "scene_activity": "Setting up and organizing a campsite",
+          "location": "Outdoor campsite",
+          "mood": "Casual and focused"
+        },
+        {
+          "type": "nature observation",
+          "description": "Observing nature, including views of the ocean, trees, and wildlife.",
+          "typical_duration": 131,
+          "scene_activity": "Observing natural surroundings",
+          "location": "Outdoor, at beaches and parks",
+          "mood": "Calm and serene"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 15,
+      "description": "The vlog concludes with a serene view of the camping area and a text overlay for viewer engagement.",
+      "key_elements": [
+        "camping area view",
+        "text overlay"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#17171a",
+      "#999fab",
+      "#494545"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.8,
+    "scene_changes": 453,
+    "camera_work": [
+      "handheld",
+      "static"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and friendly",
+      "content_type": "Sharing experiences and casual interactions"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean subtitles",
+      "content_type": "Emotional descriptions and instructions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Travel and Exploration",
+      "description": "Frequent scenes of traveling by car and exploring outdoor locations.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Casual Dining",
+      "description": "Regular scenes of dining experiences with food closeups.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Camping Setup",
+      "description": "Detailed scenes of setting up and organizing a campsite.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Camping tips",
+    "Casual lifestyle content"
+  ]
+}

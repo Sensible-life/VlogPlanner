@@ -1,0 +1,139 @@
+{
+  "template_name": "Korean Vlog Tutorial",
+  "category": "personal_growth",
+  "structure": {
+    "opening": {
+      "duration_seconds": 180,
+      "description": "The vlogger introduces the video, explaining the purpose of the vlog and what viewers can expect. The vlogger speaks directly to the camera in a friendly and engaging manner.",
+      "key_elements": [
+        "Introduction",
+        "Purpose of vlog",
+        "Friendly tone"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1140,
+      "description": "The main content consists of the vlogger sharing tips and experiences about vlogging, including equipment recommendations, editing tips, and personal anecdotes. The vlogger frequently speaks directly to the camera, offering advice and insights.",
+      "segments": [
+        {
+          "type": "Dialogue/Explanation",
+          "description": "The vlogger discusses the importance of starting a vlog and shares personal experiences and motivations.",
+          "typical_duration": 120,
+          "scene_activity": "Speaking directly to the camera, explaining motivations",
+          "location": "Indoor, likely a home or office setting",
+          "mood": "Informative and casual"
+        },
+        {
+          "type": "Equipment Discussion",
+          "description": "The vlogger talks about the equipment used for vlogging, including cameras and smartphones, and offers recommendations based on personal experience.",
+          "typical_duration": 180,
+          "scene_activity": "Discussing equipment and recommendations",
+          "location": "Indoor, likely a home or office setting",
+          "mood": "Informative and casual"
+        },
+        {
+          "type": "Editing Tips",
+          "description": "The vlogger shares tips on video editing, including software recommendations and personal editing workflows.",
+          "typical_duration": 180,
+          "scene_activity": "Explaining editing techniques and software",
+          "location": "Indoor, likely a home or office setting",
+          "mood": "Informative and casual"
+        },
+        {
+          "type": "Personal Anecdotes",
+          "description": "The vlogger shares personal stories and experiences related to vlogging, including challenges and successes.",
+          "typical_duration": 180,
+          "scene_activity": "Sharing personal stories and experiences",
+          "location": "Indoor, likely a home or office setting",
+          "mood": "Casual and engaging"
+        },
+        {
+          "type": "Audience Engagement",
+          "description": "The vlogger engages with the audience, encouraging them to start their own vlogs and offering motivational advice.",
+          "typical_duration": 180,
+          "scene_activity": "Encouraging viewers and offering advice",
+          "location": "Indoor, likely a home or office setting",
+          "mood": "Motivational and engaging"
+        },
+        {
+          "type": "Conclusion and Final Thoughts",
+          "description": "The vlogger concludes the main content with final thoughts and a summary of the key points discussed.",
+          "typical_duration": 120,
+          "scene_activity": "Summarizing key points and concluding",
+          "location": "Indoor, likely a home or office setting",
+          "mood": "Calm and reflective"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 118,
+      "description": "The vlogger wraps up the video with a friendly outro, thanking viewers and encouraging them to subscribe.",
+      "key_elements": [
+        "Outro",
+        "Thank you message",
+        "Call to action"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#d3d6d5",
+      "#191211",
+      "#a48e83"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 6.6,
+    "scene_changes": 217,
+    "camera_work": [
+      "Static shots",
+      "Direct-to-camera"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and engaging",
+      "content_type": "Explaining, sharing experiences, offering advice"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean subtitles",
+      "content_type": "Emphasizing key points, providing translations"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Direct-to-Camera Dialogue",
+      "description": "The vlogger frequently speaks directly to the camera, creating a personal and engaging connection with the audience.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Equipment and Editing Tips",
+      "description": "The vlogger provides practical tips and recommendations on equipment and editing techniques.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Vlog tutorials",
+    "Personal growth content"
+  ]
+}

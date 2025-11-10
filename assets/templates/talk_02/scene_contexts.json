@@ -1,0 +1,823 @@
+{
+  "total_scenes": 76,
+  "scenes": [
+    {
+      "timestamp": 27.560866666666666,
+      "timestamp_formatted": "0:00:27",
+      "activity": "A person is speaking directly to the camera, possibly addressing an audience.",
+      "location": "Indoor setting, likely a bedroom or living room.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience.\n2. **Location**: Indoor setting, likely a bedroom or living room.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: \n   - Person speaking\n   - Dark curtains in the background\n   - Bed or sofa partially visible\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 28.545183333333334,
+      "timestamp_formatted": "0:00:28",
+      "activity": "A person is speaking or presenting to the camera.",
+      "location": "Indoor setting, likely a bedroom or living room.",
+      "mood": "Calm and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue or presentation.",
+      "raw_analysis": "1. **Activity**: A person is speaking or presenting to the camera.\n2. **Location**: Indoor setting, likely a bedroom or living room.\n3. **Mood**: Calm and friendly.\n4. **Key Elements**: Person, bed or couch, lamp, decorative graphics.\n5. **Scene Type**: Dialogue or presentation."
+    },
+    {
+      "timestamp": 29.529500000000002,
+      "timestamp_formatted": "0:00:29",
+      "activity": "A person is speaking directly to the camera, possibly answering a question or sharing information.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly answering a question or sharing information.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person sitting on a bed\n   - Bed with white sheets\n   - Lamp on a bedside table\n   - Dark curtains in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 35.4354,
+      "timestamp_formatted": "0:00:35",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person sitting on a bed\n   - Bed with white bedding\n   - Lamp on a nightstand\n   - Dark curtains in the background\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 46.262883333333335,
+      "timestamp_formatted": "0:00:46",
+      "activity": "A person is speaking directly to the camera, likely addressing the audience.",
+      "location": "Indoor setting, possibly a bedroom or living room.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing the audience.\n2. **Location**: Indoor setting, possibly a bedroom or living room.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person speaking\n   - Dark curtains in the background\n   - Soft lighting\n   - Text overlay in red\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 47.2472,
+      "timestamp_formatted": "0:00:47",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or personal video.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or personal video.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a bedside table\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 54.13741666666667,
+      "timestamp_formatted": "0:00:54",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, possibly a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, possibly a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a nightstand\n   - Dark curtains\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 57.09036666666667,
+      "timestamp_formatted": "0:00:57",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Bedside lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 62.99626666666667,
+      "timestamp_formatted": "0:01:02",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a bedside table\n   - Dark curtains in the background\n5. **Scene Type**: Dialogue/Monologue."
+    },
+    {
+      "timestamp": 84.65123333333334,
+      "timestamp_formatted": "0:01:24",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a personal message.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "The atmosphere is intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: The atmosphere is intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed in the background\n   - Lamp on a side table\n   - Curtains\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 89.57281666666667,
+      "timestamp_formatted": "0:01:29",
+      "activity": "A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person sitting on a bed\n   - Bed with white bedding\n   - Lamp on a bedside table\n   - Dark curtains in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 106.3062,
+      "timestamp_formatted": "0:01:46",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.",
+      "location": "Indoor setting, likely a bedroom or a cozy living space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.\n2. **Location**: Indoor setting, likely a bedroom or a cozy living space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white sheets\n   - Dark curtains in the background\n   - Decorative overlay with stars and moons\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 107.29051666666666,
+      "timestamp_formatted": "0:01:47",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, bed, bedside lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 116.14936666666667,
+      "timestamp_formatted": "0:01:56",
+      "activity": "A person is speaking directly to the camera, likely in a vlog or personal video.",
+      "location": "Indoor, possibly a bedroom or living room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely in a vlog or personal video.\n2. **Location**: Indoor, possibly a bedroom or living room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Dark curtains in the background\n   - Soft lighting from a lamp\n   - Text overlay in the bottom left corner\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 119.10231666666667,
+      "timestamp_formatted": "0:01:59",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, possibly a bedroom or hotel room.",
+      "mood": "Intimate and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, possibly a bedroom or hotel room.\n3. **Mood**: Intimate and personal.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a side table\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 130.91411666666667,
+      "timestamp_formatted": "0:02:10",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or tutorial.",
+      "location": "Indoor, likely a bedroom or a personal space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or tutorial.\n2. **Location**: Indoor, likely a bedroom or a personal space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person speaking, bed, dark curtains, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 136.82001666666667,
+      "timestamp_formatted": "0:02:16",
+      "activity": "A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white sheets\n   - Bedside lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 184.06721666666667,
+      "timestamp_formatted": "0:03:04",
+      "activity": "A person is posing and smiling at the camera, possibly for a video or selfie.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Personal vlog or selfie moment.",
+      "raw_analysis": "1. **Activity**: A person is posing and smiling at the camera, possibly for a video or selfie.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person smiling, bed, lamp, curtains, decorative graphics.\n5. **Scene Type**: Personal vlog or selfie moment."
+    },
+    {
+      "timestamp": 185.05153333333334,
+      "timestamp_formatted": "0:03:05",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person speaking, bed, lamp, dark curtains, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 201.78491666666667,
+      "timestamp_formatted": "0:03:21",
+      "activity": "A person is speaking directly to the camera, possibly addressing an audience.",
+      "location": "Indoor setting, likely a bedroom or living room.",
+      "mood": "Friendly and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience.\n2. **Location**: Indoor setting, likely a bedroom or living room.\n3. **Mood**: Friendly and engaging.\n4. **Key Elements**: \n   - Person speaking\n   - Bed or couch in the background\n   - Lamp\n   - Curtains\n5. **Scene Type**: Dialogue/Monologue."
+    },
+    {
+      "timestamp": 203.75355,
+      "timestamp_formatted": "0:03:23",
+      "activity": "A person is gesturing with their index finger raised, possibly emphasizing a point or giving instructions.",
+      "location": "Indoor setting, likely a bedroom or living room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or instructional.",
+      "raw_analysis": "1. **Activity**: A person is gesturing with their index finger raised, possibly emphasizing a point or giving instructions.\n2. **Location**: Indoor setting, likely a bedroom or living room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Raised finger, person partially visible, lamp, curtains, decorative graphics.\n5. **Scene Type**: Dialogue or instructional."
+    },
+    {
+      "timestamp": 204.73786666666666,
+      "timestamp_formatted": "0:03:24",
+      "activity": "A person is speaking directly to the camera, possibly answering a question or discussing a topic.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly answering a question or discussing a topic.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a side table\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 209.65945,
+      "timestamp_formatted": "0:03:29",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor, likely a bedroom or living space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor, likely a bedroom or living space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person speaking, bed, lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 212.6124,
+      "timestamp_formatted": "0:03:32",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person speaking, bed, bedside lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 233.28305,
+      "timestamp_formatted": "0:03:53",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a personal message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Wall lamp\n   - Dark curtains\n   - Text on screen\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 238.20463333333333,
+      "timestamp_formatted": "0:03:58",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the content of this video frame as it appears to be mostly obscured by a decorative overlay. If you have another frame or more context, feel free to share!"
+    },
+    {
+      "timestamp": 239.18895,
+      "timestamp_formatted": "0:03:59",
+      "activity": "A person is speaking directly to the camera, likely engaging in a vlog or personal video message.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal video message.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person, bed, bedside lamp, curtains, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 258.87528333333336,
+      "timestamp_formatted": "0:04:18",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or tutorial format.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or tutorial format.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, bed, lamp, curtains, decorative graphics.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 259.8596,
+      "timestamp_formatted": "0:04:19",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person sitting on a bed\n   - Bed with white bedding\n   - Soft lighting from a lamp\n   - Dark curtains in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 276.59298333333334,
+      "timestamp_formatted": "0:04:36",
+      "activity": "A person is speaking directly to the camera, likely sharing information or a personal story.",
+      "location": "Indoor, likely a bedroom or a cozy living space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely sharing information or a personal story.\n2. **Location**: Indoor, likely a bedroom or a cozy living space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a bedside table\n   - Dark curtains\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 283.4832,
+      "timestamp_formatted": "0:04:43",
+      "activity": "A person is speaking directly to the camera, possibly sharing a message or story.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly sharing a message or story.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Soft lighting from a lamp\n   - Dark curtains in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 298.24795,
+      "timestamp_formatted": "0:04:58",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor, likely a bedroom or a personal space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor, likely a bedroom or a personal space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Wall lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 306.1224833333333,
+      "timestamp_formatted": "0:05:06",
+      "activity": "A person is speaking directly to the camera, possibly sharing a personal story or giving advice.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly sharing a personal story or giving advice.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Nightstand with a lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 330.73040000000003,
+      "timestamp_formatted": "0:05:30",
+      "activity": "A person is speaking directly to the camera, likely sharing a personal story or advice.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely sharing a personal story or advice.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: Person speaking, bed, bedside lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 337.62061666666665,
+      "timestamp_formatted": "0:05:37",
+      "activity": "A person is speaking directly to the camera, possibly reviewing or discussing a product.",
+      "location": "Indoor, likely a bedroom or living room setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or product review.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly reviewing or discussing a product.\n2. **Location**: Indoor, likely a bedroom or living room setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person holding a white device\n   - Bed with pillows\n   - Lamp on a side table\n   - Dark curtains\n5. **Scene Type**: Dialogue or product review."
+    },
+    {
+      "timestamp": 349.43241666666665,
+      "timestamp_formatted": "0:05:49",
+      "activity": "A person is speaking directly to the camera, possibly delivering a monologue or vlog entry.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly delivering a monologue or vlog entry.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Wall lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 361.24421666666666,
+      "timestamp_formatted": "0:06:01",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze this video frame as it appears to be mostly obscured by a white overlay with decorative elements. If you have another frame or more context, feel free to share!"
+    },
+    {
+      "timestamp": 362.22853333333336,
+      "timestamp_formatted": "0:06:02",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a video message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a video message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person speaking, bed, bedside lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 391.75803333333334,
+      "timestamp_formatted": "0:06:31",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, possibly a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, possibly a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white sheets\n   - Lamp on a bedside table\n   - Dark curtains\n   - Inset image with cityscape and person\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 395.69530000000003,
+      "timestamp_formatted": "0:06:35",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or tutorial.",
+      "location": "Indoor, likely a bedroom or living space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or tutorial.\n2. **Location**: Indoor, likely a bedroom or living space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with pillows\n   - Lamp\n   - Curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 414.39731666666665,
+      "timestamp_formatted": "0:06:54",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person sitting on a bed\n   - Bed with white bedding\n   - Wall lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 418.33458333333334,
+      "timestamp_formatted": "0:06:58",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or personal video message.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or personal video message.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Wall lamp\n   - Dark curtains\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 419.3189,
+      "timestamp_formatted": "0:06:59",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Bedside lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 423.2561666666667,
+      "timestamp_formatted": "0:07:03",
+      "activity": "A person is speaking directly to the camera, possibly in a vlog or personal video.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or personal video.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person speaking, bed, lamp, dark curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 426.20911666666666,
+      "timestamp_formatted": "0:07:06",
+      "activity": "A person is smiling and possibly speaking or reacting to something.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "The atmosphere is intimate and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue or reaction shot.",
+      "raw_analysis": "1. **Activity**: A person is smiling and possibly speaking or reacting to something.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: The atmosphere is intimate and cheerful.\n4. **Key Elements**: \n   - Person smiling\n   - Bed with white bedding\n   - Lamp on the wall\n   - Dark curtains\n   - Question mark graphic\n5. **Scene Type**: Dialogue or reaction shot."
+    },
+    {
+      "timestamp": 464.59746666666666,
+      "timestamp_formatted": "0:07:44",
+      "activity": "A person is speaking directly to the camera, likely delivering a message or presentation.",
+      "location": "Indoor setting, possibly a bedroom or living room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Presentation.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely delivering a message or presentation.\n2. **Location**: Indoor setting, possibly a bedroom or living room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person speaking\n   - Lamp in the background\n   - Curtains\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/Presentation."
+    },
+    {
+      "timestamp": 467.55041666666665,
+      "timestamp_formatted": "0:07:47",
+      "activity": "A person is speaking directly to the camera, likely discussing a topic or sharing information.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely discussing a topic or sharing information.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a nightstand\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 490.1897,
+      "timestamp_formatted": "0:08:10",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Dark curtains\n   - Wall lamp\n5. **Scene Type**: Dialogue/Monologue."
+    },
+    {
+      "timestamp": 493.14265,
+      "timestamp_formatted": "0:08:13",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a personal message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Lamp on a nightstand\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 519.7192,
+      "timestamp_formatted": "0:08:39",
+      "activity": "A person appears to be speaking or posing, possibly for a video or photo.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or introduction.",
+      "raw_analysis": "1. **Activity**: A person appears to be speaking or posing, possibly for a video or photo.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person with long hair, bed with white bedding, dark curtains, decorative overlay with stars and moons.\n5. **Scene Type**: Dialogue or introduction."
+    },
+    {
+      "timestamp": 520.7035166666667,
+      "timestamp_formatted": "0:08:40",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a personal message.",
+      "location": "Indoor, likely a bedroom or a cozy living space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.\n2. **Location**: Indoor, likely a bedroom or a cozy living space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person speaking, bed, bedside lamp, dark curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 537.4369,
+      "timestamp_formatted": "0:08:57",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white sheets\n   - Lamp on a nightstand\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 558.1075500000001,
+      "timestamp_formatted": "0:09:18",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Bed or couch in the background\n   - Curtains\n   - Text overlay with an emoji\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 560.0761833333333,
+      "timestamp_formatted": "0:09:20",
+      "activity": "A person is speaking directly to the camera, possibly addressing an audience.",
+      "location": "Indoor, likely a bedroom or a cozy living space.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience.\n2. **Location**: Indoor, likely a bedroom or a cozy living space.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: Person sitting on a bed, bedside lamp, dark curtains, soft lighting.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 564.01345,
+      "timestamp_formatted": "0:09:24",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person speaking, bed or sofa, lamp, curtains, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 565.9820833333333,
+      "timestamp_formatted": "0:09:25",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or discussion.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or discussion.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person speaking, bed, bedside lamp, dark curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 571.8879833333333,
+      "timestamp_formatted": "0:09:31",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or tutorial.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, bed, lamp, dark curtains, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 628.97835,
+      "timestamp_formatted": "0:10:28",
+      "activity": "The scene appears to be a static shot of a bedroom setting.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot of a bedroom setting.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Bed with white sheets, wall lamp, framed picture, curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 629.9626666666667,
+      "timestamp_formatted": "0:10:29",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Nightstand with a lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 667.3667,
+      "timestamp_formatted": "0:11:07",
+      "activity": "A person is presenting or reviewing a book.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and informative.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Presentation.",
+      "raw_analysis": "1. **Activity**: A person is presenting or reviewing a book.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and informative.\n4. **Key Elements**: Person, bed, lamp, book cover, text overlay.\n5. **Scene Type**: Dialogue/Presentation."
+    },
+    {
+      "timestamp": 676.22555,
+      "timestamp_formatted": "0:11:16",
+      "activity": "A person is speaking directly to the camera, likely discussing a topic or sharing information.",
+      "location": "Indoor, possibly a bedroom or a cozy living space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely discussing a topic or sharing information.\n2. **Location**: Indoor, possibly a bedroom or a cozy living space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with pillows\n   - Lamp on a bedside table\n   - Curtains in the background\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 682.13145,
+      "timestamp_formatted": "0:11:22",
+      "activity": "A person is speaking directly to the camera, possibly sharing information or advice.",
+      "location": "Indoor, likely a bedroom or a personal space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly sharing information or advice.\n2. **Location**: Indoor, likely a bedroom or a personal space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with a tufted headboard\n   - Bedside lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 699.84915,
+      "timestamp_formatted": "0:11:39",
+      "activity": "A person is speaking to the camera, possibly discussing or reviewing a book.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly discussing or reviewing a book.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person holding a book\n   - Bed with white bedding\n   - Wall lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 727.4100166666667,
+      "timestamp_formatted": "0:12:07",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the content of this image. It appears to be text in Korean. If you need a translation or summary, please let me know!"
+    },
+    {
+      "timestamp": 730.3629666666667,
+      "timestamp_formatted": "0:12:10",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, bed, bedside lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 795.3278666666666,
+      "timestamp_formatted": "0:13:15",
+      "activity": "A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.",
+      "location": "Indoor setting, likely a bedroom or hotel room.",
+      "mood": "Intimate and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.\n2. **Location**: Indoor setting, likely a bedroom or hotel room.\n3. **Mood**: Intimate and personal.\n4. **Key Elements**: Person speaking, bed, curtains, text overlay with snowflake graphics.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 796.3121833333333,
+      "timestamp_formatted": "0:13:16",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience or recording a vlog.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience or recording a vlog.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Bedside lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 804.1867166666667,
+      "timestamp_formatted": "0:13:24",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, possibly a bedroom or a cozy living space.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, possibly a bedroom or a cozy living space.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: \n   - Person speaking\n   - Bed in the background\n   - Lamp on a nightstand\n   - Dark curtains\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 827.8103166666667,
+      "timestamp_formatted": "0:13:47",
+      "activity": "A person is speaking directly to the camera, possibly delivering a monologue or vlog.",
+      "location": "Indoor, likely a bedroom or hotel room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly delivering a monologue or vlog.\n2. **Location**: Indoor, likely a bedroom or hotel room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person speaking, bed, lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 848.4809666666666,
+      "timestamp_formatted": "0:14:08",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, possibly a bedroom or living room.",
+      "mood": "Warm and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, possibly a bedroom or living room.\n3. **Mood**: Warm and friendly.\n4. **Key Elements**: Person smiling, lamp, curtains, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 849.4652833333333,
+      "timestamp_formatted": "0:14:09",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person speaking, bed, bedside lamp, dark curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 862.2614,
+      "timestamp_formatted": "0:14:22",
+      "activity": "A person is speaking energetically, possibly addressing an audience or camera.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Energetic and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking energetically, possibly addressing an audience or camera.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Energetic and cheerful.\n4. **Key Elements**: Person with raised arms, bed or sofa, lamp, curtains.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 864.2300333333334,
+      "timestamp_formatted": "0:14:24",
+      "activity": "A person is speaking directly to the camera, likely addressing an audience.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Bed with white bedding\n   - Bedside lamp\n   - Dark curtains\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 871.12025,
+      "timestamp_formatted": "0:14:31",
+      "activity": "A person is smiling and waving at the camera, likely concluding a video.",
+      "location": "Indoor, possibly a bedroom or living room.",
+      "mood": "Friendly and cheerful.",
+      "key_elements": [],
+      "scene_type": "Conclusion/Sign-off.",
+      "raw_analysis": "1. **Activity**: A person is smiling and waving at the camera, likely concluding a video.\n2. **Location**: Indoor, possibly a bedroom or living room.\n3. **Mood**: Friendly and cheerful.\n4. **Key Elements**: Person smiling, hands raised, soft lighting, text overlay.\n5. **Scene Type**: Conclusion/Sign-off."
+    },
+    {
+      "timestamp": 872.1045666666666,
+      "timestamp_formatted": "0:14:32",
+      "activity": "A person is waving and smiling at the camera, likely saying goodbye or ending a video.",
+      "location": "Indoor, possibly a bedroom or hotel room.",
+      "mood": "Friendly and warm.",
+      "key_elements": [],
+      "scene_type": "Closing or farewell shot.",
+      "raw_analysis": "1. **Activity**: A person is waving and smiling at the camera, likely saying goodbye or ending a video.\n2. **Location**: Indoor, possibly a bedroom or hotel room.\n3. **Mood**: Friendly and warm.\n4. **Key Elements**: \n   - Person smiling and waving\n   - Bed in the background\n   - Soft lighting\n   - Curtains\n5. **Scene Type**: Closing or farewell shot."
+    },
+    {
+      "timestamp": 874.0732,
+      "timestamp_formatted": "0:14:34",
+      "activity": "Three people are engaged in a conversation, possibly recording or discussing something.",
+      "location": "Indoor setting, likely a casual meeting or dining area.",
+      "mood": "The atmosphere appears relaxed and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Three people are engaged in a conversation, possibly recording or discussing something.\n2. **Location**: Indoor setting, likely a casual meeting or dining area.\n3. **Mood**: The atmosphere appears relaxed and friendly.\n4. **Key Elements**: \n   - Three people sitting at a table\n   - Notebooks and papers on the table\n   - A lamp providing soft lighting\n   - Drinks with straws\n5. **Scene Type**: Dialogue"
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Dialogue.",
+        49
+      ],
+      [
+        "Dialogue/monologue.",
+        9
+      ],
+      [
+        "Dialogue/Monologue.",
+        3
+      ],
+      [
+        "",
+        3
+      ],
+      [
+        "Dialogue/Presentation.",
+        2
+      ]
+    ],
+    "locations": [
+      "Indoor setting, likely a bedroom or living room.",
+      "Indoor, likely a bedroom or hotel room.",
+      "Indoor, in a bedroom setting.",
+      "Indoor setting, possibly a bedroom or living room.",
+      "Indoor, likely a bedroom.",
+      "Indoor, possibly a bedroom or hotel room.",
+      "Indoor setting, likely a bedroom or hotel room.",
+      "Indoor setting, likely a bedroom or a cozy living space.",
+      "Indoor, possibly a bedroom or living room.",
+      "Indoor, likely a bedroom or a personal space."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and intimate.",
+        30
+      ],
+      [
+        "Intimate and relaxed.",
+        19
+      ],
+      [
+        "Intimate and calm.",
+        9
+      ],
+      [
+        "",
+        3
+      ],
+      [
+        "Friendly and engaging.",
+        2
+      ]
+    ]
+  }
+}

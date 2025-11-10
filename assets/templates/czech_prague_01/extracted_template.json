@@ -1,0 +1,157 @@
+{
+  "template_name": "Prague Travel Experience",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction to the trip to Prague, showcasing the excitement and initial impressions.",
+      "key_elements": [
+        "Travel plans",
+        "First impressions of Prague",
+        "Hotel room tour"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1669,
+      "description": "Exploration of Prague with visits to iconic landmarks, food experiences, and cultural insights.",
+      "segments": [
+        {
+          "type": "hotel room tour",
+          "description": "Tour of the hotel room, highlighting its spaciousness and amenities.",
+          "typical_duration": 120,
+          "scene_activity": "Room tour and commentary",
+          "location": "Hotel room",
+          "mood": "Excited"
+        },
+        {
+          "type": "city exploration",
+          "description": "Walking through Prague, admiring architecture and cityscapes.",
+          "typical_duration": 300,
+          "scene_activity": "Street walking and sightseeing",
+          "location": "Prague streets",
+          "mood": "Adventurous"
+        },
+        {
+          "type": "food experience",
+          "description": "Trying local delicacies like 'golubki' and enjoying the flavors.",
+          "typical_duration": 180,
+          "scene_activity": "Eating and reviewing food",
+          "location": "Local eateries",
+          "mood": "Satisfying"
+        },
+        {
+          "type": "landmark visit",
+          "description": "Visiting famous landmarks such as the Charles Bridge and Prague Castle.",
+          "typical_duration": 400,
+          "scene_activity": "Touring historical sites",
+          "location": "Landmarks",
+          "mood": "Awe-inspiring"
+        },
+        {
+          "type": "cultural insight",
+          "description": "Learning about Prague's history and culture through museums and guided tours.",
+          "typical_duration": 200,
+          "scene_activity": "Cultural exploration",
+          "location": "Museums and historical sites",
+          "mood": "Educational"
+        },
+        {
+          "type": "evening stroll",
+          "description": "Nighttime walk to enjoy the city's lights and ambiance.",
+          "typical_duration": 150,
+          "scene_activity": "Evening walk",
+          "location": "City streets",
+          "mood": "Relaxing"
+        },
+        {
+          "type": "shopping and souvenirs",
+          "description": "Browsing local markets and purchasing souvenirs.",
+          "typical_duration": 150,
+          "scene_activity": "Shopping",
+          "location": "Local markets",
+          "mood": "Joyful"
+        },
+        {
+          "type": "reflection and relaxation",
+          "description": "Reflecting on the day's experiences and relaxing at the hotel.",
+          "typical_duration": 169,
+          "scene_activity": "Relaxation and reflection",
+          "location": "Hotel",
+          "mood": "Content"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 240,
+      "description": "Concluding the Prague trip with final thoughts and a look forward to the next destination.",
+      "key_elements": [
+        "Final reflections",
+        "Packing up",
+        "Departure for next destination"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#dde2e3",
+      "#554c46",
+      "#201a19",
+      "#8a7b72",
+      "#b5aca7"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.68,
+    "scene_changes": 1278,
+    "camera_work": [
+      "Handheld",
+      "Static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "City Exploration",
+      "description": "Frequent scenes of walking through city streets and exploring landmarks.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food Tasting",
+      "description": "Regular segments dedicated to trying and reviewing local food.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

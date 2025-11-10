@@ -1,0 +1,128 @@
+{
+  "template_name": "Korean Daily Routine Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "The vlogger wakes up and shares initial thoughts and observations about the day.",
+      "key_elements": [
+        "morning thoughts",
+        "initial observations",
+        "weather commentary"
+      ]
+    },
+    "body": {
+      "duration_seconds": 528,
+      "description": "The vlogger goes through their daily routine, including work, personal reflections, and interactions.",
+      "segments": [
+        {
+          "type": "morning routine",
+          "description": "The vlogger discusses their morning routine, including getting ready and thoughts on the day ahead.",
+          "typical_duration": 120,
+          "scene_activity": "Getting ready for the day",
+          "location": "Home",
+          "mood": "Reflective"
+        },
+        {
+          "type": "commute",
+          "description": "The vlogger shares experiences and thoughts during their commute to work.",
+          "typical_duration": 100,
+          "scene_activity": "Commuting to work",
+          "location": "Public transport",
+          "mood": "Contemplative"
+        },
+        {
+          "type": "work reflections",
+          "description": "The vlogger reflects on work experiences and shares personal insights.",
+          "typical_duration": 150,
+          "scene_activity": "Reflecting on work",
+          "location": "Office",
+          "mood": "Introspective"
+        },
+        {
+          "type": "music and relaxation",
+          "description": "The vlogger listens to music and shares how it helps them relax and cope with stress.",
+          "typical_duration": 80,
+          "scene_activity": "Listening to music",
+          "location": "Various locations",
+          "mood": "Relaxed"
+        },
+        {
+          "type": "evening reflections",
+          "description": "The vlogger reflects on the day and shares thoughts on personal growth and future plans.",
+          "typical_duration": 78,
+          "scene_activity": "Reflecting on the day",
+          "location": "Home",
+          "mood": "Thoughtful"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 200,
+      "description": "The vlogger concludes the day with final thoughts and reflections on their routine and personal growth.",
+      "key_elements": [
+        "final reflections",
+        "personal growth",
+        "future plans"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#110f12",
+      "#837975",
+      "#e1e3e8",
+      "#4c4246",
+      "#acacb1"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.305,
+    "scene_changes": 742,
+    "camera_work": [
+      "handheld",
+      "static"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Sharing daily experiences and reflections"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional emphasis on key points"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Daily Reflections",
+      "description": "The vlogger frequently reflects on their daily experiences and personal growth.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine inspiration",
+    "Personal growth reflection"
+  ]
+}

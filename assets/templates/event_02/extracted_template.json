@@ -1,0 +1,136 @@
+{
+  "template_name": "Korean School Festival Vlog",
+  "category": "event_entertainment",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction to the school festival, setting the scene with high energy and anticipation.",
+      "key_elements": [
+        "school festival introduction",
+        "mention of friend Minhee",
+        "setting expectations"
+      ]
+    },
+    "body": {
+      "duration_seconds": 966,
+      "description": "Main content featuring various activities and interactions at the school festival.",
+      "segments": [
+        {
+          "type": "travel to festival",
+          "description": "Traveling to the school festival with friend Minhee, discussing plans and excitement.",
+          "typical_duration": 120,
+          "scene_activity": "Traveling and discussing plans",
+          "location": "In transit to school festival",
+          "mood": "Excited"
+        },
+        {
+          "type": "festival arrival",
+          "description": "Arriving at the festival, exploring the area, and meeting friends.",
+          "typical_duration": 180,
+          "scene_activity": "Exploring festival grounds",
+          "location": "School festival",
+          "mood": "Energetic"
+        },
+        {
+          "type": "food tasting",
+          "description": "Sampling various foods at the festival, sharing reactions and favorites.",
+          "typical_duration": 150,
+          "scene_activity": "Eating and reviewing food",
+          "location": "Food stalls at festival",
+          "mood": "Joyful"
+        },
+        {
+          "type": "performance watching",
+          "description": "Watching and reacting to performances by students and guests.",
+          "typical_duration": 180,
+          "scene_activity": "Watching performances",
+          "location": "Festival stage area",
+          "mood": "Entertained"
+        },
+        {
+          "type": "games and activities",
+          "description": "Participating in games and activities, interacting with other attendees.",
+          "typical_duration": 180,
+          "scene_activity": "Playing games and socializing",
+          "location": "Various festival booths",
+          "mood": "Playful"
+        },
+        {
+          "type": "friend interactions",
+          "description": "Conversing and joking with friends, capturing candid moments.",
+          "typical_duration": 156,
+          "scene_activity": "Chatting and laughing with friends",
+          "location": "Throughout festival",
+          "mood": "Friendly"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 40,
+      "description": "Wrapping up the festival experience, expressing gratitude and final thoughts.",
+      "key_elements": [
+        "festival wrap-up",
+        "expressing gratitude",
+        "final thoughts"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#120e11",
+      "#ae8d85",
+      "#3d3136",
+      "#cecbc7",
+      "#695d67"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.51,
+    "scene_changes": 824,
+    "camera_work": [
+      "handheld",
+      "dynamic angles"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 5,
+    "social": 5,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional clarifications"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "High Energy Interactions",
+      "description": "Frequent high-energy interactions and conversations with friends.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Event coverage",
+    "Festival experiences"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "template_name": "Creative Art Vlog",
+  "category": "creative_art",
+  "structure": {
+    "opening": {
+      "duration_seconds": 6,
+      "description": "The video opens with a close-up of a tablet screen displaying the time and date, setting a casual and relaxed tone.",
+      "key_elements": [
+        "tablet screen",
+        "time display",
+        "calm mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1028,
+      "description": "The main content features a mix of creative activities, including art creation, product showcases, and personal interactions, all set in a cozy and intimate atmosphere.",
+      "segments": [
+        {
+          "type": "Introduction/Personal Interaction",
+          "description": "A person greets the viewer and introduces the vlog, setting a friendly and casual tone.",
+          "typical_duration": 10,
+          "scene_activity": "Greeting and introduction",
+          "location": "Indoor, personal space",
+          "mood": "Friendly and casual"
+        },
+        {
+          "type": "Workspace Setup",
+          "description": "The scene shows a decorated workspace setup, highlighting personal and creative elements.",
+          "typical_duration": 15,
+          "scene_activity": "Showing workspace",
+          "location": "Indoor, personal workspace",
+          "mood": "Calm and cozy"
+        },
+        {
+          "type": "Creative Process",
+          "description": "A person engages in art creation, such as drawing or coloring, showcasing their creative process.",
+          "typical_duration": 180,
+          "scene_activity": "Art creation",
+          "location": "Indoor, personal workspace",
+          "mood": "Focused and creative"
+        },
+        {
+          "type": "Product Showcase",
+          "description": "A person demonstrates or showcases products, such as illustrated books or creative tools.",
+          "typical_duration": 120,
+          "scene_activity": "Product demonstration",
+          "location": "Indoor, desk or table",
+          "mood": "Playful and lighthearted"
+        },
+        {
+          "type": "Dialogue/Personal Vlog",
+          "description": "The vlogger speaks directly to the camera, sharing personal thoughts or experiences.",
+          "typical_duration": 200,
+          "scene_activity": "Speaking to camera",
+          "location": "Indoor, personal space",
+          "mood": "Casual and intimate"
+        },
+        {
+          "type": "Art Showcase",
+          "description": "The scene features a display of art or illustrations, often with commentary or review.",
+          "typical_duration": 150,
+          "scene_activity": "Art showcase",
+          "location": "Indoor, personal or creative space",
+          "mood": "Creative and playful"
+        },
+        {
+          "type": "Casual Interaction",
+          "description": "A person interacts with pets or engages in lighthearted activities, adding a playful touch.",
+          "typical_duration": 30,
+          "scene_activity": "Interacting with pets",
+          "location": "Indoor, personal space",
+          "mood": "Calm and playful"
+        },
+        {
+          "type": "Cooking/Food Preparation",
+          "description": "Scenes of cooking or food preparation, highlighting a domestic and cozy atmosphere.",
+          "typical_duration": 40,
+          "scene_activity": "Cooking preparation",
+          "location": "Indoor, kitchen",
+          "mood": "Casual and homey"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 6,
+      "description": "The video concludes with a person speaking directly to the camera, likely summarizing the vlog or giving a farewell.",
+      "key_elements": [
+        "farewell message",
+        "intimate mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#c4b5b0",
+      "#72615c",
+      "#2b1f1f"
+    ],
+    "brightness": "Bright",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.7,
+    "scene_changes": 384,
+    "camera_work": [
+      "close-up shots",
+      "handheld camera"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 4,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 5,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Sharing personal thoughts and experiences"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Subtitles in multiple languages",
+      "content_type": "Translations and additional context"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Art Creation",
+      "description": "Frequent scenes of drawing or coloring, showcasing the creative process.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Product Showcases",
+      "description": "Showcasing and demonstrating various creative products or tools.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Personal Dialogue",
+      "description": "Direct communication with the audience, sharing personal insights.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Art tutorials",
+    "Creative product reviews",
+    "Personal vlogs"
+  ]
+}

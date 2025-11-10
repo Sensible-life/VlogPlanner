@@ -1,0 +1,133 @@
+{
+  "template_name": "Korean Travel and Food Exploration Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "Introduction to the journey with initial thoughts and setting the mood for the travel experience.",
+      "key_elements": [
+        "introduction",
+        "setting the mood",
+        "initial thoughts"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2375,
+      "description": "Main travel experiences including food tasting, exploring local attractions, and personal reflections.",
+      "segments": [
+        {
+          "type": "food tasting",
+          "description": "Trying various local dishes and sharing taste experiences.",
+          "typical_duration": 600,
+          "scene_activity": "Eating and reviewing local cuisine",
+          "location": "Various restaurants and food stalls",
+          "mood": "Enjoyable and exploratory"
+        },
+        {
+          "type": "local exploration",
+          "description": "Walking through local streets, visiting attractions, and engaging with the environment.",
+          "typical_duration": 800,
+          "scene_activity": "Exploring streets and landmarks",
+          "location": "City streets and tourist spots",
+          "mood": "Curious and adventurous"
+        },
+        {
+          "type": "personal reflections",
+          "description": "Sharing personal thoughts and experiences about the journey.",
+          "typical_duration": 300,
+          "scene_activity": "Reflecting on experiences",
+          "location": "Various locations",
+          "mood": "Introspective and thoughtful"
+        },
+        {
+          "type": "shopping and souvenirs",
+          "description": "Visiting shops and markets to buy souvenirs and local products.",
+          "typical_duration": 300,
+          "scene_activity": "Shopping and browsing",
+          "location": "Local markets and shops",
+          "mood": "Excited and engaged"
+        },
+        {
+          "type": "transportation experiences",
+          "description": "Experiencing local transportation and sharing insights.",
+          "typical_duration": 375,
+          "scene_activity": "Using public transport",
+          "location": "Buses, trains, and taxis",
+          "mood": "Observant and relaxed"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 300,
+      "description": "Wrapping up the journey with final thoughts and farewells.",
+      "key_elements": [
+        "conclusion",
+        "farewells",
+        "final thoughts"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#a79788",
+      "#4b3a32",
+      "#7c6558",
+      "#160f0e",
+      "#cdcec9"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.561093757292882,
+    "scene_changes": 1714,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and engaging",
+      "content_type": "Sharing experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean emotional subtitles",
+      "content_type": "Emotional descriptions and context"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food Exploration",
+      "description": "Frequent scenes of trying and reviewing local food.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Cultural Insights",
+      "description": "Sharing insights and reflections on local culture and lifestyle.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "template_name": "Calm and Intimate Daily Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 10,
+      "description": "A person and a dog are looking out of a window, setting a calm and contemplative mood.",
+      "key_elements": [
+        "person",
+        "dog",
+        "window",
+        "greenery outside"
+      ]
+    },
+    "body": {
+      "duration_seconds": 581,
+      "description": "A mix of food preparation, casual interactions with pets, and personal moments, interspersed with scenes of nature and daily activities.",
+      "segments": [
+        {
+          "type": "nature observation",
+          "description": "Tomatoes growing in a garden, showing the calm and natural setting.",
+          "typical_duration": 30,
+          "scene_activity": "Observing tomatoes growing",
+          "location": "Outdoor garden or patio",
+          "mood": "Calm and natural"
+        },
+        {
+          "type": "food preparation",
+          "description": "Preparing various dishes, including slicing vegetables and cooking.",
+          "typical_duration": 120,
+          "scene_activity": "Chopping vegetables, cooking in kitchen",
+          "location": "Indoor kitchen",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "pet interaction",
+          "description": "Interacting with dogs, capturing intimate and relaxed moments.",
+          "typical_duration": 60,
+          "scene_activity": "Playing and resting with dogs",
+          "location": "Indoor, likely a living room",
+          "mood": "Intimate and relaxed"
+        },
+        {
+          "type": "personal moment",
+          "description": "A person adjusting their hair and looking at the camera, creating a personal and intimate atmosphere.",
+          "typical_duration": 40,
+          "scene_activity": "Adjusting hair, looking at camera",
+          "location": "Indoor, likely a bedroom or living room",
+          "mood": "Casual and intimate"
+        },
+        {
+          "type": "unboxing",
+          "description": "Opening and examining packages, focusing on the anticipation and curiosity.",
+          "typical_duration": 60,
+          "scene_activity": "Unboxing and examining products",
+          "location": "Indoor, likely on a table or countertop",
+          "mood": "Anticipatory and intimate"
+        },
+        {
+          "type": "event setup",
+          "description": "Setting up for a welcome event, showcasing a festive and welcoming mood.",
+          "typical_duration": 30,
+          "scene_activity": "Decorating for a welcome event",
+          "location": "Indoor event space",
+          "mood": "Festive and welcoming"
+        },
+        {
+          "type": "dialogue or interaction",
+          "description": "Casual conversations and interactions, often with pets or during daily activities.",
+          "typical_duration": 60,
+          "scene_activity": "Conversing or interacting casually",
+          "location": "Indoor, likely a living room or personal space",
+          "mood": "Intimate and relaxed"
+        },
+        {
+          "type": "food closeup",
+          "description": "Close-ups of food items, focusing on culinary aesthetics.",
+          "typical_duration": 60,
+          "scene_activity": "Displaying or preparing food",
+          "location": "Indoor kitchen or dining area",
+          "mood": "Calm and appetizing"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 10,
+      "description": "A person looking directly at the camera, possibly engaging in a personal reflection or closing remarks.",
+      "key_elements": [
+        "person",
+        "camera",
+        "intimate setting"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#856a4e",
+      "#ab9b7f",
+      "#19100b"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Medium",
+    "average_shot_length": 2.1,
+    "scene_changes": 288,
+    "camera_work": [
+      "close-ups",
+      "establishing shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and intimate",
+      "content_type": "Sharing daily experiences and interactions"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Supplementary information and dialogue"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food and Nature Focus",
+      "description": "Frequent close-ups of food preparation and nature scenes",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Intimate Interactions",
+      "description": "Personal moments and interactions with pets",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine vlogs",
+    "Lifestyle content"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "cleaned_segments": [
+    {
+      "timestamp_formatted": "[00:00:03]",
+      "text": "안녕하세요 여러분"
+    },
+    {
+      "timestamp_formatted": "[00:01:00]",
+      "text": "주먹밥 레시피"
+    },
+    {
+      "timestamp_formatted": "[00:01:03]",
+      "text": "러시 피 보오특파리해어요"
+    },
+    {
+      "timestamp_formatted": "[00:01:18]",
+      "text": "재미가 없음"
+    },
+    {
+      "timestamp_formatted": "[00:01:24]",
+      "text": "운동도 열심히 무구"
+    },
+    {
+      "timestamp_formatted": "[00:02:15]",
+      "text": "오늘은 베 이름 근 만들어요"
+    },
+    {
+      "timestamp_formatted": "[00:02:18]",
+      "text": "더 시 누엇"
+    },
+    {
+      "timestamp_formatted": "[00:03:21]",
+      "text": "자세한 레시피 커널발싸린이 링 -"
+    },
+    {
+      "timestamp_formatted": "[00:05:06]",
+      "text": "들은 광고 촬영 날입니다"
+    },
+    {
+      "timestamp_formatted": "[00:06:03]",
+      "text": "반가운 택배2"
+    },
+    {
+      "timestamp_formatted": "[00:07:27]",
+      "text": "이직한 회사의 신입사원 21S 님께서 ASS HE 주셨어요 …"
+    },
+    {
+      "timestamp_formatted": "[00:07:30]",
+      "text": "진국 사랑이 선물까지.…챙겨주셨는데"
+    },
+    {
+      "timestamp_formatted": "[00:07:42]",
+      "text": "은이 주신 모든 분들 감시합니다."
+    },
+    {
+      "timestamp_formatted": "[00:08:18]",
+      "text": "오늘은“생강 님의 구운 채소 오픈.샌드우 지를 만들머몰게므"
+    },
+    {
+      "timestamp_formatted": "[00:09:27]",
+      "text": "계속디고\"있지만 항상 건강 유의하시고 ~"
+    },
+    {
+      "timestamp_formatted": "[00:09:36]",
+      "text": "다음 영상에서 다시 만나요"
+    }
+  ],
+  "analysis": {
+    "has_meaningful_text": true,
+    "subtitle_count": 16,
+    "subtitle_style": "minimal",
+    "average_text_length": 15.2,
+    "sample_texts": [
+      "안녕하세요 여러분",
+      "주먹밥 레시피",
+      "러시 피 보오특파리해어요",
+      "재미가 없음",
+      "운동도 열심히 무구"
+    ]
+  },
+  "original_count": 147,
+  "cleaned_count": 16,
+  "reduction_rate": 89.1
+}

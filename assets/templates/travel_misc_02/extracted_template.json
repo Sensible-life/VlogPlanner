@@ -1,0 +1,135 @@
+{
+  "template_name": "European Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 3,
+      "description": "The vlog opens with a travel montage showcasing various activities and locations.",
+      "key_elements": [
+        "fountain display",
+        "person swinging",
+        "piano room"
+      ]
+    },
+    "body": {
+      "duration_seconds": 710,
+      "description": "The main content includes travel montages, food closeups, social interactions, and scenic views across multiple European countries.",
+      "segments": [
+        {
+          "type": "travel montage",
+          "description": "Scenes of travel activities, including selfies, scenic views, and exploration in various European locations.",
+          "typical_duration": 300,
+          "scene_activity": "Exploring cities, taking selfies, capturing scenic views",
+          "location": "Outdoor settings in European cities and natural landscapes",
+          "mood": "Casual and exploratory"
+        },
+        {
+          "type": "food closeup",
+          "description": "Closeup shots of local cuisine being enjoyed at cafes and restaurants.",
+          "typical_duration": 100,
+          "scene_activity": "Presenting and enjoying local dishes",
+          "location": "Indoor settings in cafes and restaurants",
+          "mood": "Inviting and appetizing"
+        },
+        {
+          "type": "social interaction",
+          "description": "Interactions with friends and locals, including group photos and casual conversations.",
+          "typical_duration": 80,
+          "scene_activity": "Socializing and taking group photos",
+          "location": "Various public and indoor settings",
+          "mood": "Cheerful and friendly"
+        },
+        {
+          "type": "establishing shot",
+          "description": "Establishing shots of historic buildings and natural landscapes.",
+          "typical_duration": 150,
+          "scene_activity": "Capturing scenic and architectural beauty",
+          "location": "Outdoor settings in cities and nature",
+          "mood": "Calm and picturesque"
+        },
+        {
+          "type": "dialogue/vlog",
+          "description": "Personal commentary and vlogging segments providing insights and experiences.",
+          "typical_duration": 80,
+          "scene_activity": "Speaking to the camera, providing commentary",
+          "location": "Various outdoor and indoor settings",
+          "mood": "Informative and casual"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 3,
+      "description": "The vlog concludes with a reflective scene from an airplane window.",
+      "key_elements": [
+        "airplane window view",
+        "calm and reflective mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#43383c",
+      "#0a0407",
+      "#d8d4d9"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Fast",
+    "average_shot_length": 2.1,
+    "scene_changes": 338,
+    "camera_work": [
+      "handheld",
+      "selfie"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 4,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 5
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and informative",
+      "content_type": "Explaining and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Travel montages",
+      "description": "Frequent use of travel montages to showcase locations and activities.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food closeups",
+      "description": "Regular closeup shots of local cuisine.",
+      "frequency": "Occasional"
+    },
+    {
+      "pattern_name": "Social interactions",
+      "description": "Capturing interactions with friends and locals.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

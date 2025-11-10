@@ -1,0 +1,2748 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:23:58
+- Resolution: 1920x1080
+- FPS: 59.784000600242926
+
+## Visual Features
+- Dominant Colors: #d3d6d5, #191211, #a48e83
+- Brightness Trend: Stable
+- Scene Changes: 217
+- Average Shot Length: 6.6s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 468
+- Content Length: 11830 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #d3d6d5, #191211, #a48e83
+- Brightness: Stable
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 217
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Dialogue.: 92 occurrences
+  - Tutorial or demonstration.: 14 occurrences
+  - Dialogue/monologue.: 13 occurrences
+  - Demonstration.: 8 occurrences
+  - Demonstration/tutorial.: 7 occurrences
+
+Dominant Moods:
+  - Informative and casual.: 47 scenes
+  - Calm and focused.: 27 scenes
+  - Calm and conversational.: 21 scenes
+  - Informative and focused.: 14 scenes
+  - Informal and engaging.: 13 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:03]:
+  - Activity: A person is speaking directly to the camera, possibly in a vlog or video message.
+  - Location: Indoor, likely in a personal or home setting.
+  - Mood: Friendly and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or video message.
+2. **Location**: Indoor, likely in a personal or home setting.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: Person wearing a striped sweater, window blinds, light-colored walls, Korean subtitles.
+5. **Scene Type**: Dialogue.
+
+**Scene 2** [0:01:47]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or answering a question.
+  - Location: Indoor, likely a room or office.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or answering a question.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person in a striped sweater, text overlay in Korean, window blinds, white walls.
+5. **Scene Type**: Dialogue.
+
+**Scene 3** [0:02:57]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person in a striped sweater, window blinds, light-colored walls, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 4** [0:03:37]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Window blinds
+   - Korean text overlay
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 5** [0:03:46]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: Calm and informative.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: Calm and informative.
+4. **Key Elements**: Person, striped sweater, smartphone, white wall, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 6** [0:03:50]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person, striped sweater, smartphone, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 7** [0:03:51]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person, striped sweater, pink object in hand, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 8** [0:03:53]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Pink object in hand
+   - Window blinds in the background
+5. **Scene Type**: Dialogue.
+
+**Scene 9** [0:04:05]:
+  - Activity: A person is speaking directly to the camera, possibly reviewing or discussing a product.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly reviewing or discussing a product.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 10** [0:04:28]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Smartphone
+   - Window blinds
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 11** [0:05:02]:
+  - Activity: A person is demonstrating or explaining something on a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds, Korean text overlay.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 12** [0:05:05]:
+  - Activity: A person is selecting an app on a smartphone screen.
+  - Location: Indoor, likely a personal or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is selecting an app on a smartphone screen.
+2. **Location**: Indoor, likely a personal or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, app icons (YouTube, VLLO, TubeBuddy), person's hand.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 13** [0:05:08]:
+  - Activity: A person is demonstrating or reviewing a mobile app on their smartphone.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or reviewing a mobile app on their smartphone.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, app interface, person's hands, text in Korean.
+5. **Scene Type**: Demonstration.
+
+**Scene 14** [0:05:09]:
+  - Activity: A person is demonstrating or explaining an app on their smartphone.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining an app on their smartphone.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, app interface, person's hand, text in Korean.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 15** [0:05:10]:
+  - Activity: A person is demonstrating how to select videos on a smartphone for editing.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating how to select videos on a smartphone for editing.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone displaying video thumbnails, person pointing at the screen, striped shirt, window blinds.
+5. **Scene Type**: Tutorial.
+
+**Scene 16** [0:05:11]:
+  - Activity: A person is demonstrating or explaining something, possibly related to a smartphone or device.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something, possibly related to a smartphone or device.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Person, hands, smartphone, striped sweater, text overlay in Korean.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 17** [0:05:12]:
+  - Activity: A person is demonstrating or explaining something on a smartphone screen.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone screen.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Smartphone with app interface
+   - Person pointing at the screen
+   - Blurred background
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 18** [0:05:14]:
+  - Activity: A person is demonstrating how to use a video editing app on a smartphone.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating how to use a video editing app on a smartphone.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone with app interface, person pointing at the screen, striped sweater, window blinds.
+5. **Scene Type**: Tutorial.
+
+**Scene 19** [0:05:15]:
+  - Activity: A person is adjusting settings on a smartphone, likely related to video or photo aspect ratios.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Focused and instructional.
+  - Scene Type: Instructional close-up.
+  - Full Analysis: 1. **Activity**: A person is adjusting settings on a smartphone, likely related to video or photo aspect ratios.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Focused and instructional.
+4. **Key Elements**: Smartphone, hand with painted nails, text on screen, window blinds.
+5. **Scene Type**: Instructional close-up.
+
+**Scene 20** [0:05:18]:
+  - Activity: A person is demonstrating how to adjust video settings on a smartphone.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Instructional close-up.
+  - Full Analysis: 1. **Activity**: A person is demonstrating how to adjust video settings on a smartphone.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, hand pointing at the screen, interface with video settings, text in Korean.
+5. **Scene Type**: Instructional close-up.
+
+**Scene 21** [0:05:19]:
+  - Activity: A person is applying or demonstrating the use of a cosmetic product.
+  - Location: Indoor, likely in a personal or professional setting such as a home or studio.
+  - Mood: Intimate and focused.
+  - Scene Type: Demonstration/close-up.
+  - Full Analysis: 1. **Activity**: A person is applying or demonstrating the use of a cosmetic product.
+2. **Location**: Indoor, likely in a personal or professional setting such as a home or studio.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: Hands with painted nails, a cosmetic product, a blurred background, text overlay in Korean.
+5. **Scene Type**: Demonstration/close-up.
+
+**Scene 22** [0:05:20]:
+  - Activity: A person is holding a smartphone and appears to be interacting with an app.
+  - Location: Indoor, likely in a room or office setting.
+  - Mood: Focused and casual.
+  - Scene Type: Interaction/technology demonstration.
+  - Full Analysis: 1. **Activity**: A person is holding a smartphone and appears to be interacting with an app.
+2. **Location**: Indoor, likely in a room or office setting.
+3. **Mood**: Focused and casual.
+4. **Key Elements**: Smartphone, hand with colorful nail polish, text on the phone screen, person partially visible.
+5. **Scene Type**: Interaction/technology demonstration.
+
+**Scene 23** [0:05:21]:
+  - Activity: A person is holding a smartphone, possibly waiting for an app or page to load.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Neutral and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is holding a smartphone, possibly waiting for an app or page to load.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Neutral and focused.
+4. **Key Elements**: Smartphone, hand with painted nails, Korean text on the screen, loading indicator.
+5. **Scene Type**: Transition.
+
+**Scene 24** [0:05:23]:
+  - Activity: A person is editing a video on a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Focused and casual.
+  - Scene Type: "Editing tutorial" or "tech demonstration."
+  - Full Analysis: 1. **Activity**: A person is editing a video on a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Focused and casual.
+4. **Key Elements**: Smartphone, video editing app, person's hand, colorful nails.
+5. **Scene Type**: "Editing tutorial" or "tech demonstration."
+
+**Scene 25** [0:05:26]:
+  - Activity: A person is showing a smartphone screen displaying a video editing app with a cooking video.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is showing a smartphone screen displaying a video editing app with a cooking video.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, video editing app, cooking video, person's hand, text overlay.
+5. **Scene Type**: Demonstration.
+
+**Scene 26** [0:05:27]:
+  - Activity: A person is speaking to the camera, possibly explaining something or vlogging.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informal and relaxed.
+  - Scene Type: Dialogue or vlog segment.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining something or vlogging.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informal and relaxed.
+4. **Key Elements**: 
+   - Person in a striped sweater
+   - Smartphone in hand
+   - Blurred background
+   - Korean text overlay
+5. **Scene Type**: Dialogue or vlog segment.
+
+**Scene 27** [0:05:28]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Casual and conversational.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Casual and conversational.
+4. **Key Elements**: 
+   - Person wearing a striped sweater
+   - Smartphone in hand
+   - Window blinds in the background
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 28** [0:05:33]:
+  - Activity: A person is explaining or demonstrating something using a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something using a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Smartphone displaying an app or video
+   - Striped sweater
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 29** [0:05:51]:
+  - Activity: A person is speaking to the camera, possibly explaining or sharing information.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or sharing information.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 30** [0:05:52]:
+  - Activity: A person is speaking to the camera while showing something on their phone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while showing something on their phone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 31** [0:06:49]:
+  - Activity: A person is speaking directly to the camera, likely explaining or discussing a topic.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Calm and informative.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely explaining or discussing a topic.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Calm and informative.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, plain wall.
+5. **Scene Type**: Dialogue.
+
+**Scene 32** [0:07:07]:
+  - Activity: A person is speaking directly to the camera, possibly discussing or explaining a topic.
+  - Location: Indoor, likely a room or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly discussing or explaining a topic.
+2. **Location**: Indoor, likely a room or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person, smartphone, striped sweater, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 33** [0:07:11]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person holding a pink phone, wearing a striped sweater, window blinds in the background, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 34** [0:07:25]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person with a striped sweater, smartphone, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 35** [0:07:46]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Presentation.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person wearing a striped sweater, text overlay in Korean, neutral-colored walls, window blinds.
+5. **Scene Type**: Dialogue/Presentation.
+
+**Scene 36** [0:07:49]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person in a striped sweater, text overlay on the screen, window blinds in the background.
+5. **Scene Type**: Dialogue.
+
+**Scene 37** [0:08:34]:
+  - Activity: A person is speaking, possibly explaining or demonstrating something.
+  - Location: Indoor, likely in a room or studio.
+  - Mood: Calm and informative.
+  - Scene Type: Dialogue/Instruction.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely in a room or studio.
+3. **Mood**: Calm and informative.
+4. **Key Elements**: Person, striped sweater, text overlay, window blinds.
+5. **Scene Type**: Dialogue/Instruction.
+
+**Scene 38** [0:08:41]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person in a striped sweater
+   - White and gray blinds
+   - Neutral-colored walls
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue.
+
+**Scene 39** [0:08:42]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in a striped sweater, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 40** [0:08:43]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person wearing a striped sweater, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 41** [0:08:44]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 42** [0:08:45]:
+  - Activity: A person is speaking directly to the camera, possibly giving a review or tutorial.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly giving a review or tutorial.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 43** [0:08:48]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, striped sweater, plain wall, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 44** [0:08:53]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person wearing a striped sweater, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 45** [0:08:54]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Window blinds
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue.
+
+**Scene 46** [0:08:55]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 47** [0:08:58]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a room or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a room or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person speaking, striped sweater, white walls, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 48** [0:09:00]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 49** [0:09:02]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue or tutorial.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person in a striped sweater, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue or tutorial.
+
+**Scene 50** [0:09:03]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue or tutorial.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person in a striped sweater, text overlay in Korean, window blinds.
+5. **Scene Type**: Dialogue or tutorial.
+
+**Scene 51** [0:09:04]:
+  - Activity: A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: The atmosphere is casual and friendly.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: The atmosphere is casual and friendly.
+4. **Key Elements**: 
+   - Person with expressive hand gestures
+   - Striped sweater
+   - Window blinds
+   - Korean text overlay
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 52** [0:09:23]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: The atmosphere is calm and conversational.
+  - Scene Type: Dialogue/Monologue
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: The atmosphere is calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Window blinds
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/Monologue
+
+**Scene 53** [0:09:34]:
+  - Activity: A person is speaking directly to the camera, likely engaging in a vlog or personal message.
+  - Location: Indoor setting, possibly a room or studio.
+  - Mood: Intimate and friendly.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal message.
+2. **Location**: Indoor setting, possibly a room or studio.
+3. **Mood**: Intimate and friendly.
+4. **Key Elements**: 
+   - Person wearing a striped sweater
+   - White walls
+   - Window blinds
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 54** [0:09:42]:
+  - Activity: A person is speaking directly to the camera, likely recording a vlog or video message.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person wearing a striped sweater, white walls, window blinds, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 55** [0:09:44]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Casual and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Casual and intimate.
+4. **Key Elements**: Person wearing a striped sweater, light-colored walls, window blinds, Korean text at the bottom.
+5. **Scene Type**: Dialogue.
+
+**Scene 56** [0:09:46]:
+  - Activity: A person is speaking directly to the camera, possibly in a vlog or video message.
+  - Location: Indoor, likely in a home or personal space.
+  - Mood: Friendly and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or video message.
+2. **Location**: Indoor, likely in a home or personal space.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: Person in a striped sweater, white wall, window blinds, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 57** [0:09:47]:
+  - Activity: The person is speaking directly to the camera, possibly in a vlog or tutorial.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: Friendly and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: The person is speaking directly to the camera, possibly in a vlog or tutorial.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: Person with hands raised, striped sweater, window blinds, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 58** [0:09:52]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor, likely a home or personal space.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor, likely a home or personal space.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 59** [0:09:57]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Casual and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Casual and conversational.
+4. **Key Elements**: Person wearing a striped sweater, window blinds, white walls, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 60** [0:10:00]:
+  - Activity: A person is speaking directly to the camera, likely addressing an audience.
+  - Location: Indoor setting, possibly a home or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor setting, possibly a home or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person in a striped sweater, white wall, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 61** [0:10:15]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely in a room or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely in a room or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, white walls, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 62** [0:10:17]:
+  - Activity: A person is speaking to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Friendly and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 63** [0:10:18]:
+  - Activity: A person is speaking to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 64** [0:10:21]:
+  - Activity: A person is speaking to the camera while holding up a smartphone displaying a selfie.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding up a smartphone displaying a selfie.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 65** [0:10:22]:
+  - Activity: A person is demonstrating or explaining something using a smartphone.
+  - Location: Indoor, likely in a room or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something using a smartphone.
+2. **Location**: Indoor, likely in a room or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 66** [0:10:23]:
+  - Activity: A person is speaking to the camera while holding up a smartphone.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding up a smartphone.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 67** [0:10:25]:
+  - Activity: A person is demonstrating or explaining something on a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 68** [0:10:26]:
+  - Activity: A person is speaking to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely in a room or studio setting.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely in a room or studio setting.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 69** [0:10:27]:
+  - Activity: A person is holding and possibly using a smartphone, likely recording or taking a photo.
+  - Location: Indoor setting, possibly a room or office.
+  - Mood: Casual and focused.
+  - Scene Type: Dialogue or vlog recording.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly using a smartphone, likely recording or taking a photo.
+2. **Location**: Indoor setting, possibly a room or office.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone, striped sweater, window blinds, person.
+5. **Scene Type**: Dialogue or vlog recording.
+
+**Scene 70** [0:10:28]:
+  - Activity: A person is speaking, possibly addressing the camera.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly addressing the camera.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person wearing a striped sweater, light-colored walls, partially visible window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 71** [0:10:31]:
+  - Activity: A person is recording themselves, possibly for a vlog or video call, while waving at the camera.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Casual and friendly.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is recording themselves, possibly for a vlog or video call, while waving at the camera.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Casual and friendly.
+4. **Key Elements**: Smartphone, striped sweater, person waving, plain background.
+5. **Scene Type**: Dialogue.
+
+**Scene 72** [0:10:32]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor setting, likely a room with a plain background.
+  - Mood: Informal and conversational.
+  - Scene Type: Dialogue or vlog-style presentation.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely a room with a plain background.
+3. **Mood**: Informal and conversational.
+4. **Key Elements**: 
+   - Person with expressive hand gestures
+   - Smartphone with a pink case
+   - Striped sweater
+   - Window blinds in the background
+5. **Scene Type**: Dialogue or vlog-style presentation.
+
+**Scene 73** [0:10:36]:
+  - Activity: A person is speaking to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Casual and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Casual and engaging.
+4. **Key Elements**: Person holding a phone, striped sweater, neutral background, subtitles.
+5. **Scene Type**: Dialogue.
+
+**Scene 74** [0:10:37]:
+  - Activity: A person is demonstrating or explaining an object, possibly a gadget or tool.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining an object, possibly a gadget or tool.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, striped shirt, smartphone, gadget/tool, white wall.
+5. **Scene Type**: Demonstration.
+
+**Scene 75** [0:10:38]:
+  - Activity: A person is demonstrating or explaining how to use a tripod.
+  - Location: Indoor setting, likely a home or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining how to use a tripod.
+2. **Location**: Indoor setting, likely a home or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person holding a tripod, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 76** [0:10:40]:
+  - Activity: A person is explaining or demonstrating how to use a tripod or selfie stick.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating how to use a tripod or selfie stick.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person holding a tripod, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Demonstration.
+
+**Scene 77** [0:10:46]:
+  - Activity: A person is demonstrating or discussing a handheld device.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or discussing a handheld device.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, handheld device, striped sweater, window blinds.
+5. **Scene Type**: Demonstration.
+
+**Scene 78** [0:10:48]:
+  - Activity: A person is adjusting a smartphone holder or tripod.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Focused and instructional.
+  - Scene Type: Instructional or tutorial.
+  - Full Analysis: 1. **Activity**: A person is adjusting a smartphone holder or tripod.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Focused and instructional.
+4. **Key Elements**: Person, smartphone holder/tripod, striped sweater, window blinds.
+5. **Scene Type**: Instructional or tutorial.
+
+**Scene 79** [0:10:50]:
+  - Activity: A person is demonstrating or discussing the use of a smartphone on a tripod.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or discussing the use of a smartphone on a tripod.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, tripod, person, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 80** [0:10:51]:
+  - Activity: A person is demonstrating or explaining something using a smartphone on a selfie stick.
+  - Location: Indoor, likely in a room or studio setting.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something using a smartphone on a selfie stick.
+2. **Location**: Indoor, likely in a room or studio setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Selfie stick
+   - Striped sweater
+   - Window blinds in the background
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 81** [0:10:54]:
+  - Activity: A person is recording a video or livestreaming, possibly speaking or presenting content.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or presentation.
+  - Full Analysis: 1. **Activity**: A person is recording a video or livestreaming, possibly speaking or presenting content.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Smartphone on a tripod, person in a striped sweater, neutral background, window blinds.
+5. **Scene Type**: Dialogue or presentation.
+
+**Scene 82** [0:10:59]:
+  - Activity: A person is adjusting a smartphone on a tripod or stand.
+  - Location: Indoor, likely a room or office.
+  - Mood: Focused and instructional.
+  - Scene Type: Instructional/tutorial.
+  - Full Analysis: 1. **Activity**: A person is adjusting a smartphone on a tripod or stand.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Focused and instructional.
+4. **Key Elements**: Smartphone, tripod/stand, person, striped sweater, window blinds.
+5. **Scene Type**: Instructional/tutorial.
+
+**Scene 83** [0:11:02]:
+  - Activity: A person is demonstrating or reviewing a product, likely a selfie stick.
+  - Location: Indoor, possibly a home or studio setting.
+  - Mood: Informative and casual.
+  - Scene Type: Product review.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or reviewing a product, likely a selfie stick.
+2. **Location**: Indoor, possibly a home or studio setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, selfie stick, striped sweater, window blinds.
+5. **Scene Type**: Product review.
+
+**Scene 84** [0:11:09]:
+  - Activity: A person is demonstrating or reviewing a product.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: Informative and casual.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or reviewing a product.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, striped sweater, product (possibly a selfie stick), window blinds.
+5. **Scene Type**: Product demonstration.
+
+**Scene 85** [0:11:12]:
+  - Activity: A person is demonstrating or reviewing a product, likely a tripod or similar device.
+  - Location: Indoor, possibly in a home or studio setting.
+  - Mood: Informative and casual.
+  - Scene Type: Product review or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or reviewing a product, likely a tripod or similar device.
+2. **Location**: Indoor, possibly in a home or studio setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, tripod-like device, striped sweater, window blinds.
+5. **Scene Type**: Product review or demonstration.
+
+**Scene 86** [0:11:38]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Person wearing a striped shirt
+   - Smartphone in a pink case
+   - Blinds in the background
+   - Korean text overlay
+5. **Scene Type**: Dialogue/Monologue.
+
+**Scene 87** [0:11:40]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely in a room or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely in a room or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 88** [0:11:44]:
+  - Activity: A person is speaking or singing, possibly recording a video or vlog.
+  - Location: Indoor, likely in a room or studio.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or vlog recording.
+  - Full Analysis: 1. **Activity**: A person is speaking or singing, possibly recording a video or vlog.
+2. **Location**: Indoor, likely in a room or studio.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, smartphone, window blinds.
+5. **Scene Type**: Dialogue or vlog recording.
+
+**Scene 89** [0:11:47]:
+  - Activity: A person is demonstrating or discussing a cosmetic product.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or discussing a cosmetic product.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Cosmetic jar, person with striped sweater, window blinds, Korean text overlay.
+5. **Scene Type**: Demonstration.
+
+**Scene 90** [0:11:48]:
+  - Activity: A person is demonstrating or discussing a product, possibly makeup or skincare.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Casual and friendly.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or discussing a product, possibly makeup or skincare.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Casual and friendly.
+4. **Key Elements**: Person holding a compact, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Product demonstration.
+
+**Scene 91** [0:11:49]:
+  - Activity: A person is speaking directly to the camera, possibly giving advice or sharing information.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly giving advice or sharing information.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person speaking, striped sweater, subtitles in Korean, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 92** [0:11:55]:
+  - Activity: A person is speaking to the camera while holding a smartphone displaying a close-up of an eye.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding a smartphone displaying a close-up of an eye.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person speaking, smartphone with eye close-up, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 93** [0:11:56]:
+  - Activity: A person is speaking to the camera, possibly recording a vlog or tutorial.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Casual and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Casual and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 94** [0:11:57]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+  - Location: Indoor, likely in a room or studio setting.
+  - Mood: Casual and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely in a room or studio setting.
+3. **Mood**: Casual and engaging.
+4. **Key Elements**: Person in a striped sweater, smartphone, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 95** [0:11:59]:
+  - Activity: A person is speaking directly to the camera, likely explaining or discussing a topic.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely explaining or discussing a topic.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 96** [0:12:06]:
+  - Activity: A person is demonstrating or explaining something using a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something using a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds, subtitles in Korean.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 97** [0:12:07]:
+  - Activity: A person is demonstrating or explaining features on a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining features on a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 98** [0:12:08]:
+  - Activity: A person is explaining or demonstrating something on a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and engaging.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something on a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Demonstration.
+
+**Scene 99** [0:12:09]:
+  - Activity: A person is demonstrating or explaining features on a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining features on a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 100** [0:12:11]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 101** [0:12:12]:
+  - Activity: A person is speaking to the camera while holding up a smartphone.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding up a smartphone.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 102** [0:12:14]:
+  - Activity: A person is speaking to the camera, possibly explaining or reviewing something.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Person speaking
+   - Smartphone
+   - Striped sweater
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 103** [0:12:15]:
+  - Activity: A person is speaking to the camera while holding up a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding up a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 104** [0:12:17]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, camera or phone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 105** [0:12:21]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person speaking, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 106** [0:12:23]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 107** [0:12:26]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Person gesturing with one hand.
+   - Smartphone held in the other hand.
+   - Striped sweater.
+   - Text overlay in Korean.
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 108** [0:12:29]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue or tutorial.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue or tutorial.
+
+**Scene 109** [0:12:31]:
+  - Activity: A person is speaking directly to the camera, possibly giving advice or instructions.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly giving advice or instructions.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person making a peace sign, striped sweater, subtitles in Korean, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 110** [0:12:35]:
+  - Activity: A person is speaking directly to the camera, possibly engaging in a vlog or video chat.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or video chat.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - White walls
+   - Window blinds
+5. **Scene Type**: Dialogue.
+
+**Scene 111** [0:12:44]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person wearing a striped sweater, neutral-colored walls, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 112** [0:12:46]:
+  - Activity: A person is interacting with a smartphone, possibly texting or using an app.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a smartphone, possibly texting or using an app.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Dialogue or interaction.
+
+**Scene 113** [0:12:48]:
+  - Activity: A person is demonstrating or explaining something on a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and focused.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 114** [0:12:55]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and engaging.
+  - Scene Type: Dialogue/Instructional.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and engaging.
+4. **Key Elements**: Person in a striped sweater, text overlay in Korean, neutral-colored walls, window blinds.
+5. **Scene Type**: Dialogue/Instructional.
+
+**Scene 115** [0:14:05]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person wearing a striped sweater
+   - Neutral-colored walls
+   - Window with blinds
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 116** [0:14:08]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, striped sweater, text overlay, light-colored walls, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 117** [0:14:11]:
+  - Activity: A person is explaining or demonstrating something on their phone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Instruction.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something on their phone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, text overlay.
+5. **Scene Type**: Dialogue/Instruction.
+
+**Scene 118** [0:14:12]:
+  - Activity: A person is speaking to the camera, possibly explaining or discussing something.
+  - Location: Indoor setting, likely a room or an office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely a room or an office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 119** [0:14:14]:
+  - Activity: A person is interacting with a smartphone, possibly explaining or demonstrating something.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or demonstration.
+  - Full Analysis: 1. **Activity**: A person is interacting with a smartphone, possibly explaining or demonstrating something.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Window blinds in the background
+   - Korean text subtitle
+5. **Scene Type**: Dialogue or demonstration.
+
+**Scene 120** [0:14:15]:
+  - Activity: A person is speaking to the camera while showing something on their phone.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while showing something on their phone.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone displaying content, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 121** [0:14:16]:
+  - Activity: A person is speaking to the camera while showing a smartphone screen.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while showing a smartphone screen.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 122** [0:14:17]:
+  - Activity: A person is holding up a smartphone displaying a video or image on the screen.
+  - Location: Indoor, likely a personal or casual setting.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition or demonstration.
+  - Full Analysis: 1. **Activity**: A person is holding up a smartphone displaying a video or image on the screen.
+2. **Location**: Indoor, likely a personal or casual setting.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Smartphone, video/image on screen, person's hand, light-colored sleeve.
+5. **Scene Type**: Transition or demonstration.
+
+**Scene 123** [0:14:18]:
+  - Activity: A person is interacting with a smartphone, possibly watching or selecting a video.
+  - Location: Indoor setting.
+  - Mood: Casual and focused.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a smartphone, possibly watching or selecting a video.
+2. **Location**: Indoor setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone, video thumbnail, person's hand, text on screen.
+5. **Scene Type**: Interaction.
+
+**Scene 124** [0:14:21]:
+  - Activity: A person is explaining or demonstrating something using a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something using a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, video thumbnail on screen, text overlay in Korean.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 125** [0:14:23]:
+  - Activity: A person is showing a phone screen with a gallery of video thumbnails.
+  - Location: Indoor, likely a home or personal space.
+  - Mood: Informal and casual.
+  - Scene Type: Dialogue/Instruction.
+  - Full Analysis: 1. **Activity**: A person is showing a phone screen with a gallery of video thumbnails.
+2. **Location**: Indoor, likely a home or personal space.
+3. **Mood**: Informal and casual.
+4. **Key Elements**: Person, smartphone, video thumbnails, subtitles.
+5. **Scene Type**: Dialogue/Instruction.
+
+**Scene 126** [0:14:24]:
+  - Activity: A person is demonstrating how to use a feature on a smartphone.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating how to use a feature on a smartphone.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person pointing, striped clothing, text overlay.
+5. **Scene Type**: Tutorial.
+
+**Scene 127** [0:14:26]:
+  - Activity: A person is holding and possibly interacting with a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual interaction.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly interacting with a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Smartphone, person with painted nails, striped sweater, window blinds.
+5. **Scene Type**: Casual interaction.
+
+**Scene 128** [0:14:27]:
+  - Activity: A person is explaining or demonstrating something using a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something using a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone displaying a gallery, person gesturing, striped sweater, text overlay in Korean.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 129** [0:14:28]:
+  - Activity: A person is explaining or demonstrating something on their smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something on their smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person, striped sweater, text overlay.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 130** [0:14:30]:
+  - Activity: A person is explaining or demonstrating something using a smartphone.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Dialogue or tutorial.
+  - Full Analysis: 1. **Activity**: A person is explaining or demonstrating something using a smartphone.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Dialogue or tutorial.
+
+**Scene 131** [0:14:32]:
+  - Activity: A person is explaining something while showing a smartphone screen to the camera.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or explanation.
+  - Full Analysis: 1. **Activity**: A person is explaining something while showing a smartphone screen to the camera.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or explanation.
+
+**Scene 132** [0:14:33]:
+  - Activity: A person is showing a smartphone screen with a video upload interface.
+  - Location: Indoor, likely a personal room or office.
+  - Mood: Informal and focused.
+  - Scene Type: Instructional or demonstration.
+  - Full Analysis: 1. **Activity**: A person is showing a smartphone screen with a video upload interface.
+2. **Location**: Indoor, likely a personal room or office.
+3. **Mood**: Informal and focused.
+4. **Key Elements**: Smartphone, person in the background, striped sweater, text on screen.
+5. **Scene Type**: Instructional or demonstration.
+
+**Scene 133** [0:14:34]:
+  - Activity: A person is speaking to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Window blinds in the background
+5. **Scene Type**: Dialogue.
+
+**Scene 134** [0:14:38]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or instructing something.
+  - Location: Indoor, likely a room or office setting.
+  - Mood: Informative and focused.
+  - Scene Type: Dialogue/Instructional.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or instructing something.
+2. **Location**: Indoor, likely a room or office setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Window blinds in the background
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue/Instructional.
+
+**Scene 135** [0:14:43]:
+  - Activity: A person is speaking to the camera while holding up a smartphone displaying a screen.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding up a smartphone displaying a screen.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 136** [0:14:45]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Instructional.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Person speaking
+   - Smartphone in hand
+   - Striped sweater
+   - Window blinds in the background
+5. **Scene Type**: Dialogue/Instructional.
+
+**Scene 137** [0:14:46]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person speaking
+   - White and striped sweater
+   - Light-colored walls
+   - Window with blinds
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 138** [0:14:49]:
+  - Activity: A person is demonstrating or explaining something about a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Tutorial or demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something about a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person pointing, striped sweater, window blinds.
+5. **Scene Type**: Tutorial or demonstration.
+
+**Scene 139** [0:14:50]:
+  - Activity: A person is demonstrating or discussing something on a smartphone.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration or tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or discussing something on a smartphone.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Demonstration or tutorial.
+
+**Scene 140** [0:14:51]:
+  - Activity: A person is demonstrating or explaining something on a smartphone.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and focused.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, person, striped shirt, window blinds.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 141** [0:14:52]:
+  - Activity: A person is demonstrating or discussing smartphone apps.
+  - Location: Indoor, likely in a personal or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or discussing smartphone apps.
+2. **Location**: Indoor, likely in a personal or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, hand pointing, app icons, text overlay.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 142** [0:14:56]:
+  - Activity: A person is demonstrating or explaining something on a smartphone screen.
+  - Location: Indoor, likely a room or office.
+  - Mood: Informative and focused.
+  - Scene Type: Demonstration/tutorial.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone screen.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, person pointing, striped clothing, text on screen.
+5. **Scene Type**: Demonstration/tutorial.
+
+**Scene 143** [0:14:57]:
+  - Activity: A person is showing something on their smartphone screen, possibly explaining or discussing its content.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation
+  - Full Analysis: 1. **Activity**: A person is showing something on their smartphone screen, possibly explaining or discussing its content.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: 
+   - Smartphone displaying a video platform interface
+   - Person pointing at the screen
+   - Text in Korean
+5. **Scene Type**: Dialogue/Explanation
+
+**Scene 144** [0:14:58]:
+  - Activity: A person is showing a smartphone screen to the camera, possibly discussing or explaining its content.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is showing a smartphone screen to the camera, possibly discussing or explaining its content.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person, text on screen, striped clothing, subtitles.
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 145** [0:14:59]:
+  - Activity: A person is showing something on their smartphone screen, possibly explaining or demonstrating an app or feature.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informative and focused.
+  - Scene Type: Demonstration/Explanation.
+  - Full Analysis: 1. **Activity**: A person is showing something on their smartphone screen, possibly explaining or demonstrating an app or feature.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Smartphone, person's hand, text on the screen, subtitles in Korean.
+5. **Scene Type**: Demonstration/Explanation.
+
+**Scene 146** [0:15:00]:
+  - Activity: A person is holding and interacting with a smartphone, possibly speaking or recording a video.
+  - Location: Indoor, likely a room or office.
+  - Mood: Casual and focused.
+  - Scene Type: Dialogue or vlog recording.
+  - Full Analysis: 1. **Activity**: A person is holding and interacting with a smartphone, possibly speaking or recording a video.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone, person, striped sweater, window blinds.
+5. **Scene Type**: Dialogue or vlog recording.
+
+**Scene 147** [0:15:01]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 148** [0:15:11]:
+  - Activity: A person is speaking to the camera while showing something on their phone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while showing something on their phone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person, smartphone, striped sweater, window blinds, Korean subtitles.
+5. **Scene Type**: Dialogue.
+
+**Scene 149** [0:15:12]:
+  - Activity: A person is holding and possibly using a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Casual and focused.
+  - Scene Type: Dialogue or demonstration.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly using a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Blinds in the background
+   - Korean subtitles
+5. **Scene Type**: Dialogue or demonstration.
+
+**Scene 150** [0:15:13]:
+  - Activity: A person is using a smartphone, possibly browsing or showing something on the screen.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Casual and focused.
+  - Scene Type: Demonstration or explanation.
+  - Full Analysis: 1. **Activity**: A person is using a smartphone, possibly browsing or showing something on the screen.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone, person's hand, blurred background, Korean text on screen.
+5. **Scene Type**: Demonstration or explanation.
+
+**Scene 151** [0:15:14]:
+  - Activity: A person is using a smartphone, possibly browsing or selecting a video.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Casual and focused.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is using a smartphone, possibly browsing or selecting a video.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone, person's hand, person in the background, video thumbnails on the screen, subtitles in Korean.
+5. **Scene Type**: Interaction.
+
+**Scene 152** [0:15:15]:
+  - Activity: A person is demonstrating or explaining something on a smartphone.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Informative and casual.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: A person is demonstrating or explaining something on a smartphone.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Smartphone, person, striped shirt, window blinds.
+5. **Scene Type**: Demonstration.
+
+**Scene 153** [0:15:16]:
+  - Activity: A person is interacting with a smartphone, possibly scrolling or selecting something on the screen.
+  - Location: Indoor, likely a personal or home setting.
+  - Mood: Casual and focused.
+  - Scene Type: Demonstration or tutorial.
+  - Full Analysis: 1. **Activity**: A person is interacting with a smartphone, possibly scrolling or selecting something on the screen.
+2. **Location**: Indoor, likely a personal or home setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone, person's hand, text on screen, blurred background.
+5. **Scene Type**: Demonstration or tutorial.
+
+**Scene 154** [0:15:17]:
+  - Activity: A person is using a smartphone, possibly reading or editing text on the screen.
+  - Location: Indoor, likely in a personal or home setting.
+  - Mood: Focused and intimate.
+  - Scene Type: Close-up interaction.
+  - Full Analysis: 1. **Activity**: A person is using a smartphone, possibly reading or editing text on the screen.
+2. **Location**: Indoor, likely in a personal or home setting.
+3. **Mood**: Focused and intimate.
+4. **Key Elements**: Smartphone, person's hand, text on screen, partially visible face.
+5. **Scene Type**: Close-up interaction.
+
+**Scene 155** [0:15:19]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and informative.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and informative.
+4. **Key Elements**: Person, smartphone, striped shirt, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 156** [0:15:25]:
+  - Activity: A person is speaking directly to the camera, possibly discussing a topic or sharing information.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly discussing a topic or sharing information.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, text overlay, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 157** [0:15:32]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person in a striped sweater, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 158** [0:15:34]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Intimate and calm.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person wearing a striped sweater
+   - White walls
+   - Window blinds
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue.
+
+**Scene 159** [0:15:40]:
+  - Activity: A person is speaking directly to the camera, possibly sharing information or giving a review.
+  - Location: Indoor, likely a room or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly sharing information or giving a review.
+2. **Location**: Indoor, likely a room or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, window blinds, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 160** [0:15:43]:
+  - Activity: A person is speaking directly to the camera, likely explaining or discussing a topic.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely explaining or discussing a topic.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person in a striped sweater
+   - White walls
+   - Window blinds
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue.
+
+**Scene 161** [0:15:44]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor, likely a personal room or studio.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor, likely a personal room or studio.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person, striped sweater, rings, window blinds, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 162** [0:15:49]:
+  - Activity: A person is speaking directly to the camera, likely addressing an audience.
+  - Location: Indoor, possibly a home or studio setting.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, possibly a home or studio setting.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person in a striped sweater, light-colored walls, window blinds, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 163** [0:15:50]:
+  - Activity: A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Intimate and conversational.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Intimate and conversational.
+4. **Key Elements**: 
+   - Person wearing a striped sweater
+   - White and gray blinds in the background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 164** [0:17:23]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or vlog-style presentation.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person speaking
+   - White and striped sweater
+   - Blinds or window covering in the background
+   - Neutral-colored walls
+5. **Scene Type**: Dialogue or vlog-style presentation.
+
+**Scene 165** [0:17:39]:
+  - Activity: A person is speaking or thinking, possibly addressing a camera.
+  - Location: Indoor, likely a room with plain walls.
+  - Mood: Calm and introspective.
+  - Scene Type: Dialogue or monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking or thinking, possibly addressing a camera.
+2. **Location**: Indoor, likely a room with plain walls.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Person in a striped sweater, plain wall, window blinds.
+5. **Scene Type**: Dialogue or monologue.
+
+**Scene 166** [0:17:56]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: The atmosphere appears calm and focused.
+  - Scene Type: Dialogue
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: The atmosphere appears calm and focused.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Neutral-colored walls
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue
+
+**Scene 167** [0:18:03]:
+  - Activity: A person is speaking directly to the camera, possibly sharing a personal story or information.
+  - Location: Indoor, likely a room with a plain background.
+  - Mood: Intimate and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly sharing a personal story or information.
+2. **Location**: Indoor, likely a room with a plain background.
+3. **Mood**: Intimate and conversational.
+4. **Key Elements**: Person, striped sweater, plain wall, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 168** [0:18:11]:
+  - Activity: A person is speaking directly to the camera, possibly sharing thoughts or experiences.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Calm and introspective.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly sharing thoughts or experiences.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: 
+   - Person seated
+   - Striped sweater
+   - White wall background
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 169** [0:18:41]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person speaking, striped sweater, white wall, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 170** [0:18:51]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor, likely a room with a plain background.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor, likely a room with a plain background.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person speaking, striped sweater, plain wall, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 171** [0:19:02]:
+  - Activity: A person is speaking directly to the camera, possibly giving a review or commentary.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: The atmosphere is casual and conversational.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly giving a review or commentary.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: The atmosphere is casual and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - White wall background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 172** [0:19:09]:
+  - Activity: A person is speaking directly to the camera, likely addressing an audience.
+  - Location: Indoor setting, possibly a home or studio.
+  - Mood: The atmosphere is calm and conversational.
+  - Scene Type: Dialogue/Monologue
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor setting, possibly a home or studio.
+3. **Mood**: The atmosphere is calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - White wall background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/Monologue
+
+**Scene 173** [0:19:20]:
+  - Activity: A person is speaking directly to the camera, possibly engaging in a vlog or personal message.
+  - Location: Indoor setting, likely a room with plain walls.
+  - Mood: Calm and friendly.
+  - Scene Type: Dialogue or personal message.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal message.
+2. **Location**: Indoor setting, likely a room with plain walls.
+3. **Mood**: Calm and friendly.
+4. **Key Elements**: 
+   - Person with clasped hands
+   - Striped sweater
+   - Plain wall background
+5. **Scene Type**: Dialogue or personal message.
+
+**Scene 174** [0:19:32]:
+  - Activity: A person is speaking directly to the camera, likely recording a vlog or personal message.
+  - Location: Indoor setting, possibly a room or studio.
+  - Mood: Intimate and personal.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or personal message.
+2. **Location**: Indoor setting, possibly a room or studio.
+3. **Mood**: Intimate and personal.
+4. **Key Elements**: Person speaking, striped sweater, plain wall, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 175** [0:19:33]:
+  - Activity: A person is speaking directly to the camera, likely addressing an audience.
+  - Location: Indoor setting, possibly a home or office.
+  - Mood: Intimate and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor setting, possibly a home or office.
+3. **Mood**: Intimate and engaging.
+4. **Key Elements**: Person speaking, striped sweater, subtitles in Korean, neutral background.
+5. **Scene Type**: Dialogue.
+
+**Scene 176** [0:19:43]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: 
+   - Person wearing a striped sweater
+   - White wall background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 177** [0:19:53]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor setting, likely a home or personal space.
+  - Mood: The atmosphere is calm and personal.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor setting, likely a home or personal space.
+3. **Mood**: The atmosphere is calm and personal.
+4. **Key Elements**: 
+   - Person speaking
+   - Smartphone in hand
+   - White and striped sweater
+   - Blinds in the background
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 178** [0:19:56]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or sharing a story.
+  - Location: Indoor, likely a room or studio.
+  - Mood: Intimate and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or sharing a story.
+2. **Location**: Indoor, likely a room or studio.
+3. **Mood**: Intimate and conversational.
+4. **Key Elements**: Person speaking, striped sweater, text overlay in Korean, light-colored wall.
+5. **Scene Type**: Dialogue.
+
+**Scene 179** [0:19:59]:
+  - Activity: A person is looking at their phone and smiling, possibly engaged in a casual conversation or checking something amusing.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: The atmosphere is relaxed and cheerful.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person is looking at their phone and smiling, possibly engaged in a casual conversation or checking something amusing.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: The atmosphere is relaxed and cheerful.
+4. **Key Elements**: 
+   - Person holding a phone
+   - Striped shirt
+   - White walls
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 180** [0:20:00]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Casual and friendly.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Casual and friendly.
+4. **Key Elements**: Person, striped sweater, light-colored wall, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 181** [0:20:01]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or sharing a story.
+  - Location: Indoor setting, likely a room or office.
+  - Mood: The atmosphere is casual and friendly.
+  - Scene Type: Dialogue
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or sharing a story.
+2. **Location**: Indoor setting, likely a room or office.
+3. **Mood**: The atmosphere is casual and friendly.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Text overlay in Korean
+   - Light-colored walls
+5. **Scene Type**: Dialogue
+
+**Scene 182** [0:20:02]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a room with plain walls.
+  - Mood: The atmosphere is calm and conversational.
+  - Scene Type: Dialogue/Monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a room with plain walls.
+3. **Mood**: The atmosphere is calm and conversational.
+4. **Key Elements**: 
+   - Person with dark hair
+   - Striped sweater
+   - Plain white wall
+   - Window blinds
+5. **Scene Type**: Dialogue/Monologue.
+
+**Scene 183** [0:20:03]:
+  - Activity: A person is speaking directly to the camera, possibly addressing an audience or sharing information.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: The atmosphere appears calm and engaging.
+  - Scene Type: Dialogue/Presentation
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience or sharing information.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: The atmosphere appears calm and engaging.
+4. **Key Elements**: 
+   - Person speaking
+   - White wall background
+   - Text overlay in Korean
+   - Casual clothing
+5. **Scene Type**: Dialogue/Presentation
+
+**Scene 184** [0:20:09]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or reviewing something.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Informal and engaging.
+  - Scene Type: Dialogue/Presentation.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or reviewing something.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Pink object in hand
+   - White wall background
+5. **Scene Type**: Dialogue/Presentation.
+
+**Scene 185** [0:20:11]:
+  - Activity: A person is examining or using a small object, possibly a cosmetic or skincare product.
+  - Location: Indoor, likely a room or personal space.
+  - Mood: Calm and focused.
+  - Scene Type: Personal moment.
+  - Full Analysis: 1. **Activity**: A person is examining or using a small object, possibly a cosmetic or skincare product.
+2. **Location**: Indoor, likely a room or personal space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, small bottle, rings, window blinds.
+5. **Scene Type**: Personal moment.
+
+**Scene 186** [0:20:12]:
+  - Activity: The scene shows a paused video on a smartphone screen, likely involving a review or discussion about items in a car.
+  - Location: Indoor, inside a car.
+  - Mood: Casual and observational.
+  - Scene Type: Dialogue or review.
+  - Full Analysis: 1. **Activity**: The scene shows a paused video on a smartphone screen, likely involving a review or discussion about items in a car.
+2. **Location**: Indoor, inside a car.
+3. **Mood**: Casual and observational.
+4. **Key Elements**: Smartphone screen, paused video, shopping bag, car interior, subtitles in Korean.
+5. **Scene Type**: Dialogue or review.
+
+**Scene 187** [0:20:14]:
+  - Activity: Someone is watching a video on a smartphone.
+  - Location: Indoor, likely a personal or casual setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or narrative explanation.
+  - Full Analysis: 1. **Activity**: Someone is watching a video on a smartphone.
+2. **Location**: Indoor, likely a personal or casual setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Smartphone screen, video with subtitles, a blue bag, car interior.
+5. **Scene Type**: Dialogue or narrative explanation.
+
+**Scene 188** [0:20:15]:
+  - Activity: The scene shows a video being played on a smartphone, possibly a travel vlog or personal video.
+  - Location: Indoor, likely inside a vehicle based on the visible seats and window.
+  - Mood: Calm and reflective.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a video being played on a smartphone, possibly a travel vlog or personal video.
+2. **Location**: Indoor, likely inside a vehicle based on the visible seats and window.
+3. **Mood**: Calm and reflective.
+4. **Key Elements**: Smartphone screen, vehicle seats, window, text overlay on the video.
+5. **Scene Type**: Travel montage.
+
+**Scene 189** [0:20:16]:
+  - Activity: Someone is watching a video on a smartphone.
+  - Location: Indoor, likely a personal or casual setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or commentary.
+  - Full Analysis: 1. **Activity**: Someone is watching a video on a smartphone.
+2. **Location**: Indoor, likely a personal or casual setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Smartphone screen, video of a person in a vehicle, Korean subtitles.
+5. **Scene Type**: Dialogue or commentary.
+
+**Scene 190** [0:20:17]:
+  - Activity: A person is watching a video on a smartphone.
+  - Location: Indoor, likely in a vehicle or a casual setting.
+  - Mood: Calm and focused.
+  - Scene Type: Viewing/interaction.
+  - Full Analysis: 1. **Activity**: A person is watching a video on a smartphone.
+2. **Location**: Indoor, likely in a vehicle or a casual setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Smartphone screen, subtitles in Korean, car seats, hand holding the phone.
+5. **Scene Type**: Viewing/interaction.
+
+**Scene 191** [0:20:18]:
+  - Activity: A person is watching a video on a smartphone.
+  - Location: Indoor, likely a personal or casual setting.
+  - Mood: Calm and focused.
+  - Scene Type: "Viewing/interaction with media"
+  - Full Analysis: 1. **Activity**: A person is watching a video on a smartphone.
+2. **Location**: Indoor, likely a personal or casual setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Smartphone, video content, subtitles, hand holding the phone.
+5. **Scene Type**: "Viewing/interaction with media"
+
+**Scene 192** [0:20:19]:
+  - Activity: A person is watching a video on a smartphone, showing a car interior and a cup holder.
+  - Location: Indoor, likely inside a car.
+  - Mood: Casual and focused.
+  - Scene Type: "Product demonstration" or "informational video."
+  - Full Analysis: 1. **Activity**: A person is watching a video on a smartphone, showing a car interior and a cup holder.
+2. **Location**: Indoor, likely inside a car.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Smartphone screen, car interior, cup holder, control panel, Korean text.
+5. **Scene Type**: "Product demonstration" or "informational video."
+
+**Scene 193** [0:20:20]:
+  - Activity: A person is showcasing makeup products, possibly as part of a tutorial or review.
+  - Location: Indoor, likely in a personal or casual setting.
+  - Mood: Informative and casual.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is showcasing makeup products, possibly as part of a tutorial or review.
+2. **Location**: Indoor, likely in a personal or casual setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Makeup palettes, a hand holding the products, a makeup bag, text overlay.
+5. **Scene Type**: Product demonstration.
+
+**Scene 194** [0:20:23]:
+  - Activity: Someone is showcasing makeup products, likely as part of a beauty tutorial or review.
+  - Location: Indoor, possibly in a car or small enclosed space.
+  - Mood: Informative and casual.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: Someone is showcasing makeup products, likely as part of a beauty tutorial or review.
+2. **Location**: Indoor, possibly in a car or small enclosed space.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Makeup palette, makeup bag, hand holding the palette, text overlay.
+5. **Scene Type**: Product demonstration.
+
+**Scene 195** [0:20:24]:
+  - Activity: A person is showcasing a makeup palette.
+  - Location: Indoor, likely a personal space like a bedroom or bathroom.
+  - Mood: Casual and focused.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is showcasing a makeup palette.
+2. **Location**: Indoor, likely a personal space like a bedroom or bathroom.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Makeup palette, makeup bag, hand, text overlay.
+5. **Scene Type**: Product showcase.
+
+**Scene 196** [0:20:25]:
+  - Activity: A person is holding and displaying a makeup palette.
+  - Location: Indoor, possibly in a vehicle or a small enclosed space.
+  - Mood: Casual and personal.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is holding and displaying a makeup palette.
+2. **Location**: Indoor, possibly in a vehicle or a small enclosed space.
+3. **Mood**: Casual and personal.
+4. **Key Elements**: Makeup palette, hand, text overlay, strap with a cartoon design.
+5. **Scene Type**: Product showcase.
+
+**Scene 197** [0:20:28]:
+  - Activity: Someone is examining or showcasing a makeup palette.
+  - Location: Indoor, likely in a personal or professional setting.
+  - Mood: Focused and informative.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: Someone is examining or showcasing a makeup palette.
+2. **Location**: Indoor, likely in a personal or professional setting.
+3. **Mood**: Focused and informative.
+4. **Key Elements**: Makeup palette, hand holding the palette, text overlay.
+5. **Scene Type**: Product demonstration.
+
+**Scene 198** [0:20:29]:
+  - Activity: A person is holding up a book for display.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Calm and focused.
+  - Scene Type: "Object closeup"
+  - Full Analysis: 1. **Activity**: A person is holding up a book for display.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book with illustrated cover, hand holding the book, dark background.
+5. **Scene Type**: "Object closeup"
+
+**Scene 199** [0:20:33]:
+  - Activity: Someone is preparing or displaying sliced fish on a tray.
+  - Location: Indoor, likely a kitchen or food preparation area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing or displaying sliced fish on a tray.
+2. **Location**: Indoor, likely a kitchen or food preparation area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Sliced fish, tray, hands, paper, container.
+5. **Scene Type**: Food preparation.
+
+**Scene 200** [0:20:34]:
+  - Activity: A person is arranging or picking food from a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is arranging or picking food from a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Plate of assorted food, hand reaching for food, wooden table, text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 201** [0:20:38]:
+  - Activity: A person is speaking directly to the camera, likely recording a vlog or video message.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Friendly and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: Person speaking, striped shirt, white wall, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 202** [0:20:59]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Casual and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Casual and engaging.
+4. **Key Elements**: Person holding a smartphone, striped sweater, window blinds, subtitles in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 203** [0:21:01]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a room or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a room or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person speaking, striped sweater, white walls, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 204** [0:21:29]:
+  - Activity: A person is speaking directly to the camera, likely recording a vlog or video message.
+  - Location: Indoor, possibly in a home or office setting.
+  - Mood: Casual and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.
+2. **Location**: Indoor, possibly in a home or office setting.
+3. **Mood**: Casual and conversational.
+4. **Key Elements**: Person wearing a striped sweater, smartphone, subtitles in Korean, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 205** [0:21:38]:
+  - Activity: A person is speaking, possibly explaining or reacting to something.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly explaining or reacting to something.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - White wall background
+   - Window blinds
+5. **Scene Type**: Dialogue.
+
+**Scene 206** [0:21:57]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Intimate and personal.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Intimate and personal.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Text overlay at the bottom
+   - Blinds in the background
+5. **Scene Type**: Dialogue.
+
+**Scene 207** [0:21:58]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely in a home or personal space.
+  - Mood: Casual and conversational.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely in a home or personal space.
+3. **Mood**: Casual and conversational.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Striped sweater
+   - Neutral-colored wall
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 208** [0:22:01]:
+  - Activity: A person is gesturing for silence by placing a finger over their lips.
+  - Location: Indoor, likely a room with plain walls.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue or personal message.
+  - Full Analysis: 1. **Activity**: A person is gesturing for silence by placing a finger over their lips.
+2. **Location**: Indoor, likely a room with plain walls.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, striped sweater, plain wall, window blinds.
+5. **Scene Type**: Dialogue or personal message.
+
+**Scene 209** [0:22:24]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a room with plain walls.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a room with plain walls.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, striped sweater, plain wall, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 210** [0:23:31]:
+  - Activity: A person is speaking directly to the camera, possibly giving advice or sharing information.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Calm and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly giving advice or sharing information.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Calm and engaging.
+4. **Key Elements**: Person speaking, striped sweater, text overlay in Korean, window blinds.
+5. **Scene Type**: Dialogue.
+
+**Scene 211** [0:23:34]:
+  - Activity: A person is speaking directly to the camera, possibly addressing an audience or recording a vlog.
+  - Location: Indoor setting, likely a room or studio.
+  - Mood: Friendly and engaging.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience or recording a vlog.
+2. **Location**: Indoor setting, likely a room or studio.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: Person with striped sweater, light-colored wall, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 212** [0:23:36]:
+  - Activity: A person is speaking directly to the camera, likely addressing an audience.
+  - Location: Indoor setting, possibly a home or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor setting, possibly a home or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person in a striped sweater, white wall, window blinds, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 213** [0:23:40]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or a video message.
+  - Location: Indoor, likely a room or an office.
+  - Mood: The atmosphere is calm and conversational.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a video message.
+2. **Location**: Indoor, likely a room or an office.
+3. **Mood**: The atmosphere is calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Striped sweater
+   - Plain wall background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 214** [0:23:43]:
+  - Activity: A person is speaking directly to the camera, likely addressing an audience.
+  - Location: Indoor setting, possibly a home or office.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor setting, possibly a home or office.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: Person speaking, striped sweater, white wall, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 215** [0:23:50]:
+  - Activity: A person is waving and speaking directly to the camera, likely concluding a video.
+  - Location: Indoor, possibly a home or studio setting.
+  - Mood: Friendly and cheerful.
+  - Scene Type: Dialogue/Outro.
+  - Full Analysis: 1. **Activity**: A person is waving and speaking directly to the camera, likely concluding a video.
+2. **Location**: Indoor, possibly a home or studio setting.
+3. **Mood**: Friendly and cheerful.
+4. **Key Elements**: Person waving, striped sweater, light-colored wall, text overlay.
+5. **Scene Type**: Dialogue/Outro.
+
+**Scene 216** [0:23:54]:
+  - Activity: A person is speaking directly to the camera, likely recording a vlog or a message.
+  - Location: Indoor, possibly in a home or personal space.
+  - Mood: Friendly and cheerful.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or a message.
+2. **Location**: Indoor, possibly in a home or personal space.
+3. **Mood**: Friendly and cheerful.
+4. **Key Elements**: Person smiling, striped shirt, subtitles in Korean, plain wall.
+5. **Scene Type**: Dialogue.
+
+**Scene 217** [0:23:55]:
+  - Activity: The scene appears to be the end of a video, with a thank you message displayed.
+  - Location: This is a digital screen, likely the closing frame of a video.
+  - Mood: The atmosphere is appreciative and positive.
+  - Scene Type: Closing credits/thank you message.
+  - Full Analysis: 1. **Activity**: The scene appears to be the end of a video, with a thank you message displayed.
+2. **Location**: This is a digital screen, likely the closing frame of a video.
+3. **Mood**: The atmosphere is appreciative and positive.
+4. **Key Elements**: 
+   - Black background
+   - Korean text thanking viewers
+5. **Scene Type**: Closing credits/thank you message.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 안녕하세요 여러분 제목을 보시고 이게 뭐지 하면서 들어오신 분들도 많으실 것 같은데 오늘은 브이로그가 알려주는 브이로그 찍는 방법 영상입니다. | 우선 이 영상으로 저를 처음 접하시는 분들은 제가 뭐 하는 사람이지 이렇게 생각을 하실까 봐 | 갈락하게 제 소개를 해드리자면 저는 일상 영상을 업로드 하고 있는 브이로그입니다. | 이 영상은 특별한 의도를 가지고 있거나 광고가 포함된 영상이 절대 아니고요. | 제가 1년 동안 브이로그를 하면서 제 주변 사람들도 그렇고 아니면 인스타 DM로 브이로그에 대해서 관심을 가지고 있는 분들에게 정말 많은 문의를 받았었어요. | 저한테 직접적으로 브이로그 만드는 법 영상으로 만들어주세요 이렇게 요청을 하지 않으셨지만 제가 판단하기에 분명한 니즈가 있을 거라고 생각하기 때문에 이 영상을 만들게 되었어요. | 저도 처음 브이로그를 접했을 때 좀 생소하기도 했고 내가 과연 할 수 있을까 영상 편집은 어떻게 하는 걸까 이런 궁금증들이 굉장히 많기도 했고 그리고 여러 가지 요소될 때문에 망설여지기도 했었어요.
+
+### Segment 2 (01:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 우선은 내 영상을 내가 직접 찍고 내 모습을 직접 편집하고 업로드 한다는 거 자체가 굉장히 오글거리기도 했고 | 주변 사람들이 내가 브이로그 한다고 하는 뭐라고 생각할까 라고 생각하는 그 사법 때문에 좀 많이 망설여줬던 것 같아요. | 근데 지금은 오히려 제가 주변 제인들에게 너도 해봐 이런 식으로 권유를 굉장히 많이 하고 있을 정도로 만족을 하고 있습니다. | 분명 저처럼 가볍게 시작을 해보고 싶은데 주변에 물어볼 때가 없어서 좀 어려움을 겪고 계신 분들이 계실 거예요. | 브이로그를 시작하시려고 하는 분들에게 혹은 시작하신지 얼마 안 되신 분들에게 도움을 드리고 싶어서 찍어보는 영상입니다. | 왜 경쟁자를 늘리려고 하냐 이렇게 생각하시는 분들도 계실 텐데 저는 유튜브 생태계에 전혀 관심이 없는 사람이고요. | 브이로그가 특별하다고 생각하지 않거든요. | 인스타그램이나 블록처럼 내 일상 올리는 건데 플랫폼이 유튜브인 것 뿐이고 방법이 영상 업로드라는 것 뿐이지
+
+### Segment 3 (02:00)
+- Brightness: Very Bright
+- Energy: Medium
+- Speech: 다른 일상 SNS와 다르지는 전혀 없다고 생각해요. | 어쨌든 SNS라는 건 플랫폼이 활성화될수록 더 좋은 효과가 일어날 수 있기 때문에 | 여러분들도 많이 많이 시작을 하셨으면 좋겠어요. | 그럼 지금부터 브이로그 찍는 방법 영상을 시작해 볼게요. | 저는 평소에도 브이로그를 하라고 집안에 굉장히 많이 권한 편이에요. | 집안에서 누군가가 나는 화분에 물주는 거 진짜 좋아해요. | 오 너 그거 화분에 물주는 거 영상 찍어봐. | 브이로그 찍어봐 재밌겠다 이런 식으로. | 근데 상대방은 뭐라는 거야 장난하는 거야? 이렇게 생각할 수도 있겠지만 | 브이로그 자체가 자연스러운 일상을 추구하는 영상들이기 때문에 저는 모든 것들이 주제가 될 수 있다고 생각하는 사람이에요. | 그리고 이 포인트가 가장 중요한 거 같은데 | 누군가를 보여주기 위한 일상 영상이 아니라는 점 | 내 영상을 많은 사람들이 봐야 해이라고 생각하는 순간 | 일상이 가정화될 수가 있더라고요. | 아무튼 부담을 가지지 마시고 | 인스타그램이나 블록 업무드 하듯이
+
+### Segment 4 (03:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 그냥 내 일상 이런 것들을 공유한다 라는 생각으로 시작하시는 걸 추천 드립니다. | 또 소득가 너무 길었죠. | 그럼 지금부터 브이로그 찍는 방법에 대해서 알려드릴게요. | 우선 촬영을 하려면 장비가 필요하겠죠. | 이건 개인차가 너무 크기 때문에 저 기준으로 말씀을 드리자면 | 저는 아이폰 기본 카메라로 촬영을 하고 있어요. | 카메라 없이도 시작할 수 있나요? 라고 생각하시는 분들도 계실 텐데 | 저는 브이로그 리 시작할 때 꾸준히 하는 것이 가장 중요하다고 생각했어요. | 그래서 꾸준히 하려면 내가 가장 다르게 쉬운 장비를 선택하는 것이 중요하다고 생각을 했거든요. | 핸드폰은 제가 맨날 가지고 다니기도 하고 | 일부러 장비를 챙길 필요가 없기 때문에 | 그냥 자연스럽게 일상에서 담고 싶은 영상을 담게 가장 좋은 장비인 것 같더라고요. | 가끔 저도 카메라를 사용해서 영상을 찍기도 해요. | 여행 브이로그에 찍거나 아니면 이렇게 설명을 드리고 싶은 영상을 촬영할 때 | 지금 찍고 있는 이 카메라는 캐노은 제품이고요. | G7X 마크2 제품입니다.
+
+### Segment 5 (04:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 브이로그 하시는 분들이 이 카메라를 굉장히 많이 사용하신다고 하더라고요. | 이 색감도 예쁘고 그리고 룩폭 촬영을 하기에도 | 아무런 지장의 없애 정도로 괜찮았어요. | 성능이 가면 마이크를 사용하시는 분들도 계신데 | 저는 마이크를 따로 사용하잖아요. | 정말 곡 퀄리티로 영상을 찍고 싶으신 분들은 | 좋은 카메라를 쓰면 쓸수록 좋은 마이크를 쓰면 쓸수록 당연히 좋죠. | 하지만 내가 그런 장치들을 잘 컨트롤로 하지 못해서 | 금방 그만 주는 것보다 내가 다르게 쉬운 장비들을 사용해서 | 꾸준히 하시는 게 조금 더 효과적이지 않을까 하는 생각이 들어요. | 시작을 하시는 분들이라면 내 적성에 브이로그가 맞는지 잘 모르기 때문에 | 핸드폰을 시작을 하신 다음에 재미가 있으시다면 | 카메라를 혹은 다른 장기들을 구매하시는 걸 추천드립니다. | 편집 업무�에 대한 질문도 굉장히 많으신데 | 제 브이로그을 보시는 분들은 좀 놀라실 수도 있어요. | 저는 핸드폰으로 촬영을 하고 핸드폰으로 편집 | 그리고 업로드까지 완료를 하는 사람입니다.
+
+### Segment 6 (05:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이렇게 | 블로우 라는 어플이에요. 이런 어플인데 | 이렇게 물고기 모양으로 생긴 어플이고요. | 이거를 클릭해서 들어가면 이렇게 | 영상을 클릭한 다음에 다음을 누르면 이렇게 설정을 할 수 있어요. | 저는 16대 9 사이즈로 편집을 하고 있고요. | 채운으로 해가지고 | 이렇게 넘기면 영상이 떠요. | 이 영상들을 컵 편집하고 자막가 있고 | 효과한 넣고 | 이런 식으로 편집을 하면 됩니다. | 이 어플은 사용하는 게 굉장히 간단해요. | 그래서 제 주변에 저 때문에 브이로그를 시작하신 분들도 거의 대부분 이 어플을 사용하고 있는데 | 되게 좋다고 하더라고요. | 그리고 최근에 이 어플이 업그레이드가 됐어요. | 이거는 분명 영상 편집을 하시는 분들의 수요가 늘어났다는 증거가 될 것 같아요. | 아무튼 이 어플 하나만으로도 편집을 하는데 굉장히 문제가 없더라고요. | 그리고 카메라로 촬영을 한 날에는 컴퓨터로 편집을 하거든요. | 그때는 공맥스 프로라는 편집기를 사용해서 편집을 하고 있어요.
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 프리미어 이런 거 안 쓰시나요? 하는데 | 저는 정말 그 부로 시작한 브이로그라서 편집기를 배울 시간이 없었어요. | 그리고 딱히 배울고 싶지 않고 필요상을 못 느끼겠어요. | 공맥스 프로만으로도 브이로그를 만드는 데는 별로 문제가 없더라고요. | 브이로그는 직접 편집을 하시는 경우가 많잖아요. | 유튜브 영상은 편집이 거의 8할 정도를 차지하는 것 같아요. | 그래서 편집이 까다롭거나 편집 시간이 많이 걸리는 경우에는 | 영상을 꾸준히 업로드 하는 게 굉장히 어려울 수 있어요. | 특히 직장에분들이나 보나비 있으신 분들은요. | 저도 마찬가지예요. | 저도 편집할 시간이 충분하지 않아가지고 | 핸드폰으로 촬영을 하고 핸드폰으로 편집을 하는 거거든요. | 저는 그냥 침대에 누워서 자기 전에 핸드폰으로 편집을 하고 | 그리고 이동 중에 지하철을 타거나 버스를 타거나 하는 동안에도 편집을 할 수 있어서 | 핸드폰을 사용해서 영상을 편집하고 있습니다. | 편집기도 장비와 마찬가지로 | 내가 정말 적상에 맞는지를 확인하신 후에
+
+### Segment 8 (07:00)
+- Brightness: Very Bright
+- Energy: Medium
+- Speech: 전문적인 편집기를 배우는 것이 어떨까 생각해요. | 제가 사용하고 있는 편집기는 무료버전이 있고 유료버전이 있어요. | 저는 조금 더 다양한 효과음이나 BJM 사용하고 싶어서 유료로 결제를 했고요. | 모자이크 처리하는 것도 유료로 일 거예요. | 그래서 제가 결제를 했던 걸로 기억이 나요. | 그리고 공맥스토로는 다 똑같아요. | 유료버전, 무료버전 이런 건 뭔가 스티커 같은 효과 같은 걸 제외하면 | 거의 다 비슷했고 차이점이 뭐냐면 | 10분 이하 영상을 만드는 건 무료로 가능한데 | 10분 이상의 영상을 인코딩 하려면 | 유료버전으로 정품 등록을 해야만 할 수 있어요. | 그래서 저는 10분 넘는 영상들을 만드는 브이로그가 있기 때문에 | 유료버전을 사용하고 있습니다. | 편집 다음으로 가장 중요한 건 아무래도 촬영이죠. | 다른 분들의 영상을 참고하시는 건 좋은데 | 절대 그 분들을 따라하거나 | 아니면 난 이런 스타일을 갈 거예요. | 하고 지점에 놓고 시작하시는 거를 추천드리진 않아요. | 일단 이미 유명하신 그 크리에이터 분들도
+
+### Segment 9 (08:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 본인의 스타일을 찾기 위해서 굉장히 많은 시간과 노력을 투자하셨을 거란 말이죠. | 그래서 그 분들을 무작정 따라하는 거는 | 그 크리에이터 분들에게도 좀 피해가 갈 수 있고 | 아주 잠기적으로 봤을 때 나에게도 별로 좋지 않은 효과가 있을 것 같아요. | 인스타그램 같은 경우도 피드를 들어가 보면 | 그 사람의 감성과 그 사람의 취향이 보인단 말이죠. | 그런 것처럼 브이로그도 | 그냥 내 취향과 내 감성을 솔직하게 담아내보면 | 내 채널의 이미지와 내 채널의 스타일이 | 저절로 만들어질 거라고 생각해요. | 브이로그는 10전도 중요하다고 생각해요. | 어떤 분들을 보면 1인칭 10절모로만 영상을 찍으시는 분들도 계세요. | 그리고 목 아래로 촬영하시는 분들 | 혹은 저처럼 얼굴이 나와서 이렇게 설명도 하고 리뷰도 하시는 브이로그 분들도 계시더라고요. | 그런 10절만 그냥 본인의 스타일이에요. | 내가 뭐 아래로만 찍고 싶어 하면 | 뭐 아래로 찍으면 되고 | 나는 얼굴이 나와서 상관없어. | 하시는 분들은 얼굴이 나와도 상관없는 거죠.
+
+### Segment 10 (09:00)
+- Brightness: Very Bright
+- Energy: Medium
+- Speech: 일단 시작하시는 게 부담스러우시다면 | 그냥 뭐 아래로 찍으시고 | 그 다음에 얼굴이 실적 실적 출연하는 것도 재미있을 것 같아요. | 주제도 딱히 중요하잖아요. | 해외에서 사시는 분들 | 혹은 뭐 좀 특별한 직업을 가지신 분들 제외하고는 | 대부분 직장인 학생, 뭐 다른 직업이겠죠? | 플로리스트, 아니면 발레리나 이런 식으로 | 자기의 직장을 앞에 들고 브이로그 | 이렇게 붙이 있는 게 대부분이더라고요. | 직장인 브이로그, 학생 브이로그. | 근데 저는 모든 직장인들과 모든 학생들이 똑같은 삶을 사는 게 아니기 때문에 | 나랑 똑같은 삶을 사는 사람은 없기 때문에 | 나의 일상은 어쨌든 타인이 봤을 때 | 모두에게 특별할 수 있는 삶이에요. | 그냥 그 부분에서 특별하려고 머리를 쫓는 시간 보다 | 그냥 그 영상을 열심히 담고 | 열심히 업로드하시는 것의 시간을 더 많이 투자하셨으면 좋겠어요. | 나는 매일매일 저렇게 밝진 않은데 | 나는 매일매일 저렇게 꾸미고 다니진 않는데 | 이런 생각에서 현실과 거리감이 올 때도 있었어요. | 그래서 그때부터는 그냥 뭐가 됐던 것에
+
+### Segment 11 (10:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 나의 솔직한 부분을 담는 것의 포커스를 돋던 것 같아요. | 솔직하게 내 모습을 담는 것. | 이게 진짜 중요한 포인트일 것 같습니다. | 제가 어떻게 촬영하는지 알게 되시면 | 뭐야, 정말 이렇게 생각하실 수도 있어요. | 저는 이 핸드폰을 맨에 가지고 다니면서 | 핸드폰으로 촬영을 해요. | 그냥 카메라를 켜서 동영상 이렇게 해주고 | 셀카모드를 하는 거예요. | 셀카모드를 해서 이렇게 촬영을 해요. | 안녕하세요, 여러분. 이렇게 촬영을 하는 거죠. | 카메라로 영상 찍는 거. | 이거 너무 당연하죠. | 근데 어떻게 찍냐고요, 라고 하실 수 있는데 | 저는 집에서 사용할 때는 이렇게 상극대를 넣고 사용해요. | 뭐 집에서는 조금 더 다양한 앵글로 찍을 수 있는 여유가 있잖아요. | 그래서 요리를 할 때는 이렇게 생각대에 다 거칠을 해주고 | 이렇게 꺾고 셀카모드로 음식을 찍는 거죠. | 화장을 할 때도 이렇게 화장을 하는 영상을 찍는 거예요. | 정말 별 거 없어요. | 그냥 셀카 찍듯이 찍는 거고요.
+
+### Segment 12 (11:00)
+- Brightness: Very Bright
+- Energy: Medium
+- Speech: 이런 거는 굉장히 많이 팔아요. | 저는 잠시력 지하상가에서 샀고 | 인터넷으로도 아마 구매를 하실 수 있을 거예요. | 길게 늘려서 생각해처럼도 쓸 수 있고 | 그냥 짧게도 사용을 할 수가 있어서 굉장히 간편하더라고요. | 저는 야외에서는 이 상각대를 사실 별로 쓰지 않아요. | 왜냐면 음식 좀 같은데 갔는데 | 내 영상을 이렇게 상각대회를 넣고 찍고 있으면 | 좀 사람들이 이상하게 볼 것 같고 | 너무 관종 같고 이런 생각이 되잖아요. | 그래서 저는 핸드폰에 물병 같은데 거치해 두고 | 키우려서 저를 찍는 거예요. | 각도가 어떻게 되든 내 얼굴을 어떻게 나오든 | 사실 이건 브로우 전 개이자 하나에 가지고 | 물잔에다가 물을 따로 넣고 | 이게 기울어지지 않은 정도의 무게가 되는 곳이면 | 어디든 거치해도요. | 혹은 팩트 같은 거 | 여러 개 친구들 거 싸워놓고 이렇게 하기도 해요. | 그리고 여러분 이건 진짜 꿀팁인데요. | 핸드폰으로 내 영상을 찍을 때 | 뭐 가게에서 찍어 나 이럴 때 | 종어본 분들이 이렇게 오시면 | 내가 내 얼굴 찍고 있는 거 들킨 거 같아가지고
+
+### Segment 13 (12:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 너무 민망하고 부를 때가 있단 말이죠. | 그럴 때 어떻게 하는지 알려드릴게요. | 아이폰 같은 경우는 바이치 조절을 이렇게 할 수가 있어요. | 네. | 이렇게 해주는 거예요. | 그러면 지금 셀카모드엔 상태거든요. | 근데 내가 어떤 걸 찍고 있는지 | 하나도 안 보이잖아요. | 그래서 이렇게 엎어놓고 나를 찍으면 | 핸드폰이 뭘 찍고 있는지 | 이게 꺼지는 핸드폰인지 | 켜지는 핸드폰인지 | 또 구분이 안 갈 정도로 티가 안 나거든요. | 저는 이렇게 바이치를 영으로 해주고 | 찍고 있습니다. | 진짜 꿀팁이죠 이거는. | 그리고 두 번째 꿀팁이 있어요. | 저는 겟라지 배드민아 | 아니면 패스ons 영상 같은 것도 가끔 찍고 있어요. | 그런 영상들 같은 경우에는 | 롱테이크 영상이 많기 때문에 | 뭔가 촬영을 하다가 갑자기 전화가 와서 | 핸드폰이 꺼지거나 하면 | 굉장히 충격적으로 허탈하다 말이죠. | 그래서 그럴 때는 | 비행기 로드를 해주고 촬영을 하는 거예요. | 카메라가 돌고 있는 동안에는 | 제가 아무런 방해를 받지 않을 수 있어가지고 좋더라고요. | 그리고 카메라 업플 | 카메라 업플레대한 질문도 굉장히 많으시는데 | 저는 현재는 기본 카메라로 촬영을 하고 있어요.
+
+### Segment 14 (13:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 예전 브이로그 같은 경우는 | 스노우캠으로 촬영을 하게 됐으면 | 왜냐하면 제 얼굴이 나오는데 | 막 좀 못 생긴 거 같고 | 일반 카메라로 찍으면 | 좀 잡티도 많이 나오는 것 같고 그렇잖아요. | 많은 분들이 좀 화질이 뿌요한 것 같다고 말씀을 해주시더라고요. | 그래서 일반캠으로 갈아타기 시작했고 | 스노우에서 일반캠으로 갈아타는 거 정말 힘들었어요. | 뭔가 석글렌즈를 끼고 있다가 빼는 느낌? | 그런 느낌이더라고요. | 그치만 더 좋은 화질로 | 제 일상을 담기 위해서 기본 카메라로 찍고 있는데요. | 뭐 계속 찍어보니까 별 차이가 없더라고요. | 오히려 더 자연스러운 것 같기도 했어요. | 근데 시작하시는 분들에게는 | 이런 걸 제암주지 않으셨으면 좋겠어요. | 스노우캠이 나에게 더 잘 맞다. | 이러면 그냥 스노우캠으로 시작을 해보세요. | 어차피 네 가치근 영상이고 네 가 볼 영상인데 | 네 얼굴이 내 마음에 들어야 하는 거잖아요. | 그래서 괜히 일반 카메라로 찍었다가 | 아, 이 영상 못 쓰겠어. | 이러고 업로드를 안 하는 것보다는 | 스노우로 찍으면서 | 그냥 업로드 하는 습관을 드리고
+
+### Segment 15 (14:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 재미를 드리시는 게 더 중요하니까 | 그런 어플 들은 그냥 자기 얼굴에 | 가장 잘 맞는 어플을 사용하시는 거 추천드립니다. | 이제 영상을 만들었으니까 업로드를 해야겠죠? | 저는 업로드를 할 때 핸드폰으로 업로드를 하기 때문에 | 유튜버 어플을 통해서 업로드를 하고 있고요. | 여기 보시면은 이 버튼이 있어요. | 영상. | 여기에 동영상 눌러서 | 영상을 업로드를 하면 되는 거예요. | 같이 겉은? | 안녕하세요. 했던 영상 업로드를 하고 싶으면 | 이 영상은 다음 눌러서 업로드를 하시면 됩니다. | 저는 저 스스로 업로드를 업로드를 하고 있기 때문에 | 비공개로 업로드를 하고 | 업로드를 하는 시간에 다시 들어가서 | 이 공개 설정을 공개로 바꾸시면 | 그 시간에 맞춰서 업로드가 완료가 돼요. | 그리고 유튜브를 하실 거면 | 이 앱을 꼭 가셔야 돼요. | 이거는 뭐냐면 유튜브 스튜디오 라는 앱이에요. | 내가 올린 영상들의 조회수라든지 | 댓글 같은 걸 차라대로 볼 수 있어요.
+
+### Segment 16 (15:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 그래서 최근 댓글들을 확인하는데 | 굉장히 유용하고요. | 그리고 이걸 통해서 실적 같은 거. | 동영상에 실적, 조회수라든지 이런 것들을 확인하시길 | 굉장히 편한 앱이에요. | 더보기라는 편집하고 싶다. | 이러면 여기 이렇게 있는 연필 모양을 누르시면 | 이렇게 더보기란 수정하는 곳이라고 해요. | 그러면 제가 더보기란을 추가하고 싶은 내용이라든지 | 수정하고 싶은 내용을 자유롭게 수정하실 수 있어요. | 유튜브 하면서 좋은 점. | 이거는 일단 좋은 점이 굉장히 많아요. | 제가 생각하는 가장 좋은 점은 | 많은 분들이 소통을 할 수 있다는 점. | 이게 진짜 좋아요. | 저는 원래 제가 써보고 좋은 것들은 | 주변 사람들에게 막 추천을 해주기도 하고 | 그리고 제가 입고 이어 예쁘다 이러면 | 아 이거 어디 어디서 샀어? | 이렇게 정보 공유하는 걸 굉장히 즐겨 있었어요. | 근데 유튜브를 통해서 제 데일리 룩이라든지 | 아니면 제 일상에서 저도 몰랐던 꿀팁 같은 것들. | 그런 것들을 막 공유 받아서 | 굉장히 좋았다 이렇게 해주시는 분들을 보면은 | 저는 너무 뿌듯하고요. | 그리고 반대로 저도 공유를 받기도 해요.
+
+### Segment 17 (16:00)
+- Brightness: Very Bright
+- Energy: Medium
+- Speech: 좋은 정보 같은 것들을 굉장히 많이 공유해주시기도 하고 | 취향 같은 것들이 일치했을 때 | 이럴 때 자리턴 키감이 있더라고요. | 요즘에는 화장품 데일리 룩 이런 걸 떠나서 | 그냥 제가 좋아하는 노래, | 제가 좋아하는 음식, 제가 좋아하는 음식점. | 이런 데를 추천드리는 것도 | 저는 너무 너무 재미있더라고요. | 상위님이 맛있다고 했던 데 방문했는데 | 거기 너무 맛있다고 이렇게 해주시면 | 제가 그 집 사장님도 아닌데 | 너무 너무 뿌듯하고 너무 좋았어요. | 제가 옷을 사고 있는 걸 정말 좋아해요. | 옛날부터 또 옷 입는 게 너무 좋아서 | 피팅모들도 했었고 이런 식으로 | 그냥 이렇게 꾸준히 옷에 대한 주제로 브이로그를 찍다 보니까 | 되게 자연스럽게 하지만 정말 정말 | 정말 좋은 기회로 큰 회사들이랑 콜라보를 하는 기회도 많이 생겼어요. | 브랜디, 무신사, 위즈위드 이런 식으로 | 들으면 다 알터판 브랜드들이잖아요. | 그런 브랜드들이랑 콜라보 영상을 찍는 것만으로 | 정말 용광이고 그리고 저의 삶이 있어서 | 굉장히 큰 이력이라는 생각이 들더라고요.
+
+### Segment 18 (17:00)
+- Brightness: Very Bright
+- Energy: Medium
+- Speech: 이게 제가 브이로그를 시작하고 나서 생긴 일들이니까 | 이것도 어쨌든 브이로그에 대한 2점이기도 하더라고요. | 그리고 사실 가장 현실적으로 좋은 점이 뭐냐면 | 저 같은 경우는 일상에 거의 대부분의 영상을 업무도 하고 있어요. | 그래서 정말 아무것도 안 하고 신날에는 영상이 없는 거죠. | 수요일 영상 없음, 목일 영상 없음. | 이런 식으로 편집을 하는 순간은 | 저의 진환주를 되돌아보는 순간이거든요. | 그럴 때 저는 진환주에 내가 열심히 살았으면 정말 뿌듯하고 | 아 진환주에 좀 쉬었다 이러면 | 아 이번 주는 조금 더 열심히 살아겠다. | 이런 자극이 되더라고요. | 이런 점이 제가 생각했을 때 굉장히 큰 입점이라고 생각해요. | 안 좋은 점은 이거는 모두에게 해당되는 내용은 아니겠지만 | 유튜브를 통해서 인지도가 생겼을 때 안 좋은 점. | 일단 아플이죠? | 저한테 심각한 아플이나 이런 거는 아직 달린 적이 없었어요. | 또 왜 이렇게 생겼어도 못생겼어. | 이런 아플들은 내가 모든 사람 눈에 이게 펼 필요는 없잖아요. | 그렇기 때문에 이건 좀 얼어우여서 이렇게 삭제 버리고 같아요.
+
+### Segment 19 (18:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 무섭기도 해요. 가끔. | 내가 이렇게 아무것도 안 깨 했던 것들이 | 남들에게는 피해가 갈 수 있구나. | 남들에게는 그렇게 비춰질 수 있구나 하는 생각에 | 좀 조심하게 되더라고요. | 표현을 하는 의사가 좀 서급적이게 변하게 되는 것 맞는 것 같아요. | 저 같은 경우에는 맛집이라고 해서 갔는데 | 저한테는 맛이 없을 수도 있잖아요. | 혹은 짜게 느껴질 수 있잖아요. | 근데 그럴 때는 | 아 이거 너무 짜 이렇게 말하고 싶어요. | 솔직히 이게 저의 솔직한 리뷰니까 | 근데 이게 또 어떻게 보면 요식업계에 정사하시는 분들은 | 이런 부분들의 굉장히 불쾌감을 느낄 수 있는 거죠. | 그리고 직접적으로 그 사장님이 내 영상을 보고 | 아 내 음식이 짜다고 하내라고 하실 수도 있는 거죠. | 제 영상이 피즈백을 보고 | 제가 소심해지는 것처럼 | 그분들도 그럴 수 있는 거죠. | 그래서 그런 부분들을 다 생각하다 보면 | 뭔가 솔직함이 좀 줄어드는 것 같긴 해요. | 근데 전 또 생각해요.
+
+### Segment 20 (19:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 내가 솔직해서 남의 피해를 보는 것보다 | 너무 솔직하지 않아도 되는 부분이 존재한다는 거는 생각해요. | 근데 제 브이로그 보시면 | 제가 처음에 맛있게 먹는 음식들은 정말 맛있는 음식점이고 | 별만 없이 그냥 그냥 그 지나가는 곳은 | 맛있는 것이 아니라는 거를 | 이제 제 구독자 분들은 아마 아실 거예요. | 이거는 마지막 TMI인데요. | 제가 주변에서도 어떻게 유튜브 시작했어? | 어떻게 첫 영상 만들었어? 라고 하시는 분들이 정말 많으셨는데 | 제가 오늘 이 영상에서 | 저의 첫 브이로그를 보여도 있려고 해요. | 제 채널에 가보시면 있는 첫 번째 브이로그는 사실 첫 브이로그가 아니에요. | 내가 브이로그를 찍는다고 결심한 날이 첫 영상이 아니라 | 하시다 보면은 아 이거 아니야 아니야. | 아니요. 하부를 종이 구겨서 버리듯이 버려지는 영상들이 있을 거예요. | 그러면서도 아 이거 정말 만족스러우 하면서 올렸던 첫 영상인데 | 한 달 뒤에 보니까 너무 굴인 거예요. | 그래서 그거를 바로 비공개 처리를 해버렸어요.
+
+### Segment 21 (20:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 근데 오늘 시작하시는 분들에게 용기를 싫어 드리기 위해서 | 저의 첫 영상을 보여드리도록 하겠습니다. | 저의 첫 영상입니다. | 정말 끝까지 보지 못해요. | 저는 이 영상을 만들어놓고도 너무 지루한 거예요. | 저 스스로 근처에 있는 | 그 부분은 제가 굉장히 많이 안 만들었어요. | 저는 이 영상을 만들어놓고도 너무 지루한 거예요. | 저 스스로 근처에 있는 거에요. | 저의 첫 영상인데요. 정말 끝까지 보지 못해요. | 저는 이 영상을 만들어 놓고도 너무 지루한 거예요. | 저 스스로 근처에 있는 영상을 만들었다는 의미를 들고 업로드를 했는데 | 한 달 뒤에 바로 후회가 되서 바로바로 삭제를 했어요. | 정말 잠이 안 올 때 봐도 졸리게 되는 영상이더라고요. | 근데 누가 봐요. 솔직히 나도 내 영상을 안 보는데
+
+### Segment 22 (21:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 그래서 이 영상은 주변에 브이로그 하고 싶어 하는데 | 내가 어떻게 해이라고 용기를 가지지 못하는 분들에게 많이 보여주고 있어요. | 그리고 제가 처음에 직장의 브이로그를 시작했었어요. | 제가 직장에 브이로그을 했던 이유는 | 그냥 제가 직장을 다니고 있었기 때문에 직장이 브이로그를 했던 거예요. | 별다른 의미가 없었습니다. | 직장 다니는데 유튜브 하는 거 지변에서 뭐라고 안해?라고 하시는데요. | 저는 회사에서 같이 브이로그 찍고 이렇게 했었거든요. | 그랬던 이유가 뭐냐면 유튜브 계장을 만든 다음 날이 회식 날이었어요. | 그래서 저는 회식 때 저 유튜브 할 거예요. 이렇게 선언을 한 거예요. | 그랬더니 진짜 아무도 관심 없지 마. | 그래, 그래. 열심히 해봐. 이렇게 하시는 거예요. | 그래서 구독해주세요. | 라고 했을 때 저한테 구독을 해주셨던 주인님들. | 그렇게 해서 구독자가 한 8명이었나 그날? | 뭐 그렇게 했었어요. 그래서 아싸 8명인데 | 10명 채워야지 이러고 돌아다녔었어요. | 근데 제 친구들도 구독을 안 해주더라고요. | 왜냐면 이런 영상이 올라오는데 | 솔직히 누가 구독을 해주겠어.
+
+### Segment 23 (22:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 그래서 제가 꼭 말씀드리고 싶은 거는 첫 술에 대보를 수 없어요. | 제 고린 영상 보셨죠. | 그러니까 그냥 재미를 가지시는 거 그게 가장 중요하다고 생각해요. | 그리고 저는 유튜브 인생 최종 목표 구독자가 1만 명이었어요. | 지금은 훨씬 많이 돌파를 했지만 | 구독자분들이 많아지고 있다는 거를 직접적으로 실감한 일도 없고 | 그래서 사실 중요하지 않아요. | 제가 생각했을 때 가장 중요한 것은 꾸준한 업로드도입니다. | 꾸준히 업로드를 하다 보면 | 저 스스로 습관이 되고 퀄리티는 점점 어쩔 수 없이 오르게 될 거예요. | 그리고 이 유튜브 플랫포만에서 | 내가 컨트롤을 할 수 있는 거는 영상 개수와 영상 퀄리티예요. | 다른 말로는 구독자, 소화, 조회수는 | 내가 어떻게 할 수 있는 부분이 아니라 말이죠. | 그런 부분까지 내가 스트레스를 받으면 | 결국 끝까지 할 수 없고 재미가 떨어질 거예요. | 그냥 즐기면서 내 영상을 업로드 한다. | 이런 마인드를 가지시는 걸 추천드려요. | 그리고 꼭 해드리고 싶은 말이 있는데요.
+
+### Segment 24 (23:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 첫 영상은 아무도 보지 않아요. | 그냥 나에게 아무도 관심이 없어요. 생각보다. | 그러니까 너무 부담을 가지시거나 | 너무 머리를 써서 영상을 만들시지 않으셔도 돼요. | 제 첫 브이로그 잘합니다. | 이번 영상은 제가 처음 브이로그를 시작했을 때 | 저의 막막함을 떠올리면서 | 어떤 부분들이 현실적으로 도움이 될까? | 어떤 부분들을 현실적으로 궁금해 하실까? | 이런 부분들의 포커스를 멈춰서 영상을 만들어봤습니다. | 이 영상을 통해서 브이로그 시작하는 걸 망설이셨던 분들은 | 시작을 하셨으면 좋겠고 | 어떻게 해야 될지 | 갈팡지 방하시는 분들에게는 | 가이드가 될 수 있지 않을까 하는 생각이 | 영상을 만들어봤어요. | 상의님 때문에 브이로그 시작했어요라고 하시는 분들이 많아지셨으면 좋겠고요. | 그럼 저는 다음 영상인 브이로그에서 찾아볼게요. | 안녕!
+
+(Total 24 segments)
+
+## Full Transcript
+안녕하세요 여러분 제목을 보시고 이게 뭐지 하면서 들어오신 분들도 많으실 것 같은데 오늘은 브이로그가 알려주는 브이로그 찍는 방법 영상입니다. 우선 이 영상으로 저를 처음 접하시는 분들은 제가 뭐 하는 사람이지 이렇게 생각을 하실까 봐 갈락하게 제 소개를 해드리자면 저는 일상 영상을 업로드 하고 있는 브이로그입니다. 이 영상은 특별한 의도를 가지고 있거나 광고가 포함된 영상이 절대 아니고요. 제가 1년 동안 브이로그를 하면서 제 주변 사람들도 그렇고 아니면 인스타 DM로 브이로그에 대해서 관심을 가지고 있는 분들에게 정말 많은 문의를 받았었어요. 저한테 직접적으로 브이로그 만드는 법 영상으로 만들어주세요 이렇게 요청을 하지 않으셨지만 제가 판단하기에 분명한 니즈가 있을 거라고 생각하기 때문에 이 영상을 만들게 되었어요. 저도 처음 브이로그를 접했을 때 좀 생소하기도 했고 내가 과연 할 수 있을까 영상 편집은 어떻게 하는 걸까 이런 궁금증들이 굉장히 많기도 했고 그리고 여러 가지 요소될 때문에 망설여지기도 했었어요. 우선은 내 영상을 내가 직접 찍고 내 모습을 직접 편집하고 업로드 한다는 거 자체가 굉장히 오글거리기도 했고 주변 사람들이 내가 브이로그 한다고 하는 뭐라고 생각할까 라고 생각하는 그 사법 때문에 좀 많이 망설여줬던 것 같아요. 근데 지금은 오히려 제가 주변 제인들에게 너도 해봐 이런 식으로 권유를 굉장히 많이 하고 있을 정도로 만족을 하고 있습니다. 분명 저처럼 가볍게 시작을 해보고 싶은데 주변에 물어볼 때가 없어서 좀 어려움을 겪고 계신 분들이 계실 거예요. 브이로그를 시작하시려고 하는 분들에게 혹은 시작하신지 얼마 안 되신 분들에게 도움을 드리고 싶어서 찍어보는 영상입니다. 왜 경쟁자를 늘리려고 하냐 이렇게 생각하시는 분들도 계실 텐데 저는 유튜브 생태계에 전혀 관심이 없는 사람이고요. 브이로그가 특별하다고 생각하지 않거든요. 인스타그램이나 블록처럼 내 일상 올리는 건데 플랫폼이 유튜브인 것 뿐이고 방법이 영상 업로드라는 것 뿐이지 다른 일상 SNS와 다르지는 전혀 없다고 생각해요. 어쨌든 SNS라는 건 플랫폼이 활성화될수록 더 좋은 효과가 일어날 수 있기 때문에 여러분들도 많이 많이 시작을 하셨으면 좋겠어요. 그럼 지금부터 브이로그 찍는 방법 영상을 시작해 볼게요. 저는 평소에도 브이로그를 하라고 집안에 굉장히 많이 권한 편이에요. 집안에서 누군가가 나는 화분에 물주는 거 진짜 좋아해요. 오 너 그거 화분에 물주는 거 영상 찍어봐. 브이로그 찍어봐 재밌겠다 이런 식으로. 근데 상대방은 뭐라는 거야 장난하는 거야? 이렇게 생각할 수도 있겠지만 브이로그 자체가 자연스러운 일상을 추구하는 영상들이기 때문에 저는 모든 것들이 주제가 될 수 있다고 생각하는 사람이에요. 그리고 이 포인트가 가장 중요한 거 같은데 누군가를 보여주기 위한 일상 영상이 아니라는 점 내 영상을 많은 사람들이 봐야 해이라고 생각하는 순간 일상이 가정화될 수가 있더라고요. 아무튼 부담을 가지지 마시고 인스타그램이나 블록 업무드 하듯이 그냥 내 일상 이런 것들을 공유한다 라는 생각으로 시작하시는 걸 추천 드립니다. 또 소득가 너무 길었죠. 그럼 지금부터 브이로그 찍는 방법에 대해서 알려드릴게요. 우선 촬영을 하려면 장비가 필요하겠죠. 이건 개인차가 너무 크기 때문에 저 기준으로 말씀을 드리자면 저는 아이폰 기본 카메라로 촬영을 하고 있어요. 카메라 없이도 시작할 수 있나요? 라고 생각하시는 분들도 계실 텐데 저는 브이로그 리 시작할 때 꾸준히 하는 것이 가장 중요하다고 생각했어요. 그래서 꾸준히 하려면 내가 가장 다르게 쉬운 장비를 선택하는 것이 중요하다고 생각을 했거든요. 핸드폰은 제가 맨날 가지고 다니기도 하고 일부러 장비를 챙길 필요가 없기 때문에 그냥 자연스럽게 일상에서 담고 싶은 영상을 담게 가장 좋은 장비인 것 같더라고요. 가끔 저도 카메라를 사용해서 영상을 찍기도 해요. 여행 브이로그에 찍거나 아니면 이렇게 설명을 드리고 싶은 영상을 촬영할 때 지금 찍고 있는 이 카메라는 캐노은 제품이고요. G7X 마크2 제품입니다. 브이로그 하시는 분들이 이 카메라를 굉장히 많이 사용하신다고 하더라고요. 이 색감도 예쁘고 그리고 룩폭 촬영을 하기에도 아무런 지장의 없애 정도로 괜찮았어요. 성능이 가면 마이크를 사용하시는 분들도 계신데 저는 마이크를 따로 사용하잖아요. 정말 곡 퀄리티로 영상을 찍고 싶으신 분들은 좋은 카메라를 쓰면 쓸수록 좋은 마이크를 쓰면 쓸수록 당연히 좋죠. 하지만 내가 그런 장치들을 잘 컨트롤로 하지 못해서 금방 그만 주는 것보다 내가 다르게 쉬운 장비들을 사용해서 꾸준히 하시는 게 조금 더 효과적이지 않을까 하는 생각이 들어요. 시작을 하시는 분들이라면 내 적성에 브이로그가 맞는지 잘 모르기 때문에 핸드폰을 시작을 하신 다음에 재미가 있으시다면 카메라를 혹은 다른 장기들을 구매하시는 걸 추천드립니다. 편집 업무�에 대한 질문도 굉장히 많으신데 제 브이로그을 보시는 분들은 좀 놀라실 수도 있어요. 저는 핸드폰으로 촬영을 하고 핸드폰으로 편집 그리고 업로드까지 완료를 하는 사람입니다. 이렇게 블로우 라는 어플이에요. 이런 어플인데 이렇게 물고기 모양으로 생긴 어플이고요. 이거를 클릭해서 들어가면 이렇게 영상을 클릭한 다음에 다음을 누르면 이렇게 설정을 할 수 있어요. 저는 16대 9 사이즈로 편집을 하고 있고요. 채운으로 해가지고 이렇게 넘기면 영상이 떠요. 이 영상들을 컵 편집하고 자막가 있고 효과한 넣고 이런 식으로 편집을 하면 됩니다. 이 어플은 사용하는 게 굉장히 간단해요. 그래서 제 주변에 저 때문에 브이로그를 시작하신 분들도 거의 대부분 이 어플을 사용하고 있는데 되게 좋다고 하더라고요. 그리고 최근에 이 어플이 업그레이드가 됐어요. 이거는 분명 영상 편집을 하시는 분들의 수요가 늘어났다는 증거가 될 것 같아요. 아무튼 이 어플 하나만으로도 편집을 하는데 굉장히 문제가 없더라고요. 그리고 카메라로 촬영을 한 날에는 컴퓨터로 편집을 하거든요. 그때는 공맥스 프로라는 편집기를 사용해서 편집을 하고 있어요. 프리미어 이런 거 안 쓰시나요? 하는데 저는 정말 그 부로 시작한 브이로그라서 편집기를 배울 시간이 없었어요. 그리고 딱히 배울고 싶지 않고 필요상을 못 느끼겠어요. 공맥스 프로만으로도 브이로그를 만드는 데는 별로 문제가 없더라고요. 브이로그는 직접 편집을 하시는 경우가 많잖아요. 유튜브 영상은 편집이 거의 8할 정도를 차지하는 것 같아요. 그래서 편집이 까다롭거나 편집 시간이 많이 걸리는 경우에는 영상을 꾸준히 업로드 하는 게 굉장히 어려울 수 있어요. 특히 직장에분들이나 보나비 있으신 분들은요. 저도 마찬가지예요. 저도 편집할 시간이 충분하지 않아가지고 핸드폰으로 촬영을 하고 핸드폰으로 편집을 하는 거거든요. 저는 그냥 침대에 누워서 자기 전에 핸드폰으로 편집을 하고 그리고 이동 중에 지하철을 타거나 버스를 타거나 하는 동안에도 편집을 할 수 있어서 핸드폰을 사용해서 영상을 편집하고 있습니다. 편집기도 장비와 마찬가지로 내가 정말 적상에 맞는지를 확인하신 후에 전문적인 편집기를 배우는 것이 어떨까 생각해요. 제가 사용하고 있는 편집기는 무료버전이 있고 유료버전이 있어요. 저는 조금 더 다양한 효과음이나 BJM 사용하고 싶어서 유료로 결제를 했고요. 모자이크 처리하는 것도 유료로 일 거예요. 그래서 제가 결제를 했던 걸로 기억이 나요. 그리고 공맥스토로는 다 똑같아요. 유료버전, 무료버전 이런 건 뭔가 스티커 같은 효과 같은 걸 제외하면 거의 다 비슷했고 차이점이 뭐냐면 10분 이하 영상을 만드는 건 무료로 가능한데 10분 이상의 영상을 인코딩 하려면 유료버전으로 정품 등록을 해야만 할 수 있어요. 그래서 저는 10분 넘는 영상들을 만드는 브이로그가 있기 때문에 유료버전을 사용하고 있습니다. 편집 다음으로 가장 중요한 건 아무래도 촬영이죠. 다른 분들의 영상을 참고하시는 건 좋은데 절대 그 분들을 따라하거나 아니면 난 이런 스타일을 갈 거예요. 하고 지점에 놓고 시작하시는 거를 추천드리진 않아요. 일단 이미 유명하신 그 크리에이터 분들도 본인의 스타일을 찾기 위해서 굉장히 많은 시간과 노력을 투자하셨을 거란 말이죠. 그래서 그 분들을 무작정 따라하는 거는 그 크리에이터 분들에게도 좀 피해가 갈 수 있고 아주 잠기적으로 봤을 때 나에게도 별로 좋지 않은 효과가 있을 것 같아요. 인스타그램 같은 경우도 피드를 들어가 보면 그 사람의 감성과 그 사람의 취향이 보인단 말이죠. 그런 것처럼 브이로그도 그냥 내 취향과 내 감성을 솔직하게 담아내보면 내 채널의 이미지와 내 채널의 스타일이 저절로 만들어질 거라고 생각해요. 브이로그는 10전도 중요하다고 생각해요. 어떤 분들을 보면 1인칭 10절모로만 영상을 찍으시는 분들도 계세요. 그리고 목 아래로 촬영하시는 분들 혹은 저처럼 얼굴이 나와서 이렇게 설명도 하고 리뷰도 하시는 브이로그 분들도 계시더라고요. 그런 10절만 그냥 본인의 스타일이에요. 내가 뭐 아래로만 찍고 싶어 하면 뭐 아래로 찍으면 되고 나는 얼굴이 나와서 상관없어. 하시는 분들은 얼굴이 나와도 상관없는 거죠. 일단 시작하시는 게 부담스러우시다면 그냥 뭐 아래로 찍으시고 그 다음에 얼굴이 실적 실적 출연하는 것도 재미있을 것 같아요. 주제도 딱히 중요하잖아요. 해외에서 사시는 분들 혹은 뭐 좀 특별한 직업을 가지신 분들 제외하고는 대부분 직장인 학생, 뭐 다른 직업이겠죠? 플로리스트, 아니면 발레리나 이런 식으로 자기의 직장을 앞에 들고 브이로그 이렇게 붙이 있는 게 대부분이더라고요. 직장인 브이로그, 학생 브이로그. 근데 저는 모든 직장인들과 모든 학생들이 똑같은 삶을 사는 게 아니기 때문에 나랑 똑같은 삶을 사는 사람은 없기 때문에 나의 일상은 어쨌든 타인이 봤을 때 모두에게 특별할 수 있는 삶이에요. 그냥 그 부분에서 특별하려고 머리를 쫓는 시간 보다 그냥 그 영상을 열심히 담고 열심히 업로드하시는 것의 시간을 더 많이 투자하셨으면 좋겠어요. 나는 매일매일 저렇게 밝진 않은데 나는 매일매일 저렇게 꾸미고 다니진 않는데 이런 생각에서 현실과 거리감이 올 때도 있었어요. 그래서 그때부터는 그냥 뭐가 됐던 것에 나의 솔직한 부분을 담는 것의 포커스를 돋던 것 같아요. 솔직하게 내 모습을 담는 것. 이게 진짜 중요한 포인트일 것 같습니다. 제가 어떻게 촬영하는지 알게 되시면 뭐야, 정말 이렇게 생각하실 수도 있어요. 저는 이 핸드폰을 맨에 가지고 다니면서 핸드폰으로 촬영을 해요. 그냥 카메라를 켜서 동영상 이렇게 해주고 셀카모드를 하는 거예요. 셀카모드를 해서 이렇게 촬영을 해요. 안녕하세요, 여러분. 이렇게 촬영을 하는 거죠. 카메라로 영상 찍는 거. 이거 너무 당연하죠. 근데 어떻게 찍냐고요, 라고 하실 수 있는데 저는 집에서 사용할 때는 이렇게 상극대를 넣고 사용해요. 뭐 집에서는 조금 더 다양한 앵글로 찍을 수 있는 여유가 있잖아요. 그래서 요리를 할 때는 이렇게 생각대에 다 거칠을 해주고 이렇게 꺾고 셀카모드로 음식을 찍는 거죠. 화장을 할 때도 이렇게 화장을 하는 영상을 찍는 거예요. 정말 별 거 없어요. 그냥 셀카 찍듯이 찍는 거고요. 이런 거는 굉장히 많이 팔아요. 저는 잠시력 지하상가에서 샀고 인터넷으로도 아마 구매를 하실 수 있을 거예요. 길게 늘려서 생각해처럼도 쓸 수 있고 그냥 짧게도 사용을 할 수가 있어서 굉장히 간편하더라고요. 저는 야외에서는 이 상각대를 사실 별로 쓰지 않아요. 왜냐면 음식 좀 같은데 갔는데 내 영상을 이렇게 상각대회를 넣고 찍고 있으면 좀 사람들이 이상하게 볼 것 같고 너무 관종 같고 이런 생각이 되잖아요. 그래서 저는 핸드폰에 물병 같은데 거치해 두고 키우려서 저를 찍는 거예요. 각도가 어떻게 되든 내 얼굴을 어떻게 나오든 사실 이건 브로우 전 개이자 하나에 가지고 물잔에다가 물을 따로 넣고 이게 기울어지지 않은 정도의 무게가 되는 곳이면 어디든 거치해도요. 혹은 팩트 같은 거 여러 개 친구들 거 싸워놓고 이렇게 하기도 해요. 그리고 여러분 이건 진짜 꿀팁인데요. 핸드폰으로 내 영상을 찍을 때 뭐 가게에서 찍어 나 이럴 때 종어본 분들이 이렇게 오시면 내가 내 얼굴 찍고 있는 거 들킨 거 같아가지고 너무 민망하고 부를 때가 있단 말이죠. 그럴 때 어떻게 하는지 알려드릴게요. 아이폰 같은 경우는 바이치 조절을 이렇게 할 수가 있어요. 네. 이렇게 해주는 거예요. 그러면 지금 셀카모드엔 상태거든요. 근데 내가 어떤 걸 찍고 있는지 하나도 안 보이잖아요. 그래서 이렇게 엎어놓고 나를 찍으면 핸드폰이 뭘 찍고 있는지 이게 꺼지는 핸드폰인지 켜지는 핸드폰인지 또 구분이 안 갈 정도로 티가 안 나거든요. 저는 이렇게 바이치를 영으로 해주고 찍고 있습니다. 진짜 꿀팁이죠 이거는. 그리고 두 번째 꿀팁이 있어요. 저는 겟라지 배드민아 아니면 패스ons 영상 같은 것도 가끔 찍고 있어요. 그런 영상들 같은 경우에는 롱테이크 영상이 많기 때문에 뭔가 촬영을 하다가 갑자기 전화가 와서 핸드폰이 꺼지거나 하면 굉장히 충격적으로 허탈하다 말이죠. 그래서 그럴 때는 비행기 로드를 해주고 촬영을 하는 거예요. 카메라가 돌고 있는 동안에는 제가 아무런 방해를 받지 않을 수 있어가지고 좋더라고요. 그리고 카메라 업플 카메라 업플레대한 질문도 굉장히 많으시는데 저는 현재는 기본 카메라로 촬영을 하고 있어요. 예전 브이로그 같은 경우는 스노우캠으로 촬영을 하게 됐으면 왜냐하면 제 얼굴이 나오는데 막 좀 못 생긴 거 같고 일반 카메라로 찍으면 좀 잡티도 많이 나오는 것 같고 그렇잖아요. 많은 분들이 좀 화질이 뿌요한 것 같다고 말씀을 해주시더라고요. 그래서 일반캠으로 갈아타기 시작했고 스노우에서 일반캠으로 갈아타는 거 정말 힘들었어요. 뭔가 석글렌즈를 끼고 있다가 빼는 느낌? 그런 느낌이더라고요. 그치만 더 좋은 화질로 제 일상을 담기 위해서 기본 카메라로 찍고 있는데요. 뭐 계속 찍어보니까 별 차이가 없더라고요. 오히려 더 자연스러운 것 같기도 했어요. 근데 시작하시는 분들에게는 이런 걸 제암주지 않으셨으면 좋겠어요. 스노우캠이 나에게 더 잘 맞다. 이러면 그냥 스노우캠으로 시작을 해보세요. 어차피 네 가치근 영상이고 네 가 볼 영상인데 네 얼굴이 내 마음에 들어야 하는 거잖아요. 그래서 괜히 일반 카메라로 찍었다가 아, 이 영상 못 쓰겠어. 이러고 업로드를 안 하는 것보다는 스노우로 찍으면서 그냥 업로드 하는 습관을 드리고 재미를 드리시는 게 더 중요하니까 그런 어플 들은 그냥 자기 얼굴에 가장 잘 맞는 어플을 사용하시는 거 추천드립니다. 이제 영상을 만들었으니까 업로드를 해야겠죠? 저는 업로드를 할 때 핸드폰으로 업로드를 하기 때문에 유튜버 어플을 통해서 업로드를 하고 있고요. 여기 보시면은 이 버튼이 있어요. 영상. 여기에 동영상 눌러서 영상을 업로드를 하면 되는 거예요. 같이 겉은? 안녕하세요. 했던 영상 업로드를 하고 싶으면 이 영상은 다음 눌러서 업로드를 하시면 됩니다. 저는 저 스스로 업로드를 업로드를 하고 있기 때문에 비공개로 업로드를 하고 업로드를 하는 시간에 다시 들어가서 이 공개 설정을 공개로 바꾸시면 그 시간에 맞춰서 업로드가 완료가 돼요. 그리고 유튜브를 하실 거면 이 앱을 꼭 가셔야 돼요. 이거는 뭐냐면 유튜브 스튜디오 라는 앱이에요. 내가 올린 영상들의 조회수라든지 댓글 같은 걸 차라대로 볼 수 있어요. 그래서 최근 댓글들을 확인하는데 굉장히 유용하고요. 그리고 이걸 통해서 실적 같은 거. 동영상에 실적, 조회수라든지 이런 것들을 확인하시길 굉장히 편한 앱이에요. 더보기라는 편집하고 싶다. 이러면 여기 이렇게 있는 연필 모양을 누르시면 이렇게 더보기란 수정하는 곳이라고 해요. 그러면 제가 더보기란을 추가하고 싶은 내용이라든지 수정하고 싶은 내용을 자유롭게 수정하실 수 있어요. 유튜브 하면서 좋은 점. 이거는 일단 좋은 점이 굉장히 많아요. 제가 생각하는 가장 좋은 점은 많은 분들이 소통을 할 수 있다는 점. 이게 진짜 좋아요. 저는 원래 제가 써보고 좋은 것들은 주변 사람들에게 막 추천을 해주기도 하고 그리고 제가 입고 이어 예쁘다 이러면 아 이거 어디 어디서 샀어? 이렇게 정보 공유하는 걸 굉장히 즐겨 있었어요. 근데 유튜브를 통해서 제 데일리 룩이라든지 아니면 제 일상에서 저도 몰랐던 꿀팁 같은 것들. 그런 것들을 막 공유 받아서 굉장히 좋았다 이렇게 해주시는 분들을 보면은 저는 너무 뿌듯하고요. 그리고 반대로 저도 공유를 받기도 해요. 좋은 정보 같은 것들을 굉장히 많이 공유해주시기도 하고 취향 같은 것들이 일치했을 때 이럴 때 자리턴 키감이 있더라고요. 요즘에는 화장품 데일리 룩 이런 걸 떠나서 그냥 제가 좋아하는 노래, 제가 좋아하는 음식, 제가 좋아하는 음식점. 이런 데를 추천드리는 것도 저는 너무 너무 재미있더라고요. 상위님이 맛있다고 했던 데 방문했는데 거기 너무 맛있다고 이렇게 해주시면 제가 그 집 사장님도 아닌데 너무 너무 뿌듯하고 너무 좋았어요. 제가 옷을 사고 있는 걸 정말 좋아해요. 옛날부터 또 옷 입는 게 너무 좋아서 피팅모들도 했었고 이런 식으로 그냥 이렇게 꾸준히 옷에 대한 주제로 브이로그를 찍다 보니까 되게 자연스럽게 하지만 정말 정말 정말 좋은 기회로 큰 회사들이랑 콜라보를 하는 기회도 많이 생겼어요. 브랜디, 무신사, 위즈위드 이런 식으로 들으면 다 알터판 브랜드들이잖아요. 그런 브랜드들이랑 콜라보 영상을 찍는 것만으로 정말 용광이고 그리고 저의 삶이 있어서 굉장히 큰 이력이라는 생각이 들더라고요. 이게 제가 브이로그를 시작하고 나서 생긴 일들이니까 이것도 어쨌든 브이로그에 대한 2점이기도 하더라고요. 그리고 사실 가장 현실적으로 좋은 점이 뭐냐면 저 같은 경우는 일상에 거의 대부분의 영상을 업무도 하고 있어요. 그래서 정말 아무것도 안 하고 신날에는 영상이 없는 거죠. 수요일 영상 없음, 목일 영상 없음. 이런 식으로 편집을 하는 순간은 저의 진환주를 되돌아보는 순간이거든요. 그럴 때 저는 진환주에 내가 열심히 살았으면 정말 뿌듯하고 아 진환주에 좀 쉬었다 이러면 아 이번 주는 조금 더 열심히 살아겠다. 이런 자극이 되더라고요. 이런 점이 제가 생각했을 때 굉장히 큰 입점이라고 생각해요. 안 좋은 점은 이거는 모두에게 해당되는 내용은 아니겠지만 유튜브를 통해서 인지도가 생겼을 때 안 좋은 점. 일단 아플이죠? 저한테 심각한 아플이나 이런 거는 아직 달린 적이 없었어요. 또 왜 이렇게 생겼어도 못생겼어. 이런 아플들은 내가 모든 사람 눈에 이게 펼 필요는 없잖아요. 그렇기 때문에 이건 좀 얼어우여서 이렇게 삭제 버리고 같아요. 무섭기도 해요. 가끔. 내가 이렇게 아무것도 안 깨 했던 것들이 남들에게는 피해가 갈 수 있구나. 남들에게는 그렇게 비춰질 수 있구나 하는 생각에 좀 조심하게 되더라고요. 표현을 하는 의사가 좀 서급적이게 변하게 되는 것 맞는 것 같아요. 저 같은 경우에는 맛집이라고 해서 갔는데 저한테는 맛이 없을 수도 있잖아요. 혹은 짜게 느껴질 수 있잖아요. 근데 그럴 때는 아 이거 너무 짜 이렇게 말하고 싶어요. 솔직히 이게 저의 솔직한 리뷰니까 근데 이게 또 어떻게 보면 요식업계에 정사하시는 분들은 이런 부분들의 굉장히 불쾌감을 느낄 수 있는 거죠. 그리고 직접적으로 그 사장님이 내 영상을 보고 아 내 음식이 짜다고 하내라고 하실 수도 있는 거죠. 제 영상이 피즈백을 보고 제가 소심해지는 것처럼 그분들도 그럴 수 있는 거죠. 그래서 그런 부분들을 다 생각하다 보면 뭔가 솔직함이 좀 줄어드는 것 같긴 해요. 근데 전 또 생각해요. 내가 솔직해서 남의 피해를 보는 것보다 너무 솔직하지 않아도 되는 부분이 존재한다는 거는 생각해요. 근데 제 브이로그 보시면 제가 처음에 맛있게 먹는 음식들은 정말 맛있는 음식점이고 별만 없이 그냥 그냥 그 지나가는 곳은 맛있는 것이 아니라는 거를 이제 제 구독자 분들은 아마 아실 거예요. 이거는 마지막 TMI인데요. 제가 주변에서도 어떻게 유튜브 시작했어? 어떻게 첫 영상 만들었어? 라고 하시는 분들이 정말 많으셨는데 제가 오늘 이 영상에서 저의 첫 브이로그를 보여도 있려고 해요. 제 채널에 가보시면 있는 첫 번째 브이로그는 사실 첫 브이로그가 아니에요. 내가 브이로그를 찍는다고 결심한 날이 첫 영상이 아니라 하시다 보면은 아 이거 아니야 아니야. 아니요. 하부를 종이 구겨서 버리듯이 버려지는 영상들이 있을 거예요. 그러면서도 아 이거 정말 만족스러우 하면서 올렸던 첫 영상인데 한 달 뒤에 보니까 너무 굴인 거예요. 그래서 그거를 바로 비공개 처리를 해버렸어요. 근데 오늘 시작하시는 분들에게 용기를 싫어 드리기 위해서 저의 첫 영상을 보여드리도록 하겠습니다. 저의 첫 영상입니다. 정말 끝까지 보지 못해요. 저는 이 영상을 만들어놓고도 너무 지루한 거예요. 저 스스로 근처에 있는 그 부분은 제가 굉장히 많이 안 만들었어요. 저는 이 영상을 만들어놓고도 너무 지루한 거예요. 저 스스로 근처에 있는 거에요. 저의 첫 영상인데요. 정말 끝까지 보지 못해요. 저는 이 영상을 만들어 놓고도 너무 지루한 거예요. 저 스스로 근처에 있는 영상을 만들었다는 의미를 들고 업로드를 했는데 한 달 뒤에 바로 후회가 되서 바로바로 삭제를 했어요. 정말 잠이 안 올 때 봐도 졸리게 되는 영상이더라고요. 근데 누가 봐요. 솔직히 나도 내 영상을 안 보는데 그래서 이 영상은 주변에 브이로그 하고 싶어 하는데 내가 어떻게 해이라고 용기를 가지지 못하는 분들에게 많이 보여주고 있어요. 그리고 제가 처음에 직장의 브이로그를 시작했었어요. 제가 직장에 브이로그을 했던 이유는 그냥 제가 직장을 다니고 있었기 때문에 직장이 브이로그를 했던 거예요. 별다른 의미가 없었습니다. 직장 다니는데 유튜브 하는 거 지변에서 뭐라고 안해?라고 하시는데요. 저는 회사에서 같이 브이로그 찍고 이렇게 했었거든요. 그랬던 이유가 뭐냐면 유튜브 계장을 만든 다음 날이 회식 날이었어요. 그래서 저는 회식 때 저 유튜브 할 거예요. 이렇게 선언을 한 거예요. 그랬더니 진짜 아무도 관심 없지 마. 그래, 그래. 열심히 해봐. 이렇게 하시는 거예요. 그래서 구독해주세요. 라고 했을 때 저한테 구독을 해주셨던 주인님들. 그렇게 해서 구독자가 한 8명이었나 그날? 뭐 그렇게 했었어요. 그래서 아싸 8명인데 10명 채워야지 이러고 돌아다녔었어요. 근데 제 친구들도 구독을 안 해주더라고요. 왜냐면 이런 영상이 올라오는데 솔직히 누가 구독을 해주겠어. 그래서 제가 꼭 말씀드리고 싶은 거는 첫 술에 대보를 수 없어요. 제 고린 영상 보셨죠. 그러니까 그냥 재미를 가지시는 거 그게 가장 중요하다고 생각해요. 그리고 저는 유튜브 인생 최종 목표 구독자가 1만 명이었어요. 지금은 훨씬 많이 돌파를 했지만 구독자분들이 많아지고 있다는 거를 직접적으로 실감한 일도 없고 그래서 사실 중요하지 않아요. 제가 생각했을 때 가장 중요한 것은 꾸준한 업로드도입니다. 꾸준히 업로드를 하다 보면 저 스스로 습관이 되고 퀄리티는 점점 어쩔 수 없이 오르게 될 거예요. 그리고 이 유튜브 플랫포만에서 내가 컨트롤을 할 수 있는 거는 영상 개수와 영상 퀄리티예요. 다른 말로는 구독자, 소화, 조회수는 내가 어떻게 할 수 있는 부분이 아니라 말이죠. 그런 부분까지 내가 스트레스를 받으면 결국 끝까지 할 수 없고 재미가 떨어질 거예요. 그냥 즐기면서 내 영상을 업로드 한다. 이런 마인드를 가지시는 걸 추천드려요. 그리고 꼭 해드리고 싶은 말이 있는데요. 첫 영상은 아무도 보지 않아요. 그냥 나에게 아무도 관심이 없어요. 생각보다. 그러니까 너무 부담을 가지시거나 너무 머리를 써서 영상을 만들시지 않으셔도 돼요. 제 첫 브이로그 잘합니다. 이번 영상은 제가 처음 브이로그를 시작했을 때 저의 막막함을 떠올리면서 어떤 부분들이 현실적으로 도움이 될까? 어떤 부분들을 현실적으로 궁금해 하실까? 이런 부분들의 포커스를 멈춰서 영상을 만들어봤습니다. 이 영상을 통해서 브이로그 시작하는 걸 망설이셨던 분들은 시작을 하셨으면 좋겠고 어떻게 해야 될지 갈팡지 방하시는 분들에게는 가이드가 될 수 있지 않을까 하는 생각이 영상을 만들어봤어요. 상의님 때문에 브이로그 시작했어요라고 하시는 분들이 많아지셨으면 좋겠고요. 그럼 저는 다음 영상인 브이로그에서 찾아볼게요. 안녕!

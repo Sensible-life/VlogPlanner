@@ -1,0 +1,118 @@
+{
+  "template_name": "Intimate Indoor Vlog",
+  "category": "personal_growth",
+  "structure": {
+    "opening": {
+      "duration_seconds": 27,
+      "description": "The vlogger introduces themselves and the purpose of the video, setting a friendly and engaging tone.",
+      "key_elements": [
+        "person speaking",
+        "dark curtains",
+        "text overlay in Korean"
+      ]
+    },
+    "body": {
+      "duration_seconds": 826,
+      "description": "The vlogger discusses various personal topics, including relationships, lifestyle, and personal growth, in a calm and intimate setting.",
+      "segments": [
+        {
+          "type": "dialogue/monologue",
+          "description": "The vlogger speaks directly to the camera about personal experiences and thoughts.",
+          "typical_duration": 60,
+          "scene_activity": "Speaking directly to the camera",
+          "location": "Indoor, likely a bedroom or living room",
+          "mood": "Calm and intimate"
+        },
+        {
+          "type": "dialogue/presentation",
+          "description": "The vlogger presents or discusses a topic, often with a calm and focused demeanor.",
+          "typical_duration": 30,
+          "scene_activity": "Presenting or discussing a topic",
+          "location": "Indoor, possibly a bedroom or hotel room",
+          "mood": "Calm and informative"
+        },
+        {
+          "type": "personal vlog or selfie moment",
+          "description": "The vlogger poses or smiles at the camera, creating a personal connection with the audience.",
+          "typical_duration": 10,
+          "scene_activity": "Posing and smiling at the camera",
+          "location": "Indoor, likely a bedroom or personal space",
+          "mood": "Calm and intimate"
+        },
+        {
+          "type": "conclusion/sign-off",
+          "description": "The vlogger concludes the video with a friendly and cheerful farewell.",
+          "typical_duration": 20,
+          "scene_activity": "Smiling and waving at the camera",
+          "location": "Indoor, possibly a bedroom or living room",
+          "mood": "Friendly and cheerful"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 34,
+      "description": "The vlogger wraps up the video, expressing gratitude and inviting viewers to engage further.",
+      "key_elements": [
+        "person smiling and waving",
+        "soft lighting",
+        "text overlay"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#8e8179",
+      "#191613",
+      "#f7f5ee"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Slow",
+    "average_shot_length": 11.7,
+    "scene_changes": 76,
+    "camera_work": [
+      "static shots",
+      "direct-to-camera"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Sharing personal stories and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean emotional subtitles",
+      "content_type": "Emotional descriptions and context"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Direct-to-Camera Monologue",
+      "description": "Frequent direct engagement with the audience through personal storytelling and reflection.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "personal vlogs",
+    "Q&A sessions"
+  ]
+}

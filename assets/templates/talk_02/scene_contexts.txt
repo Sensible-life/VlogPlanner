@@ -1,0 +1,1393 @@
+============================================================
+SCENE CONTEXT ANALYSIS
+============================================================
+
+Scene 1: 0:00:27
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly addressing an audience.
+Location: Indoor setting, likely a bedroom or living room.
+Mood: Friendly and engaging.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience.
+2. **Location**: Indoor setting, likely a bedroom or living room.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: 
+   - Person speaking
+   - Dark curtains in the background
+   - Bed or sofa partially visible
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 2: 0:00:28
+----------------------------------------
+Activity: A person is speaking or presenting to the camera.
+Location: Indoor setting, likely a bedroom or living room.
+Mood: Calm and friendly.
+Type: Dialogue or presentation.
+
+Full Analysis:
+1. **Activity**: A person is speaking or presenting to the camera.
+2. **Location**: Indoor setting, likely a bedroom or living room.
+3. **Mood**: Calm and friendly.
+4. **Key Elements**: Person, bed or couch, lamp, decorative graphics.
+5. **Scene Type**: Dialogue or presentation.
+
+============================================================
+
+Scene 3: 0:00:29
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly answering a question or sharing information.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly answering a question or sharing information.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person sitting on a bed
+   - Bed with white sheets
+   - Lamp on a bedside table
+   - Dark curtains in the background
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 4: 0:00:35
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, in a bedroom setting.
+Mood: Intimate and relaxed.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person sitting on a bed
+   - Bed with white bedding
+   - Lamp on a nightstand
+   - Dark curtains in the background
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 5: 0:00:46
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing the audience.
+Location: Indoor setting, possibly a bedroom or living room.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing the audience.
+2. **Location**: Indoor setting, possibly a bedroom or living room.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person speaking
+   - Dark curtains in the background
+   - Soft lighting
+   - Text overlay in red
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 6: 0:00:47
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or personal video.
+Location: Indoor, likely a bedroom.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or personal video.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a bedside table
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 7: 0:00:54
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely recording a vlog or video message.
+Location: Indoor, possibly a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.
+2. **Location**: Indoor, possibly a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a nightstand
+   - Dark curtains
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 8: 0:00:57
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Bedside lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 9: 0:01:02
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, in a bedroom setting.
+Mood: Intimate and relaxed.
+Type: Dialogue/Monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a bedside table
+   - Dark curtains in the background
+5. **Scene Type**: Dialogue/Monologue.
+
+============================================================
+
+Scene 10: 0:01:24
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: The atmosphere is intimate and relaxed.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: The atmosphere is intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed in the background
+   - Lamp on a side table
+   - Curtains
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 11: 0:01:29
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.
+Location: Indoor, in a bedroom setting.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person sitting on a bed
+   - Bed with white bedding
+   - Lamp on a bedside table
+   - Dark curtains in the background
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 12: 0:01:46
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.
+Location: Indoor setting, likely a bedroom or a cozy living space.
+Mood: Intimate and relaxed.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal commentary.
+2. **Location**: Indoor setting, likely a bedroom or a cozy living space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white sheets
+   - Dark curtains in the background
+   - Decorative overlay with stars and moons
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 13: 0:01:47
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, bed, bedside lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 14: 0:01:56
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely in a vlog or personal video.
+Location: Indoor, possibly a bedroom or living room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely in a vlog or personal video.
+2. **Location**: Indoor, possibly a bedroom or living room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Dark curtains in the background
+   - Soft lighting from a lamp
+   - Text overlay in the bottom left corner
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 15: 0:01:59
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, possibly a bedroom or hotel room.
+Mood: Intimate and personal.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, possibly a bedroom or hotel room.
+3. **Mood**: Intimate and personal.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a side table
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 16: 0:02:10
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly in a vlog or tutorial.
+Location: Indoor, likely a bedroom or a personal space.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or tutorial.
+2. **Location**: Indoor, likely a bedroom or a personal space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person speaking, bed, dark curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 17: 0:02:16
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.
+Location: Indoor, in a bedroom setting.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal discussion.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white sheets
+   - Bedside lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 18: 0:03:04
+----------------------------------------
+Activity: A person is posing and smiling at the camera, possibly for a video or selfie.
+Location: Indoor, likely a bedroom or personal space.
+Mood: Calm and intimate.
+Type: Personal vlog or selfie moment.
+
+Full Analysis:
+1. **Activity**: A person is posing and smiling at the camera, possibly for a video or selfie.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person smiling, bed, lamp, curtains, decorative graphics.
+5. **Scene Type**: Personal vlog or selfie moment.
+
+============================================================
+
+Scene 19: 0:03:05
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person speaking, bed, lamp, dark curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 20: 0:03:21
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly addressing an audience.
+Location: Indoor setting, likely a bedroom or living room.
+Mood: Friendly and engaging.
+Type: Dialogue/Monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience.
+2. **Location**: Indoor setting, likely a bedroom or living room.
+3. **Mood**: Friendly and engaging.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed or couch in the background
+   - Lamp
+   - Curtains
+5. **Scene Type**: Dialogue/Monologue.
+
+============================================================
+
+Scene 21: 0:03:23
+----------------------------------------
+Activity: A person is gesturing with their index finger raised, possibly emphasizing a point or giving instructions.
+Location: Indoor setting, likely a bedroom or living room.
+Mood: Calm and intimate.
+Type: Dialogue or instructional.
+
+Full Analysis:
+1. **Activity**: A person is gesturing with their index finger raised, possibly emphasizing a point or giving instructions.
+2. **Location**: Indoor setting, likely a bedroom or living room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Raised finger, person partially visible, lamp, curtains, decorative graphics.
+5. **Scene Type**: Dialogue or instructional.
+
+============================================================
+
+Scene 22: 0:03:24
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly answering a question or discussing a topic.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly answering a question or discussing a topic.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a side table
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 23: 0:03:29
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+Location: Indoor, likely a bedroom or living space.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely a bedroom or living space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person speaking, bed, lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 24: 0:03:32
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely recording a vlog or video message.
+Location: Indoor, in a bedroom setting.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person speaking, bed, bedside lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 25: 0:03:53
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Wall lamp
+   - Dark curtains
+   - Text on screen
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 26: 0:03:58
+----------------------------------------
+Activity: 
+Location: 
+Mood: 
+Type: 
+
+Full Analysis:
+I'm unable to analyze the content of this video frame as it appears to be mostly obscured by a decorative overlay. If you have another frame or more context, feel free to share!
+
+============================================================
+
+Scene 27: 0:03:59
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely engaging in a vlog or personal video message.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely engaging in a vlog or personal video message.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person, bed, bedside lamp, curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 28: 0:04:18
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly in a vlog or tutorial format.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or tutorial format.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, bed, lamp, curtains, decorative graphics.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 29: 0:04:19
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person sitting on a bed
+   - Bed with white bedding
+   - Soft lighting from a lamp
+   - Dark curtains in the background
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 30: 0:04:36
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely sharing information or a personal story.
+Location: Indoor, likely a bedroom or a cozy living space.
+Mood: Intimate and relaxed.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely sharing information or a personal story.
+2. **Location**: Indoor, likely a bedroom or a cozy living space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a bedside table
+   - Dark curtains
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 31: 0:04:43
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly sharing a message or story.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly sharing a message or story.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Soft lighting from a lamp
+   - Dark curtains in the background
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 32: 0:04:58
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+Location: Indoor, likely a bedroom or a personal space.
+Mood: Calm and intimate.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely a bedroom or a personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Wall lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 33: 0:05:06
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly sharing a personal story or giving advice.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly sharing a personal story or giving advice.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Nightstand with a lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 34: 0:05:30
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely sharing a personal story or advice.
+Location: Indoor, in a bedroom setting.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely sharing a personal story or advice.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: Person speaking, bed, bedside lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 35: 0:05:37
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly reviewing or discussing a product.
+Location: Indoor, likely a bedroom or living room setting.
+Mood: Calm and intimate.
+Type: Dialogue or product review.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly reviewing or discussing a product.
+2. **Location**: Indoor, likely a bedroom or living room setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person holding a white device
+   - Bed with pillows
+   - Lamp on a side table
+   - Dark curtains
+5. **Scene Type**: Dialogue or product review.
+
+============================================================
+
+Scene 36: 0:05:49
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly delivering a monologue or vlog entry.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly delivering a monologue or vlog entry.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Wall lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 37: 0:06:01
+----------------------------------------
+Activity: 
+Location: 
+Mood: 
+Type: 
+
+Full Analysis:
+I'm unable to analyze this video frame as it appears to be mostly obscured by a white overlay with decorative elements. If you have another frame or more context, feel free to share!
+
+============================================================
+
+Scene 38: 0:06:02
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or a video message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a video message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person speaking, bed, bedside lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 39: 0:06:31
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, possibly a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, possibly a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white sheets
+   - Lamp on a bedside table
+   - Dark curtains
+   - Inset image with cityscape and person
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 40: 0:06:35
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly in a vlog or tutorial.
+Location: Indoor, likely a bedroom or living space.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or tutorial.
+2. **Location**: Indoor, likely a bedroom or living space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with pillows
+   - Lamp
+   - Curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 41: 0:06:54
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person sitting on a bed
+   - Bed with white bedding
+   - Wall lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 42: 0:06:58
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly in a vlog or personal video message.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or personal video message.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Wall lamp
+   - Dark curtains
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 43: 0:06:59
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Bedside lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 44: 0:07:03
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly in a vlog or personal video.
+Location: Indoor, likely a bedroom or living room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or personal video.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person speaking, bed, lamp, dark curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 45: 0:07:06
+----------------------------------------
+Activity: A person is smiling and possibly speaking or reacting to something.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: The atmosphere is intimate and cheerful.
+Type: Dialogue or reaction shot.
+
+Full Analysis:
+1. **Activity**: A person is smiling and possibly speaking or reacting to something.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: The atmosphere is intimate and cheerful.
+4. **Key Elements**: 
+   - Person smiling
+   - Bed with white bedding
+   - Lamp on the wall
+   - Dark curtains
+   - Question mark graphic
+5. **Scene Type**: Dialogue or reaction shot.
+
+============================================================
+
+Scene 46: 0:07:44
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely delivering a message or presentation.
+Location: Indoor setting, possibly a bedroom or living room.
+Mood: Calm and focused.
+Type: Dialogue/Presentation.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely delivering a message or presentation.
+2. **Location**: Indoor setting, possibly a bedroom or living room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person speaking
+   - Lamp in the background
+   - Curtains
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/Presentation.
+
+============================================================
+
+Scene 47: 0:07:47
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely discussing a topic or sharing information.
+Location: Indoor, in a bedroom setting.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely discussing a topic or sharing information.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a nightstand
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 48: 0:08:10
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue/Monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Dark curtains
+   - Wall lamp
+5. **Scene Type**: Dialogue/Monologue.
+
+============================================================
+
+Scene 49: 0:08:13
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Lamp on a nightstand
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 50: 0:08:39
+----------------------------------------
+Activity: A person appears to be speaking or posing, possibly for a video or photo.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue or introduction.
+
+Full Analysis:
+1. **Activity**: A person appears to be speaking or posing, possibly for a video or photo.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person with long hair, bed with white bedding, dark curtains, decorative overlay with stars and moons.
+5. **Scene Type**: Dialogue or introduction.
+
+============================================================
+
+Scene 51: 0:08:40
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+Location: Indoor, likely a bedroom or a cozy living space.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.
+2. **Location**: Indoor, likely a bedroom or a cozy living space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person speaking, bed, bedside lamp, dark curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 52: 0:08:57
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white sheets
+   - Lamp on a nightstand
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 53: 0:09:18
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed or couch in the background
+   - Curtains
+   - Text overlay with an emoji
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 54: 0:09:20
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly addressing an audience.
+Location: Indoor, likely a bedroom or a cozy living space.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly addressing an audience.
+2. **Location**: Indoor, likely a bedroom or a cozy living space.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: Person sitting on a bed, bedside lamp, dark curtains, soft lighting.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 55: 0:09:24
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.
+Location: Indoor, likely a bedroom or living room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or tutorial.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person speaking, bed or sofa, lamp, curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 56: 0:09:25
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly engaging in a vlog or discussion.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Intimate and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or discussion.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person speaking, bed, bedside lamp, dark curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 57: 0:09:31
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, bed, lamp, dark curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 58: 0:10:28
+----------------------------------------
+Activity: The scene appears to be a static shot of a bedroom setting.
+Location: Indoor, likely a bedroom.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot of a bedroom setting.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Bed with white sheets, wall lamp, framed picture, curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 59: 0:10:29
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Nightstand with a lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 60: 0:11:07
+----------------------------------------
+Activity: A person is presenting or reviewing a book.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and informative.
+Type: Dialogue/Presentation.
+
+Full Analysis:
+1. **Activity**: A person is presenting or reviewing a book.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and informative.
+4. **Key Elements**: Person, bed, lamp, book cover, text overlay.
+5. **Scene Type**: Dialogue/Presentation.
+
+============================================================
+
+Scene 61: 0:11:16
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely discussing a topic or sharing information.
+Location: Indoor, possibly a bedroom or a cozy living space.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely discussing a topic or sharing information.
+2. **Location**: Indoor, possibly a bedroom or a cozy living space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with pillows
+   - Lamp on a bedside table
+   - Curtains in the background
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 62: 0:11:22
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly sharing information or advice.
+Location: Indoor, likely a bedroom or a personal space.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly sharing information or advice.
+2. **Location**: Indoor, likely a bedroom or a personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with a tufted headboard
+   - Bedside lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 63: 0:11:39
+----------------------------------------
+Activity: A person is speaking to the camera, possibly discussing or reviewing a book.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking to the camera, possibly discussing or reviewing a book.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person holding a book
+   - Bed with white bedding
+   - Wall lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 64: 0:12:07
+----------------------------------------
+Activity: 
+Location: 
+Mood: 
+Type: 
+
+Full Analysis:
+I'm unable to analyze the content of this image. It appears to be text in Korean. If you need a translation or summary, please let me know!
+
+============================================================
+
+Scene 65: 0:12:10
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, bed, bedside lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 66: 0:13:15
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.
+Location: Indoor setting, likely a bedroom or hotel room.
+Mood: Intimate and personal.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly engaging in a vlog or personal video message.
+2. **Location**: Indoor setting, likely a bedroom or hotel room.
+3. **Mood**: Intimate and personal.
+4. **Key Elements**: Person speaking, bed, curtains, text overlay with snowflake graphics.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 67: 0:13:16
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience or recording a vlog.
+Location: Indoor, in a bedroom setting.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience or recording a vlog.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Bedside lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 68: 0:13:24
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, possibly a bedroom or a cozy living space.
+Mood: Intimate and calm.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, possibly a bedroom or a cozy living space.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed in the background
+   - Lamp on a nightstand
+   - Dark curtains
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 69: 0:13:47
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly delivering a monologue or vlog.
+Location: Indoor, likely a bedroom or hotel room.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly delivering a monologue or vlog.
+2. **Location**: Indoor, likely a bedroom or hotel room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person speaking, bed, lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 70: 0:14:08
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, possibly a bedroom or living room.
+Mood: Warm and friendly.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, possibly a bedroom or living room.
+3. **Mood**: Warm and friendly.
+4. **Key Elements**: Person smiling, lamp, curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 71: 0:14:09
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, in a bedroom setting.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person speaking, bed, bedside lamp, dark curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 72: 0:14:22
+----------------------------------------
+Activity: A person is speaking energetically, possibly addressing an audience or camera.
+Location: Indoor, likely a bedroom or living room.
+Mood: Energetic and cheerful.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking energetically, possibly addressing an audience or camera.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Energetic and cheerful.
+4. **Key Elements**: Person with raised arms, bed or sofa, lamp, curtains.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 73: 0:14:24
+----------------------------------------
+Activity: A person is speaking directly to the camera, likely addressing an audience.
+Location: Indoor, in a bedroom setting.
+Mood: Calm and intimate.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, likely addressing an audience.
+2. **Location**: Indoor, in a bedroom setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Bed with white bedding
+   - Bedside lamp
+   - Dark curtains
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 74: 0:14:31
+----------------------------------------
+Activity: A person is smiling and waving at the camera, likely concluding a video.
+Location: Indoor, possibly a bedroom or living room.
+Mood: Friendly and cheerful.
+Type: Conclusion/Sign-off.
+
+Full Analysis:
+1. **Activity**: A person is smiling and waving at the camera, likely concluding a video.
+2. **Location**: Indoor, possibly a bedroom or living room.
+3. **Mood**: Friendly and cheerful.
+4. **Key Elements**: Person smiling, hands raised, soft lighting, text overlay.
+5. **Scene Type**: Conclusion/Sign-off.
+
+============================================================
+
+Scene 75: 0:14:32
+----------------------------------------
+Activity: A person is waving and smiling at the camera, likely saying goodbye or ending a video.
+Location: Indoor, possibly a bedroom or hotel room.
+Mood: Friendly and warm.
+Type: Closing or farewell shot.
+
+Full Analysis:
+1. **Activity**: A person is waving and smiling at the camera, likely saying goodbye or ending a video.
+2. **Location**: Indoor, possibly a bedroom or hotel room.
+3. **Mood**: Friendly and warm.
+4. **Key Elements**: 
+   - Person smiling and waving
+   - Bed in the background
+   - Soft lighting
+   - Curtains
+5. **Scene Type**: Closing or farewell shot.
+
+============================================================
+
+Scene 76: 0:14:34
+----------------------------------------
+Activity: Three people are engaged in a conversation, possibly recording or discussing something.
+Location: Indoor setting, likely a casual meeting or dining area.
+Mood: The atmosphere appears relaxed and friendly.
+Type: Dialogue
+
+Full Analysis:
+1. **Activity**: Three people are engaged in a conversation, possibly recording or discussing something.
+2. **Location**: Indoor setting, likely a casual meeting or dining area.
+3. **Mood**: The atmosphere appears relaxed and friendly.
+4. **Key Elements**: 
+   - Three people sitting at a table
+   - Notebooks and papers on the table
+   - A lamp providing soft lighting
+   - Drinks with straws
+5. **Scene Type**: Dialogue
+
+============================================================
+

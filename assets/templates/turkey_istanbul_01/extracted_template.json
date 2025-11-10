@@ -1,0 +1,146 @@
+{
+  "template_name": "Istanbul Food and Culture Exploration",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction to the vlog with initial impressions of Istanbul and setting the scene for the day's exploration.",
+      "key_elements": [
+        "initial impressions",
+        "setting the scene",
+        "introduction to Istanbul"
+      ]
+    },
+    "body": {
+      "duration_seconds": 3065,
+      "description": "Main content featuring a detailed exploration of Istanbul's cultural landmarks, local food experiences, and vibrant city life.",
+      "segments": [
+        {
+          "type": "city exploration",
+          "description": "Walking through Taksim Square, observing local architecture and city life.",
+          "typical_duration": 300,
+          "scene_activity": "Walking and observing",
+          "location": "Taksim Square",
+          "mood": "Curious and lively"
+        },
+        {
+          "type": "food tasting",
+          "description": "Sampling local delicacies like kebabs and Turkish coffee at various eateries.",
+          "typical_duration": 600,
+          "scene_activity": "Eating and reviewing food",
+          "location": "Local restaurants and cafes",
+          "mood": "Enjoyable and engaging"
+        },
+        {
+          "type": "cultural visit",
+          "description": "Visiting historical sites such as the Blue Mosque and Hagia Sophia.",
+          "typical_duration": 800,
+          "scene_activity": "Touring and learning about history",
+          "location": "Historical landmarks",
+          "mood": "Reflective and educational"
+        },
+        {
+          "type": "market exploration",
+          "description": "Exploring local markets, interacting with vendors, and observing the bustling environment.",
+          "typical_duration": 500,
+          "scene_activity": "Shopping and interacting",
+          "location": "Local markets",
+          "mood": "Vibrant and dynamic"
+        },
+        {
+          "type": "scenic views",
+          "description": "Enjoying scenic views of the Bosphorus and capturing the city's beauty.",
+          "typical_duration": 400,
+          "scene_activity": "Sightseeing and relaxing",
+          "location": "Bosphorus",
+          "mood": "Peaceful and awe-inspiring"
+        },
+        {
+          "type": "local interaction",
+          "description": "Engaging with locals, learning about their culture and daily life.",
+          "typical_duration": 465,
+          "scene_activity": "Conversing and learning",
+          "location": "Various locations",
+          "mood": "Friendly and informative"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 240,
+      "description": "Concluding the vlog with reflections on the day's experiences and a farewell message.",
+      "key_elements": [
+        "reflections",
+        "farewell message"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#241620",
+      "#694b4d",
+      "#dad3db",
+      "#ac887e",
+      "#7197d0"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.173,
+    "scene_changes": 2852,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 4,
+    "social": 4,
+    "content_focus": 5,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and engaging",
+      "content_type": "Explaining, sharing experiences, casual chat"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names, brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food Exploration",
+      "description": "Frequent visits to local eateries and detailed food reviews.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Cultural Insights",
+      "description": "In-depth exploration of cultural and historical sites.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Local Interaction",
+      "description": "Engaging with locals to learn about their lifestyle and culture.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural education",
+    "Food exploration"
+  ]
+}

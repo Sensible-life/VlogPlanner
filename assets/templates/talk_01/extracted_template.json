@@ -1,0 +1,146 @@
+{
+  "template_name": "Korean Culinary and Leisure Vlog",
+  "category": "food",
+  "structure": {
+    "opening": {
+      "duration_seconds": 2,
+      "description": "The vlog opens with a person enjoying a meal and engaging in conversation in a relaxed and cheerful mood.",
+      "key_elements": [
+        "person smiling",
+        "meal",
+        "indoor dining area"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1243,
+      "description": "The main content includes scenes of food preparation, dining, leisure activities, and motivational messages.",
+      "segments": [
+        {
+          "type": "dining scene",
+          "description": "A person enjoying a meal, possibly cooking or grilling food at the table in a casual restaurant or dining area.",
+          "typical_duration": 120,
+          "scene_activity": "Eating and cooking",
+          "location": "Indoor dining area",
+          "mood": "Relaxed and cheerful"
+        },
+        {
+          "type": "food preparation",
+          "description": "People grilling meat and preparing food at a table, both indoor and outdoor settings, often in a social atmosphere.",
+          "typical_duration": 180,
+          "scene_activity": "Grilling and preparing food",
+          "location": "Outdoor and indoor dining areas",
+          "mood": "Relaxed and social"
+        },
+        {
+          "type": "leisure activity",
+          "description": "A person flying a kite in an outdoor park area near a body of water, capturing a calm and serene mood.",
+          "typical_duration": 60,
+          "scene_activity": "Flying a kite",
+          "location": "Outdoor park",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "motivational text display",
+          "description": "Scenes displaying motivational messages with text overlays on a black background.",
+          "typical_duration": 30,
+          "scene_activity": "Displaying motivational text",
+          "location": "Not applicable",
+          "mood": "Encouraging and motivational"
+        },
+        {
+          "type": "dialogue",
+          "description": "Conversations taking place in casual indoor settings, often near windows showing greenery outside.",
+          "typical_duration": 300,
+          "scene_activity": "Engaging in conversation",
+          "location": "Indoor setting with windows",
+          "mood": "Calm and relaxed"
+        },
+        {
+          "type": "establishing shot",
+          "description": "Various establishing shots of indoor and outdoor settings, including parks and dining areas.",
+          "typical_duration": 120,
+          "scene_activity": "Showing environment",
+          "location": "Indoor and outdoor settings",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "cooking preparation",
+          "description": "Scenes of cooking instant noodles and preparing meals in an indoor kitchen setting.",
+          "typical_duration": 120,
+          "scene_activity": "Cooking and preparing food",
+          "location": "Indoor kitchen",
+          "mood": "Casual and focused"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 2,
+      "description": "The vlog closes with a motivational message being displayed in an encouraging and supportive mood.",
+      "key_elements": [
+        "motivational text",
+        "dark background"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#1d1715",
+      "#b3977c",
+      "#7b6f65"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Medium",
+    "average_shot_length": 12.1,
+    "scene_changes": 103,
+    "camera_work": [
+      "steady shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and explanations"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Motivational messages and location details"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food Preparation and Dining",
+      "description": "Frequent scenes of preparing and enjoying meals, often in a social setting.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Motivational Messages",
+      "description": "Regular display of motivational text overlays throughout the vlog.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Culinary exploration",
+    "Social dining experience"
+  ]
+}

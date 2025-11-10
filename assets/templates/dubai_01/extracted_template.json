@@ -1,0 +1,140 @@
+{
+  "template_name": "Dubai Travel Adventure",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction to the Dubai trip, initial impressions, and setting the scene for the adventure.",
+      "key_elements": [
+        "Arrival in Dubai",
+        "First impressions",
+        "Weather discussion",
+        "Initial exploration plans"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1260,
+      "description": "Main content covering the exploration of Dubai, including cultural sites, food experiences, and shopping.",
+      "segments": [
+        {
+          "type": "cultural exploration",
+          "description": "Exploring RCEP, a historic district with a traditional market feel, reminiscent of Aladdin.",
+          "typical_duration": 300,
+          "scene_activity": "Walking through historic streets, admiring architecture",
+          "location": "RCEP, Dubai",
+          "mood": "Nostalgic, Awe-inspired"
+        },
+        {
+          "type": "food tasting",
+          "description": "Sampling local cuisine at a restaurant, including unique dishes and beverages.",
+          "typical_duration": 180,
+          "scene_activity": "Tasting various dishes, discussing flavors",
+          "location": "Local restaurant",
+          "mood": "Curious, Adventurous"
+        },
+        {
+          "type": "shopping experience",
+          "description": "Shopping in Dubai's markets, exploring unique items and bargaining.",
+          "typical_duration": 240,
+          "scene_activity": "Browsing shops, purchasing souvenirs",
+          "location": "Dubai markets",
+          "mood": "Excited, Engaged"
+        },
+        {
+          "type": "luxury hotel experience",
+          "description": "Checking into a luxury hotel, exploring the amenities and room features.",
+          "typical_duration": 180,
+          "scene_activity": "Touring hotel room, enjoying amenities",
+          "location": "Luxury hotel in Dubai",
+          "mood": "Impressed, Relaxed"
+        },
+        {
+          "type": "theme park visit",
+          "description": "Visiting a theme park, experiencing thrilling rides and attractions.",
+          "typical_duration": 360,
+          "scene_activity": "Riding roller coasters, enjoying attractions",
+          "location": "Theme park",
+          "mood": "Thrilled, Energetic"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 87,
+      "description": "Reflecting on the day's experiences and concluding the vlog with a preview of upcoming adventures.",
+      "key_elements": [
+        "Reflection on experiences",
+        "Preview of next activities",
+        "Farewell message"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#644041",
+      "#a89994",
+      "#836d69",
+      "#262226",
+      "#d2c8c5"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Fast",
+    "average_shot_length": 1.8,
+    "scene_changes": 882,
+    "camera_work": [
+      "Handheld",
+      "Panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining experiences, sharing feelings"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names, brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Cultural Immersion",
+      "description": "Frequent visits to cultural and historic sites, with detailed exploration.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food Exploration",
+      "description": "Regular tasting and reviewing of local cuisine.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Luxury Experience",
+      "description": "Staying and showcasing luxury accommodations and experiences.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration",
+    "Food tasting experiences"
+  ]
+}

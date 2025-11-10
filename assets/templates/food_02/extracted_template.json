@@ -1,0 +1,117 @@
+{
+  "template_name": "Korean Cooking and Shopping Vlog",
+  "category": "food",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "The vlog opens with a close-up of a dish being cooked on a stovetop, likely a stew or braised dish, in an indoor kitchen setting.",
+      "key_elements": [
+        "stovetop cooking",
+        "indoor kitchen",
+        "warm and appetizing mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1017,
+      "description": "The main content includes various cooking demonstrations, food preparation scenes, and shopping for kitchenware.",
+      "segments": [
+        {
+          "type": "cooking demonstration",
+          "description": "Various cooking demonstrations showing the preparation of dishes like shrimp pasta, stew, and other meals, often involving chopping, seasoning, and cooking on a stovetop.",
+          "typical_duration": 300,
+          "scene_activity": "Cooking and preparing meals",
+          "location": "Indoor kitchen",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "food closeup",
+          "description": "Close-up shots of food being cooked or presented, highlighting the ingredients and final dishes.",
+          "typical_duration": 200,
+          "scene_activity": "Presenting cooked dishes",
+          "location": "Indoor kitchen or dining area",
+          "mood": "Warm and appetizing"
+        },
+        {
+          "type": "shopping scene",
+          "description": "Scenes of shopping for kitchenware and ingredients, including examining and selecting items in a store.",
+          "typical_duration": 300,
+          "scene_activity": "Shopping for kitchenware",
+          "location": "Indoor store or market",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "product showcase",
+          "description": "Showcasing various kitchenware items in a store, often with close-ups of the products.",
+          "typical_duration": 217,
+          "scene_activity": "Displaying kitchenware items",
+          "location": "Indoor store",
+          "mood": "Calm and organized"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "The vlog concludes with a meal presentation and an end screen showing options for viewers to select other videos.",
+      "key_elements": [
+        "meal presentation",
+        "end screen with video suggestions"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#dfc9b0",
+      "#594635",
+      "#b99e84"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.4,
+    "scene_changes": 478,
+    "camera_work": [
+      "close-up shots",
+      "establishing shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 2,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining cooking steps and shopping choices"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Descriptions of ingredients and products"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Cooking and Shopping Alternation",
+      "description": "Alternating between cooking demonstrations and shopping scenes",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Cooking tutorials",
+    "Kitchenware reviews"
+  ]
+}

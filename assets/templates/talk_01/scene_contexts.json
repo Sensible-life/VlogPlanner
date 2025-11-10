@@ -1,0 +1,1093 @@
+{
+  "total_scenes": 103,
+  "scenes": [
+    {
+      "timestamp": 2.0,
+      "timestamp_formatted": "0:00:02",
+      "activity": "A person is enjoying a meal, likely engaging in conversation.",
+      "location": "Indoor, possibly a restaurant or dining area.",
+      "mood": "Relaxed and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is enjoying a meal, likely engaging in conversation.\n2. **Location**: Indoor, possibly a restaurant or dining area.\n3. **Mood**: Relaxed and cheerful.\n4. **Key Elements**: A pot with meat and greens, a person smiling, a glass, chopsticks, and an air conditioner.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 3.0,
+      "timestamp_formatted": "0:00:03",
+      "activity": "A person is enjoying a meal, possibly cooking or grilling food at the table.",
+      "location": "Indoor, likely a casual restaurant or dining area.",
+      "mood": "Relaxed and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: A person is enjoying a meal, possibly cooking or grilling food at the table.\n2. **Location**: Indoor, likely a casual restaurant or dining area.\n3. **Mood**: Relaxed and cheerful.\n4. **Key Elements**: Griddle or grill, glass with drink, person smiling, wall decorations.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 6.0,
+      "timestamp_formatted": "0:00:06",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't help with identifying or analyzing people in images."
+    },
+    {
+      "timestamp": 11.0,
+      "timestamp_formatted": "0:00:11",
+      "activity": "A person is flying a kite in the evening.",
+      "location": "Outdoor park area near a body of water.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Leisure activity.",
+      "raw_analysis": "1. **Activity**: A person is flying a kite in the evening.\n2. **Location**: Outdoor park area near a body of water.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Kite, person, trees, illuminated bridge, water.\n5. **Scene Type**: Leisure activity."
+    },
+    {
+      "timestamp": 15.0,
+      "timestamp_formatted": "0:00:15",
+      "activity": "People are grilling meat and preparing food at a table.",
+      "location": "Outdoor dining area, possibly a rooftop or balcony.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and preparing food at a table.\n2. **Location**: Outdoor dining area, possibly a rooftop or balcony.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Grill with meat, person using tongs, bowl of food, Pepsi can, overhead exhaust hood.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 16.0,
+      "timestamp_formatted": "0:00:16",
+      "activity": "A person is grilling meat and preparing food at a table.",
+      "location": "Outdoor dining area, likely at a barbecue restaurant.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is grilling meat and preparing food at a table.\n2. **Location**: Outdoor dining area, likely at a barbecue restaurant.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Grilled meat, a can of Pepsi, a metal grill, a bowl of food, and a ventilation hood.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 17.0,
+      "timestamp_formatted": "0:00:17",
+      "activity": "People are grilling meat and preparing food at a table.",
+      "location": "Outdoor setting, likely a restaurant or a rooftop dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and preparing food at a table.\n2. **Location**: Outdoor setting, likely a restaurant or a rooftop dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Grill with various meats, a can of Pepsi, a bowl of vegetables, and cooking utensils.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 18.0,
+      "timestamp_formatted": "0:00:18",
+      "activity": "Someone is grilling meat on a tabletop grill.",
+      "location": "Indoor, likely a restaurant setting.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is grilling meat on a tabletop grill.\n2. **Location**: Indoor, likely a restaurant setting.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Tabletop grill, raw meat, metal bowl, beverage can, side dishes.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 19.0,
+      "timestamp_formatted": "0:00:19",
+      "activity": "The scene shows a view from inside a train looking out at the cityscape.",
+      "location": "Indoor, inside a train.",
+      "mood": "Calm and observational.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view from inside a train looking out at the cityscape.\n2. **Location**: Indoor, inside a train.\n3. **Mood**: Calm and observational.\n4. **Key Elements**: Train doors, city buildings, mountains in the background, Korean text on screen.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 40.0,
+      "timestamp_formatted": "0:00:40",
+      "activity": "The scene displays a motivational message.",
+      "location": "This is a text overlay, likely part of a video or presentation, not tied to a specific physical location.",
+      "mood": "Encouraging and motivational.",
+      "key_elements": [],
+      "scene_type": "Motivational text display.",
+      "raw_analysis": "1. **Activity**: The scene displays a motivational message.\n2. **Location**: This is a text overlay, likely part of a video or presentation, not tied to a specific physical location.\n3. **Mood**: Encouraging and motivational.\n4. **Key Elements**: \n   - Text: \"Yoo Can Do It!\"\n   - Black background\n5. **Scene Type**: Motivational text display."
+    },
+    {
+      "timestamp": 41.0,
+      "timestamp_formatted": "0:00:41",
+      "activity": "The scene shows an empty restaurant setting, possibly preparing for service or recently closed.",
+      "location": "Indoor, in a small, casual restaurant.",
+      "mood": "Calm and quiet, with a sense of anticipation or closure.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene shows an empty restaurant setting, possibly preparing for service or recently closed.\n2. **Location**: Indoor, in a small, casual restaurant.\n3. **Mood**: Calm and quiet, with a sense of anticipation or closure.\n4. **Key Elements**: \n   - Wooden tables with gas burners\n   - Wall clock\n   - Posters on the wall\n   - Kitchen area with shelves and dishes\n   - Air conditioning unit\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 42.0,
+      "timestamp_formatted": "0:00:42",
+      "activity": "The scene shows a quiet moment inside a restaurant or café, possibly preparing for service or in between busy periods.",
+      "location": "Indoor, likely a small, local restaurant or café.",
+      "mood": "Calm and informal.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet moment inside a restaurant or café, possibly preparing for service or in between busy periods.\n2. **Location**: Indoor, likely a small, local restaurant or café.\n3. **Mood**: Calm and informal.\n4. **Key Elements**: Water dispenser, shelves with dishes, wall clock, beer advertisement, table with cooking equipment.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 43.0,
+      "timestamp_formatted": "0:00:43",
+      "activity": "A person is organizing or cleaning dishes in a kitchen area.",
+      "location": "Indoor, likely a small restaurant or café kitchen.",
+      "mood": "Practical and busy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is organizing or cleaning dishes in a kitchen area.\n2. **Location**: Indoor, likely a small restaurant or café kitchen.\n3. **Mood**: Practical and busy.\n4. **Key Elements**: Water dispenser, shelves with dishes, clock, refrigerator.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 44.0,
+      "timestamp_formatted": "0:00:44",
+      "activity": "People are dining or preparing to dine in a restaurant setting.",
+      "location": "Indoor, in a casual restaurant or eatery.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are dining or preparing to dine in a restaurant setting.\n2. **Location**: Indoor, in a casual restaurant or eatery.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Water dispenser, menu signs, dining tables, kitchenware, person in the foreground.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 45.0,
+      "timestamp_formatted": "0:00:45",
+      "activity": "A person is sitting at a table, possibly engaged in conversation or waiting for food.",
+      "location": "Indoor, likely a casual restaurant or eatery.",
+      "mood": "Relaxed and informal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly engaged in conversation or waiting for food.\n2. **Location**: Indoor, likely a casual restaurant or eatery.\n3. **Mood**: Relaxed and informal.\n4. **Key Elements**: Person sitting at a table, water dispenser, menu on the wall, overhead lighting, refrigerator.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 46.0,
+      "timestamp_formatted": "0:00:46",
+      "activity": "A person is seated indoors, possibly engaged in conversation or being introduced.",
+      "location": "Indoor setting, likely a casual restaurant or café.",
+      "mood": "Relaxed and informal.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Introduction",
+      "raw_analysis": "1. **Activity**: A person is seated indoors, possibly engaged in conversation or being introduced.\n2. **Location**: Indoor setting, likely a casual restaurant or café.\n3. **Mood**: Relaxed and informal.\n4. **Key Elements**: \n   - Seated person\n   - Indoor restaurant setting\n   - Wall with pipes and windows\n   - Refrigerator or storage unit\n   - Text overlay with location details\n5. **Scene Type**: Dialogue/Introduction"
+    },
+    {
+      "timestamp": 47.0,
+      "timestamp_formatted": "0:00:47",
+      "activity": "A person is sitting at a table, possibly engaged in conversation.",
+      "location": "Indoor, likely a casual restaurant or eatery.",
+      "mood": "Relaxed and informal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly engaged in conversation.\n2. **Location**: Indoor, likely a casual restaurant or eatery.\n3. **Mood**: Relaxed and informal.\n4. **Key Elements**: \n   - Person sitting at a table\n   - Wooden interior\n   - Windows with a view outside\n   - Text overlay with location details\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 48.0,
+      "timestamp_formatted": "0:00:48",
+      "activity": "A person is engaged in a conversation, possibly introducing someone.",
+      "location": "Indoor, likely a casual dining setting or restaurant.",
+      "mood": "Relaxed and informal.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is engaged in a conversation, possibly introducing someone.\n2. **Location**: Indoor, likely a casual dining setting or restaurant.\n3. **Mood**: Relaxed and informal.\n4. **Key Elements**: Person sitting, window, red pipe, chairs, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 49.0,
+      "timestamp_formatted": "0:00:49",
+      "activity": "A conversation is taking place at a table, possibly involving an introduction or discussion about a guest.",
+      "location": "Indoor setting, likely a casual dining or meeting place.",
+      "mood": "Relaxed and informal.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A conversation is taking place at a table, possibly involving an introduction or discussion about a guest.\n2. **Location**: Indoor setting, likely a casual dining or meeting place.\n3. **Mood**: Relaxed and informal.\n4. **Key Elements**: \n   - Table with a metal object and a phone\n   - Red pipe and a roll of paper towels\n   - Person seated at the table\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 50.0,
+      "timestamp_formatted": "0:00:50",
+      "activity": "Meat and vegetables are being grilled on a tabletop grill.",
+      "location": "Indoor setting, likely a restaurant.",
+      "mood": "Casual and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Meat and vegetables are being grilled on a tabletop grill.\n2. **Location**: Indoor setting, likely a restaurant.\n3. **Mood**: Casual and appetizing.\n4. **Key Elements**: Grilled meat, green onions, tabletop grill, bowl with sauce, text overlay with location details.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 51.0,
+      "timestamp_formatted": "0:00:51",
+      "activity": "Someone is grilling meat and vegetables on a tabletop grill.",
+      "location": "Indoor, likely a restaurant.",
+      "mood": "Casual and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is grilling meat and vegetables on a tabletop grill.\n2. **Location**: Indoor, likely a restaurant.\n3. **Mood**: Casual and appetizing.\n4. **Key Elements**: Tabletop grill, meat, green onions, tongs.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 60.0,
+      "timestamp_formatted": "0:01:00",
+      "activity": "Raw marinated meat is being prepared for cooking on a grill.",
+      "location": "Indoor, likely in a restaurant or dining area.",
+      "mood": "Warm and inviting, suggesting a communal or social dining experience.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Raw marinated meat is being prepared for cooking on a grill.\n2. **Location**: Indoor, likely in a restaurant or dining area.\n3. **Mood**: Warm and inviting, suggesting a communal or social dining experience.\n4. **Key Elements**: \n   - Raw marinated meat\n   - Metal grill or cooking pan\n   - Wooden table\n   - Person's arm visible\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 68.0,
+      "timestamp_formatted": "0:01:08",
+      "activity": "Someone is cooking or preparing a dish with meat and garlic on a grill or hot plate.",
+      "location": "Indoor, likely in a restaurant or kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is cooking or preparing a dish with meat and garlic on a grill or hot plate.\n2. **Location**: Indoor, likely in a restaurant or kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Raw meat, garlic cloves, tongs, hot plate, person’s hands.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 69.0,
+      "timestamp_formatted": "0:01:09",
+      "activity": "Someone is preparing a dish by cutting meat with scissors on a grill or hot plate.",
+      "location": "Indoor, likely in a restaurant or kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Someone is preparing a dish by cutting meat with scissors on a grill or hot plate.\n2. **Location**: Indoor, likely in a restaurant or kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Raw meat, garlic cloves, scissors, grill/hot plate, hands.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 70.0,
+      "timestamp_formatted": "0:01:10",
+      "activity": "Someone is cooking or preparing meat with garlic on a grill or hot plate.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Casual and communal.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is cooking or preparing meat with garlic on a grill or hot plate.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Casual and communal.\n4. **Key Elements**: Raw meat, garlic cloves, tongs, grill/hot plate, table setting.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 71.0,
+      "timestamp_formatted": "0:01:11",
+      "activity": "Someone is cooking or preparing a dish with meat and garlic using tongs.",
+      "location": "Indoor, likely in a kitchen or dining area.",
+      "mood": "Intimate and focused on cooking.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Someone is cooking or preparing a dish with meat and garlic using tongs.\n2. **Location**: Indoor, likely in a kitchen or dining area.\n3. **Mood**: Intimate and focused on cooking.\n4. **Key Elements**: Raw meat, garlic cloves, tongs, cooking pot, table.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 72.0,
+      "timestamp_formatted": "0:01:12",
+      "activity": "Someone is cooking or preparing a dish with meat and garlic in a pan.",
+      "location": "Indoor, likely in a kitchen or restaurant setting.",
+      "mood": "The atmosphere is focused and culinary.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Someone is cooking or preparing a dish with meat and garlic in a pan.\n2. **Location**: Indoor, likely in a kitchen or restaurant setting.\n3. **Mood**: The atmosphere is focused and culinary.\n4. **Key Elements**: \n   - Pan with meat and garlic\n   - Cooking utensils (tongs)\n   - Table surface\n   - Green peppers on a plate\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 73.0,
+      "timestamp_formatted": "0:01:13",
+      "activity": "A meal is being prepared or served, featuring a dish with meat and greens.",
+      "location": "Indoor, likely in a restaurant or dining area.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A meal is being prepared or served, featuring a dish with meat and greens.\n2. **Location**: Indoor, likely in a restaurant or dining area.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: A large pan with meat and greens, a person standing nearby, a bowl of side dishes, and text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 74.0,
+      "timestamp_formatted": "0:01:14",
+      "activity": "A meal is being prepared or served, with a focus on a dish cooking at the table.",
+      "location": "Indoor, likely in a restaurant or dining area.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A meal is being prepared or served, with a focus on a dish cooking at the table.\n2. **Location**: Indoor, likely in a restaurant or dining area.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Large pot with meat and greens, side dish of kimchi, person seated at the table, subtitles in Korean.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 75.0,
+      "timestamp_formatted": "0:01:15",
+      "activity": "A hot pot dish is being cooked and prepared for a meal.",
+      "location": "Indoor, likely in a restaurant or home dining setting.",
+      "mood": "Warm and inviting, suggesting a communal or family meal.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A hot pot dish is being cooked and prepared for a meal.\n2. **Location**: Indoor, likely in a restaurant or home dining setting.\n3. **Mood**: Warm and inviting, suggesting a communal or family meal.\n4. **Key Elements**: Hot pot with meat and greens, side dish (possibly kimchi), dining table, person partially visible.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 76.0,
+      "timestamp_formatted": "0:01:16",
+      "activity": "A person is cooking or preparing a dish with meat and greens on a hot plate.",
+      "location": "Indoor, likely in a restaurant or kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is cooking or preparing a dish with meat and greens on a hot plate.\n2. **Location**: Indoor, likely in a restaurant or kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Hot plate with meat and greens, a person holding utensils, side dish in a bowl, text overlay.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 78.0,
+      "timestamp_formatted": "0:01:18",
+      "activity": "A person is cooking or preparing food on a hot plate.",
+      "location": "Indoor, likely a small restaurant or kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: A person is cooking or preparing food on a hot plate.\n2. **Location**: Indoor, likely a small restaurant or kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Hot plate with steaming food, person seated, air conditioning unit, calendar on the wall.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 103.0,
+      "timestamp_formatted": "0:01:43",
+      "activity": "A person is eating food, possibly soup, using a spoon.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: A person is eating food, possibly soup, using a spoon.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Person eating, spoon, bowl of food, air conditioning unit, wooden interior.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 166.0,
+      "timestamp_formatted": "0:02:46",
+      "activity": "A person is cooking or serving food, possibly adding ingredients to a pan.",
+      "location": "Indoor, likely a restaurant or kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking or food preparation.",
+      "raw_analysis": "1. **Activity**: A person is cooking or serving food, possibly adding ingredients to a pan.\n2. **Location**: Indoor, likely a restaurant or kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Person holding a plate, pan on a stove, wall calendar, air conditioner.\n5. **Scene Type**: Cooking or food preparation."
+    },
+    {
+      "timestamp": 178.0,
+      "timestamp_formatted": "0:02:58",
+      "activity": "A person is cooking or preparing food.",
+      "location": "Indoor, likely in a kitchen or restaurant setting.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Cooking action.",
+      "raw_analysis": "1. **Activity**: A person is cooking or preparing food.\n2. **Location**: Indoor, likely in a kitchen or restaurant setting.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Cooking pan, spatula, plate, steam, air conditioning unit.\n5. **Scene Type**: Cooking action."
+    },
+    {
+      "timestamp": 179.0,
+      "timestamp_formatted": "0:02:59",
+      "activity": "The scene displays a motivational message.",
+      "location": "The setting is not specific, likely a digital screen.",
+      "mood": "Encouraging and motivational.",
+      "key_elements": [],
+      "scene_type": "Motivational text display.",
+      "raw_analysis": "1. **Activity**: The scene displays a motivational message.\n2. **Location**: The setting is not specific, likely a digital screen.\n3. **Mood**: Encouraging and motivational.\n4. **Key Elements**: \n   - Text: \"Yoo Can Do It!\"\n   - Black background\n5. **Scene Type**: Motivational text display."
+    },
+    {
+      "timestamp": 180.0,
+      "timestamp_formatted": "0:03:00",
+      "activity": "A person is smiling and possibly engaged in conversation or enjoying a moment.",
+      "location": "Indoor setting, likely a cafe or a casual dining area with a large window.",
+      "mood": "The atmosphere is calm and pleasant.",
+      "key_elements": [],
+      "scene_type": "Dialogue or casual interaction.",
+      "raw_analysis": "1. **Activity**: A person is smiling and possibly engaged in conversation or enjoying a moment.\n2. **Location**: Indoor setting, likely a cafe or a casual dining area with a large window.\n3. **Mood**: The atmosphere is calm and pleasant.\n4. **Key Elements**: \n   - Person smiling\n   - Large window with a view of greenery\n   - Indoor plant\n   - Watch on the person's wrist\n5. **Scene Type**: Dialogue or casual interaction."
+    },
+    {
+      "timestamp": 209.0,
+      "timestamp_formatted": "0:03:29",
+      "activity": "A person is speaking, possibly engaged in a conversation or interview.",
+      "location": "Indoor setting, likely a room with a large window showing greenery outside.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly engaged in a conversation or interview.\n2. **Location**: Indoor setting, likely a room with a large window showing greenery outside.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Large window\n   - Greenery outside\n   - Text overlay\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 240.0,
+      "timestamp_formatted": "0:04:00",
+      "activity": "A person is engaged in a conversation or monologue.",
+      "location": "Indoor setting, possibly a cafe or home, near a window.",
+      "mood": "Calm and reflective.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is engaged in a conversation or monologue.\n2. **Location**: Indoor setting, possibly a cafe or home, near a window.\n3. **Mood**: Calm and reflective.\n4. **Key Elements**: Person in a black shirt, large window with greenery outside, indoor plant, text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 278.0,
+      "timestamp_formatted": "0:04:38",
+      "activity": "Two people are engaged in a conversation at a table.",
+      "location": "Indoor setting, likely a café or casual dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation at a table.\n2. **Location**: Indoor setting, likely a café or casual dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Two people, table, drinks, window, plants.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 385.0,
+      "timestamp_formatted": "0:06:25",
+      "activity": "Two people are engaged in a conversation at a table.",
+      "location": "Indoor setting, likely a casual dining or living area.",
+      "mood": "Intimate and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation at a table.\n2. **Location**: Indoor setting, likely a casual dining or living area.\n3. **Mood**: Intimate and focused.\n4. **Key Elements**: Two people, table, drinks, window, potted plant.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 704.0,
+      "timestamp_formatted": "0:11:44",
+      "activity": "A person is speaking, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, likely near a large window with a view of greenery outside.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, likely near a large window with a view of greenery outside.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: Person in a black shirt, large window, green foliage outside, potted plant, Korean text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 759.0,
+      "timestamp_formatted": "0:12:39",
+      "activity": "A person is speaking, possibly responding to a question or comment.",
+      "location": "Indoor setting, likely a room with a large window showing greenery outside.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly responding to a question or comment.\n2. **Location**: Indoor setting, likely a room with a large window showing greenery outside.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Large window with view of trees\n   - Text overlay with a question and response\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 764.0,
+      "timestamp_formatted": "0:12:44",
+      "activity": "A person is sitting or standing near a window, possibly engaged in conversation or thought.",
+      "location": "Indoor setting, likely a room with a large window overlooking greenery.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or contemplative moment.",
+      "raw_analysis": "1. **Activity**: A person is sitting or standing near a window, possibly engaged in conversation or thought.\n2. **Location**: Indoor setting, likely a room with a large window overlooking greenery.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Person in a black shirt\n   - Large window\n   - Green foliage outside\n   - Indoor plant\n5. **Scene Type**: Dialogue or contemplative moment."
+    },
+    {
+      "timestamp": 768.0,
+      "timestamp_formatted": "0:12:48",
+      "activity": "A person is speaking, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely an office or casual meeting space.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely an office or casual meeting space.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Large window with a view of trees\n   - Text overlay with a conversation\n   - Casual clothing\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 775.0,
+      "timestamp_formatted": "0:12:55",
+      "activity": "A person is sitting and possibly speaking or listening.",
+      "location": "Indoor setting, likely near a window with a view of greenery outside.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting and possibly speaking or listening.\n2. **Location**: Indoor setting, likely near a window with a view of greenery outside.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Person, window, greenery outside, indoor plant.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 782.0,
+      "timestamp_formatted": "0:13:02",
+      "activity": "A person is sitting and possibly talking or listening.",
+      "location": "Indoor setting, likely near a window with a view of greenery outside.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting and possibly talking or listening.\n2. **Location**: Indoor setting, likely near a window with a view of greenery outside.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Person, large window, greenery outside, plant inside.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 789.0,
+      "timestamp_formatted": "0:13:09",
+      "activity": "A person is speaking, possibly discussing or explaining something.",
+      "location": "Indoor setting, likely a casual or informal space.",
+      "mood": "The atmosphere appears calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly discussing or explaining something.\n2. **Location**: Indoor setting, likely a casual or informal space.\n3. **Mood**: The atmosphere appears calm and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Window with a view of greenery\n   - Text overlay with dialogue\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 796.0,
+      "timestamp_formatted": "0:13:16",
+      "activity": "A person is speaking or engaged in conversation.",
+      "location": "Indoor setting, likely near a large window with a view of greenery outside.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking or engaged in conversation.\n2. **Location**: Indoor setting, likely near a large window with a view of greenery outside.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Large window\n   - Greenery outside\n   - Indoor lighting\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 869.0,
+      "timestamp_formatted": "0:14:29",
+      "activity": "The scene displays an encouraging message.",
+      "location": "The setting is not visible; it appears to be a title or transition screen.",
+      "mood": "Motivational and supportive.",
+      "key_elements": [],
+      "scene_type": "Transition or title card.",
+      "raw_analysis": "1. **Activity**: The scene displays an encouraging message.\n2. **Location**: The setting is not visible; it appears to be a title or transition screen.\n3. **Mood**: Motivational and supportive.\n4. **Key Elements**: \n   - Text: \"Yoo Can Do It!\"\n   - Subtitle in Korean\n   - Black background\n5. **Scene Type**: Transition or title card."
+    },
+    {
+      "timestamp": 870.0,
+      "timestamp_formatted": "0:14:30",
+      "activity": "A person is walking away from the camera in a restaurant or cafe setting.",
+      "location": "Indoor, likely a restaurant or cafe.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: A person is walking away from the camera in a restaurant or cafe setting.\n2. **Location**: Indoor, likely a restaurant or cafe.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Person in casual clothing\n   - Long dining table\n   - Large window with a view outside\n   - Soft lighting\n   - Decorative plants\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 871.0,
+      "timestamp_formatted": "0:14:31",
+      "activity": "A person is standing near a table, possibly preparing to sit or engage in an activity.",
+      "location": "Indoor, likely a modern restaurant or café.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is standing near a table, possibly preparing to sit or engage in an activity.\n2. **Location**: Indoor, likely a modern restaurant or café.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Person in a black hoodie, long table, large window, ambient lighting.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 902.0,
+      "timestamp_formatted": "0:15:02",
+      "activity": "The scene shows an empty table setting, possibly in preparation for a meal.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Calm and minimalist.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an empty table setting, possibly in preparation for a meal.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Calm and minimalist.\n4. **Key Elements**: \n   - Long table with chairs\n   - Wall art or sculpture\n   - Window with a view outside\n   - Napkin holder and utensils\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 903.0,
+      "timestamp_formatted": "0:15:03",
+      "activity": "The scene shows a quiet moment in a dining area, possibly before or after a meal.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet moment in a dining area, possibly before or after a meal.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Modern table lamp\n   - Dining table with dividers\n   - Window with a view outside\n   - Napkin holder and utensils\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 922.0,
+      "timestamp_formatted": "0:15:22",
+      "activity": "The scene displays a motivational message.",
+      "location": "Not applicable (text on a black background).",
+      "mood": "Encouraging and motivational.",
+      "key_elements": [],
+      "scene_type": "Text overlay/message.",
+      "raw_analysis": "1. **Activity**: The scene displays a motivational message.\n2. **Location**: Not applicable (text on a black background).\n3. **Mood**: Encouraging and motivational.\n4. **Key Elements**: \n   - Text: \"Yoo Can Do It!\"\n   - Black background\n5. **Scene Type**: Text overlay/message."
+    },
+    {
+      "timestamp": 923.0,
+      "timestamp_formatted": "0:15:23",
+      "activity": "The scene shows a peaceful walk along a tree-lined path.",
+      "location": "Outdoor park setting, likely a riverside park.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a peaceful walk along a tree-lined path.\n2. **Location**: Outdoor park setting, likely a riverside park.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tree-lined path, benches, grass, and distant view of a river.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 924.0,
+      "timestamp_formatted": "0:15:24",
+      "activity": "The scene shows a peaceful walk or exploration in a park.",
+      "location": "Outdoor, in a park setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a peaceful walk or exploration in a park.\n2. **Location**: Outdoor, in a park setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tree-lined path, benches, grassy areas, informational sign.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 925.0,
+      "timestamp_formatted": "0:15:25",
+      "activity": "The scene shows a view of a park area, possibly during a walk or exploration.",
+      "location": "Outdoor, in a park setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a park area, possibly during a walk or exploration.\n2. **Location**: Outdoor, in a park setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Trees, walking path, grass, park signage, and street lamps.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 926.0,
+      "timestamp_formatted": "0:15:26",
+      "activity": "The scene captures a serene moment in a park during sunset.",
+      "location": "Outdoor, in a park setting.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a serene moment in a park during sunset.\n2. **Location**: Outdoor, in a park setting.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Trees, walking path, grass, sunset sky, informational text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 927.0,
+      "timestamp_formatted": "0:15:27",
+      "activity": "The scene captures a serene moment in a park during sunset.",
+      "location": "Outdoor, in a park near a river.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a serene moment in a park during sunset.\n2. **Location**: Outdoor, in a park near a river.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Trees, grass, walking path, river, sunset sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 928.0,
+      "timestamp_formatted": "0:15:28",
+      "activity": "The scene shows a view of a park during sunset or sunrise.",
+      "location": "Outdoor, in a park setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a park during sunset or sunrise.\n2. **Location**: Outdoor, in a park setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Grass fields, trees, a pathway, a river or body of water, and a sunset/sunrise sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 939.0,
+      "timestamp_formatted": "0:15:39",
+      "activity": "A transaction is taking place at a counter, likely a purchase.",
+      "location": "Indoor, at a convenience store or similar retail setting.",
+      "mood": "Routine and transactional.",
+      "key_elements": [],
+      "scene_type": "Transaction.",
+      "raw_analysis": "1. **Activity**: A transaction is taking place at a counter, likely a purchase.\n2. **Location**: Indoor, at a convenience store or similar retail setting.\n3. **Mood**: Routine and transactional.\n4. **Key Elements**: Cash register, roll of paper, signage about age restriction, person wearing gloves, customer holding a wallet.\n5. **Scene Type**: Transaction."
+    },
+    {
+      "timestamp": 940.0,
+      "timestamp_formatted": "0:15:40",
+      "activity": "A person is making a purchase or transaction at a counter.",
+      "location": "Indoor, likely in a store or shop.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transaction.",
+      "raw_analysis": "1. **Activity**: A person is making a purchase or transaction at a counter.\n2. **Location**: Indoor, likely in a store or shop.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Cash register, stack of paper cups, a sign with a no-smoking symbol, a person holding a card.\n5. **Scene Type**: Transaction."
+    },
+    {
+      "timestamp": 941.0,
+      "timestamp_formatted": "0:15:41",
+      "activity": "A person is preparing or purchasing an item at a counter.",
+      "location": "Indoor, likely a convenience store or small shop.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transaction.",
+      "raw_analysis": "1. **Activity**: A person is preparing or purchasing an item at a counter.\n2. **Location**: Indoor, likely a convenience store or small shop.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Cash register, receipt printer, various small products, a display screen.\n5. **Scene Type**: Transaction."
+    },
+    {
+      "timestamp": 943.0,
+      "timestamp_formatted": "0:15:43",
+      "activity": "A person is purchasing or handling a packaged item with a design resembling a flag.",
+      "location": "Indoor, likely a convenience store or small shop.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transaction.",
+      "raw_analysis": "1. **Activity**: A person is purchasing or handling a packaged item with a design resembling a flag.\n2. **Location**: Indoor, likely a convenience store or small shop.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Packaged item with a flag design, counter with various items, cash register, rolls of paper.\n5. **Scene Type**: Transaction."
+    },
+    {
+      "timestamp": 944.0,
+      "timestamp_formatted": "0:15:44",
+      "activity": "A person is preparing to fly a kite.",
+      "location": "Outdoor park or open grassy area.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Leisure activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing to fly a kite.\n2. **Location**: Outdoor park or open grassy area.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Person, kite, benches, trees, illuminated bridge.\n5. **Scene Type**: Leisure activity."
+    },
+    {
+      "timestamp": 995.0,
+      "timestamp_formatted": "0:16:35",
+      "activity": "The scene captures a tranquil moment during sunset, likely with people enjoying the view or taking a walk.",
+      "location": "Outdoor, in a park or riverside area with a city skyline in the background.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a tranquil moment during sunset, likely with people enjoying the view or taking a walk.\n2. **Location**: Outdoor, in a park or riverside area with a city skyline in the background.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Sunset sky\n   - Trees and grass\n   - River or body of water\n   - City skyline\n   - Pathway with a person on a bicycle\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1002.0,
+      "timestamp_formatted": "0:16:42",
+      "activity": "A person is flying a kite.",
+      "location": "Outdoor park or open field.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Leisure activity.",
+      "raw_analysis": "1. **Activity**: A person is flying a kite.\n2. **Location**: Outdoor park or open field.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Kite, person, trees, dusk sky, open field.\n5. **Scene Type**: Leisure activity."
+    },
+    {
+      "timestamp": 1043.0,
+      "timestamp_formatted": "0:17:23",
+      "activity": "The scene captures a tranquil outdoor setting at dusk or dawn.",
+      "location": "Outdoor, likely a park or open area near a hillside.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a tranquil outdoor setting at dusk or dawn.\n2. **Location**: Outdoor, likely a park or open area near a hillside.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Hill in the background\n   - Trees and foliage\n   - Streetlights illuminating the area\n   - Open grassy space\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1046.0,
+      "timestamp_formatted": "0:17:26",
+      "activity": "A person is flying a kite in a park.",
+      "location": "Outdoor, in a park during the evening.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Leisure activity.",
+      "raw_analysis": "1. **Activity**: A person is flying a kite in a park.\n2. **Location**: Outdoor, in a park during the evening.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Kite, person, trees, evening sky.\n5. **Scene Type**: Leisure activity."
+    },
+    {
+      "timestamp": 1068.0,
+      "timestamp_formatted": "0:17:48",
+      "activity": "A motivational message is being displayed.",
+      "location": "Not applicable (text on a black background).",
+      "mood": "Encouraging and supportive.",
+      "key_elements": [],
+      "scene_type": "Motivational text display.",
+      "raw_analysis": "1. **Activity**: A motivational message is being displayed.\n2. **Location**: Not applicable (text on a black background).\n3. **Mood**: Encouraging and supportive.\n4. **Key Elements**: Text (\"Yoo Can Do It!\"), black background.\n5. **Scene Type**: Motivational text display."
+    },
+    {
+      "timestamp": 1069.0,
+      "timestamp_formatted": "0:17:49",
+      "activity": "The scene shows a display of packaged meat in a refrigerated section of a store.",
+      "location": "Indoor, likely a grocery store or supermarket.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged meat in a refrigerated section of a store.\n2. **Location**: Indoor, likely a grocery store or supermarket.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Refrigerated display case, packaged meat, shopping baskets, glass door, labels.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1070.0,
+      "timestamp_formatted": "0:17:50",
+      "activity": "The scene shows a display of packaged meat in a refrigerator.",
+      "location": "Indoor, likely in a grocery store or market.",
+      "mood": "Neutral and commercial.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged meat in a refrigerator.\n2. **Location**: Indoor, likely in a grocery store or market.\n3. **Mood**: Neutral and commercial.\n4. **Key Elements**: Packaged meat, refrigerator, shopping baskets, signage with text.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1071.0,
+      "timestamp_formatted": "0:17:51",
+      "activity": "The scene shows a display of packaged meats and other food items in a refrigerated section.",
+      "location": "Indoor, likely in a grocery store or a market.",
+      "mood": "Practical and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged meats and other food items in a refrigerated section.\n2. **Location**: Indoor, likely in a grocery store or a market.\n3. **Mood**: Practical and straightforward.\n4. **Key Elements**: \n   - Packaged meats on shelves\n   - Refrigerated display case\n   - Bowls and other food items\n   - Korean text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1072.0,
+      "timestamp_formatted": "0:17:52",
+      "activity": "The scene shows a display of food items in a refrigerated case, likely for selection or purchase.",
+      "location": "Indoor, possibly in a restaurant or food market.",
+      "mood": "Practical and inviting, with a focus on food selection.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of food items in a refrigerated case, likely for selection or purchase.\n2. **Location**: Indoor, possibly in a restaurant or food market.\n3. **Mood**: Practical and inviting, with a focus on food selection.\n4. **Key Elements**: Refrigerated display case, various packaged food items, labels, and signage.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1073.0,
+      "timestamp_formatted": "0:17:53",
+      "activity": "The scene shows a display of various food items in a refrigerated case.",
+      "location": "Indoor, likely in a restaurant or food market.",
+      "mood": "Calm and inviting, with a focus on food selection.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of various food items in a refrigerated case.\n2. **Location**: Indoor, likely in a restaurant or food market.\n3. **Mood**: Calm and inviting, with a focus on food selection.\n4. **Key Elements**: Refrigerated display case, assorted dishes, plates, and bowls, Korean text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1074.0,
+      "timestamp_formatted": "0:17:54",
+      "activity": "The scene shows a display of dishes and utensils, likely in a self-service or buffet-style setting.",
+      "location": "Indoor, possibly in a restaurant or cafeteria.",
+      "mood": "Practical and organized, with a focus on food selection.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of dishes and utensils, likely in a self-service or buffet-style setting.\n2. **Location**: Indoor, possibly in a restaurant or cafeteria.\n3. **Mood**: Practical and organized, with a focus on food selection.\n4. **Key Elements**: Plates with utensils, bowls, trays with food, glass display case.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1075.0,
+      "timestamp_formatted": "0:17:55",
+      "activity": "The scene shows a display of packaged food items in a refrigerator.",
+      "location": "Indoor, likely in a grocery store or restaurant.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged food items in a refrigerator.\n2. **Location**: Indoor, likely in a grocery store or restaurant.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Packaged mushrooms, various food items, refrigerator, labels.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1076.0,
+      "timestamp_formatted": "0:17:56",
+      "activity": "The scene shows a display of food items in a refrigerated case, likely for selection or purchase.",
+      "location": "Indoor, possibly in a restaurant or food market.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of food items in a refrigerated case, likely for selection or purchase.\n2. **Location**: Indoor, possibly in a restaurant or food market.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: \n   - Packaged mushrooms on trays\n   - Refrigerated display case\n   - Packaged meat or similar items\n   - Korean text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1077.0,
+      "timestamp_formatted": "0:17:57",
+      "activity": "Someone is shopping for groceries, placing items in a basket.",
+      "location": "Indoor, likely a grocery store or supermarket.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Shopping montage.",
+      "raw_analysis": "1. **Activity**: Someone is shopping for groceries, placing items in a basket.\n2. **Location**: Indoor, likely a grocery store or supermarket.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Grocery basket, packaged meat, canned drink, instant noodles, plastic containers.\n5. **Scene Type**: Shopping montage."
+    },
+    {
+      "timestamp": 1078.0,
+      "timestamp_formatted": "0:17:58",
+      "activity": "Someone is shopping for groceries, placing items into a basket.",
+      "location": "Indoor, likely a grocery store or market.",
+      "mood": "Practical and routine.",
+      "key_elements": [],
+      "scene_type": "Shopping scene.",
+      "raw_analysis": "1. **Activity**: Someone is shopping for groceries, placing items into a basket.\n2. **Location**: Indoor, likely a grocery store or market.\n3. **Mood**: Practical and routine.\n4. **Key Elements**: Grocery basket, packaged meat, canned drink, ramen, leafy greens.\n5. **Scene Type**: Shopping scene."
+    },
+    {
+      "timestamp": 1079.0,
+      "timestamp_formatted": "0:17:59",
+      "activity": "Someone is shopping and has placed various food items in a basket.",
+      "location": "Indoor, likely a grocery store or market.",
+      "mood": "Routine and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday life.",
+      "raw_analysis": "1. **Activity**: Someone is shopping and has placed various food items in a basket.\n2. **Location**: Indoor, likely a grocery store or market.\n3. **Mood**: Routine and casual.\n4. **Key Elements**: Food items (meat, canned drink, instant noodles), shopping basket, packaged vegetables.\n5. **Scene Type**: Everyday life."
+    },
+    {
+      "timestamp": 1080.0,
+      "timestamp_formatted": "0:18:00",
+      "activity": "Two people are having a meal, likely grilling meat at a table.",
+      "location": "Outdoor setting, possibly a restaurant or dining area with a view of city lights.",
+      "mood": "Relaxed and intimate.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: Two people are having a meal, likely grilling meat at a table.\n2. **Location**: Outdoor setting, possibly a restaurant or dining area with a view of city lights.\n3. **Mood**: Relaxed and intimate.\n4. **Key Elements**: Table with food, grill, two people, city skyline in the background, red chairs.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 1088.0,
+      "timestamp_formatted": "0:18:08",
+      "activity": "People are grilling meat and sausages on a tabletop grill.",
+      "location": "Outdoor dining area, possibly a restaurant or a home patio.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and sausages on a tabletop grill.\n2. **Location**: Outdoor dining area, possibly a restaurant or a home patio.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Tabletop grill, various meats, tongs, Pepsi can, metal bowls.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1090.0,
+      "timestamp_formatted": "0:18:10",
+      "activity": "A person is grilling meat and preparing food at a table.",
+      "location": "Outdoor setting, likely a rooftop or patio dining area.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is grilling meat and preparing food at a table.\n2. **Location**: Outdoor setting, likely a rooftop or patio dining area.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Grill with various meats, a can of Pepsi, a metal bowl, and a ventilation hood.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1091.0,
+      "timestamp_formatted": "0:18:11",
+      "activity": "People are grilling meat and sausages on a tabletop grill.",
+      "location": "Outdoor dining area, likely at a restaurant or a barbecue setting.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and sausages on a tabletop grill.\n2. **Location**: Outdoor dining area, likely at a restaurant or a barbecue setting.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Tabletop grill with meat, hands using tongs, a can of Pepsi, various side dishes.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1092.0,
+      "timestamp_formatted": "0:18:12",
+      "activity": "People are grilling meat and sausages on a tabletop grill.",
+      "location": "Outdoor dining area, likely at a restaurant or a home setting.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Food preparation/cooking.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and sausages on a tabletop grill.\n2. **Location**: Outdoor dining area, likely at a restaurant or a home setting.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Tabletop grill, various meats, tongs, Pepsi can, side dishes.\n5. **Scene Type**: Food preparation/cooking."
+    },
+    {
+      "timestamp": 1093.0,
+      "timestamp_formatted": "0:18:13",
+      "activity": "People are grilling meat and sausages on a tabletop grill.",
+      "location": "Indoor setting, likely a Korean barbecue restaurant.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and sausages on a tabletop grill.\n2. **Location**: Indoor setting, likely a Korean barbecue restaurant.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Tabletop grill, various meats, chopsticks, rice bowl, Pepsi can.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1094.0,
+      "timestamp_formatted": "0:18:14",
+      "activity": "Someone is grilling meat and sausages on a tabletop grill.",
+      "location": "Indoor, likely a Korean barbecue restaurant.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is grilling meat and sausages on a tabletop grill.\n2. **Location**: Indoor, likely a Korean barbecue restaurant.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Tabletop grill, various meats, tongs, rice dish, Pepsi can.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1095.0,
+      "timestamp_formatted": "0:18:15",
+      "activity": "People are grilling meat and sausages on a tabletop grill, likely preparing a meal.",
+      "location": "Indoor setting, possibly a restaurant or home dining area.",
+      "mood": "Casual and social, with a focus on enjoying food.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and sausages on a tabletop grill, likely preparing a meal.\n2. **Location**: Indoor setting, possibly a restaurant or home dining area.\n3. **Mood**: Casual and social, with a focus on enjoying food.\n4. **Key Elements**: Tabletop grill, raw meat and sausages, bowls of rice, a can of Pepsi, metal bowls.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1096.0,
+      "timestamp_formatted": "0:18:16",
+      "activity": "People are grilling meat and sausages on a tabletop grill.",
+      "location": "Outdoor dining area, likely at a restaurant.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are grilling meat and sausages on a tabletop grill.\n2. **Location**: Outdoor dining area, likely at a restaurant.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Tabletop grill, meat and sausages, Pepsi can, metal bowls, chopsticks.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1097.0,
+      "timestamp_formatted": "0:18:17",
+      "activity": "A person is grilling meat and sausages on a tabletop grill.",
+      "location": "Outdoor dining area, likely a restaurant or home patio.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is grilling meat and sausages on a tabletop grill.\n2. **Location**: Outdoor dining area, likely a restaurant or home patio.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Tabletop grill with meat, can of Pepsi, rice dish, metal bowls.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1098.0,
+      "timestamp_formatted": "0:18:18",
+      "activity": "Two people are dining together, likely enjoying a barbecue meal.",
+      "location": "Outdoor setting, possibly on a rooftop or terrace.",
+      "mood": "Relaxed and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are dining together, likely enjoying a barbecue meal.\n2. **Location**: Outdoor setting, possibly on a rooftop or terrace.\n3. **Mood**: Relaxed and intimate.\n4. **Key Elements**: Table with food, grill vent, red chairs, night cityscape in the background.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1137.0,
+      "timestamp_formatted": "0:18:57",
+      "activity": "Someone is cooking noodles on a stove.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Someone is cooking noodles on a stove.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Two pots with noodles, a hand stirring, an egg, a slice of cheese, and a package of meat.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 1138.0,
+      "timestamp_formatted": "0:18:58",
+      "activity": "Someone is cooking instant noodles on portable stoves.",
+      "location": "Indoor kitchen or cooking area.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Someone is cooking instant noodles on portable stoves.\n2. **Location**: Indoor kitchen or cooking area.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Two bowls of noodles, portable stoves, a hand stirring, an egg, and a wristwatch.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 1140.0,
+      "timestamp_formatted": "0:19:00",
+      "activity": "Someone is cooking instant noodles on a stovetop.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: Someone is cooking instant noodles on a stovetop.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Two pots with noodles, stovetop, hand stirring, egg, text overlay.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 1141.0,
+      "timestamp_formatted": "0:19:01",
+      "activity": "A person is cooking instant noodles on a stovetop.",
+      "location": "Indoor kitchen.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: A person is cooking instant noodles on a stovetop.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Two pots with noodles, stovetop, hand stirring, egg.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 1143.0,
+      "timestamp_formatted": "0:19:03",
+      "activity": "Two bowls of instant noodles are being cooked on a stove.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Two bowls of instant noodles are being cooked on a stove.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Two bowls of noodles, stove, chopsticks, egg, cheese slice.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 1144.0,
+      "timestamp_formatted": "0:19:04",
+      "activity": "Someone is cooking instant noodles on a stove.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking closeup.",
+      "raw_analysis": "1. **Activity**: Someone is cooking instant noodles on a stove.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: \n   - Pot of noodles on a stove\n   - Pair of chopsticks\n   - Cheese packet\n   - Steam rising from the pot\n5. **Scene Type**: Cooking closeup."
+    },
+    {
+      "timestamp": 1149.0,
+      "timestamp_formatted": "0:19:09",
+      "activity": "People are cooking and eating a meal, likely Korean barbecue, with ramen and side dishes.",
+      "location": "Indoor setting, possibly a restaurant or dining area.",
+      "mood": "Casual and social atmosphere.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are cooking and eating a meal, likely Korean barbecue, with ramen and side dishes.\n2. **Location**: Indoor setting, possibly a restaurant or dining area.\n3. **Mood**: Casual and social atmosphere.\n4. **Key Elements**: Grill with meat, bowl of ramen, kimchi, metal bowls, chopsticks.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1150.0,
+      "timestamp_formatted": "0:19:10",
+      "activity": "People are cooking and eating a meal, likely Korean barbecue, with ramen.",
+      "location": "Indoor setting, possibly a restaurant or dining area.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are cooking and eating a meal, likely Korean barbecue, with ramen.\n2. **Location**: Indoor setting, possibly a restaurant or dining area.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Grill with meat, bowl of ramen, kimchi, chopsticks, metal table.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1152.0,
+      "timestamp_formatted": "0:19:12",
+      "activity": "Two people are having a meal together, possibly grilling food.",
+      "location": "Outdoor setting, likely a restaurant with a view of city lights.",
+      "mood": "Relaxed and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are having a meal together, possibly grilling food.\n2. **Location**: Outdoor setting, likely a restaurant with a view of city lights.\n3. **Mood**: Relaxed and intimate.\n4. **Key Elements**: Table with food, grill, two people, night sky, city lights.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1247.0,
+      "timestamp_formatted": "0:20:47",
+      "activity": "The scene features a motivational message being displayed.",
+      "location": "Indoor setting, possibly a dimly lit room.",
+      "mood": "Encouraging and supportive.",
+      "key_elements": [],
+      "scene_type": "Motivational message.",
+      "raw_analysis": "1. **Activity**: The scene features a motivational message being displayed.\n2. **Location**: Indoor setting, possibly a dimly lit room.\n3. **Mood**: Encouraging and supportive.\n4. **Key Elements**: \n   - Text: \"You Can Do It!\"\n   - Blurred figures on either side\n   - Dark background\n5. **Scene Type**: Motivational message."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Establishing shot.",
+        22
+      ],
+      [
+        "Food closeup.",
+        15
+      ],
+      [
+        "Dialogue.",
+        14
+      ],
+      [
+        "Food preparation.",
+        9
+      ],
+      [
+        "Leisure activity.",
+        4
+      ]
+    ],
+    "locations": [
+      "Indoor, possibly a restaurant or dining area.",
+      "Indoor, likely a casual restaurant or dining area.",
+      "",
+      "Outdoor park area near a body of water.",
+      "Outdoor dining area, possibly a rooftop or balcony.",
+      "Outdoor dining area, likely at a barbecue restaurant.",
+      "Outdoor setting, likely a restaurant or a rooftop dining area.",
+      "Indoor, likely a restaurant setting.",
+      "Indoor, inside a train.",
+      "This is a text overlay, likely part of a video or presentation, not tied to a specific physical location."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and serene.",
+        10
+      ],
+      [
+        "Casual and focused.",
+        9
+      ],
+      [
+        "Relaxed and social.",
+        6
+      ],
+      [
+        "Casual and relaxed.",
+        5
+      ],
+      [
+        "Casual and social.",
+        5
+      ]
+    ]
+  }
+}

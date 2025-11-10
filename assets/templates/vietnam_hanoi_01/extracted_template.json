@@ -1,0 +1,141 @@
+{
+  "template_name": "Vietnam Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction to the trip to Vietnam, discussing past experiences and the decision to visit.",
+      "key_elements": [
+        "Introduction to Vietnam trip",
+        "Discussion of past experiences",
+        "Decision to visit"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1380,
+      "description": "Main content covering various activities and experiences in Vietnam.",
+      "segments": [
+        {
+          "type": "arrival and hotel check-in",
+          "description": "Arriving in Vietnam and checking into the hotel, sharing initial impressions.",
+          "typical_duration": 180,
+          "scene_activity": "Arriving and checking into hotel",
+          "location": "Vietnam hotel",
+          "mood": "Excited"
+        },
+        {
+          "type": "exploring local cuisine",
+          "description": "Trying various local dishes, including pho and banh mi, and sharing food experiences.",
+          "typical_duration": 300,
+          "scene_activity": "Eating local food",
+          "location": "Vietnamese restaurants",
+          "mood": "Adventurous"
+        },
+        {
+          "type": "city exploration",
+          "description": "Walking through the city, observing local culture and architecture.",
+          "typical_duration": 240,
+          "scene_activity": "City exploration",
+          "location": "Vietnam streets",
+          "mood": "Curious"
+        },
+        {
+          "type": "cultural experiences",
+          "description": "Participating in local cultural activities and events.",
+          "typical_duration": 180,
+          "scene_activity": "Cultural activities",
+          "location": "Vietnam cultural sites",
+          "mood": "Engaged"
+        },
+        {
+          "type": "shopping and souvenirs",
+          "description": "Shopping for souvenirs and local products.",
+          "typical_duration": 180,
+          "scene_activity": "Shopping",
+          "location": "Vietnam markets",
+          "mood": "Relaxed"
+        },
+        {
+          "type": "reflection and relaxation",
+          "description": "Reflecting on the day's experiences and relaxing at a cafe.",
+          "typical_duration": 300,
+          "scene_activity": "Relaxing and reflecting",
+          "location": "Vietnam cafe",
+          "mood": "Content"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 234,
+      "description": "Concluding the trip with final thoughts and farewells.",
+      "key_elements": [
+        "Final thoughts",
+        "Farewells",
+        "Reflection on the trip"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#89725e",
+      "#1d1816",
+      "#d9d7cf",
+      "#b2a090",
+      "#58463c"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.44,
+    "scene_changes": 1286,
+    "camera_work": [
+      "Handheld",
+      "POV"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Sharing experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Supplementary information"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food exploration",
+      "description": "Frequent focus on trying and describing local food",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Cultural immersion",
+      "description": "Engagement with local culture and traditions",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

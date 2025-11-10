@@ -1,0 +1,1933 @@
+{
+  "total_scenes": 187,
+  "scenes": [
+    {
+      "timestamp": 1.9352666666666667,
+      "timestamp_formatted": "0:00:01",
+      "activity": "A dog is resting on a cushion in a grooming or pet care setting.",
+      "location": "Indoor, likely a pet grooming salon or similar space.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is resting on a cushion in a grooming or pet care setting.\n2. **Location**: Indoor, likely a pet grooming salon or similar space.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Dog, cushions, blanket, window view of the street.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 2.9029000000000003,
+      "timestamp_formatted": "0:00:02",
+      "activity": "A dog is standing indoors, holding a toy in its mouth.",
+      "location": "Indoor, likely a home or grooming area.",
+      "mood": "Playful and lighthearted.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing indoors, holding a toy in its mouth.\n2. **Location**: Indoor, likely a home or grooming area.\n3. **Mood**: Playful and lighthearted.\n4. **Key Elements**: Dog, red toy, tiled floor, slippers.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 4.838166666666667,
+      "timestamp_formatted": "0:00:04",
+      "activity": "A person is grooming a small dog.",
+      "location": "Indoor, likely in a grooming salon or bathroom.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog.\n2. **Location**: Indoor, likely in a grooming salon or bathroom.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Small dog, person in a light-colored outfit, tiled wall, grooming supplies.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 6.773433333333333,
+      "timestamp_formatted": "0:00:06",
+      "activity": "A dog is being bathed and groomed.",
+      "location": "Indoor, likely in a grooming salon or home bathroom.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming action.",
+      "raw_analysis": "1. **Activity**: A dog is being bathed and groomed.\n2. **Location**: Indoor, likely in a grooming salon or home bathroom.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, person's hands, soap suds, grooming products, sink.\n5. **Scene Type**: Grooming action."
+    },
+    {
+      "timestamp": 7.741066666666667,
+      "timestamp_formatted": "0:00:07",
+      "activity": "A dog is being groomed, with a person gently holding its head.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and soothing.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, with a person gently holding its head.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and soothing.\n4. **Key Elements**: Dog, grooming tools, person’s hands, grooming table, text overlay \"GROOMER VLOG\".\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 10.643966666666667,
+      "timestamp_formatted": "0:00:10",
+      "activity": "A dog is being groomed, lying on its back while someone gently holds it.",
+      "location": "Indoor setting, likely a grooming area or home.",
+      "mood": "Calm and soothing.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, lying on its back while someone gently holds it.\n2. **Location**: Indoor setting, likely a grooming area or home.\n3. **Mood**: Calm and soothing.\n4. **Key Elements**: Dog, person's hands, yellow checkered diaper, text overlay \"GROOMER VLOG\".\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 12.579233333333333,
+      "timestamp_formatted": "0:00:12",
+      "activity": "A dog is being showcased, possibly as part of a grooming session or vlog.",
+      "location": "Indoor, likely a grooming salon or similar setting.",
+      "mood": "Calm and playful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is being showcased, possibly as part of a grooming session or vlog.\n2. **Location**: Indoor, likely a grooming salon or similar setting.\n3. **Mood**: Calm and playful.\n4. **Key Elements**: Dog, tennis racket, small balls, tiled wall, grooming table.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 14.5145,
+      "timestamp_formatted": "0:00:14",
+      "activity": "A dog is being groomed, possibly after a haircut.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, possibly after a haircut.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: Dog on a grooming table, grooming tools, chair, trimmed fur.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 15.482133333333334,
+      "timestamp_formatted": "0:00:15",
+      "activity": "A dog is being groomed, with its fur trimmed and placed on the table.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, with its fur trimmed and placed on the table.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, trimmed fur, grooming tools, chair.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 16.449766666666665,
+      "timestamp_formatted": "0:00:16",
+      "activity": "A person is grooming a fluffy white dog.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A person is grooming a fluffy white dog.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person in an apron, fluffy white dog, grooming equipment, hairdryer.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 19.352666666666668,
+      "timestamp_formatted": "0:00:19",
+      "activity": "A person is preparing or organizing equipment in a grooming setting.",
+      "location": "Indoor, likely a grooming salon or pet care facility.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or organizing equipment in a grooming setting.\n2. **Location**: Indoor, likely a grooming salon or pet care facility.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Person in an apron, grooming equipment, shelves with products, large dryer, table.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 26.1261,
+      "timestamp_formatted": "0:00:26",
+      "activity": "A person is preparing grooming supplies, possibly for pet grooming.",
+      "location": "Indoor, likely a grooming salon or workspace.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing grooming supplies, possibly for pet grooming.\n2. **Location**: Indoor, likely a grooming salon or workspace.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Grooming spray cans, a large dryer, tiled walls, a person in an apron.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 27.093733333333333,
+      "timestamp_formatted": "0:00:27",
+      "activity": "A person is preparing or setting up for a grooming session.",
+      "location": "Indoor, likely a grooming salon or pet care facility.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or setting up for a grooming session.\n2. **Location**: Indoor, likely a grooming salon or pet care facility.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Person in an apron, grooming equipment, tiled walls, text overlay \"GROOMER VLOG\".\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 28.061366666666668,
+      "timestamp_formatted": "0:00:28",
+      "activity": "A person is preparing or organizing items, possibly related to grooming.",
+      "location": "Indoor, likely a grooming salon or similar workspace.",
+      "mood": "Practical and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or organizing items, possibly related to grooming.\n2. **Location**: Indoor, likely a grooming salon or similar workspace.\n3. **Mood**: Practical and focused.\n4. **Key Elements**: Shelves with grooming products, a person in a uniform, tiled walls, grooming equipment.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 29.996633333333335,
+      "timestamp_formatted": "0:00:29",
+      "activity": "A person is adjusting the camera or preparing for a vlog recording.",
+      "location": "Indoor, likely a grooming salon or similar setting.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Introduction or setup for a vlog.",
+      "raw_analysis": "1. **Activity**: A person is adjusting the camera or preparing for a vlog recording.\n2. **Location**: Indoor, likely a grooming salon or similar setting.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Person in beige clothing, grooming products, camera equipment, tiled walls.\n5. **Scene Type**: Introduction or setup for a vlog."
+    },
+    {
+      "timestamp": 30.964266666666667,
+      "timestamp_formatted": "0:00:30",
+      "activity": "A person is preparing or organizing grooming equipment.",
+      "location": "Indoor, likely a grooming salon or pet care facility.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or organizing grooming equipment.\n2. **Location**: Indoor, likely a grooming salon or pet care facility.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Grooming equipment, person in uniform, shelves with products, camera.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 31.9319,
+      "timestamp_formatted": "0:00:31",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the content of this video frame as it is too dark to discern any specific details."
+    },
+    {
+      "timestamp": 32.89953333333333,
+      "timestamp_formatted": "0:00:32",
+      "activity": "A dog is moving around in a room.",
+      "location": "Indoor, likely a pet care facility or home.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is moving around in a room.\n2. **Location**: Indoor, likely a pet care facility or home.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Dog beds, a small blue toy, a dog, and a window.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 33.86716666666667,
+      "timestamp_formatted": "0:00:33",
+      "activity": "A dog is standing on the floor, possibly looking up at something or someone.",
+      "location": "Indoor, likely a pet area or room.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing on the floor, possibly looking up at something or someone.\n2. **Location**: Indoor, likely a pet area or room.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Dog, pet bed, blanket, pee pads, toy.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 34.8348,
+      "timestamp_formatted": "0:00:34",
+      "activity": "A dog is playing or interacting with a green toy.",
+      "location": "Indoor, likely a living room or pet area.",
+      "mood": "Calm and playful.",
+      "key_elements": [],
+      "scene_type": "Pet interaction.",
+      "raw_analysis": "1. **Activity**: A dog is playing or interacting with a green toy.\n2. **Location**: Indoor, likely a living room or pet area.\n3. **Mood**: Calm and playful.\n4. **Key Elements**: Dog, green toy, dog bed, floor mat, blanket.\n5. **Scene Type**: Pet interaction."
+    },
+    {
+      "timestamp": 35.80243333333333,
+      "timestamp_formatted": "0:00:35",
+      "activity": "A small dog is interacting with a person, possibly playing or being fed.",
+      "location": "Indoor, likely in a home setting.",
+      "mood": "Playful and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A small dog is interacting with a person, possibly playing or being fed.\n2. **Location**: Indoor, likely in a home setting.\n3. **Mood**: Playful and intimate.\n4. **Key Elements**: Small dog, person's hand, green toy or object, fabric or blanket.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 37.737700000000004,
+      "timestamp_formatted": "0:00:37",
+      "activity": "A person is playing with a small dog, offering it a toy or treat.",
+      "location": "Indoor, likely a living room or similar home setting.",
+      "mood": "Playful and affectionate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is playing with a small dog, offering it a toy or treat.\n2. **Location**: Indoor, likely a living room or similar home setting.\n3. **Mood**: Playful and affectionate.\n4. **Key Elements**: Small dog, human hand, green toy or treat, slippers, cushion.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 38.705333333333336,
+      "timestamp_formatted": "0:00:38",
+      "activity": "A person is holding a small dog, possibly preparing to wash or groom it.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Pet care/grooming.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing to wash or groom it.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Small dog, person’s arm, tiled walls, door, sink.\n5. **Scene Type**: Pet care/grooming."
+    },
+    {
+      "timestamp": 39.67296666666667,
+      "timestamp_formatted": "0:00:39",
+      "activity": "A person is holding a fluffy dog, possibly preparing to groom or wash it.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is holding a fluffy dog, possibly preparing to groom or wash it.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person in a white outfit, fluffy dog, tiled walls, door with a handle.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 41.60823333333333,
+      "timestamp_formatted": "0:00:41",
+      "activity": "A person is grooming or interacting with a fluffy dog.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is grooming or interacting with a fluffy dog.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, fluffy dog, tiled walls, grooming tools, text overlay.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 45.478766666666665,
+      "timestamp_formatted": "0:00:45",
+      "activity": "A person is grooming or petting a dog.",
+      "location": "Indoor, likely a grooming salon or bathroom.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is grooming or petting a dog.\n2. **Location**: Indoor, likely a grooming salon or bathroom.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Dog, person, tiled walls, door, text overlay.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 48.38166666666667,
+      "timestamp_formatted": "0:00:48",
+      "activity": "A dog is being groomed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, person grooming, tiled walls, colorful wall decorations.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 49.3493,
+      "timestamp_formatted": "0:00:49",
+      "activity": "A dog is being groomed by a person.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed by a person.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, person, grooming tools, wall with decorations.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 51.28456666666667,
+      "timestamp_formatted": "0:00:51",
+      "activity": "A person is grooming or handling a dog on a table.",
+      "location": "Indoor, likely a pet grooming salon or veterinary clinic.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming or handling a dog on a table.\n2. **Location**: Indoor, likely a pet grooming salon or veterinary clinic.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, person, grooming table, tiled walls, green decorative background.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 52.2522,
+      "timestamp_formatted": "0:00:52",
+      "activity": "A person is grooming a large dog.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a large dog.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, person, grooming table, grooming tools, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 57.09036666666667,
+      "timestamp_formatted": "0:00:57",
+      "activity": "A person is grooming a large, fluffy dog.",
+      "location": "Indoor, likely a grooming salon or veterinary clinic.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A person is grooming a large, fluffy dog.\n2. **Location**: Indoor, likely a grooming salon or veterinary clinic.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, large fluffy dog, grooming tools, tiled wall.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 60.9609,
+      "timestamp_formatted": "0:01:00",
+      "activity": "A person is grooming a fluffy animal, likely a rabbit.",
+      "location": "Indoor, possibly a grooming or pet care area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming activity.",
+      "raw_analysis": "1. **Activity**: A person is grooming a fluffy animal, likely a rabbit.\n2. **Location**: Indoor, possibly a grooming or pet care area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person in light clothing, fluffy rabbit, grooming tools, tiled wall, green decorative background.\n5. **Scene Type**: Grooming activity."
+    },
+    {
+      "timestamp": 61.928533333333334,
+      "timestamp_formatted": "0:01:01",
+      "activity": "A person is grooming or interacting with a large, fluffy dog.",
+      "location": "Indoor, likely in a grooming salon or veterinary clinic.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is grooming or interacting with a large, fluffy dog.\n2. **Location**: Indoor, likely in a grooming salon or veterinary clinic.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, large fluffy dog, grooming table, green backdrop with decorations, small appliance.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 64.83143333333334,
+      "timestamp_formatted": "0:01:04",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon or a bathroom.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon or a bathroom.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, grooming clippers, tiled walls, grooming table.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 65.79906666666666,
+      "timestamp_formatted": "0:01:05",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon or a bathroom.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon or a bathroom.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clippers, grooming table, tiled walls.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 71.60486666666667,
+      "timestamp_formatted": "0:01:11",
+      "activity": "A person is interacting with a large, fluffy dog, possibly grooming or comforting it.",
+      "location": "Indoor, likely a grooming or veterinary setting.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a large, fluffy dog, possibly grooming or comforting it.\n2. **Location**: Indoor, likely a grooming or veterinary setting.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Person, large fluffy dog, tiled walls, grooming table, colorful wall decorations.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 72.5725,
+      "timestamp_formatted": "0:01:12",
+      "activity": "A person is grooming or comforting a dog.",
+      "location": "Indoor, likely a grooming salon or a bathroom.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is grooming or comforting a dog.\n2. **Location**: Indoor, likely a grooming salon or a bathroom.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Person, dog, tiled walls, grooming tools, countertop.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 73.54013333333333,
+      "timestamp_formatted": "0:01:13",
+      "activity": "A person is grooming or comforting a dog.",
+      "location": "Indoor, likely a grooming salon or veterinary clinic.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is grooming or comforting a dog.\n2. **Location**: Indoor, likely a grooming salon or veterinary clinic.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Person, dog, grooming tools, tiled walls, text overlay.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 74.50776666666667,
+      "timestamp_formatted": "0:01:14",
+      "activity": "A person is grooming a dog, possibly drying its fur.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog, possibly drying its fur.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, person's hands, grooming tools, bottles of grooming products, washing machine.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 77.41066666666667,
+      "timestamp_formatted": "0:01:17",
+      "activity": "A dog is being groomed, likely being dried with a hairdryer.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely being dried with a hairdryer.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, hairdryer, grooming products, tiled floor, grooming table.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 78.3783,
+      "timestamp_formatted": "0:01:18",
+      "activity": "A dog is being groomed, likely being dried or brushed.",
+      "location": "Indoor, possibly a pet grooming salon.",
+      "mood": "Calm and soothing.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely being dried or brushed.\n2. **Location**: Indoor, possibly a pet grooming salon.\n3. **Mood**: Calm and soothing.\n4. **Key Elements**: Dog, grooming hand, hairdryer, grooming products, tiled floor.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 79.34593333333333,
+      "timestamp_formatted": "0:01:19",
+      "activity": "A dog is being groomed, possibly dried with a hairdryer.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and soothing.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, possibly dried with a hairdryer.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and soothing.\n4. **Key Elements**: Dog, hairdryer, grooming products, yellow-tiled floor.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 82.24883333333334,
+      "timestamp_formatted": "0:01:22",
+      "activity": "A person is playfully placing a headband on a dog's head.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Lighthearted and playful.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is playfully placing a headband on a dog's head.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Lighthearted and playful.\n4. **Key Elements**: Dog, headband, person's hands, grooming products, mirror.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 83.21646666666666,
+      "timestamp_formatted": "0:01:23",
+      "activity": "A person is grooming a dog, possibly preparing it for a bath or drying it off.",
+      "location": "Indoor, likely a bathroom or laundry room.",
+      "mood": "Intimate and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care/grooming.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog, possibly preparing it for a bath or drying it off.\n2. **Location**: Indoor, likely a bathroom or laundry room.\n3. **Mood**: Intimate and caring.\n4. **Key Elements**: Dog with a yellow headband, person with curly hair, washing machine, grooming products.\n5. **Scene Type**: Pet care/grooming."
+    },
+    {
+      "timestamp": 84.1841,
+      "timestamp_formatted": "0:01:24",
+      "activity": "A dog is sitting on a grooming table, possibly being prepared for grooming or having its photo taken.",
+      "location": "Indoor, likely in a pet grooming salon.",
+      "mood": "Lighthearted and cute.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A dog is sitting on a grooming table, possibly being prepared for grooming or having its photo taken.\n2. **Location**: Indoor, likely in a pet grooming salon.\n3. **Mood**: Lighthearted and cute.\n4. **Key Elements**: Dog wearing a yellow headband, grooming scissors, grooming table, grooming tools.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 85.15173333333334,
+      "timestamp_formatted": "0:01:25",
+      "activity": "A small dog is being groomed or styled, possibly for a photo.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Lighthearted and cute.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A small dog is being groomed or styled, possibly for a photo.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Lighthearted and cute.\n4. **Key Elements**: Small dog with a yellow headband, grooming tools, storage cart, mirror.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 86.11936666666666,
+      "timestamp_formatted": "0:01:26",
+      "activity": "A dog is wearing a yellow headband, possibly being groomed or prepared for a bath.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Lighthearted and playful.",
+      "key_elements": [],
+      "scene_type": "Grooming or preparation scene.",
+      "raw_analysis": "1. **Activity**: A dog is wearing a yellow headband, possibly being groomed or prepared for a bath.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Lighthearted and playful.\n4. **Key Elements**: Dog with a headband, grooming tools, bathtub, towels.\n5. **Scene Type**: Grooming or preparation scene."
+    },
+    {
+      "timestamp": 87.087,
+      "timestamp_formatted": "0:01:27",
+      "activity": "A dog is wearing a yellow headband, possibly being groomed or styled.",
+      "location": "Indoor, likely a grooming salon or bathroom.",
+      "mood": "Lighthearted and playful.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A dog is wearing a yellow headband, possibly being groomed or styled.\n2. **Location**: Indoor, likely a grooming salon or bathroom.\n3. **Mood**: Lighthearted and playful.\n4. **Key Elements**: Dog, yellow headband, grooming tools, countertop.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 88.05463333333333,
+      "timestamp_formatted": "0:01:28",
+      "activity": "A fluffy dog is standing on a grooming table, possibly being prepared for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and lighthearted.",
+      "key_elements": [],
+      "scene_type": "Pet grooming setup.",
+      "raw_analysis": "1. **Activity**: A fluffy dog is standing on a grooming table, possibly being prepared for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and lighthearted.\n4. **Key Elements**: Fluffy white dog, grooming table, tiled wall, grooming scissors, door.\n5. **Scene Type**: Pet grooming setup."
+    },
+    {
+      "timestamp": 89.02226666666667,
+      "timestamp_formatted": "0:01:29",
+      "activity": "A fluffy white dog is standing on a grooming table, possibly being groomed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and lighthearted.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A fluffy white dog is standing on a grooming table, possibly being groomed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and lighthearted.\n4. **Key Elements**: Fluffy white dog, grooming table, tiled wall, grooming tools, text overlay.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 90.95753333333333,
+      "timestamp_formatted": "0:01:30",
+      "activity": "A dog is being groomed on a grooming table.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed on a grooming table.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: White fluffy dog, grooming table, person’s hand, tiled wall, glass door.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 93.86043333333333,
+      "timestamp_formatted": "0:01:33",
+      "activity": "A person is grooming a small, fluffy dog on a grooming table.",
+      "location": "Indoor, likely a pet grooming salon or a designated grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small, fluffy dog on a grooming table.\n2. **Location**: Indoor, likely a pet grooming salon or a designated grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Grooming table, fluffy dog, grooming tool, person in an apron, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 109.34256666666667,
+      "timestamp_formatted": "0:01:49",
+      "activity": "A person is grooming a fluffy white dog using clippers.",
+      "location": "Indoor, likely in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a fluffy white dog using clippers.\n2. **Location**: Indoor, likely in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, clippers, person, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 113.2131,
+      "timestamp_formatted": "0:01:53",
+      "activity": "A person is grooming a small white dog, trimming its fur.",
+      "location": "Indoor, likely a pet grooming salon or a designated grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small white dog, trimming its fur.\n2. **Location**: Indoor, likely a pet grooming salon or a designated grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: White dog, grooming table, grooming tools, person in an apron.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 115.14836666666667,
+      "timestamp_formatted": "0:01:55",
+      "activity": "A person is grooming a small white dog on a grooming table.",
+      "location": "Indoor, likely a pet grooming salon or a dedicated grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small white dog on a grooming table.\n2. **Location**: Indoor, likely a pet grooming salon or a dedicated grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: White dog, grooming table, person in a light-colored apron, grooming tool, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 116.116,
+      "timestamp_formatted": "0:01:56",
+      "activity": "A person is working with a pottery wheel, likely shaping clay.",
+      "location": "Indoor, possibly in a pottery studio or workshop.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is working with a pottery wheel, likely shaping clay.\n2. **Location**: Indoor, possibly in a pottery studio or workshop.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Pottery wheel, person in a white apron, tiled wall, window.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 117.08363333333334,
+      "timestamp_formatted": "0:01:57",
+      "activity": "A person is grooming a small white dog on a table.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small white dog on a table.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person in white clothing, small white dog, grooming table, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 119.0189,
+      "timestamp_formatted": "0:01:59",
+      "activity": "A dog is being bathed in a tub.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care/grooming.",
+      "raw_analysis": "1. **Activity**: A dog is being bathed in a tub.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Dog wearing a green cap, person’s hands, bathtub, showerhead, towels.\n5. **Scene Type**: Pet care/grooming."
+    },
+    {
+      "timestamp": 125.79233333333333,
+      "timestamp_formatted": "0:02:05",
+      "activity": "A dog is sitting on the floor, possibly resting or observing its surroundings.",
+      "location": "Indoor, likely a living room or similar home setting.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Pet moment.",
+      "raw_analysis": "1. **Activity**: A dog is sitting on the floor, possibly resting or observing its surroundings.\n2. **Location**: Indoor, likely a living room or similar home setting.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Dog wearing a yellow checkered band, dog bed, plush toy, rope toy.\n5. **Scene Type**: Pet moment."
+    },
+    {
+      "timestamp": 127.7276,
+      "timestamp_formatted": "0:02:07",
+      "activity": "A small dog is standing on a carpeted floor, possibly looking at something or someone off-frame.",
+      "location": "Indoor, likely a living room or a pet-friendly area.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Pet-focused moment.",
+      "raw_analysis": "1. **Activity**: A small dog is standing on a carpeted floor, possibly looking at something or someone off-frame.\n2. **Location**: Indoor, likely a living room or a pet-friendly area.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: \n   - Small white dog wearing a yellow checkered outfit\n   - Soft dog bed\n   - Plush toy on the floor\n   - Light-colored carpet\n5. **Scene Type**: Pet-focused moment."
+    },
+    {
+      "timestamp": 128.69523333333333,
+      "timestamp_formatted": "0:02:08",
+      "activity": "A small dog is approaching or interacting with the camera.",
+      "location": "Indoor, likely a living room or similar space.",
+      "mood": "Calm and playful.",
+      "key_elements": [],
+      "scene_type": "Pet interaction.",
+      "raw_analysis": "1. **Activity**: A small dog is approaching or interacting with the camera.\n2. **Location**: Indoor, likely a living room or similar space.\n3. **Mood**: Calm and playful.\n4. **Key Elements**: Small dog with a yellow checkered outfit, rope toy, light-colored flooring, text overlay.\n5. **Scene Type**: Pet interaction."
+    },
+    {
+      "timestamp": 129.66286666666667,
+      "timestamp_formatted": "0:02:09",
+      "activity": "A person is holding a treat or object in front of a small white dog, possibly engaging with it.",
+      "location": "Indoor, likely a living room or similar cozy space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is holding a treat or object in front of a small white dog, possibly engaging with it.\n2. **Location**: Indoor, likely a living room or similar cozy space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Small white dog, hand holding a treat or object, soft furnishings in the background.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 131.59813333333332,
+      "timestamp_formatted": "0:02:11",
+      "activity": "A person is interacting with a small dog, possibly offering a treat or toy.",
+      "location": "Indoor setting, likely a home or apartment.",
+      "mood": "Calm and playful.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a small dog, possibly offering a treat or toy.\n2. **Location**: Indoor setting, likely a home or apartment.\n3. **Mood**: Calm and playful.\n4. **Key Elements**: Small dog with a yellow checkered outfit, a hand with painted nails, a blurred object in the foreground, light-colored flooring.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 132.56576666666666,
+      "timestamp_formatted": "0:02:12",
+      "activity": "A person is holding a treat or object towards a small dog.",
+      "location": "Indoor setting, likely a home.",
+      "mood": "Playful and affectionate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is holding a treat or object towards a small dog.\n2. **Location**: Indoor setting, likely a home.\n3. **Mood**: Playful and affectionate.\n4. **Key Elements**: Small white dog, person's hand with painted nails, yellow checkered bandana on the dog, text overlay.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 134.50103333333334,
+      "timestamp_formatted": "0:02:14",
+      "activity": "A dog is lying on its back, being gently petted by a person.",
+      "location": "Indoor, likely a home setting.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A dog is lying on its back, being gently petted by a person.\n2. **Location**: Indoor, likely a home setting.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Dog, person's hands, yellow checkered fabric, light-colored floor.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 140.30683333333334,
+      "timestamp_formatted": "0:02:20",
+      "activity": "A person is grooming or handling two small fluffy dogs.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A person is grooming or handling two small fluffy dogs.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Two fluffy dogs, a person, grooming tools, tiled wall.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 141.27446666666668,
+      "timestamp_formatted": "0:02:21",
+      "activity": "A dog is being groomed or prepared for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed or prepared for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: White fluffy dog, grooming tools, person partially visible, tiled wall, grooming table.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 142.2421,
+      "timestamp_formatted": "0:02:22",
+      "activity": "A dog grooming session is taking place, with a dog on a grooming table.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog grooming session is taking place, with a dog on a grooming table.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: Dog, grooming tools, grooming table, hairdryer, person.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 145.145,
+      "timestamp_formatted": "0:02:25",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a grooming salon or a home grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a grooming salon or a home grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clippers, grooming table, hairdryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 148.0479,
+      "timestamp_formatted": "0:02:28",
+      "activity": "A person is grooming a dog using a clipper.",
+      "location": "Indoor, likely a pet grooming salon or a home grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using a clipper.\n2. **Location**: Indoor, likely a pet grooming salon or a home grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clipper, grooming table, hair dryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 149.98316666666668,
+      "timestamp_formatted": "0:02:29",
+      "activity": "A person is grooming a dog, likely brushing its fur.",
+      "location": "Indoor, possibly a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog, likely brushing its fur.\n2. **Location**: Indoor, possibly a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, brush, grooming table, hairdryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 150.95080000000002,
+      "timestamp_formatted": "0:02:30",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clippers, grooming table, hair dryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 151.91843333333333,
+      "timestamp_formatted": "0:02:31",
+      "activity": "A person is grooming a small dog using clippers.",
+      "location": "Indoor, likely in a pet grooming salon or a home grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming activity.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using clippers.\n2. **Location**: Indoor, likely in a pet grooming salon or a home grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, small dog, clippers, grooming table, hair dryer.\n5. **Scene Type**: Grooming activity."
+    },
+    {
+      "timestamp": 152.88606666666666,
+      "timestamp_formatted": "0:02:32",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clippers, grooming table, dryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 153.8537,
+      "timestamp_formatted": "0:02:33",
+      "activity": "A person is grooming a small dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon or a home grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon or a home grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, small white dog, clippers, grooming table, hair dryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 154.82133333333334,
+      "timestamp_formatted": "0:02:34",
+      "activity": "A person is grooming a dog.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person in an apron, white dog, grooming tools, tiled wall, hairdryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 155.78896666666668,
+      "timestamp_formatted": "0:02:35",
+      "activity": "A person is grooming a small dog.",
+      "location": "Indoor, likely a pet grooming salon or home grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog.\n2. **Location**: Indoor, likely a pet grooming salon or home grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, small dog, grooming tools, hairdryer, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 157.72423333333333,
+      "timestamp_formatted": "0:02:37",
+      "activity": "A person is grooming a dog, possibly trimming its fur.",
+      "location": "Indoor, likely in a grooming salon or a home grooming setup.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog, possibly trimming its fur.\n2. **Location**: Indoor, likely in a grooming salon or a home grooming setup.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, grooming tools, tiled wall, grooming table.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 160.62713333333335,
+      "timestamp_formatted": "0:02:40",
+      "activity": "A person is grooming a small white dog.",
+      "location": "Indoor, likely a grooming salon or veterinary clinic.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small white dog.\n2. **Location**: Indoor, likely a grooming salon or veterinary clinic.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, white dog, grooming equipment, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 161.59476666666666,
+      "timestamp_formatted": "0:02:41",
+      "activity": "A person is grooming a small dog using clippers.",
+      "location": "Indoor, likely a grooming salon or a home grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using clippers.\n2. **Location**: Indoor, likely a grooming salon or a home grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, small dog, clippers, grooming table, grooming equipment.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 162.5624,
+      "timestamp_formatted": "0:02:42",
+      "activity": "A person is grooming a small dog using clippers.",
+      "location": "Indoor, likely a grooming salon or a bathroom.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using clippers.\n2. **Location**: Indoor, likely a grooming salon or a bathroom.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, small dog, clippers, grooming table, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 164.49766666666667,
+      "timestamp_formatted": "0:02:44",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming clippers, grooming table, person, wall tiles.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 165.4653,
+      "timestamp_formatted": "0:02:45",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clippers, grooming table, hair dryer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 166.43293333333332,
+      "timestamp_formatted": "0:02:46",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action (grooming).",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming clippers, person, grooming table, hair dryer.\n5. **Scene Type**: Action (grooming)."
+    },
+    {
+      "timestamp": 169.33583333333334,
+      "timestamp_formatted": "0:02:49",
+      "activity": "A person is grooming a dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, dog, clippers, grooming tools, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 170.30346666666668,
+      "timestamp_formatted": "0:02:50",
+      "activity": "A person is grooming a small dog using clippers.",
+      "location": "Indoor, likely a pet grooming salon or a dedicated grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using clippers.\n2. **Location**: Indoor, likely a pet grooming salon or a dedicated grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, small dog, clippers, grooming table, tiled wall.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 171.2711,
+      "timestamp_formatted": "0:02:51",
+      "activity": "A dog is being bathed, with someone washing its head.",
+      "location": "Indoor, likely in a bathroom or pet grooming area.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A dog is being bathed, with someone washing its head.\n2. **Location**: Indoor, likely in a bathroom or pet grooming area.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Dog, soap suds, sink, grooming products, person's hands.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 176.10926666666666,
+      "timestamp_formatted": "0:02:56",
+      "activity": "A person is grooming a dog, possibly drying it with a hairdryer.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog, possibly drying it with a hairdryer.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, person, hairdryer, grooming table, grooming tools.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 182.8827,
+      "timestamp_formatted": "0:03:02",
+      "activity": "A dog is being groomed, with someone brushing its fur.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action (grooming activity).",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, with someone brushing its fur.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming brush, person's hands, grooming tools, text overlay.\n5. **Scene Type**: Action (grooming activity)."
+    },
+    {
+      "timestamp": 186.75323333333333,
+      "timestamp_formatted": "0:03:06",
+      "activity": "A person is grooming a small dog using a brush.",
+      "location": "Indoor, likely in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using a brush.\n2. **Location**: Indoor, likely in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming brush, grooming table, grooming tools cart.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 190.62376666666668,
+      "timestamp_formatted": "0:03:10",
+      "activity": "A dog is being groomed, likely having its fur brushed.",
+      "location": "Indoor, possibly a pet grooming salon.",
+      "mood": "Calm and soothing.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely having its fur brushed.\n2. **Location**: Indoor, possibly a pet grooming salon.\n3. **Mood**: Calm and soothing.\n4. **Key Elements**: Dog, grooming brush, grooming table, grooming tools cart.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 200.30010000000001,
+      "timestamp_formatted": "0:03:20",
+      "activity": "A dog is being groomed, specifically having its fur trimmed with scissors.",
+      "location": "Indoor, likely in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, specifically having its fur trimmed with scissors.\n2. **Location**: Indoor, likely in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming scissors, grooming table, comb, grooming tools.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 207.07353333333333,
+      "timestamp_formatted": "0:03:27",
+      "activity": "A dog is being groomed, likely having its fur trimmed.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and gentle.",
+      "key_elements": [],
+      "scene_type": "Grooming closeup.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely having its fur trimmed.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and gentle.\n4. **Key Elements**: Dog, grooming scissors, comb, grooming table, trash bin.\n5. **Scene Type**: Grooming closeup."
+    },
+    {
+      "timestamp": 209.0088,
+      "timestamp_formatted": "0:03:29",
+      "activity": "A dog is being groomed, likely having its fur trimmed.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely having its fur trimmed.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming scissors, grooming table, comb, tiled floor.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 209.97643333333335,
+      "timestamp_formatted": "0:03:29",
+      "activity": "The scene shows a meal setup, likely before eating.",
+      "location": "Indoor, possibly a cafeteria or casual dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal setup, likely before eating.\n2. **Location**: Indoor, possibly a cafeteria or casual dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Two pasta dishes, a drink with a straw, plastic utensils, and a table.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 212.87933333333334,
+      "timestamp_formatted": "0:03:32",
+      "activity": "The scene shows a meal setup, likely before eating.",
+      "location": "Indoor, possibly a casual dining area or cafeteria.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal setup, likely before eating.\n2. **Location**: Indoor, possibly a casual dining area or cafeteria.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Two dishes of pasta, a plastic fork, a cold drink in a plastic cup, and a packaged utensil set.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 213.84696666666667,
+      "timestamp_formatted": "0:03:33",
+      "activity": "The scene shows a meal setup, likely before eating.",
+      "location": "Indoor, possibly a casual dining area or cafeteria.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal setup, likely before eating.\n2. **Location**: Indoor, possibly a casual dining area or cafeteria.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Two dishes of pasta, a drink with a straw, a smartphone, and disposable cutlery.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 215.78223333333332,
+      "timestamp_formatted": "0:03:35",
+      "activity": "The scene shows a meal setup, likely before eating.",
+      "location": "Indoor, possibly a casual dining area or office break room.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal setup, likely before eating.\n2. **Location**: Indoor, possibly a casual dining area or office break room.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Two pasta dishes, iced coffee, smartphone, plastic utensils.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 216.74986666666666,
+      "timestamp_formatted": "0:03:36",
+      "activity": "A small dog is sitting and looking at the camera.",
+      "location": "Indoor, possibly a home or pet area.",
+      "mood": "Calm and cute.",
+      "key_elements": [],
+      "scene_type": "Pet closeup.",
+      "raw_analysis": "1. **Activity**: A small dog is sitting and looking at the camera.\n2. **Location**: Indoor, possibly a home or pet area.\n3. **Mood**: Calm and cute.\n4. **Key Elements**: Small fluffy dog, white tiled floor, yellow and black patterned area, cable on the floor.\n5. **Scene Type**: Pet closeup."
+    },
+    {
+      "timestamp": 221.58803333333333,
+      "timestamp_formatted": "0:03:41",
+      "activity": "A person is holding a small dog, possibly grooming or showing it.",
+      "location": "Indoor, likely a grooming salon or veterinary clinic.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly grooming or showing it.\n2. **Location**: Indoor, likely a grooming salon or veterinary clinic.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog, person holding the dog, grooming products, tiled wall.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 223.5233,
+      "timestamp_formatted": "0:03:43",
+      "activity": "A person is holding a small dog, possibly preparing for grooming or play.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing for grooming or play.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog, person in a light-colored shirt, tiled wall, grooming supplies.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 224.49093333333334,
+      "timestamp_formatted": "0:03:44",
+      "activity": "A person is holding a fluffy dog, possibly preparing for grooming or showing it to the camera.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Lighthearted and cheerful.",
+      "key_elements": [],
+      "scene_type": "Pet care or grooming.",
+      "raw_analysis": "1. **Activity**: A person is holding a fluffy dog, possibly preparing for grooming or showing it to the camera.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Lighthearted and cheerful.\n4. **Key Elements**: Fluffy dog, person in a light-colored outfit, tiled wall, shelves with items.\n5. **Scene Type**: Pet care or grooming."
+    },
+    {
+      "timestamp": 226.4262,
+      "timestamp_formatted": "0:03:46",
+      "activity": "A small dog is being bathed, covered in soap suds.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and slightly humorous.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A small dog is being bathed, covered in soap suds.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and slightly humorous.\n4. **Key Elements**: Small dog, soap suds, bottles of grooming products, shower area.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 230.29673333333335,
+      "timestamp_formatted": "0:03:50",
+      "activity": "A person is grooming a small dog using a brush.",
+      "location": "Indoor, likely a pet grooming salon or home setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using a brush.\n2. **Location**: Indoor, likely a pet grooming salon or home setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Small dog, grooming brush, scissors, person's hands.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 231.26436666666666,
+      "timestamp_formatted": "0:03:51",
+      "activity": "A person is grooming a small dog using scissors.",
+      "location": "Indoor, likely a pet grooming salon or home.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A person is grooming a small dog using scissors.\n2. **Location**: Indoor, likely a pet grooming salon or home.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Scissors, small dog, person's hands, grooming table.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 239.97306666666668,
+      "timestamp_formatted": "0:03:59",
+      "activity": "A small dog is being groomed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Pet grooming closeup.",
+      "raw_analysis": "1. **Activity**: A small dog is being groomed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Small dog, grooming tools, person grooming the dog, text overlay.\n5. **Scene Type**: Pet grooming closeup."
+    },
+    {
+      "timestamp": 241.90833333333333,
+      "timestamp_formatted": "0:04:01",
+      "activity": "A small dog is being groomed or petted.",
+      "location": "Indoor, likely a grooming salon or home setting.",
+      "mood": "Calm and cheerful.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A small dog is being groomed or petted.\n2. **Location**: Indoor, likely a grooming salon or home setting.\n3. **Mood**: Calm and cheerful.\n4. **Key Elements**: Small fluffy dog, person’s hands, grooming scissors, white surface.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 242.87596666666667,
+      "timestamp_formatted": "0:04:02",
+      "activity": "A small dog is being groomed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A small dog is being groomed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Small dog, grooming scissors, person’s hands, grooming table.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 243.8436,
+      "timestamp_formatted": "0:04:03",
+      "activity": "A small white dog is approaching a person who is holding something in their hands, possibly a treat.",
+      "location": "Indoor setting, likely a home or pet-friendly space.",
+      "mood": "Calm and playful.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A small white dog is approaching a person who is holding something in their hands, possibly a treat.\n2. **Location**: Indoor setting, likely a home or pet-friendly space.\n3. **Mood**: Calm and playful.\n4. **Key Elements**: Small white dog, person's hands, yellow and white tiled floor, beige mat.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 244.81123333333335,
+      "timestamp_formatted": "0:04:04",
+      "activity": "A person is interacting with a small white dog, possibly feeding or playing with it.",
+      "location": "Indoor setting, likely a home or pet-friendly space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a small white dog, possibly feeding or playing with it.\n2. **Location**: Indoor setting, likely a home or pet-friendly space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: White fluffy dog, person’s hands, yellow and white tiled floor, text overlay.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 245.77886666666666,
+      "timestamp_formatted": "0:04:05",
+      "activity": "A person is interacting with a small white dog, possibly offering a treat or engaging in training.",
+      "location": "Indoor setting, likely a home or pet-friendly space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a small white dog, possibly offering a treat or engaging in training.\n2. **Location**: Indoor setting, likely a home or pet-friendly space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Small white dog, person, yellow and white tiled floor, light-colored clothing.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 246.7465,
+      "timestamp_formatted": "0:04:06",
+      "activity": "A person is interacting with a small white dog, possibly training or playing with it.",
+      "location": "Indoor setting, likely a home or pet-friendly space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a small white dog, possibly training or playing with it.\n2. **Location**: Indoor setting, likely a home or pet-friendly space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Small white dog, person, yellow and white tiled floor, beige mat.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 251.58466666666666,
+      "timestamp_formatted": "0:04:11",
+      "activity": "A person is interacting with a small white dog, possibly feeding or training it.",
+      "location": "Indoor setting, likely a home or pet-friendly space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a small white dog, possibly feeding or training it.\n2. **Location**: Indoor setting, likely a home or pet-friendly space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Small white dog, person’s hand, container with treats, tiled floor.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 254.48756666666668,
+      "timestamp_formatted": "0:04:14",
+      "activity": "A person is interacting playfully with a small white dog.",
+      "location": "Indoor, possibly in a home or pet-friendly space.",
+      "mood": "Playful and joyful.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting playfully with a small white dog.\n2. **Location**: Indoor, possibly in a home or pet-friendly space.\n3. **Mood**: Playful and joyful.\n4. **Key Elements**: Small white dog, person with raised finger, yellow and white tiled floor, light-colored clothing.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 259.32573333333335,
+      "timestamp_formatted": "0:04:19",
+      "activity": "A person is grooming or interacting with a small white dog.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is grooming or interacting with a small white dog.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: White dog, grooming table, person with a hair accessory, grooming tools.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 260.29336666666666,
+      "timestamp_formatted": "0:04:20",
+      "activity": "A fluffy white dog is sitting on a grooming table, possibly after a grooming session.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and cheerful.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A fluffy white dog is sitting on a grooming table, possibly after a grooming session.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and cheerful.\n4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled wall.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 261.261,
+      "timestamp_formatted": "0:04:21",
+      "activity": "A dog is sitting on a grooming table, possibly about to be groomed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and light-hearted.",
+      "key_elements": [],
+      "scene_type": "Pet grooming setup.",
+      "raw_analysis": "1. **Activity**: A dog is sitting on a grooming table, possibly about to be groomed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and light-hearted.\n4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled wall, colorful toys.\n5. **Scene Type**: Pet grooming setup."
+    },
+    {
+      "timestamp": 262.22863333333333,
+      "timestamp_formatted": "0:04:22",
+      "activity": "A fluffy dog is sitting on a grooming table, possibly after a grooming session.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and cheerful.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A fluffy dog is sitting on a grooming table, possibly after a grooming session.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and cheerful.\n4. **Key Elements**: Fluffy dog, grooming table, grooming tools, tiled wall, colorful toys.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 263.19626666666665,
+      "timestamp_formatted": "0:04:23",
+      "activity": "A fluffy white dog is sitting on a grooming table, possibly being prepared for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and cheerful.",
+      "key_elements": [],
+      "scene_type": "Pet grooming setup.",
+      "raw_analysis": "1. **Activity**: A fluffy white dog is sitting on a grooming table, possibly being prepared for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and cheerful.\n4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled wall, colorful toys.\n5. **Scene Type**: Pet grooming setup."
+    },
+    {
+      "timestamp": 264.1639,
+      "timestamp_formatted": "0:04:24",
+      "activity": "A person is grooming a dog's ear using scissors.",
+      "location": "Indoor, likely a pet grooming salon or home setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action (grooming).",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog's ear using scissors.\n2. **Location**: Indoor, likely a pet grooming salon or home setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog's ear, scissors, person's hands, grooming tools, textured surface.\n5. **Scene Type**: Action (grooming)."
+    },
+    {
+      "timestamp": 302.86923333333334,
+      "timestamp_formatted": "0:05:02",
+      "activity": "A person is washing a fluffy white dog in a sink.",
+      "location": "Indoor, likely a bathroom or utility room.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A person is washing a fluffy white dog in a sink.\n2. **Location**: Indoor, likely a bathroom or utility room.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: White dog, sink, hand holding the dog, soap bubbles.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 303.83686666666665,
+      "timestamp_formatted": "0:05:03",
+      "activity": "A person is washing a fluffy white dog in a sink.",
+      "location": "Indoor, likely in a bathroom or grooming area.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Pet care/grooming.",
+      "raw_analysis": "1. **Activity**: A person is washing a fluffy white dog in a sink.\n2. **Location**: Indoor, likely in a bathroom or grooming area.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Person's hands, fluffy white dog, sink with water, faucet, plush toy.\n5. **Scene Type**: Pet care/grooming."
+    },
+    {
+      "timestamp": 305.77213333333333,
+      "timestamp_formatted": "0:05:05",
+      "activity": "A dog is being bathed in a sink.",
+      "location": "Indoor, likely a bathroom or laundry area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A dog is being bathed in a sink.\n2. **Location**: Indoor, likely a bathroom or laundry area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: White fluffy dog, sink, person's arm, faucet, soap or cleaning supplies.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 307.7074,
+      "timestamp_formatted": "0:05:07",
+      "activity": "A person is washing a fluffy white dog in a sink.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A person is washing a fluffy white dog in a sink.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Person's arm, fluffy white dog, sink, faucet.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 308.6750333333333,
+      "timestamp_formatted": "0:05:08",
+      "activity": "The scene appears to focus on a close-up of a fluffy white object, possibly an animal being groomed or petted.",
+      "location": "Indoor setting, likely a grooming salon or a home.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: The scene appears to focus on a close-up of a fluffy white object, possibly an animal being groomed or petted.\n2. **Location**: Indoor setting, likely a grooming salon or a home.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Fluffy white fur, text overlay, neutral background.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 310.6103,
+      "timestamp_formatted": "0:05:10",
+      "activity": "A person is washing a dog in a sink.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is washing a dog in a sink.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, sink, soap suds, person's arm, grooming tools.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 314.48083333333335,
+      "timestamp_formatted": "0:05:14",
+      "activity": "A person is bathing a small dog in a sink.",
+      "location": "Indoor, likely a bathroom or grooming area.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A person is bathing a small dog in a sink.\n2. **Location**: Indoor, likely a bathroom or grooming area.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Small white dog, person’s hands, sink, showerhead, grooming supplies.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 323.1895333333333,
+      "timestamp_formatted": "0:05:23",
+      "activity": "A dog is being groomed, possibly having its fur trimmed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, possibly having its fur trimmed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, scissors, comb, grooming tools.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 326.09243333333336,
+      "timestamp_formatted": "0:05:26",
+      "activity": "A dog is being groomed on a table.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed on a table.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming tools, grooming table, person grooming.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 327.06006666666667,
+      "timestamp_formatted": "0:05:27",
+      "activity": "A dog is being groomed, likely after a haircut.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely after a haircut.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: Dog with a fluffy coat, grooming table, scissors, grooming tools.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 328.99533333333335,
+      "timestamp_formatted": "0:05:28",
+      "activity": "A dog is being groomed, with a focus on trimming its fur.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, with a focus on trimming its fur.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming scissors, grooming table, hands of the groomer.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 337.7040333333333,
+      "timestamp_formatted": "0:05:37",
+      "activity": "A dog is being groomed by two people.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed by two people.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, scissors, comb, grooming tools.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 339.6393,
+      "timestamp_formatted": "0:05:39",
+      "activity": "A dog is being groomed by two people.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed by two people.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming tools (scissors, comb), two people, grooming table.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 345.4451,
+      "timestamp_formatted": "0:05:45",
+      "activity": "A dog is being groomed by two people.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed by two people.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, scissors, two people, window with a view outside.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 349.3156333333333,
+      "timestamp_formatted": "0:05:49",
+      "activity": "A person is grooming a dog, likely trimming its fur.",
+      "location": "Indoor, possibly a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is grooming a dog, likely trimming its fur.\n2. **Location**: Indoor, possibly a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, scissors, comb, person grooming.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 353.1861666666667,
+      "timestamp_formatted": "0:05:53",
+      "activity": "A dog is being groomed by two people using scissors.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed by two people using scissors.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog on grooming table, scissors, two people, grooming tools.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 354.1538,
+      "timestamp_formatted": "0:05:54",
+      "activity": "Two people are grooming a dog, trimming its fur.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: Two people are grooming a dog, trimming its fur.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, scissors, comb, grooming tools.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 355.12143333333336,
+      "timestamp_formatted": "0:05:55",
+      "activity": "A dog is sitting on a grooming table, likely having just been groomed.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and tidy.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A dog is sitting on a grooming table, likely having just been groomed.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and tidy.\n4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled walls.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 360.92723333333333,
+      "timestamp_formatted": "0:06:00",
+      "activity": "A dog is standing and looking out of a window.",
+      "location": "Indoor, likely a pet grooming salon or shop.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing and looking out of a window.\n2. **Location**: Indoor, likely a pet grooming salon or shop.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: White fluffy dog, large window, yellow pet bed, tiled floor.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 365.7654,
+      "timestamp_formatted": "0:06:05",
+      "activity": "A dog is standing and looking out of a window.",
+      "location": "Indoor, likely a pet grooming salon or store.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing and looking out of a window.\n2. **Location**: Indoor, likely a pet grooming salon or store.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Fluffy white dog, large window, yellow and white tiled floor, white curtain, dog bed.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 370.60356666666667,
+      "timestamp_formatted": "0:06:10",
+      "activity": "A dog is standing on a table, possibly being groomed or examined.",
+      "location": "Indoor, likely a pet grooming salon or veterinary clinic.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing on a table, possibly being groomed or examined.\n2. **Location**: Indoor, likely a pet grooming salon or veterinary clinic.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: White poodle, grooming table, tennis balls, large grooming brush, yellow and white tiled floor.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 371.57120000000003,
+      "timestamp_formatted": "0:06:11",
+      "activity": "A dog is being photographed, possibly for a playful or themed photo shoot.",
+      "location": "Indoor setting, likely a makeshift photo studio or grooming area.",
+      "mood": "Lighthearted and playful.",
+      "key_elements": [],
+      "scene_type": "Photo shoot.",
+      "raw_analysis": "1. **Activity**: A dog is being photographed, possibly for a playful or themed photo shoot.\n2. **Location**: Indoor setting, likely a makeshift photo studio or grooming area.\n3. **Mood**: Lighthearted and playful.\n4. **Key Elements**: Fluffy white dog, blue tennis racket, small colorful balls, tiled wall.\n5. **Scene Type**: Photo shoot."
+    },
+    {
+      "timestamp": 375.44173333333333,
+      "timestamp_formatted": "0:06:15",
+      "activity": "A small dog is posing on a table, likely for a photo or video shoot.",
+      "location": "Indoor setting, possibly a bathroom or utility room.",
+      "mood": "Cute and playful.",
+      "key_elements": [],
+      "scene_type": "Pet photoshoot.",
+      "raw_analysis": "1. **Activity**: A small dog is posing on a table, likely for a photo or video shoot.\n2. **Location**: Indoor setting, possibly a bathroom or utility room.\n3. **Mood**: Cute and playful.\n4. **Key Elements**: Small dog, blue racket, tennis balls, tiled wall, hose.\n5. **Scene Type**: Pet photoshoot."
+    },
+    {
+      "timestamp": 376.4093666666667,
+      "timestamp_formatted": "0:06:16",
+      "activity": "A small dog is being held, possibly for grooming or affection.",
+      "location": "Indoor setting, likely a grooming salon or a home.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A small dog is being held, possibly for grooming or affection.\n2. **Location**: Indoor setting, likely a grooming salon or a home.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person's arms, tiled wall, table with objects.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 377.377,
+      "timestamp_formatted": "0:06:17",
+      "activity": "A small dog is being held and appears to be posing or resting.",
+      "location": "Indoor setting, likely a grooming salon or home.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Pet closeup.",
+      "raw_analysis": "1. **Activity**: A small dog is being held and appears to be posing or resting.\n2. **Location**: Indoor setting, likely a grooming salon or home.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, text overlay.\n5. **Scene Type**: Pet closeup."
+    },
+    {
+      "timestamp": 381.24753333333337,
+      "timestamp_formatted": "0:06:21",
+      "activity": "A small dog is being groomed or pampered, possibly at a pet salon.",
+      "location": "Indoor, likely a grooming salon or pet care facility.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Pet care moment.",
+      "raw_analysis": "1. **Activity**: A small dog is being groomed or pampered, possibly at a pet salon.\n2. **Location**: Indoor, likely a grooming salon or pet care facility.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, grooming tools.\n5. **Scene Type**: Pet care moment."
+    },
+    {
+      "timestamp": 383.1828,
+      "timestamp_formatted": "0:06:23",
+      "activity": "A small dog is being held and possibly groomed or styled.",
+      "location": "Indoor, likely a grooming salon or similar setting.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Pet grooming closeup.",
+      "raw_analysis": "1. **Activity**: A small dog is being held and possibly groomed or styled.\n2. **Location**: Indoor, likely a grooming salon or similar setting.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person's arms, tiled wall, text overlay.\n5. **Scene Type**: Pet grooming closeup."
+    },
+    {
+      "timestamp": 385.11806666666666,
+      "timestamp_formatted": "0:06:25",
+      "activity": "A small dog is being held and possibly groomed or comforted.",
+      "location": "Indoor, likely a pet grooming salon or a home setting.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A small dog is being held and possibly groomed or comforted.\n2. **Location**: Indoor, likely a pet grooming salon or a home setting.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person's arms, light-colored clothing, Korean text at the bottom.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 386.08570000000003,
+      "timestamp_formatted": "0:06:26",
+      "activity": "A small dog is being held and groomed, possibly at a pet salon.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A small dog is being held and groomed, possibly at a pet salon.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, grooming apron.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 387.05333333333334,
+      "timestamp_formatted": "0:06:27",
+      "activity": "A small dog is being held and groomed, possibly at a pet salon.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Pet grooming closeup.",
+      "raw_analysis": "1. **Activity**: A small dog is being held and groomed, possibly at a pet salon.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, grooming apron.\n5. **Scene Type**: Pet grooming closeup."
+    },
+    {
+      "timestamp": 388.9886,
+      "timestamp_formatted": "0:06:28",
+      "activity": "A small dog is being held and possibly groomed or dressed.",
+      "location": "Indoor, possibly a grooming salon or home.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Intimate close-up.",
+      "raw_analysis": "1. **Activity**: A small dog is being held and possibly groomed or dressed.\n2. **Location**: Indoor, possibly a grooming salon or home.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog, pink bow, human arms, light-colored background.\n5. **Scene Type**: Intimate close-up."
+    },
+    {
+      "timestamp": 389.95623333333333,
+      "timestamp_formatted": "0:06:29",
+      "activity": "A small dog is being gently held and possibly groomed or dressed.",
+      "location": "Indoor setting, likely a home or pet grooming area.",
+      "mood": "Calm and affectionate.",
+      "key_elements": [],
+      "scene_type": "Pet closeup.",
+      "raw_analysis": "1. **Activity**: A small dog is being gently held and possibly groomed or dressed.\n2. **Location**: Indoor setting, likely a home or pet grooming area.\n3. **Mood**: Calm and affectionate.\n4. **Key Elements**: Small dog, pink sunglasses, human hands, text overlay.\n5. **Scene Type**: Pet closeup."
+    },
+    {
+      "timestamp": 390.9238666666667,
+      "timestamp_formatted": "0:06:30",
+      "activity": "A close-up of a dog, possibly resting or being affectionate.",
+      "location": "Indoor setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Pet closeup.",
+      "raw_analysis": "1. **Activity**: A close-up of a dog, possibly resting or being affectionate.\n2. **Location**: Indoor setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Dog, pink accessory, text overlay.\n5. **Scene Type**: Pet closeup."
+    },
+    {
+      "timestamp": 391.8915,
+      "timestamp_formatted": "0:06:31",
+      "activity": "A close-up of a dog's face, possibly focusing on its expression.",
+      "location": "Indoor setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A close-up of a dog's face, possibly focusing on its expression.\n2. **Location**: Indoor setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Dog's face, eyes, nose, fur, Korean text with a heart symbol.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 392.8591333333333,
+      "timestamp_formatted": "0:06:32",
+      "activity": "A close-up view of a dog's face, likely focusing on its eyes and nose.",
+      "location": "Indoor setting.",
+      "mood": "Intimate and curious.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A close-up view of a dog's face, likely focusing on its eyes and nose.\n2. **Location**: Indoor setting.\n3. **Mood**: Intimate and curious.\n4. **Key Elements**: Dog's eyes, nose, fur.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 393.8267666666667,
+      "timestamp_formatted": "0:06:33",
+      "activity": "The scene appears to be set in a grooming or salon environment, possibly preparing for a grooming session.",
+      "location": "Indoor, likely a pet grooming salon or similar facility.",
+      "mood": "The atmosphere is clinical and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene appears to be set in a grooming or salon environment, possibly preparing for a grooming session.\n2. **Location**: Indoor, likely a pet grooming salon or similar facility.\n3. **Mood**: The atmosphere is clinical and organized.\n4. **Key Elements**: \n   - Grooming equipment (dryers)\n   - Shelves with bottles and grooming products\n   - Tiled walls\n   - Salon chair\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 394.7944,
+      "timestamp_formatted": "0:06:34",
+      "activity": "A person is holding a dog, possibly preparing for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming preparation.",
+      "raw_analysis": "1. **Activity**: A person is holding a dog, possibly preparing for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person holding a dog, grooming equipment, tiled walls, grooming table.\n5. **Scene Type**: Grooming preparation."
+    },
+    {
+      "timestamp": 395.76203333333336,
+      "timestamp_formatted": "0:06:35",
+      "activity": "A person is holding a small dog, possibly preparing for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Person, small dog, grooming equipment, tiled walls.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 400.60020000000003,
+      "timestamp_formatted": "0:06:40",
+      "activity": "A person is holding a dog, possibly preparing for grooming or drying.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A person is holding a dog, possibly preparing for grooming or drying.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Person holding a dog, fluffy gray dog, grooming equipment, tiled walls.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 401.56783333333334,
+      "timestamp_formatted": "0:06:41",
+      "activity": "A person is preparing or organizing items in a room, possibly related to a salon or medical setting.",
+      "location": "Indoor, likely a salon or clinic with tiled walls.",
+      "mood": "Functional and clinical.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or organizing items in a room, possibly related to a salon or medical setting.\n2. **Location**: Indoor, likely a salon or clinic with tiled walls.\n3. **Mood**: Functional and clinical.\n4. **Key Elements**: Hairdryer or medical device, person in uniform, sink with bottles, tiled walls.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 406.406,
+      "timestamp_formatted": "0:06:46",
+      "activity": "A person is holding a small dog, possibly preparing for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person holding a dog, grooming dryer, tiled walls, grooming table.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 407.3736333333333,
+      "timestamp_formatted": "0:06:47",
+      "activity": "A person is holding a small dog, possibly preparing for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Preparation.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Small dog, person holding the dog, grooming equipment, tiled walls.\n5. **Scene Type**: Preparation."
+    },
+    {
+      "timestamp": 409.3089,
+      "timestamp_formatted": "0:06:49",
+      "activity": "A person is holding a small dog, possibly preparing it for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet care/grooming.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing it for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Person holding a dog, small dog, grooming equipment, tiled wall.\n5. **Scene Type**: Pet care/grooming."
+    },
+    {
+      "timestamp": 410.27653333333336,
+      "timestamp_formatted": "0:06:50",
+      "activity": "A person is holding a dog, possibly preparing it for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and caring.",
+      "key_elements": [],
+      "scene_type": "Pet grooming preparation.",
+      "raw_analysis": "1. **Activity**: A person is holding a dog, possibly preparing it for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and caring.\n4. **Key Elements**: Dog, person holding the dog, grooming equipment, tiled wall.\n5. **Scene Type**: Pet grooming preparation."
+    },
+    {
+      "timestamp": 411.2441666666667,
+      "timestamp_formatted": "0:06:51",
+      "activity": "A dog is being held, possibly after grooming or during drying.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and gentle.",
+      "key_elements": [],
+      "scene_type": "Pet care.",
+      "raw_analysis": "1. **Activity**: A dog is being held, possibly after grooming or during drying.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and gentle.\n4. **Key Elements**: Dog, person holding the dog, pet dryer, tiled wall.\n5. **Scene Type**: Pet care."
+    },
+    {
+      "timestamp": 414.14706666666666,
+      "timestamp_formatted": "0:06:54",
+      "activity": "A person is holding a small dog, possibly preparing for grooming.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and gentle.",
+      "key_elements": [],
+      "scene_type": "Pet grooming.",
+      "raw_analysis": "1. **Activity**: A person is holding a small dog, possibly preparing for grooming.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and gentle.\n4. **Key Elements**: Small dog, person holding the dog, grooming equipment, tiled walls.\n5. **Scene Type**: Pet grooming."
+    },
+    {
+      "timestamp": 415.1147,
+      "timestamp_formatted": "0:06:55",
+      "activity": "A dog is being groomed, specifically having its fur trimmed with clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, specifically having its fur trimmed with clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming clippers, grooming table, scissors, fur clippings.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 416.08233333333334,
+      "timestamp_formatted": "0:06:56",
+      "activity": "A dog is being groomed, likely having its fur trimmed.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely having its fur trimmed.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming tools, grooming table, person grooming the dog, fur clippings.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 418.0176,
+      "timestamp_formatted": "0:06:58",
+      "activity": "A dog is being groomed, specifically having its fur trimmed with clippers.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, specifically having its fur trimmed with clippers.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming clippers, grooming table, scissors, window with view outside.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 418.9852333333333,
+      "timestamp_formatted": "0:06:58",
+      "activity": "A dog is being groomed, with its fur being trimmed.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, with its fur being trimmed.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming clippers, grooming table, fur trimmings, person grooming.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 420.9205,
+      "timestamp_formatted": "0:07:00",
+      "activity": "A dog is being groomed, likely having its fur trimmed.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely having its fur trimmed.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, grooming tools, trimmed fur, chair.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 421.8881333333333,
+      "timestamp_formatted": "0:07:01",
+      "activity": "A dog is being groomed, likely having its fur trimmed.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely having its fur trimmed.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog on a grooming table, grooming tools, trimmed fur, grooming chair.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 422.8557666666667,
+      "timestamp_formatted": "0:07:02",
+      "activity": "A dog is being groomed, likely after a haircut.",
+      "location": "Indoor, in a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, likely after a haircut.\n2. **Location**: Indoor, in a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, clumps of fur, grooming tools, chair.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 423.8234,
+      "timestamp_formatted": "0:07:03",
+      "activity": "A dog is being groomed, with trimmed fur visible on the table.",
+      "location": "Indoor, likely a pet grooming salon.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Grooming session.",
+      "raw_analysis": "1. **Activity**: A dog is being groomed, with trimmed fur visible on the table.\n2. **Location**: Indoor, likely a pet grooming salon.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, grooming table, trimmed fur, grooming tools, chair.\n5. **Scene Type**: Grooming session."
+    },
+    {
+      "timestamp": 425.75866666666667,
+      "timestamp_formatted": "0:07:05",
+      "activity": "A dog is being bathed, possibly with shampoo applied to its back.",
+      "location": "Indoor, likely in a pet grooming facility or bathroom.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Pet care/grooming.",
+      "raw_analysis": "1. **Activity**: A dog is being bathed, possibly with shampoo applied to its back.\n2. **Location**: Indoor, likely in a pet grooming facility or bathroom.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Dog, shampoo, bathing area, showerhead, tiled floor.\n5. **Scene Type**: Pet care/grooming."
+    },
+    {
+      "timestamp": 428.66156666666666,
+      "timestamp_formatted": "0:07:08",
+      "activity": "A dog is being bathed, with water being sprayed on its body.",
+      "location": "Indoor, likely a bathroom or pet grooming area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A dog is being bathed, with water being sprayed on its body.\n2. **Location**: Indoor, likely a bathroom or pet grooming area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dog, shower hose, soap dispensers, tiled wall, rubber duck.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 432.5321,
+      "timestamp_formatted": "0:07:12",
+      "activity": "A person appears to be moving quickly, possibly engaged in a task or preparing something.",
+      "location": "Indoor, likely a salon or grooming area.",
+      "mood": "Busy and functional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person appears to be moving quickly, possibly engaged in a task or preparing something.\n2. **Location**: Indoor, likely a salon or grooming area.\n3. **Mood**: Busy and functional.\n4. **Key Elements**: Shelves with bottles, a washing station, a person in motion, tiled walls, and a camera on a table.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 433.4997333333333,
+      "timestamp_formatted": "0:07:13",
+      "activity": "The scene appears to involve cleaning or organizing in a salon or grooming area.",
+      "location": "Indoor, likely a salon or grooming station.",
+      "mood": "Functional and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to involve cleaning or organizing in a salon or grooming area.\n2. **Location**: Indoor, likely a salon or grooming station.\n3. **Mood**: Functional and organized.\n4. **Key Elements**: Hairdryer, shelves with bottles, washing station, cleaning supplies.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 486.71956666666665,
+      "timestamp_formatted": "0:08:06",
+      "activity": "A person is turning off a light switch.",
+      "location": "Indoor, likely in a tiled room such as a bathroom or kitchen.",
+      "mood": "Conclusive and calm.",
+      "key_elements": [],
+      "scene_type": "Transition/ending.",
+      "raw_analysis": "1. **Activity**: A person is turning off a light switch.\n2. **Location**: Indoor, likely in a tiled room such as a bathroom or kitchen.\n3. **Mood**: Conclusive and calm.\n4. **Key Elements**: Hand, light switch, tiled wall, text overlay (\"Thanks for watching\").\n5. **Scene Type**: Transition/ending."
+    },
+    {
+      "timestamp": 487.6872,
+      "timestamp_formatted": "0:08:07",
+      "activity": "A person is turning off a light switch.",
+      "location": "Indoor, likely in a kitchen or bathroom with tiled walls.",
+      "mood": "Calm and concluding.",
+      "key_elements": [],
+      "scene_type": "Transition/ending.",
+      "raw_analysis": "1. **Activity**: A person is turning off a light switch.\n2. **Location**: Indoor, likely in a kitchen or bathroom with tiled walls.\n3. **Mood**: Calm and concluding.\n4. **Key Elements**: Light switch, tiled wall, hand, text overlay.\n5. **Scene Type**: Transition/ending."
+    },
+    {
+      "timestamp": 488.65483333333333,
+      "timestamp_formatted": "0:08:08",
+      "activity": "The scene is concluding with a \"Thanks for watching\" message.",
+      "location": "Indoor, likely a tiled room such as a bathroom or kitchen.",
+      "mood": "Conclusive and appreciative.",
+      "key_elements": [],
+      "scene_type": "Closing scene.",
+      "raw_analysis": "1. **Activity**: The scene is concluding with a \"Thanks for watching\" message.\n2. **Location**: Indoor, likely a tiled room such as a bathroom or kitchen.\n3. **Mood**: Conclusive and appreciative.\n4. **Key Elements**: Tiled wall, light switch, text overlay.\n5. **Scene Type**: Closing scene."
+    },
+    {
+      "timestamp": 489.6224666666667,
+      "timestamp_formatted": "0:08:09",
+      "activity": "A person is opening the door to a pet grooming salon.",
+      "location": "Indoor, at the entrance of a pet grooming salon.",
+      "mood": "Calm and welcoming.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is opening the door to a pet grooming salon.\n2. **Location**: Indoor, at the entrance of a pet grooming salon.\n3. **Mood**: Calm and welcoming.\n4. **Key Elements**: Door with a pull sign, pet grooming salon logo, hand opening the door, business hours, and contact information.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 490.5901,
+      "timestamp_formatted": "0:08:10",
+      "activity": "Someone is opening a glass door.",
+      "location": "Indoor, likely at a pet grooming shop.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is opening a glass door.\n2. **Location**: Indoor, likely at a pet grooming shop.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Glass door with signage, wooden door handle, text overlay saying \"Thanks for watching,\" cartoon dog graphic.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 491.5577333333333,
+      "timestamp_formatted": "0:08:11",
+      "activity": "Someone is about to open a door.",
+      "location": "Indoor, possibly a pet grooming salon.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is about to open a door.\n2. **Location**: Indoor, possibly a pet grooming salon.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Glass door with a pull sign, cartoon animal graphic, text overlay saying \"Thanks for watching.\"\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 492.5253666666667,
+      "timestamp_formatted": "0:08:12",
+      "activity": "The scene shows the closing frame of a video, likely thanking viewers for watching.",
+      "location": "Indoor, at the entrance of a grooming shop.",
+      "mood": "Calm and concluding.",
+      "key_elements": [],
+      "scene_type": "Transition/closing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the closing frame of a video, likely thanking viewers for watching.\n2. **Location**: Indoor, at the entrance of a grooming shop.\n3. **Mood**: Calm and concluding.\n4. **Key Elements**: Glass door with business hours, contact information, a logo with a dog and scissors, and the text \"Thanks for watching.\"\n5. **Scene Type**: Transition/closing shot."
+    },
+    {
+      "timestamp": 493.493,
+      "timestamp_formatted": "0:08:13",
+      "activity": "The scene is concluding with a \"Thanks for watching\" message, indicating the end of a video.",
+      "location": "Outdoor urban setting, likely a city street.",
+      "mood": "Calm and reflective, typical of an ending scene.",
+      "key_elements": [],
+      "scene_type": "Transition/Ending scene",
+      "raw_analysis": "1. **Activity**: The scene is concluding with a \"Thanks for watching\" message, indicating the end of a video.\n2. **Location**: Outdoor urban setting, likely a city street.\n3. **Mood**: Calm and reflective, typical of an ending scene.\n4. **Key Elements**: \n   - \"Thanks for watching\" text overlay\n   - City buildings\n   - Street with traffic lights\n   - Trees lining the street\n5. **Scene Type**: Transition/Ending scene"
+    },
+    {
+      "timestamp": 499.2988,
+      "timestamp_formatted": "0:08:19",
+      "activity": "The scene is concluding with a \"Thanks for watching\" message.",
+      "location": "Not applicable (text overlay).",
+      "mood": "Appreciative and conclusive.",
+      "key_elements": [],
+      "scene_type": "End screen/closing credits.",
+      "raw_analysis": "1. **Activity**: The scene is concluding with a \"Thanks for watching\" message.\n2. **Location**: Not applicable (text overlay).\n3. **Mood**: Appreciative and conclusive.\n4. **Key Elements**: \n   - Text: \"Thanks for watching\"\n   - Text handle: \"@groomer_ena\"\n   - Black background\n5. **Scene Type**: End screen/closing credits."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Action.",
+        43
+      ],
+      [
+        "Grooming session.",
+        23
+      ],
+      [
+        "Interaction.",
+        20
+      ],
+      [
+        "Establishing shot.",
+        16
+      ],
+      [
+        "Pet grooming.",
+        16
+      ]
+    ],
+    "locations": [
+      "Indoor, likely a pet grooming salon or similar space.",
+      "Indoor, likely a home or grooming area.",
+      "Indoor, likely in a grooming salon or bathroom.",
+      "Indoor, likely in a grooming salon or home bathroom.",
+      "Indoor, likely a pet grooming salon.",
+      "Indoor setting, likely a grooming area or home.",
+      "Indoor, likely a grooming salon or similar setting.",
+      "Indoor, likely a grooming salon or pet care facility.",
+      "Indoor, likely a grooming salon or workspace.",
+      "Indoor, likely a grooming salon or similar workspace."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and focused.",
+        70
+      ],
+      [
+        "Calm and intimate.",
+        14
+      ],
+      [
+        "Calm and affectionate.",
+        13
+      ],
+      [
+        "Calm and caring.",
+        13
+      ],
+      [
+        "Calm and soothing.",
+        5
+      ]
+    ]
+  }
+}

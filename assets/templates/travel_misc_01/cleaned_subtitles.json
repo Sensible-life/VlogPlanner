@@ -1,0 +1,140 @@
+{
+  "cleaned_segments": [
+    {
+      "timestamp_formatted": "[00:00:03]",
+      "text": "때"
+    },
+    {
+      "timestamp_formatted": "[00:00:06]",
+      "text": "보시오 우지"
+    },
+    {
+      "timestamp_formatted": "[00:00:09]",
+      "text": "대 이 meen 자 구이이에"
+    },
+    {
+      "timestamp_formatted": "[00:00:12]",
+      "text": "더"
+    },
+    {
+      "timestamp_formatted": "[00:00:18]",
+      "text": "사게"
+    },
+    {
+      "timestamp_formatted": "[00:00:21]",
+      "text": "개요"
+    },
+    {
+      "timestamp_formatted": "[00:00:24]",
+      "text": "아이 이 이"
+    },
+    {
+      "timestamp_formatted": "[00:00:27]",
+      "text": "대 소 가온"
+    },
+    {
+      "timestamp_formatted": "[00:00:30]",
+      "text": "아시 아오 거기"
+    },
+    {
+      "timestamp_formatted": "[00:00:39]",
+      "text": "주 개 이노 대"
+    },
+    {
+      "timestamp_formatted": "[00:00:42]",
+      "text": "수 부사"
+    },
+    {
+      "timestamp_formatted": "[00:00:45]",
+      "text": "시기으재개"
+    },
+    {
+      "timestamp_formatted": "[00:00:48]",
+      "text": "이 아이 신시"
+    },
+    {
+      "timestamp_formatted": "[00:02:45]",
+      "text": "구름의 그림자까지 보인다구."
+    },
+    {
+      "timestamp_formatted": "[00:03:36]",
+      "text": "바다 같은 강인거에오."
+    },
+    {
+      "timestamp_formatted": "[00:03:42]",
+      "text": "가옥 호 건 이 난리 나요 진짜 싸."
+    },
+    {
+      "timestamp_formatted": "[00:04:33]",
+      "text": "책 으 ta en, 사이."
+    },
+    {
+      "timestamp_formatted": "[00:05:33]",
+      "text": "언니 기다려봐"
+    },
+    {
+      "timestamp_formatted": "[00:05:39]",
+      "text": "내 이시애 아니 내"
+    },
+    {
+      "timestamp_formatted": "[00:05:42]",
+      "text": "대충 양면 다 확인 잘하라"
+    },
+    {
+      "timestamp_formatted": "[00:06:18]",
+      "text": "많이 했나봐. 내 쪽수 언니 이런거 많이 했나봐."
+    },
+    {
+      "timestamp_formatted": "[00:07:30]",
+      "text": "가긴 가"
+    },
+    {
+      "timestamp_formatted": "[00:07:45]",
+      "text": "저녁 먹고~"
+    },
+    {
+      "timestamp_formatted": "[00:09:00]",
+      "text": "이게 바로 그 노란오일"
+    },
+    {
+      "timestamp_formatted": "[00:09:48]",
+      "text": "드디어 따뜻한 몽골 술"
+    },
+    {
+      "timestamp_formatted": "[00:09:57]",
+      "text": "엄마의 건배사로 영상마무리하렵니당"
+    },
+    {
+      "timestamp_formatted": "[00:10:00]",
+      "text": "가촉끼리 제대로 된 몽골여행해본적 없어"
+    },
+    {
+      "timestamp_formatted": "[00:10:09]",
+      "text": "매우 수월하고 좋았다고 합니당"
+    },
+    {
+      "timestamp_formatted": "[00:10:24]",
+      "text": "그냥 완전 사케"
+    },
+    {
+      "timestamp_formatted": "[00:10:48]",
+      "text": "언니 평: 따뜻하게 마시니 월씬 맛이 세졌다"
+    }
+  ],
+  "analysis": {
+    "has_meaningful_text": true,
+    "subtitle_count": 30,
+    "subtitle_style": "minimal",
+    "average_text_length": 10.4,
+    "sample_texts": [
+      "때",
+      "보시오 우지",
+      "대 이 meen 자 구이이에",
+      "더",
+      "사게"
+    ]
+  },
+  "original_count": 194,
+  "cleaned_count": 30,
+  "reduction_rate": 84.5
+}

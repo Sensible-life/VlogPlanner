@@ -1,0 +1,140 @@
+{
+  "cleaned_segments": [
+    {
+      "timestamp_formatted": "[00:01:12]",
+      "text": "저는 때때로 할 일 목록을 적는데요"
+    },
+    {
+      "timestamp_formatted": "[00:01:30]",
+      "text": "영상 촬영 내용도 간단히 적어줍니다"
+    },
+    {
+      "timestamp_formatted": "[00:01:36]",
+      "text": "여름만 되면 돌아오는 다이어터 ㅠ"
+    },
+    {
+      "timestamp_formatted": "[00:02:00]",
+      "text": "자칭 김치볶음밥 전문가"
+    },
+    {
+      "timestamp_formatted": "[00:02:21]",
+      "text": "유투바 ^^ㅅㅎㅎ"
+    },
+    {
+      "timestamp_formatted": "[00:02:24]",
+      "text": "이렇게 들었답니다"
+    },
+    {
+      "timestamp_formatted": "[00:02:57]",
+      "text": "아 진짜 개무거움"
+    },
+    {
+      "timestamp_formatted": "[00:04:09]",
+      "text": "원라이렇게까지 더럼진 않아요"
+    },
+    {
+      "timestamp_formatted": "[00:04:12]",
+      "text": "오해마세요"
+    },
+    {
+      "timestamp_formatted": "[00:04:48]",
+      "text": "제 가구 조립은 아빠한테 맡기고 왔어여 ^ ^"
+    },
+    {
+      "timestamp_formatted": "[00:05:06]",
+      "text": "가자는 엄마"
+    },
+    {
+      "timestamp_formatted": "[00:05:18]",
+      "text": "다시 한번 말하지만"
+    },
+    {
+      "timestamp_formatted": "[00:05:24]",
+      "text": "이럴 때 …"
+    },
+    {
+      "timestamp_formatted": "[00:05:39]",
+      "text": "오늘 조립한다는 내용"
+    },
+    {
+      "timestamp_formatted": "[00:05:51]",
+      "text": "치운다는 소리"
+    },
+    {
+      "timestamp_formatted": "[00:06:15]",
+      "text": "올림픽 보면서 당 채우기"
+    },
+    {
+      "timestamp_formatted": "[00:07:36]",
+      "text": "제일 힘들었더 서라재접리아미"
+    },
+    {
+      "timestamp_formatted": "[00:07:57]",
+      "text": "다음에 룸투어 영상;들모올게요"
+    },
+    {
+      "timestamp_formatted": "[00:08:39]",
+      "text": "을 별 보이 beg"
+    },
+    {
+      "timestamp_formatted": "[00:08:42]",
+      "text": "드디어\"다했다.…/"
+    },
+    {
+      "timestamp_formatted": "[00:09:18]",
+      "text": "얘가 Sh 만들기 SALA 저 서랍도 0/}였음"
+    },
+    {
+      "timestamp_formatted": "[00:09:24]",
+      "text": "아직 꾸밀 곳이 너무 많음.…"
+    },
+    {
+      "timestamp_formatted": "[00:09:27]",
+      "text": "드디어 거울셀카 찍을 수 있다"
+    },
+    {
+      "timestamp_formatted": "[00:09:48]",
+      "text": "원래는 샤워 커튼 재질의 흰색이 왔음"
+    },
+    {
+      "timestamp_formatted": "[00:10:12]",
+      "text": "인테리어 이다~~   !"
+    },
+    {
+      "timestamp_formatted": "[00:10:15]",
+      "text": "주 일단 비즈발 만들어서 Bots 예정!"
+    },
+    {
+      "timestamp_formatted": "[00:11:09]",
+      "text": "안녕~!~1~!"
+    },
+    {
+      "timestamp_formatted": "[00:12:00]",
+      "text": "제가 제일 좋아하는 부분 보여드리면서"
+    },
+    {
+      "timestamp_formatted": "[00:12:06]",
+      "text": "마무리 할게요!!!"
+    },
+    {
+      "timestamp_formatted": "[00:12:09]",
+      "text": "진짜 안녕 ~~~"
+    }
+  ],
+  "analysis": {
+    "has_meaningful_text": true,
+    "subtitle_count": 30,
+    "subtitle_style": "minimal",
+    "average_text_length": 13.5,
+    "sample_texts": [
+      "저는 때때로 할 일 목록을 적는데요",
+      "영상 촬영 내용도 간단히 적어줍니다",
+      "여름만 되면 돌아오는 다이어터 ㅠ",
+      "자칭 김치볶음밥 전문가",
+      "유투바 ^^ㅅㅎㅎ"
+    ]
+  },
+  "original_count": 185,
+  "cleaned_count": 30,
+  "reduction_rate": 83.8
+}

@@ -16,15 +16,19 @@ class AppColors {
   static const Color paperLight = Color(0xFFFBFAF8);          // 밝은 종이
   static const Color paperWarm = Color(0xFFF5F3F0);           // 따뜻한 종이
   
+  // Brand Colors
+  static const Color brandBlue = Color(0xFF0DBBB5);    // Primary Blue
+  static const Color brandGreen = Color(0xFF63BF78);   // Secondary Green
+  
   // Legacy compatibility
   static const Color black = filmBlack;
   static const Color white = paper;
   static const Color grey = filmMediumGray;
   static const Color lightGrey = filmBorder;
-  static const Color green = Color(0xFF2E7D32); // Primary Green (두고 사용)
+  static const Color green = brandGreen; // Brand Green
   
   // Primary 색상
-  static const Color primary = filmBlack;  // 필름 블랙으로 변경
+  static const Color primary = brandBlue;  // Brand Blue
   
   // 텍스트 색상
   static const Color textPrimary = filmBlack;         // 잉크 블랙
@@ -32,7 +36,7 @@ class AppColors {
   
   // 상태 색상
   static const Color error = Color(0xFFC41E3A);       // 어두운 빨강
-  static const Color success = Color(0xFF2E7D32);     // 어두운 초록
+  static const Color success = brandGreen;            // Brand Green
   static const Color warning = Color(0xFFD68910);     // 따뜻한 주황
   
   // 배경 색상

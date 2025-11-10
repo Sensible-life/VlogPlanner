@@ -1,0 +1,141 @@
+{
+  "template_name": "Hong Kong Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "Introduction to the travel vlog with initial thoughts and preparations for the trip to Hong Kong.",
+      "key_elements": [
+        "introduction",
+        "travel preparations",
+        "initial thoughts"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1027,
+      "description": "Main content covering the travel experience in Hong Kong, including transportation, sightseeing, dining, and shopping.",
+      "segments": [
+        {
+          "type": "airport and flight",
+          "description": "Arriving at the airport, checking in, and boarding the flight to Hong Kong.",
+          "typical_duration": 120,
+          "scene_activity": "Checking in and boarding flight",
+          "location": "Airport",
+          "mood": "Excited"
+        },
+        {
+          "type": "arrival and transportation",
+          "description": "Landing in Hong Kong, navigating through the airport, and taking transportation to the hotel.",
+          "typical_duration": 150,
+          "scene_activity": "Navigating airport and taking transport",
+          "location": "Hong Kong Airport",
+          "mood": "Curious"
+        },
+        {
+          "type": "hotel check-in and exploration",
+          "description": "Checking into the hotel and exploring the local area.",
+          "typical_duration": 180,
+          "scene_activity": "Checking into hotel and exploring",
+          "location": "Hotel and nearby area",
+          "mood": "Relaxed"
+        },
+        {
+          "type": "dining experiences",
+          "description": "Trying various local foods and dining at different restaurants.",
+          "typical_duration": 200,
+          "scene_activity": "Dining at restaurants",
+          "location": "Various restaurants",
+          "mood": "Enjoyable"
+        },
+        {
+          "type": "sightseeing",
+          "description": "Visiting popular tourist spots and landmarks in Hong Kong.",
+          "typical_duration": 200,
+          "scene_activity": "Sightseeing and exploring landmarks",
+          "location": "Tourist spots",
+          "mood": "Adventurous"
+        },
+        {
+          "type": "shopping and local markets",
+          "description": "Exploring local markets and shopping for souvenirs.",
+          "typical_duration": 177,
+          "scene_activity": "Shopping and market exploration",
+          "location": "Local markets",
+          "mood": "Energetic"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 300,
+      "description": "Wrapping up the travel experience with final thoughts and a farewell message.",
+      "key_elements": [
+        "final thoughts",
+        "farewell message",
+        "encouragement to subscribe"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#d5dbdd",
+      "#634a48",
+      "#8f786f",
+      "#2a2124",
+      "#b5a89f"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.3561881666666669,
+    "scene_changes": 1200,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 4,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 5
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Sharing experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Frequent Scene Changes",
+      "description": "Rapid transitions between scenes to maintain viewer engagement",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Conversational Tone",
+      "description": "Casual and engaging narration style",
+      "frequency": "Constant"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

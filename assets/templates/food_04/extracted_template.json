@@ -1,0 +1,133 @@
+{
+  "template_name": "Korean Culinary Adventure",
+  "category": "food",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "Introduction with casual conversation and setting the scene for a culinary journey.",
+      "key_elements": [
+        "casual conversation",
+        "setting the scene",
+        "culinary focus"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2522,
+      "description": "Exploration of various food experiences, including tasting, cooking, and dining in different settings.",
+      "segments": [
+        {
+          "type": "tasting segment",
+          "description": "Tasting different foods, expressing enjoyment and flavor details.",
+          "typical_duration": 600,
+          "scene_activity": "Tasting and commenting on food",
+          "location": "Various dining locations",
+          "mood": "Enjoyable and appreciative"
+        },
+        {
+          "type": "cooking demonstration",
+          "description": "Demonstrating cooking techniques and sharing recipes.",
+          "typical_duration": 400,
+          "scene_activity": "Cooking and explaining techniques",
+          "location": "Kitchen or cooking area",
+          "mood": "Informative and engaging"
+        },
+        {
+          "type": "dining experience",
+          "description": "Dining at different restaurants, showcasing ambiance and food presentation.",
+          "typical_duration": 800,
+          "scene_activity": "Dining and showcasing restaurant atmosphere",
+          "location": "Restaurants and cafes",
+          "mood": "Relaxed and social"
+        },
+        {
+          "type": "food market exploration",
+          "description": "Exploring local food markets, interacting with vendors, and selecting ingredients.",
+          "typical_duration": 400,
+          "scene_activity": "Exploring and purchasing ingredients",
+          "location": "Local food markets",
+          "mood": "Curious and lively"
+        },
+        {
+          "type": "reflection and commentary",
+          "description": "Reflecting on the food experiences and sharing personal thoughts.",
+          "typical_duration": 322,
+          "scene_activity": "Reflecting and sharing thoughts",
+          "location": "Various locations",
+          "mood": "Thoughtful and personal"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 200,
+      "description": "Conclusion with final thoughts on the culinary journey and a farewell.",
+      "key_elements": [
+        "final thoughts",
+        "farewell",
+        "culinary reflection"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#bbb0a6",
+      "#5e4c47",
+      "#968071",
+      "#221b1e",
+      "#e7e5e4"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 3.1,
+    "scene_changes": 878,
+    "camera_work": [
+      "handheld",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 5,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Explaining and sharing food experiences"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Subtitles and food descriptions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food Tasting Reactions",
+      "description": "Frequent expressions of enjoyment and detailed flavor descriptions.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Cooking Demonstrations",
+      "description": "Regular segments showing cooking techniques and recipes.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Food vlogs",
+    "Culinary travel experiences"
+  ]
+}

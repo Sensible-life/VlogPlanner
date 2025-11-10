@@ -1,0 +1,1993 @@
+{
+  "total_scenes": 193,
+  "scenes": [
+    {
+      "timestamp": 12.579233333333333,
+      "timestamp_formatted": "0:00:12",
+      "activity": "A camping scene is being depicted, likely setting up or relaxing in a tent.",
+      "location": "Outdoor, in a natural setting with trees and mountains in the background.",
+      "mood": "Calm and serene, with a cozy atmosphere.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A camping scene is being depicted, likely setting up or relaxing in a tent.\n2. **Location**: Outdoor, in a natural setting with trees and mountains in the background.\n3. **Mood**: Calm and serene, with a cozy atmosphere.\n4. **Key Elements**: Tent with light inside, trees, mountains, gravel ground, and string lights.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 15.482133333333334,
+      "timestamp_formatted": "0:00:15",
+      "activity": "The scene is introducing a setting, likely for a camping or outdoor adventure.",
+      "location": "Outdoor, in a rural or agricultural area with fields and distant hills.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene is introducing a setting, likely for a camping or outdoor adventure.\n2. **Location**: Outdoor, in a rural or agricultural area with fields and distant hills.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Fields, hills, blue sky with clouds, text overlay \"Camping Sua.\"\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 17.4174,
+      "timestamp_formatted": "0:00:17",
+      "activity": "A person is preparing or setting up a camping stove inside a tent.",
+      "location": "This is taking place outdoors, inside a tent.",
+      "mood": "The atmosphere is calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or setting up a camping stove inside a tent.\n2. **Location**: This is taking place outdoors, inside a tent.\n3. **Mood**: The atmosphere is calm and cozy.\n4. **Key Elements**: \n   - Camping stove\n   - Tent interior\n   - Mug\n   - Cutting board\n   - Person's hands\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 20.3203,
+      "timestamp_formatted": "0:00:20",
+      "activity": "A tent is set up in a scenic outdoor area, likely for camping.",
+      "location": "Outdoor, in a natural setting with trees and mountains.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A tent is set up in a scenic outdoor area, likely for camping.\n2. **Location**: Outdoor, in a natural setting with trees and mountains.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent, trees, mountains, gravel area, text overlay \"CAMPING SUA\".\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 22.255566666666667,
+      "timestamp_formatted": "0:00:22",
+      "activity": "A person is cooking pancakes on a portable stove.",
+      "location": "Outdoor setting, likely at a campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: A person is cooking pancakes on a portable stove.\n2. **Location**: Outdoor setting, likely at a campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Portable stove, pancakes, cutting board, packaged food, tent interior.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 24.190833333333334,
+      "timestamp_formatted": "0:00:24",
+      "activity": "A dog is standing in front of a camping tent.",
+      "location": "Outdoor campsite in a natural setting with mountains in the background.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing in front of a camping tent.\n2. **Location**: Outdoor campsite in a natural setting with mountains in the background.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Camping tent, dog, trees, gravel ground, mountains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 26.1261,
+      "timestamp_formatted": "0:00:26",
+      "activity": "A person is sitting inside a tent, possibly preparing or relaxing.",
+      "location": "Indoor setting within a tent, likely at a campsite.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is sitting inside a tent, possibly preparing or relaxing.\n2. **Location**: Indoor setting within a tent, likely at a campsite.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Person sitting on a camping bed\n   - Tent interior\n   - Camping gear\n   - Gravel floor\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 28.061366666666668,
+      "timestamp_formatted": "0:00:28",
+      "activity": "A person is using a torch to cook or finish a dish in a camping setting.",
+      "location": "Outdoor, likely at a campsite inside a tent.",
+      "mood": "Cozy and intimate.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is using a torch to cook or finish a dish in a camping setting.\n2. **Location**: Outdoor, likely at a campsite inside a tent.\n3. **Mood**: Cozy and intimate.\n4. **Key Elements**: Cooking torch, pot with food, camping table, lantern, bottle.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 29.996633333333335,
+      "timestamp_formatted": "0:00:29",
+      "activity": "The scene shows a campfire burning.",
+      "location": "Outdoor, likely a campsite.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a campfire burning.\n2. **Location**: Outdoor, likely a campsite.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Campfire, dark background, text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 33.86716666666667,
+      "timestamp_formatted": "0:00:33",
+      "activity": "The scene is introducing the title of a video or film.",
+      "location": "Outdoor, likely in a rural or natural setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene is introducing the title of a video or film.\n2. **Location**: Outdoor, likely in a rural or natural setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sunrise or sunset, misty landscape, river, fields, title text \"Camping Sua\".\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 35.80243333333333,
+      "timestamp_formatted": "0:00:35",
+      "activity": "A small dog is resting inside a tent, possibly during a camping trip.",
+      "location": "Outdoor setting, inside a camping tent.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A small dog is resting inside a tent, possibly during a camping trip.\n2. **Location**: Outdoor setting, inside a camping tent.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Dog, sleeping bag, tent, small table, decorative item.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 37.737700000000004,
+      "timestamp_formatted": "0:00:37",
+      "activity": "A person is sitting inside a tent, possibly preparing for or discussing a camping activity.",
+      "location": "Indoor setting within a tent, likely at a campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Introduction.",
+      "raw_analysis": "1. **Activity**: A person is sitting inside a tent, possibly preparing for or discussing a camping activity.\n2. **Location**: Indoor setting within a tent, likely at a campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: \n   - Person sitting on a chair\n   - Tent interior\n   - Camping gear (e.g., cooler, table)\n   - Text overlay \"CAMPING SUA\"\n   - Sign \"AMERICAN GRILL and CHILL\"\n5. **Scene Type**: Dialogue/Introduction."
+    },
+    {
+      "timestamp": 40.6406,
+      "timestamp_formatted": "0:00:40",
+      "activity": "The scene appears to be set up for a camping-themed event or activity.",
+      "location": "Indoor, inside a tent.",
+      "mood": "Relaxed and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be set up for a camping-themed event or activity.\n2. **Location**: Indoor, inside a tent.\n3. **Mood**: Relaxed and cozy.\n4. **Key Elements**: \n   - Sign with \"Camping Grill and Chill\" text\n   - A small dog lying on a bed\n   - Plush toy or decoration\n   - Table with a hand visible\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 43.5435,
+      "timestamp_formatted": "0:00:43",
+      "activity": "The scene appears to be set up for a camping-themed grill and chill event.",
+      "location": "Indoor, inside a tent.",
+      "mood": "Relaxed and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be set up for a camping-themed grill and chill event.\n2. **Location**: Indoor, inside a tent.\n3. **Mood**: Relaxed and cozy.\n4. **Key Elements**: \n   - Illuminated sign reading \"American Grill and Chill\"\n   - A dog resting on a bed\n   - Plush toy or decoration\n   - Camping gear\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 49.3493,
+      "timestamp_formatted": "0:00:49",
+      "activity": "A vehicle is parked or moving slowly on a road.",
+      "location": "Outdoor, likely a rural or suburban roadside.",
+      "mood": "Calm and neutral.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A vehicle is parked or moving slowly on a road.\n2. **Location**: Outdoor, likely a rural or suburban roadside.\n3. **Mood**: Calm and neutral.\n4. **Key Elements**: Orange truck, road, greenery, overcast sky, large text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 50.31693333333333,
+      "timestamp_formatted": "0:00:50",
+      "activity": "A street sweeper truck is parked or moving along a road.",
+      "location": "Outdoor, near a roadside with greenery and a bridge.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A street sweeper truck is parked or moving along a road.\n2. **Location**: Outdoor, near a roadside with greenery and a bridge.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Orange street sweeper truck, greenery-covered hill, bridge, road.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 51.28456666666667,
+      "timestamp_formatted": "0:00:51",
+      "activity": "A truck is driving past a road intersection.",
+      "location": "Outdoor, near a tunnel or underpass.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A truck is driving past a road intersection.\n2. **Location**: Outdoor, near a tunnel or underpass.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Orange truck, road sign, tunnel entrance, greenery, cloudy sky.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 52.2522,
+      "timestamp_formatted": "0:00:52",
+      "activity": "A vehicle is approaching or passing under a bridge.",
+      "location": "Outdoor, near a road under a bridge.",
+      "mood": "Calm and mundane.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A vehicle is approaching or passing under a bridge.\n2. **Location**: Outdoor, near a road under a bridge.\n3. **Mood**: Calm and mundane.\n4. **Key Elements**: Bridge, road, greenery, signage, cloudy sky.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 53.219833333333334,
+      "timestamp_formatted": "0:00:53",
+      "activity": "A vehicle is driving under a bridge.",
+      "location": "Outdoor, under a concrete bridge.",
+      "mood": "Calm and mundane.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving under a bridge.\n2. **Location**: Outdoor, under a concrete bridge.\n3. **Mood**: Calm and mundane.\n4. **Key Elements**: Bridge, road, vehicle windshield, person walking, greenery.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 54.187466666666666,
+      "timestamp_formatted": "0:00:54",
+      "activity": "A person is walking along a road under a bridge.",
+      "location": "Outdoor, under a bridge near a parking area with buildings in the background.",
+      "mood": "Calm and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking along a road under a bridge.\n2. **Location**: Outdoor, under a bridge near a parking area with buildings in the background.\n3. **Mood**: Calm and everyday.\n4. **Key Elements**: Bridge, person walking, parked cars, building with orange roof, trees.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 55.155100000000004,
+      "timestamp_formatted": "0:00:55",
+      "activity": "A person is standing near a road under a bridge, possibly directing traffic or holding a sign.",
+      "location": "Outdoor setting, near a roadside rest area or small commercial area.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is standing near a road under a bridge, possibly directing traffic or holding a sign.\n2. **Location**: Outdoor setting, near a roadside rest area or small commercial area.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: \n   - Person with a sign\n   - Road and vehicles\n   - Building with orange roof\n   - Trees and greenery\n   - Underpass structure\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 56.122733333333336,
+      "timestamp_formatted": "0:00:56",
+      "activity": "A vehicle is approaching a parking area or entrance, with a person directing traffic.",
+      "location": "Outdoor, near a building with a parking lot, surrounded by trees and hills.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A vehicle is approaching a parking area or entrance, with a person directing traffic.\n2. **Location**: Outdoor, near a building with a parking lot, surrounded by trees and hills.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Building with orange roof, parked cars, traffic director, trees, road signs.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 57.09036666666667,
+      "timestamp_formatted": "0:00:57",
+      "activity": "A vehicle is approaching a rest area or parking lot.",
+      "location": "Outdoor, near a roadside facility surrounded by trees and hills.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A vehicle is approaching a rest area or parking lot.\n2. **Location**: Outdoor, near a roadside facility surrounded by trees and hills.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Cars parked, a building with a triangular roof, road signs, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 58.058,
+      "timestamp_formatted": "0:00:58",
+      "activity": "A vehicle is approaching an intersection or parking area.",
+      "location": "Outdoor, near a parking lot surrounded by greenery and hills.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A vehicle is approaching an intersection or parking area.\n2. **Location**: Outdoor, near a parking lot surrounded by greenery and hills.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Cars parked, road signs, trees, hills, and a large map or signboard.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 59.99326666666667,
+      "timestamp_formatted": "0:00:59",
+      "activity": "A vehicle is driving along a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Curving road, utility poles, trees, road signs, cloudy sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 60.9609,
+      "timestamp_formatted": "0:01:00",
+      "activity": "A vehicle is driving along a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Curved road, power lines, trees, cloudy sky, subtitles.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 69.6696,
+      "timestamp_formatted": "0:01:09",
+      "activity": "A vehicle is driving along a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, road sign, trees, guardrail, cloudy sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 70.63723333333334,
+      "timestamp_formatted": "0:01:10",
+      "activity": "A vehicle is driving along a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road with yellow line, guardrail, power lines, trees, cloudy sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 83.21646666666666,
+      "timestamp_formatted": "0:01:23",
+      "activity": "A vehicle is driving along a winding road.",
+      "location": "Outdoor, rural road surrounded by greenery.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a winding road.\n2. **Location**: Outdoor, rural road surrounded by greenery.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, guardrail, trees, power lines, cloudy sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 86.11936666666666,
+      "timestamp_formatted": "0:01:26",
+      "activity": "A vehicle is driving along a winding road.",
+      "location": "Outdoor, rural road surrounded by trees.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a winding road.\n2. **Location**: Outdoor, rural road surrounded by trees.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Winding road, trees, guardrail, power lines.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 87.087,
+      "timestamp_formatted": "0:01:27",
+      "activity": "A vehicle is driving along a winding road.",
+      "location": "Outdoor, rural or forested area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a winding road.\n2. **Location**: Outdoor, rural or forested area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Curved road, trees, guardrail, utility pole, overcast sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 88.05463333333333,
+      "timestamp_formatted": "0:01:28",
+      "activity": "A vehicle is driving along a winding road.",
+      "location": "Outdoor, rural road surrounded by trees and greenery.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a winding road.\n2. **Location**: Outdoor, rural road surrounded by trees and greenery.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, guardrail, trees, power lines, vehicle hood.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 89.9899,
+      "timestamp_formatted": "0:01:29",
+      "activity": "A vehicle is driving along a curved road.",
+      "location": "Outdoor, on a rural or suburban road surrounded by trees.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a curved road.\n2. **Location**: Outdoor, on a rural or suburban road surrounded by trees.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Curved road, dense trees, road signs, overcast sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 91.92516666666667,
+      "timestamp_formatted": "0:01:31",
+      "activity": "A vehicle is driving along a rural road.",
+      "location": "Outdoor, on a countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a rural road.\n2. **Location**: Outdoor, on a countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Winding road, trees, power lines, overcast sky, vehicle hood.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 92.89280000000001,
+      "timestamp_formatted": "0:01:32",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, trees, power lines, mountains, cloudy sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 93.86043333333333,
+      "timestamp_formatted": "0:01:33",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, trees, power lines, distant hills, cloudy sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 95.7957,
+      "timestamp_formatted": "0:01:35",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, trees, power lines, cloudy sky, road signs.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 99.66623333333334,
+      "timestamp_formatted": "0:01:39",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, trees, power lines, small building, overcast sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 100.63386666666666,
+      "timestamp_formatted": "0:01:40",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road with fields and hills.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road with fields and hills.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, power lines, fields, hills, overcast sky.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 109.34256666666667,
+      "timestamp_formatted": "0:01:49",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Winding road, utility poles, trees, cloudy sky.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 112.24546666666667,
+      "timestamp_formatted": "0:01:52",
+      "activity": "A vehicle is approaching or parked near an entrance sign.",
+      "location": "Outdoor, near a roadside or entrance to a facility.",
+      "mood": "Calm and overcast.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A vehicle is approaching or parked near an entrance sign.\n2. **Location**: Outdoor, near a roadside or entrance to a facility.\n3. **Mood**: Calm and overcast.\n4. **Key Elements**: Entrance sign, trees, cloudy sky, gravel path, speed limit sign.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 113.2131,
+      "timestamp_formatted": "0:01:53",
+      "activity": "A vehicle is driving along a gravel road.",
+      "location": "Outdoor, likely a rural or park area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a gravel road.\n2. **Location**: Outdoor, likely a rural or park area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Gravel road, trees, cloudy sky, speed limit sign.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 114.18073333333334,
+      "timestamp_formatted": "0:01:54",
+      "activity": "A vehicle is driving along a curved road.",
+      "location": "Outdoor, likely a park or countryside area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving along a curved road.\n2. **Location**: Outdoor, likely a park or countryside area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Curved road, trees, cloudy sky, vehicle hood.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 115.14836666666667,
+      "timestamp_formatted": "0:01:55",
+      "activity": "A person is sitting on a gravel path, possibly resting or contemplating.",
+      "location": "Outdoor, in a rural or natural setting with mountains and trees.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is sitting on a gravel path, possibly resting or contemplating.\n2. **Location**: Outdoor, in a rural or natural setting with mountains and trees.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: Person sitting, gravel path, trees, mountains, cloudy sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 247.71413333333334,
+      "timestamp_formatted": "0:04:07",
+      "activity": "A person is setting up a tent.",
+      "location": "Outdoor, likely a campsite or park.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is setting up a tent.\n2. **Location**: Outdoor, likely a campsite or park.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tent, person, trees, gravel ground, mountains in the background.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 306.7397666666667,
+      "timestamp_formatted": "0:05:06",
+      "activity": "A person is setting up a folding chair inside a tent.",
+      "location": "Outdoor camping area.",
+      "mood": "Calm and practical.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up a folding chair inside a tent.\n2. **Location**: Outdoor camping area.\n3. **Mood**: Calm and practical.\n4. **Key Elements**: Tent, folding chair, gravel ground, person, car in the background.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 309.6426666666667,
+      "timestamp_formatted": "0:05:09",
+      "activity": "A person is setting up a wooden table inside a tent.",
+      "location": "Outdoor camping site, inside a tent.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up a wooden table inside a tent.\n2. **Location**: Outdoor camping site, inside a tent.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tent, folding chair, wooden table, gravel ground, person wearing gloves.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 311.57793333333336,
+      "timestamp_formatted": "0:05:11",
+      "activity": "The scene shows a setup of a small table or rack inside a tent.",
+      "location": "This is taking place indoors, inside a tent.",
+      "mood": "The atmosphere is calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene shows a setup of a small table or rack inside a tent.\n2. **Location**: This is taking place indoors, inside a tent.\n3. **Mood**: The atmosphere is calm and organized.\n4. **Key Elements**: \n   - Tent interior\n   - Small metal table or rack\n   - Gravel floor\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 313.5132,
+      "timestamp_formatted": "0:05:13",
+      "activity": "A person is installing or adjusting an air conditioning unit inside a tent.",
+      "location": "Outdoor setting, inside a tent.",
+      "mood": "Practical and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is installing or adjusting an air conditioning unit inside a tent.\n2. **Location**: Outdoor setting, inside a tent.\n3. **Mood**: Practical and focused.\n4. **Key Elements**: Tent, air conditioning unit, person, gravel ground, metal shelf.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 315.44846666666666,
+      "timestamp_formatted": "0:05:15",
+      "activity": "A person is setting up or adjusting equipment inside a tent.",
+      "location": "Indoor, inside a tent on a gravel surface.",
+      "mood": "Practical and focused.",
+      "key_elements": [],
+      "scene_type": "Setup or preparation scene.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting equipment inside a tent.\n2. **Location**: Indoor, inside a tent on a gravel surface.\n3. **Mood**: Practical and focused.\n4. **Key Elements**: Tent interior, portable heater or equipment, gravel floor, person wearing gloves.\n5. **Scene Type**: Setup or preparation scene."
+    },
+    {
+      "timestamp": 317.38373333333334,
+      "timestamp_formatted": "0:05:17",
+      "activity": "A bed is being set up or arranged inside a tent.",
+      "location": "Indoor setting within a tent, likely in a camping area.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A bed is being set up or arranged inside a tent.\n2. **Location**: Indoor setting within a tent, likely in a camping area.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: \n   - Inflatable bed with \"coody\" branding\n   - Tent interior\n   - Blanket or fabric with red and white stripes\n   - Gravel floor\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 318.35136666666665,
+      "timestamp_formatted": "0:05:18",
+      "activity": "A person is setting up or arranging a blanket on a mattress.",
+      "location": "Indoor, inside a tent.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Setup/transition.",
+      "raw_analysis": "1. **Activity**: A person is setting up or arranging a blanket on a mattress.\n2. **Location**: Indoor, inside a tent.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Mattress, blanket, tent, gravel floor, chair.\n5. **Scene Type**: Setup/transition."
+    },
+    {
+      "timestamp": 319.319,
+      "timestamp_formatted": "0:05:19",
+      "activity": "A person is arranging blankets on an inflatable couch.",
+      "location": "Outdoor setting, likely inside a tent or canopy.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is arranging blankets on an inflatable couch.\n2. **Location**: Outdoor setting, likely inside a tent or canopy.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Inflatable couch, blankets, tent/canopy, gravel ground, person wearing white pants and sneakers.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 322.2219,
+      "timestamp_formatted": "0:05:22",
+      "activity": "A person is setting up or arranging a blanket on an inflatable couch.",
+      "location": "Outdoor setting, likely a campsite or tent area.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or arranging a blanket on an inflatable couch.\n2. **Location**: Outdoor setting, likely a campsite or tent area.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Inflatable couch, blanket, tent interior, gravel ground, person in casual clothing.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 325.1248,
+      "timestamp_formatted": "0:05:25",
+      "activity": "A person is setting up or adjusting a blanket on an inflatable mattress.",
+      "location": "Outdoor setting, inside a tent.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a blanket on an inflatable mattress.\n2. **Location**: Outdoor setting, inside a tent.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Inflatable mattress, red and white blanket, tent, gravel ground, person wearing gloves.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 331.89823333333334,
+      "timestamp_formatted": "0:05:31",
+      "activity": "A person is setting up or adjusting a blanket on an inflatable mattress.",
+      "location": "Outdoor setting, likely inside a tent.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a blanket on an inflatable mattress.\n2. **Location**: Outdoor setting, likely inside a tent.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Inflatable mattress, striped blanket, tent interior, gravel ground, person in casual clothing.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 332.86586666666665,
+      "timestamp_formatted": "0:05:32",
+      "activity": "A person is setting up or adjusting a bed inside a tent.",
+      "location": "Outdoor camping site inside a tent.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a bed inside a tent.\n2. **Location**: Outdoor camping site inside a tent.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Inflatable bed, striped blanket, tent interior, gravel ground, person adjusting the setup.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 335.7687666666667,
+      "timestamp_formatted": "0:05:35",
+      "activity": "A person is setting up or adjusting a camping lantern on a portable metal shelf.",
+      "location": "Outdoor, inside a tent.",
+      "mood": "Practical and focused.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a camping lantern on a portable metal shelf.\n2. **Location**: Outdoor, inside a tent.\n3. **Mood**: Practical and focused.\n4. **Key Elements**: Camping lantern, metal shelf, mug labeled \"Hiking Club,\" gloves, tent interior.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 341.57456666666667,
+      "timestamp_formatted": "0:05:41",
+      "activity": "A small dog is eating from a bowl.",
+      "location": "Indoor, inside a tent.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Pet moment.",
+      "raw_analysis": "1. **Activity**: A small dog is eating from a bowl.\n2. **Location**: Indoor, inside a tent.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Small dog, food bowl, colorful mat with cartoon designs, tent interior.\n5. **Scene Type**: Pet moment."
+    },
+    {
+      "timestamp": 354.1538,
+      "timestamp_formatted": "0:05:54",
+      "activity": "A camping setup is visible, likely for leisure or relaxation.",
+      "location": "Outdoor campsite with tents on a gravel area.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A camping setup is visible, likely for leisure or relaxation.\n2. **Location**: Outdoor campsite with tents on a gravel area.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, camping table, chairs, trees, gravel ground.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 356.08906666666667,
+      "timestamp_formatted": "0:05:56",
+      "activity": "A tent is set up in a scenic outdoor area, likely for camping.",
+      "location": "Outdoor, in a natural setting with trees and mountains in the background.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A tent is set up in a scenic outdoor area, likely for camping.\n2. **Location**: Outdoor, in a natural setting with trees and mountains in the background.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, trees, gravel path, mountains, camping chair.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 369.63593333333336,
+      "timestamp_formatted": "0:06:09",
+      "activity": "A dog is standing outside near a tent.",
+      "location": "Outdoor setting, likely a campsite.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing outside near a tent.\n2. **Location**: Outdoor setting, likely a campsite.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Dog, tent, gravel path, trees, cloudy sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 370.60356666666667,
+      "timestamp_formatted": "0:06:10",
+      "activity": "A dog is standing near a tent in a campsite.",
+      "location": "Outdoor campsite in a natural setting with mountains in the background.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing near a tent in a campsite.\n2. **Location**: Outdoor campsite in a natural setting with mountains in the background.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent, dog, trees, gravel ground, mountains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 374.4741,
+      "timestamp_formatted": "0:06:14",
+      "activity": "A dog is walking near a tent.",
+      "location": "Outdoor campsite with a view of hills and trees.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is walking near a tent.\n2. **Location**: Outdoor campsite with a view of hills and trees.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent, dog, trees, gravel ground, hills.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 438.3379,
+      "timestamp_formatted": "0:07:18",
+      "activity": "The scene shows an aerial view of a landscape, likely introducing a location.",
+      "location": "Outdoor, rural area with mountains, a river, and fields.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an aerial view of a landscape, likely introducing a location.\n2. **Location**: Outdoor, rural area with mountains, a river, and fields.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, mountains, fields, road, text overlay with location details.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 461.5611,
+      "timestamp_formatted": "0:07:41",
+      "activity": "Someone is holding a boarding pass for a themed event or show.",
+      "location": "Indoor setting, possibly an event or a promotional area.",
+      "mood": "Promotional and engaging.",
+      "key_elements": [],
+      "scene_type": "Promotional shot.",
+      "raw_analysis": "1. **Activity**: Someone is holding a boarding pass for a themed event or show.\n2. **Location**: Indoor setting, possibly an event or a promotional area.\n3. **Mood**: Promotional and engaging.\n4. **Key Elements**: Boarding pass, text \"Episode 4\", \"American Meat Story\", \"Camping SUA\", airplane graphic.\n5. **Scene Type**: Promotional shot."
+    },
+    {
+      "timestamp": 464.464,
+      "timestamp_formatted": "0:07:44",
+      "activity": "A person is presenting or introducing something, holding up a card or ticket.",
+      "location": "Indoor setting, likely inside a tent or camping setup.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Presentation/Introduction.",
+      "raw_analysis": "1. **Activity**: A person is presenting or introducing something, holding up a card or ticket.\n2. **Location**: Indoor setting, likely inside a tent or camping setup.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: \n   - Person holding a card\n   - Tent interior\n   - \"American Grill and Chill\" sign\n   - Camping chair and table\n   - Drink with a straw\n5. **Scene Type**: Presentation/Introduction."
+    },
+    {
+      "timestamp": 495.4282666666667,
+      "timestamp_formatted": "0:08:15",
+      "activity": "The scene shows a large American flag waving in the wind.",
+      "location": "Outdoor, likely near a highway or rest area.",
+      "mood": "Patriotic and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a large American flag waving in the wind.\n2. **Location**: Outdoor, likely near a highway or rest area.\n3. **Mood**: Patriotic and serene.\n4. **Key Elements**: American flag, highway, vehicles, trees, billboard.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 497.36353333333335,
+      "timestamp_formatted": "0:08:17",
+      "activity": "This scene shows an aerial view of a cityscape.",
+      "location": "Outdoor, urban area with a mix of skyscrapers and green spaces.",
+      "mood": "Calm and expansive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: This scene shows an aerial view of a cityscape.\n2. **Location**: Outdoor, urban area with a mix of skyscrapers and green spaces.\n3. **Mood**: Calm and expansive.\n4. **Key Elements**: Skyscrapers, park with baseball fields, residential buildings, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 500.26643333333334,
+      "timestamp_formatted": "0:08:20",
+      "activity": "The scene captures a serene landscape, possibly for a nature documentary or travel video.",
+      "location": "Outdoor, in a mountainous area with a forest of autumn-colored trees.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a serene landscape, possibly for a nature documentary or travel video.\n2. **Location**: Outdoor, in a mountainous area with a forest of autumn-colored trees.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Mountain, autumn trees, clouds, grassy field, path.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 503.1693333333333,
+      "timestamp_formatted": "0:08:23",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor setting, likely inside a tent or camping setup.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor setting, likely inside a tent or camping setup.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Person sitting on a chair\n   - Tent interior\n   - Camping gear (cooler, table)\n   - Sign with \"AMERICAN GRILL and CHILL\"\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 527.3601666666667,
+      "timestamp_formatted": "0:08:47",
+      "activity": "A person is speaking to the camera while holding a plush toy.",
+      "location": "Indoor setting, likely inside a tent.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding a plush toy.\n2. **Location**: Indoor setting, likely inside a tent.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Person holding a plush toy, tent interior, \"American Grill and Chill\" sign, small table with a cup.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 547.6804666666667,
+      "timestamp_formatted": "0:09:07",
+      "activity": "The scene appears to involve a blend of outdoor landscape and a person, possibly indicating a reflective or narrative moment.",
+      "location": "The setting is outdoors, likely in a rural or agricultural area with fields and mountains.",
+      "mood": "The atmosphere is contemplative and serene.",
+      "key_elements": [],
+      "scene_type": "Transition or reflective montage.",
+      "raw_analysis": "1. **Activity**: The scene appears to involve a blend of outdoor landscape and a person, possibly indicating a reflective or narrative moment.\n2. **Location**: The setting is outdoors, likely in a rural or agricultural area with fields and mountains.\n3. **Mood**: The atmosphere is contemplative and serene.\n4. **Key Elements**: \n   - Agricultural fields\n   - Mountains\n   - A person’s face\n   - Blue sky with clouds\n   - Overlaid text or signage\n5. **Scene Type**: Transition or reflective montage."
+    },
+    {
+      "timestamp": 552.5186333333334,
+      "timestamp_formatted": "0:09:12",
+      "activity": "A tent is set up in a natural setting, likely for camping.",
+      "location": "Outdoor, in a scenic area with mountains and trees.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A tent is set up in a natural setting, likely for camping.\n2. **Location**: Outdoor, in a scenic area with mountains and trees.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, trees, mountains, gravel ground, cloudy sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 555.4215333333334,
+      "timestamp_formatted": "0:09:15",
+      "activity": "The scene captures an aerial view of a rural landscape.",
+      "location": "Outdoor, likely a countryside area with a river and farmland.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural landscape.\n2. **Location**: Outdoor, likely a countryside area with a river and farmland.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, farmland with crops, a building with a red roof, parking area with cars.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 568.9684,
+      "timestamp_formatted": "0:09:28",
+      "activity": "A person is speaking into a microphone, possibly recording or streaming content.",
+      "location": "Indoor setting, possibly a tent or makeshift studio.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking into a microphone, possibly recording or streaming content.\n2. **Location**: Indoor setting, possibly a tent or makeshift studio.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Person holding a microphone, small white dog, tent-like structure, shelving with items.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 570.9036666666667,
+      "timestamp_formatted": "0:09:30",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or interview.",
+      "location": "Indoor setting, likely a tent or temporary structure.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or interview.\n2. **Location**: Indoor setting, likely a tent or temporary structure.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person holding a microphone, small dog, tent-like structure, electronic equipment.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 572.8389333333333,
+      "timestamp_formatted": "0:09:32",
+      "activity": "A person is speaking into a microphone, likely addressing an audience or recording a video.",
+      "location": "Indoor setting, possibly a studio or a tent-like structure.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Interview.",
+      "raw_analysis": "1. **Activity**: A person is speaking into a microphone, likely addressing an audience or recording a video.\n2. **Location**: Indoor setting, possibly a studio or a tent-like structure.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person holding a microphone\n   - Background equipment\n   - Text overlay in Korean\n   - Casual clothing\n5. **Scene Type**: Dialogue/Interview."
+    },
+    {
+      "timestamp": 599.9326666666667,
+      "timestamp_formatted": "0:09:59",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing a topic.",
+      "location": "Indoor setting, possibly a studio or a tent-like structure.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Interview.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.\n2. **Location**: Indoor setting, possibly a studio or a tent-like structure.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person holding a microphone\n   - Tent-like structure in the background\n   - Couch with a dark blanket or jacket\n   - Metal equipment or instruments on the side\n5. **Scene Type**: Dialogue/Interview."
+    },
+    {
+      "timestamp": 600.9003,
+      "timestamp_formatted": "0:10:00",
+      "activity": "A person is speaking to the camera, possibly recording a vlog or interview.",
+      "location": "Indoor, likely inside a tent or temporary structure.",
+      "mood": "Intimate and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly recording a vlog or interview.\n2. **Location**: Indoor, likely inside a tent or temporary structure.\n3. **Mood**: Intimate and focused.\n4. **Key Elements**: \n   - Person speaking\n   - Handheld microphone\n   - Kitchen or camping equipment in the background\n   - Text overlay at the bottom\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 611.5442666666667,
+      "timestamp_formatted": "0:10:11",
+      "activity": "A person is speaking into a microphone, possibly recording or streaming content.",
+      "location": "Indoor, likely a tent or temporary setup.",
+      "mood": "Casual and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking into a microphone, possibly recording or streaming content.\n2. **Location**: Indoor, likely a tent or temporary setup.\n3. **Mood**: Casual and engaging.\n4. **Key Elements**: Person holding a microphone, tent structure, makeup or cosmetic items, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 612.5119,
+      "timestamp_formatted": "0:10:12",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or an interview.",
+      "location": "Indoor setting, possibly a tent or a makeshift studio.",
+      "mood": "The atmosphere is casual and engaging.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or an interview.\n2. **Location**: Indoor setting, possibly a tent or a makeshift studio.\n3. **Mood**: The atmosphere is casual and engaging.\n4. **Key Elements**: \n   - Person holding a microphone\n   - Tent-like structure in the background\n   - Couch or seating area with a blanket\n   - Makeup or personal items on a shelf\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 629.9293,
+      "timestamp_formatted": "0:10:29",
+      "activity": "A person is speaking, possibly explaining or sharing a story.",
+      "location": "Indoor setting, likely inside a tent or similar structure.",
+      "mood": "Calm and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly explaining or sharing a story.\n2. **Location**: Indoor setting, likely inside a tent or similar structure.\n3. **Mood**: Calm and conversational.\n4. **Key Elements**: \n   - Person holding a microphone\n   - Tent interior\n   - Cooking or camping equipment in the background\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 631.8645666666666,
+      "timestamp_formatted": "0:10:31",
+      "activity": "A person is speaking into a microphone, possibly recording or streaming.",
+      "location": "Indoor setting, likely a tent or temporary structure.",
+      "mood": "Intimate and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking into a microphone, possibly recording or streaming.\n2. **Location**: Indoor setting, likely a tent or temporary structure.\n3. **Mood**: Intimate and focused.\n4. **Key Elements**: Handheld microphone, person, tent interior, clothing, fluffy object (possibly a pet).\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 702.5018,
+      "timestamp_formatted": "0:11:42",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or interview.",
+      "location": "Indoor setting, likely a tent or temporary structure.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Interview.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or interview.\n2. **Location**: Indoor setting, likely a tent or temporary structure.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person holding a microphone\n   - Makeup or cosmetic items in the background\n   - Tent-like structure\n   - Casual clothing\n5. **Scene Type**: Dialogue/Interview."
+    },
+    {
+      "timestamp": 718.9515666666667,
+      "timestamp_formatted": "0:11:58",
+      "activity": "A dish featuring U.S. pork is being presented or showcased.",
+      "location": "Outdoor setting, possibly a patio or balcony.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A dish featuring U.S. pork is being presented or showcased.\n2. **Location**: Outdoor setting, possibly a patio or balcony.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Plate of cooked pork, wooden table, U.S. pork label, glass with a red liquid.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 731.5308,
+      "timestamp_formatted": "0:12:11",
+      "activity": "A person is holding a smartphone, displaying the home screen with various app icons.",
+      "location": "Indoor, possibly a casual setting like a café or living room.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone, displaying the home screen with various app icons.\n2. **Location**: Indoor, possibly a casual setting like a café or living room.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Smartphone with app icons, hand with painted nails, blurred background with a table and a cup.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 734.4337,
+      "timestamp_formatted": "0:12:14",
+      "activity": "A person is holding a smartphone displaying the Homeplus app.",
+      "location": "Indoor, possibly a café or casual setting.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone displaying the Homeplus app.\n2. **Location**: Indoor, possibly a café or casual setting.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Smartphone, Homeplus app logo, hand holding the phone, drink with a straw, wooden table.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 767.3332333333334,
+      "timestamp_formatted": "0:12:47",
+      "activity": "Someone is preparing to cook outdoors.",
+      "location": "Outdoor setting, likely a campsite.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing to cook outdoors.\n2. **Location**: Outdoor setting, likely a campsite.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Cast iron pot, cutting board, packaged ingredients, portable stove, gravel ground.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 843.7762666666666,
+      "timestamp_formatted": "0:14:03",
+      "activity": "Someone is cooking, placing a lid on a steaming pot.",
+      "location": "Outdoor setting, likely a campsite inside a tent.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Cooking scene.",
+      "raw_analysis": "1. **Activity**: Someone is cooking, placing a lid on a steaming pot.\n2. **Location**: Outdoor setting, likely a campsite inside a tent.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Steaming pot, cutting board with vegetables, knife, soy sauce bottle, camping lantern.\n5. **Scene Type**: Cooking scene."
+    },
+    {
+      "timestamp": 879.5787,
+      "timestamp_formatted": "0:14:39",
+      "activity": "Someone is moving inside a tent, possibly setting up or organizing.",
+      "location": "Outdoor, inside a camping tent.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is moving inside a tent, possibly setting up or organizing.\n2. **Location**: Outdoor, inside a camping tent.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Tent interior, bedding, a person, parked cars, trees.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 880.5463333333333,
+      "timestamp_formatted": "0:14:40",
+      "activity": "A person is setting up or organizing items inside a tent.",
+      "location": "Outdoor setting, inside a tent.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is setting up or organizing items inside a tent.\n2. **Location**: Outdoor setting, inside a tent.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Tent interior, a small dog, bedding with cartoon designs, a person partially visible, parked cars outside.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 890.2226666666667,
+      "timestamp_formatted": "0:14:50",
+      "activity": "A small dog is resting on a bed, surrounded by various items.",
+      "location": "Outdoor setting, likely a campsite or backyard.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A small dog is resting on a bed, surrounded by various items.\n2. **Location**: Outdoor setting, likely a campsite or backyard.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Inflatable bed, small dog, dog bowls, camping gear, gravel ground.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 898.9313666666667,
+      "timestamp_formatted": "0:14:58",
+      "activity": "A person is setting up or organizing items inside a tent.",
+      "location": "Indoor, inside a tent.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is setting up or organizing items inside a tent.\n2. **Location**: Indoor, inside a tent.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Lantern, metal storage box, tent interior, person's arm.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 907.6400666666667,
+      "timestamp_formatted": "0:15:07",
+      "activity": "The scene appears to be set up for a promotional or thematic display related to grilling.",
+      "location": "Indoor setting, possibly inside a tent or a themed room.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be set up for a promotional or thematic display related to grilling.\n2. **Location**: Indoor setting, possibly inside a tent or a themed room.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: \n   - Sign with \"American Grill and Chill\"\n   - Small dog resting on a bed\n   - Plush toy on a side table\n   - Part of a hand visible\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 914.4135,
+      "timestamp_formatted": "0:15:14",
+      "activity": "A tent is set up with lights on inside, suggesting camping or outdoor relaxation.",
+      "location": "Outdoor setting, likely a campsite or park.",
+      "mood": "Calm and serene, with a cozy atmosphere.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A tent is set up with lights on inside, suggesting camping or outdoor relaxation.\n2. **Location**: Outdoor setting, likely a campsite or park.\n3. **Mood**: Calm and serene, with a cozy atmosphere.\n4. **Key Elements**: Tent, trees, gravel ground, interior lights, cloudy sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 920.2193,
+      "timestamp_formatted": "0:15:20",
+      "activity": "Someone is preparing to cook or serve a meal, possibly pouring a liquid into a small container.",
+      "location": "Outdoor setting, likely in a tent or camping area.",
+      "mood": "Calm and intimate, with a cozy atmosphere.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing to cook or serve a meal, possibly pouring a liquid into a small container.\n2. **Location**: Outdoor setting, likely in a tent or camping area.\n3. **Mood**: Calm and intimate, with a cozy atmosphere.\n4. **Key Elements**: Cutting board, cooking pot, glass, bottle, and a small lamp.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 936.6690666666667,
+      "timestamp_formatted": "0:15:36",
+      "activity": "A person is pouring a drink into a glass.",
+      "location": "Indoor setting, possibly a kitchen or dining area.",
+      "mood": "Intimate and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: A person is pouring a drink into a glass.\n2. **Location**: Indoor setting, possibly a kitchen or dining area.\n3. **Mood**: Intimate and focused.\n4. **Key Elements**: Wine glass, bottle, cutting board, tripod, U.S. Pork sign.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 944.4101333333333,
+      "timestamp_formatted": "0:15:44",
+      "activity": "Cooking is taking place, with a pot on a stove.",
+      "location": "Outdoor setting, likely a patio or backyard.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Cooking closeup.",
+      "raw_analysis": "1. **Activity**: Cooking is taking place, with a pot on a stove.\n2. **Location**: Outdoor setting, likely a patio or backyard.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Cast iron pot with wooden lid, cutting board, glass of wine, gravel ground.\n5. **Scene Type**: Cooking closeup."
+    },
+    {
+      "timestamp": 950.2159333333334,
+      "timestamp_formatted": "0:15:50",
+      "activity": "Someone is cooking a dish in a pan.",
+      "location": "Outdoor setting, possibly a campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is cooking a dish in a pan.\n2. **Location**: Outdoor setting, possibly a campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Cooking pan, food ingredients, wooden board, portable stove.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 956.0217333333334,
+      "timestamp_formatted": "0:15:56",
+      "activity": "A person is enjoying a meal and holding up a drink, possibly making a toast or gesture towards the camera.",
+      "location": "Outdoor setting, likely a campsite or backyard.",
+      "mood": "Relaxed and intimate.",
+      "key_elements": [],
+      "scene_type": "Intimate dining moment.",
+      "raw_analysis": "1. **Activity**: A person is enjoying a meal and holding up a drink, possibly making a toast or gesture towards the camera.\n2. **Location**: Outdoor setting, likely a campsite or backyard.\n3. **Mood**: Relaxed and intimate.\n4. **Key Elements**: Person sitting, a small table with food and drink, a decorative lamp, a sign reading \"American Grill & Chill.\"\n5. **Scene Type**: Intimate dining moment."
+    },
+    {
+      "timestamp": 1085.6846,
+      "timestamp_formatted": "0:18:05",
+      "activity": "A meal is being presented, likely for a food-related segment.",
+      "location": "Outdoor setting, possibly a campsite or picnic area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A meal is being presented, likely for a food-related segment.\n2. **Location**: Outdoor setting, possibly a campsite or picnic area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Plate of food, wooden table, small lantern, U.S. pork promotional card.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1099.2314666666666,
+      "timestamp_formatted": "0:18:19",
+      "activity": "A dish featuring U.S. pork is being presented, likely for a culinary showcase or promotional purpose.",
+      "location": "Outdoor setting, possibly a picnic or barbecue area.",
+      "mood": "Inviting and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A dish featuring U.S. pork is being presented, likely for a culinary showcase or promotional purpose.\n2. **Location**: Outdoor setting, possibly a picnic or barbecue area.\n3. **Mood**: Inviting and appetizing.\n4. **Key Elements**: Plate of cooked pork, U.S. pork promotional card, wooden table, small lantern.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1100.1991,
+      "timestamp_formatted": "0:18:20",
+      "activity": "Cooking meat on a grill.",
+      "location": "Outdoor setting, possibly a backyard or campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking closeup.",
+      "raw_analysis": "1. **Activity**: Cooking meat on a grill.\n2. **Location**: Outdoor setting, possibly a backyard or campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Grill with meat, cutting board, knife, rocky ground.\n5. **Scene Type**: Cooking closeup."
+    },
+    {
+      "timestamp": 1101.1667333333332,
+      "timestamp_formatted": "0:18:21",
+      "activity": "Meat is being cooked on a grill.",
+      "location": "Outdoor setting, likely a campsite or backyard.",
+      "mood": "Cozy and inviting.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Meat is being cooked on a grill.\n2. **Location**: Outdoor setting, likely a campsite or backyard.\n3. **Mood**: Cozy and inviting.\n4. **Key Elements**: Grill, cooking meat, cutting board, knife.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1110.8430666666668,
+      "timestamp_formatted": "0:18:30",
+      "activity": "A person is cooking or grilling food on a portable stove.",
+      "location": "Outdoor setting, likely a campsite.",
+      "mood": "Cozy and relaxed.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: A person is cooking or grilling food on a portable stove.\n2. **Location**: Outdoor setting, likely a campsite.\n3. **Mood**: Cozy and relaxed.\n4. **Key Elements**: Portable stove with food, small lamp, person seated, food containers, drink bottle.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 1165.9981666666667,
+      "timestamp_formatted": "0:19:25",
+      "activity": "A tent is set up for camping at night.",
+      "location": "Outdoor campsite.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A tent is set up for camping at night.\n2. **Location**: Outdoor campsite.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent, tree with string lights, two lanterns, night sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1168.9010666666668,
+      "timestamp_formatted": "0:19:28",
+      "activity": "A person is setting up or adjusting a tent at night.",
+      "location": "Outdoor campsite.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Camping setup.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent at night.\n2. **Location**: Outdoor campsite.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Tent, camping chair, table with drinks, string lights, person crouching.\n5. **Scene Type**: Camping setup."
+    },
+    {
+      "timestamp": 1191.1566333333333,
+      "timestamp_formatted": "0:19:51",
+      "activity": "A fire is burning, possibly for warmth or cooking.",
+      "location": "Outdoor setting, likely a campsite or backyard.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A fire is burning, possibly for warmth or cooking.\n2. **Location**: Outdoor setting, likely a campsite or backyard.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Fire, metal grate, logs, darkness.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1296.6286666666667,
+      "timestamp_formatted": "0:21:36",
+      "activity": "The scene shows a setup for outdoor cooking or camping.",
+      "location": "Outdoor, likely a campsite.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a setup for outdoor cooking or camping.\n2. **Location**: Outdoor, likely a campsite.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Lantern, metal cooking setup, canned drink, mug, cooking utensils.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1319.8518666666666,
+      "timestamp_formatted": "0:21:59",
+      "activity": "The scene captures a night sky with visible stars.",
+      "location": "Outdoor, likely in a rural or natural setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a night sky with visible stars.\n2. **Location**: Outdoor, likely in a rural or natural setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Starry sky, horizon, faint silhouette of landscape.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1320.8195,
+      "timestamp_formatted": "0:22:00",
+      "activity": "The scene captures a sunrise or sunset over a landscape.",
+      "location": "Outdoor, likely in a rural or agricultural area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a sunrise or sunset over a landscape.\n2. **Location**: Outdoor, likely in a rural or agricultural area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sun, fog or mist, fields, river or water body.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1342.1074333333333,
+      "timestamp_formatted": "0:22:22",
+      "activity": "A tent is set up in a natural setting, possibly for camping.",
+      "location": "Outdoor, in a park or campsite.",
+      "mood": "Calm and serene, with a peaceful atmosphere.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A tent is set up in a natural setting, possibly for camping.\n2. **Location**: Outdoor, in a park or campsite.\n3. **Mood**: Calm and serene, with a peaceful atmosphere.\n4. **Key Elements**: Tent, trees, gravel ground, fence, sunrise or sunset.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1347.9132333333334,
+      "timestamp_formatted": "0:22:27",
+      "activity": "A person is setting up or adjusting a tent.",
+      "location": "Outdoor campsite, possibly in a rural or natural setting.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent.\n2. **Location**: Outdoor campsite, possibly in a rural or natural setting.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, person, small dog, trees, gravel ground.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1374.0393333333334,
+      "timestamp_formatted": "0:22:54",
+      "activity": "A person is preparing or cooking food inside a tent.",
+      "location": "Outdoor setting, inside a tent.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing or cooking food inside a tent.\n2. **Location**: Outdoor setting, inside a tent.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Tent, portable stove, person, cooking equipment, misty outdoor view.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 1411.7770333333333,
+      "timestamp_formatted": "0:23:31",
+      "activity": "Coffee is being brewed using a drip method.",
+      "location": "Outdoor setting, possibly a campsite or backyard.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Coffee is being brewed using a drip method.\n2. **Location**: Outdoor setting, possibly a campsite or backyard.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Drip coffee setup, kettle, mug, gravel ground.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 1434.0326,
+      "timestamp_formatted": "0:23:54",
+      "activity": "A steaming cloth is being placed or removed from a surface.",
+      "location": "Indoor, possibly a kitchen or laundry area.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Action (focused on a specific task).",
+      "raw_analysis": "1. **Activity**: A steaming cloth is being placed or removed from a surface.\n2. **Location**: Indoor, possibly a kitchen or laundry area.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Steaming cloth, metal surface, steam, blurred background.\n5. **Scene Type**: Action (focused on a specific task)."
+    },
+    {
+      "timestamp": 1435.0002333333334,
+      "timestamp_formatted": "0:23:55",
+      "activity": "Coffee is being brewed using a drip method.",
+      "location": "Outdoor setting, likely a campsite or picnic area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Coffee is being brewed using a drip method.\n2. **Location**: Outdoor setting, likely a campsite or picnic area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Drip coffee setup, metal mug, gravel ground, wooden surface.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1438.8707666666667,
+      "timestamp_formatted": "0:23:58",
+      "activity": "A person is relaxing inside a tent, possibly enjoying a drink.",
+      "location": "Outdoor setting, inside a tent with a view of a misty landscape.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is relaxing inside a tent, possibly enjoying a drink.\n2. **Location**: Outdoor setting, inside a tent with a view of a misty landscape.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent interior, chessboard, lamp, person holding a cup, misty landscape.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1447.5794666666668,
+      "timestamp_formatted": "0:24:07",
+      "activity": "A person is preparing or holding a drink inside a tent.",
+      "location": "Outdoor setting, inside a tent with a view of a natural landscape.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is preparing or holding a drink inside a tent.\n2. **Location**: Outdoor setting, inside a tent with a view of a natural landscape.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent interior, person holding a cup, cutting board, lamp, outdoor scenery.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1465.9645,
+      "timestamp_formatted": "0:24:25",
+      "activity": "A small dog is resting inside a tent.",
+      "location": "Indoor, inside a camping tent.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A small dog is resting inside a tent.\n2. **Location**: Indoor, inside a camping tent.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Small white dog, sleeping bag, camping tent, pillow, small table with a decorative item.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1490.1553333333334,
+      "timestamp_formatted": "0:24:50",
+      "activity": "A person is sitting in a tent, smiling and interacting with the camera.",
+      "location": "Outdoor camping setting inside a tent.",
+      "mood": "Relaxed and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting in a tent, smiling and interacting with the camera.\n2. **Location**: Outdoor camping setting inside a tent.\n3. **Mood**: Relaxed and cheerful.\n4. **Key Elements**: Person sitting on a camping chair, plush toy, tent interior, small table with a laptop.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1518.2167,
+      "timestamp_formatted": "0:25:18",
+      "activity": "The scene shows a person walking along a path near a tent.",
+      "location": "Outdoor setting, likely a campsite or rural area near farmland.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a person walking along a path near a tent.\n2. **Location**: Outdoor setting, likely a campsite or rural area near farmland.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent, person walking, gravel path, farmland, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1519.1843333333334,
+      "timestamp_formatted": "0:25:19",
+      "activity": "The scene shows a tranquil outdoor setting, possibly involving leisure or relaxation.",
+      "location": "This is taking place outdoors, near a rural or agricultural area with visible fields.",
+      "mood": "The atmosphere is calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a tranquil outdoor setting, possibly involving leisure or relaxation.\n2. **Location**: This is taking place outdoors, near a rural or agricultural area with visible fields.\n3. **Mood**: The atmosphere is calm and serene.\n4. **Key Elements**: \n   - Agricultural fields\n   - A small structure or tent\n   - Gravel pathway\n   - Trees and greenery\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1520.1519666666668,
+      "timestamp_formatted": "0:25:20",
+      "activity": "The scene captures an aerial view of a person walking along a path near a field.",
+      "location": "Outdoor, near agricultural fields.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a person walking along a path near a field.\n2. **Location**: Outdoor, near agricultural fields.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Person walking, gravel path, agricultural fields, trees, and a small structure.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1521.1196,
+      "timestamp_formatted": "0:25:21",
+      "activity": "The scene captures an aerial view of a person walking along a path.",
+      "location": "This is taking place outdoors, near a farm or agricultural field.",
+      "mood": "The atmosphere is calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a person walking along a path.\n2. **Location**: This is taking place outdoors, near a farm or agricultural field.\n3. **Mood**: The atmosphere is calm and serene.\n4. **Key Elements**: \n   - Agricultural fields with rows of crops\n   - A walking path\n   - A person walking\n   - Fenced area\n   - Trees and greenery\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1522.0872333333334,
+      "timestamp_formatted": "0:25:22",
+      "activity": "The scene captures an aerial view of a landscape, likely for observational or cinematic purposes.",
+      "location": "Outdoor, over a cultivated agricultural field and adjacent greenery.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a landscape, likely for observational or cinematic purposes.\n2. **Location**: Outdoor, over a cultivated agricultural field and adjacent greenery.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Agricultural fields with rows of crops\n   - Dense greenery on a slope\n   - A small paved area with a fence\n   - Trees and shrubs\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1523.0548666666666,
+      "timestamp_formatted": "0:25:23",
+      "activity": "The scene shows an aerial view of agricultural fields.",
+      "location": "Outdoor, likely a rural farming area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an aerial view of agricultural fields.\n2. **Location**: Outdoor, likely a rural farming area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Rows of crops\n   - A river or body of water\n   - Vegetation-covered land\n   - Pathways or roads\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1524.0225,
+      "timestamp_formatted": "0:25:24",
+      "activity": "The scene shows an aerial view of agricultural fields.",
+      "location": "Outdoor, farmland near a body of water.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an aerial view of agricultural fields.\n2. **Location**: Outdoor, farmland near a body of water.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Rows of crops, a river or lake, surrounding vegetation, text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1524.9901333333335,
+      "timestamp_formatted": "0:25:24",
+      "activity": "The scene captures an aerial view of agricultural fields next to a river.",
+      "location": "Outdoor, in a rural farming area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of agricultural fields next to a river.\n2. **Location**: Outdoor, in a rural farming area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, agricultural fields, greenery, dirt path.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1525.9577666666667,
+      "timestamp_formatted": "0:25:25",
+      "activity": "The scene captures a tranquil aerial view of a rural landscape.",
+      "location": "Outdoor, likely a countryside or agricultural area near a river.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a tranquil aerial view of a rural landscape.\n2. **Location**: Outdoor, likely a countryside or agricultural area near a river.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields with crops, dirt paths, scattered trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1526.9254,
+      "timestamp_formatted": "0:25:26",
+      "activity": "The scene captures a wide aerial view of a natural landscape.",
+      "location": "Outdoor, in a rural or natural area with fields and a river.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a wide aerial view of a natural landscape.\n2. **Location**: Outdoor, in a rural or natural area with fields and a river.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, grassy fields, dirt paths, mountains, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1527.8930333333333,
+      "timestamp_formatted": "0:25:27",
+      "activity": "The scene captures a wide view of a natural landscape.",
+      "location": "Outdoor, likely in a rural or mountainous area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a wide view of a natural landscape.\n2. **Location**: Outdoor, likely in a rural or mountainous area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Mountains, open fields, patches of greenery, and a clear sky.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1575.3070666666667,
+      "timestamp_formatted": "0:26:15",
+      "activity": "The scene captures an aerial view of a rural landscape with a river running through it.",
+      "location": "Outdoor, rural area with a river, fields, and a small bridge.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural landscape with a river running through it.\n2. **Location**: Outdoor, rural area with a river, fields, and a small bridge.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, bridge, fields, small buildings, road.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1576.2747,
+      "timestamp_formatted": "0:26:16",
+      "activity": "The scene captures an aerial view of a river and surrounding landscape.",
+      "location": "Outdoor, rural area with a river and fields.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a river and surrounding landscape.\n2. **Location**: Outdoor, rural area with a river and fields.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields, small buildings, road, bridge.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1577.2423333333334,
+      "timestamp_formatted": "0:26:17",
+      "activity": "The scene shows an aerial view of a river and surrounding landscape.",
+      "location": "Outdoor, rural area with a river and fields.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an aerial view of a river and surrounding landscape.\n2. **Location**: Outdoor, rural area with a river and fields.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields, small buildings, pathways, text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1578.2099666666668,
+      "timestamp_formatted": "0:26:18",
+      "activity": "The scene captures an aerial view of a river and surrounding landscape.",
+      "location": "Outdoor, rural area with a river, fields, and some buildings.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a river and surrounding landscape.\n2. **Location**: Outdoor, rural area with a river, fields, and some buildings.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields, buildings, roads, parking area.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1579.1776,
+      "timestamp_formatted": "0:26:19",
+      "activity": "The scene captures an aerial view of a river flowing through a rural landscape.",
+      "location": "Outdoor, in a countryside area with fields and a river.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a river flowing through a rural landscape.\n2. **Location**: Outdoor, in a countryside area with fields and a river.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields, roads, scattered buildings, and vehicles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1582.0805,
+      "timestamp_formatted": "0:26:22",
+      "activity": "The scene captures an aerial view of a river flowing through a rural landscape.",
+      "location": "Outdoor, in a countryside area with fields and a river.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a river flowing through a rural landscape.\n2. **Location**: Outdoor, in a countryside area with fields and a river.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields, small buildings, roads, greenery.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1584.0157666666667,
+      "timestamp_formatted": "0:26:24",
+      "activity": "The scene shows an aerial view of a rural landscape.",
+      "location": "Outdoor, over a countryside area with fields and scattered buildings.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an aerial view of a rural landscape.\n2. **Location**: Outdoor, over a countryside area with fields and scattered buildings.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Fields, dirt roads, scattered houses, vegetation.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1584.9834,
+      "timestamp_formatted": "0:26:24",
+      "activity": "The scene captures an aerial view of a rural landscape.",
+      "location": "Outdoor, likely a countryside area with fields and a river.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural landscape.\n2. **Location**: Outdoor, likely a countryside area with fields and a river.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, fields, houses, road, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1585.9510333333333,
+      "timestamp_formatted": "0:26:25",
+      "activity": "The scene captures an aerial view of a rural area, likely showcasing the landscape and layout of the region.",
+      "location": "Outdoor, in a rural or agricultural area with fields and a river.",
+      "mood": "Calm and serene, highlighting the natural beauty and tranquility of the countryside.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural area, likely showcasing the landscape and layout of the region.\n2. **Location**: Outdoor, in a rural or agricultural area with fields and a river.\n3. **Mood**: Calm and serene, highlighting the natural beauty and tranquility of the countryside.\n4. **Key Elements**: \n   - Agricultural fields\n   - River\n   - Roads\n   - Houses\n   - Trees\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 1586.9186666666667,
+      "timestamp_formatted": "0:26:26",
+      "activity": "The scene captures an aerial view of a rural landscape.",
+      "location": "Outdoor, likely a countryside or farming area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural landscape.\n2. **Location**: Outdoor, likely a countryside or farming area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Farmland with crops, a winding road, scattered houses, and a river.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1587.8863000000001,
+      "timestamp_formatted": "0:26:27",
+      "activity": "The scene captures an aerial view of a rural area, possibly for an overview or establishing shot.",
+      "location": "Outdoor, in a countryside or farming area with fields and houses.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural area, possibly for an overview or establishing shot.\n2. **Location**: Outdoor, in a countryside or farming area with fields and houses.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Agricultural fields\n   - River\n   - Residential houses\n   - Roads\n   - Vegetation\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1588.8539333333333,
+      "timestamp_formatted": "0:26:28",
+      "activity": "The scene captures an aerial view of a rural area, likely showcasing the landscape.",
+      "location": "Outdoor, in a countryside setting with fields and houses.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural area, likely showcasing the landscape.\n2. **Location**: Outdoor, in a countryside setting with fields and houses.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Agricultural fields\n   - Residential houses\n   - Roads\n   - Vegetation\n   - Vehicles\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1589.8215666666667,
+      "timestamp_formatted": "0:26:29",
+      "activity": "The scene captures an aerial view of a rural area, likely showcasing farmland and surrounding structures.",
+      "location": "Outdoor, rural farmland with adjacent residential and agricultural buildings.",
+      "mood": "Calm and serene, with a focus on nature and open spaces.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures an aerial view of a rural area, likely showcasing farmland and surrounding structures.\n2. **Location**: Outdoor, rural farmland with adjacent residential and agricultural buildings.\n3. **Mood**: Calm and serene, with a focus on nature and open spaces.\n4. **Key Elements**: \n   - Farmland with visible crop rows\n   - Residential houses\n   - Roads and pathways\n   - Parking area with vehicles\n   - Greenhouses or agricultural structures\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1590.7892,
+      "timestamp_formatted": "0:26:30",
+      "activity": "The scene shows an aerial view of a rural area, possibly captured by a drone.",
+      "location": "Outdoor, over a farmland and residential area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an aerial view of a rural area, possibly captured by a drone.\n2. **Location**: Outdoor, over a farmland and residential area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Farmland with crops, residential houses, roads, parked vehicles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1591.7568333333334,
+      "timestamp_formatted": "0:26:31",
+      "activity": "The scene shows a setup for outdoor cooking or a picnic.",
+      "location": "Outdoor, likely in a camping or picnic area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a setup for outdoor cooking or a picnic.\n2. **Location**: Outdoor, likely in a camping or picnic area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Packaged hot dogs, a lantern, a mug, a wooden surface, and a sign with flags.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1602.4008000000001,
+      "timestamp_formatted": "0:26:42",
+      "activity": "A person is preparing food, possibly mixing ingredients in a bowl.",
+      "location": "Outdoor setting, likely inside a tent.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing food, possibly mixing ingredients in a bowl.\n2. **Location**: Outdoor setting, likely inside a tent.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Mixing bowl, cooking utensils, packaged food, water bottle, tent interior.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 1608.2066,
+      "timestamp_formatted": "0:26:48",
+      "activity": "A person is preparing a meal, possibly breakfast, in an outdoor setting.",
+      "location": "Outdoor, likely at a campsite or picnic area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing a meal, possibly breakfast, in an outdoor setting.\n2. **Location**: Outdoor, likely at a campsite or picnic area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Mixing bowl with ingredients, cutting board, frying pan, bottle of water, and a sign with \"U.S. Pork.\"\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 1628.5269,
+      "timestamp_formatted": "0:27:08",
+      "activity": "Someone is preparing to cook a meal, likely involving pancakes or similar food.",
+      "location": "Outdoor setting, possibly at a campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing to cook a meal, likely involving pancakes or similar food.\n2. **Location**: Outdoor setting, possibly at a campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Mixing bowl with batter, frying pan, cutting board, packaged food items, and a bottle.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 1655.6206333333334,
+      "timestamp_formatted": "0:27:35",
+      "activity": "Someone is cooking pancakes on a portable stove.",
+      "location": "Outdoor setting, likely a campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is cooking pancakes on a portable stove.\n2. **Location**: Outdoor setting, likely a campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Pancakes on a pan, portable stove, cutting board, mug with flags, gravel ground.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 1657.5559,
+      "timestamp_formatted": "0:27:37",
+      "activity": "A person is cooking pancakes on a portable stove.",
+      "location": "Outdoor setting, likely at a campsite.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Cooking scene.",
+      "raw_analysis": "1. **Activity**: A person is cooking pancakes on a portable stove.\n2. **Location**: Outdoor setting, likely at a campsite.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Pancakes on a griddle, cutting board, packaged food items, a cup with a straw, and a small flag display.\n5. **Scene Type**: Cooking scene."
+    },
+    {
+      "timestamp": 1718.5168,
+      "timestamp_formatted": "0:28:38",
+      "activity": "Someone is preparing food, specifically hot dogs, and opening a can of corn.",
+      "location": "Outdoor setting, likely a campsite or picnic area.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing food, specifically hot dogs, and opening a can of corn.\n2. **Location**: Outdoor setting, likely a campsite or picnic area.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Hot dogs, can of corn, cutting board, mustard bottle, and a small flag with \"U.S. Pork\".\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1753.3516,
+      "timestamp_formatted": "0:29:13",
+      "activity": "A person is using a blowtorch to melt cheese on a hot dog.",
+      "location": "Outdoor setting, likely a campsite or picnic area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is using a blowtorch to melt cheese on a hot dog.\n2. **Location**: Outdoor setting, likely a campsite or picnic area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Blowtorch, hot dog with cheese, cutting board, U.S. Pork sign, beverage can.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1782.3806,
+      "timestamp_formatted": "0:29:42",
+      "activity": "A person is preparing food using a torch to melt cheese on a hot dog bun.",
+      "location": "Outdoor setting, likely a campsite or picnic area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing food using a torch to melt cheese on a hot dog bun.\n2. **Location**: Outdoor setting, likely a campsite or picnic area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Hot dog bun with cheese, torch, grill or cooking surface, gravel ground, U.S. pork packaging.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 1791.0893,
+      "timestamp_formatted": "0:29:51",
+      "activity": "The scene shows a food preparation setup, likely for a barbecue or outdoor meal.",
+      "location": "Outdoor setting, possibly a backyard or picnic area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or outdoor meal.\n2. **Location**: Outdoor setting, possibly a backyard or picnic area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Cutting board with sandwiches and pancakes, knife, hot dog relish, and a sign for U.S. Pork.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1792.0569333333333,
+      "timestamp_formatted": "0:29:52",
+      "activity": "The scene shows a food setup, likely for a meal or picnic.",
+      "location": "Outdoor setting, possibly a campsite or backyard.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food setup, likely for a meal or picnic.\n2. **Location**: Outdoor setting, possibly a campsite or backyard.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Cutting board with sandwiches and pancakes, cherry tomatoes, condiments, knives, and a sign for U.S. pork.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1793.0245666666667,
+      "timestamp_formatted": "0:29:53",
+      "activity": "The scene shows a food preparation setup, likely for a meal or picnic.",
+      "location": "Outdoor setting, possibly a campsite or backyard.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food preparation setup, likely for a meal or picnic.\n2. **Location**: Outdoor setting, possibly a campsite or backyard.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Cutting board with sandwiches and pancakes, condiments (mustard), knives, and a sign for U.S. Pork.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1795.9274666666668,
+      "timestamp_formatted": "0:29:55",
+      "activity": "The scene shows a food preparation setup, likely for a barbecue or picnic.",
+      "location": "Outdoor setting, possibly a patio or garden area.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or picnic.\n2. **Location**: Outdoor setting, possibly a patio or garden area.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Hot dog relish, cutting board with sandwiches and tomatoes, knives, and a U.S. Pork sign.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1796.8951,
+      "timestamp_formatted": "0:29:56",
+      "activity": "The scene shows a food preparation setup, likely for a barbecue or picnic.",
+      "location": "Outdoor setting, possibly a backyard or campsite.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or picnic.\n2. **Location**: Outdoor setting, possibly a backyard or campsite.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Cutting board with sandwiches and pancakes, mustard bottle, knife, tongs, and a sign for U.S. pork.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1797.8627333333334,
+      "timestamp_formatted": "0:29:57",
+      "activity": "The scene shows a food preparation or display setup, likely for a barbecue or picnic.",
+      "location": "Outdoor setting, possibly a backyard or patio.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food preparation or display setup, likely for a barbecue or picnic.\n2. **Location**: Outdoor setting, possibly a backyard or patio.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Hot dog relish, cutting board with sandwiches and pancakes, knife, small tomatoes, U.S. Pork sign.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1798.8303666666668,
+      "timestamp_formatted": "0:29:58",
+      "activity": "The scene shows a food setup, likely for a meal or picnic.",
+      "location": "Outdoor setting, possibly a campsite or backyard.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food setup, likely for a meal or picnic.\n2. **Location**: Outdoor setting, possibly a campsite or backyard.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Hot dog relish, cutting board with sandwiches and pancakes, knives, small bottles, promotional card for U.S. Meat and Pork.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1799.798,
+      "timestamp_formatted": "0:29:59",
+      "activity": "The scene shows a food preparation setup, likely for a barbecue or outdoor meal.",
+      "location": "Outdoor setting, possibly a backyard or picnic area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a food preparation setup, likely for a barbecue or outdoor meal.\n2. **Location**: Outdoor setting, possibly a backyard or picnic area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Cutting board with sandwiches and pancakes, knife, condiments (relish), and a sign for U.S. pork.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 1800.7656333333334,
+      "timestamp_formatted": "0:30:00",
+      "activity": "A person is sitting inside a tent, preparing or enjoying a meal.",
+      "location": "Outdoor camping setting inside a tent.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Casual outdoor dining.",
+      "raw_analysis": "1. **Activity**: A person is sitting inside a tent, preparing or enjoying a meal.\n2. **Location**: Outdoor camping setting inside a tent.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: Tent, person, food on a cutting board, camping chair, camping gear.\n5. **Scene Type**: Casual outdoor dining."
+    },
+    {
+      "timestamp": 1908.1729333333333,
+      "timestamp_formatted": "0:31:48",
+      "activity": "A person is eating, possibly enjoying a meal outdoors.",
+      "location": "The scene takes place outdoors, likely in a rural or natural setting.",
+      "mood": "The atmosphere is calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup with a scenic backdrop.",
+      "raw_analysis": "1. **Activity**: A person is eating, possibly enjoying a meal outdoors.\n2. **Location**: The scene takes place outdoors, likely in a rural or natural setting.\n3. **Mood**: The atmosphere is calm and relaxed.\n4. **Key Elements**: \n   - Person eating\n   - Picnic setup with food\n   - Outdoor scenery with fields\n   - Car in the background\n   - American-themed decor\n5. **Scene Type**: Food closeup with a scenic backdrop."
+    },
+    {
+      "timestamp": 1909.1405666666667,
+      "timestamp_formatted": "0:31:49",
+      "activity": "The scene captures a view of a cultivated field, likely part of a farming or agricultural activity.",
+      "location": "Outdoor, in a rural or countryside setting with fields and distant hills.",
+      "mood": "Calm and serene, with a peaceful atmosphere.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a view of a cultivated field, likely part of a farming or agricultural activity.\n2. **Location**: Outdoor, in a rural or countryside setting with fields and distant hills.\n3. **Mood**: Calm and serene, with a peaceful atmosphere.\n4. **Key Elements**: \n   - Cultivated field with crops\n   - Distant hills\n   - Blue sky with clouds\n   - River or stream nearby\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1926.5579666666667,
+      "timestamp_formatted": "0:32:06",
+      "activity": "A person is organizing or setting up items inside a tent.",
+      "location": "Indoor, inside a camping tent.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Setup/organization.",
+      "raw_analysis": "1. **Activity**: A person is organizing or setting up items inside a tent.\n2. **Location**: Indoor, inside a camping tent.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Camping stove, canister, storage bag, person wearing gloves, gravel floor.\n5. **Scene Type**: Setup/organization."
+    },
+    {
+      "timestamp": 1931.3961333333334,
+      "timestamp_formatted": "0:32:11",
+      "activity": "A person is setting up or adjusting equipment inside a tent.",
+      "location": "Indoor, inside a tent on a gravel surface.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting equipment inside a tent.\n2. **Location**: Indoor, inside a tent on a gravel surface.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tent interior, person in casual clothing, portable stove, canister, gravel floor.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 1939.1372000000001,
+      "timestamp_formatted": "0:32:19",
+      "activity": "A person is setting up or adjusting something inside a tent.",
+      "location": "Outdoor camping area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting something inside a tent.\n2. **Location**: Outdoor camping area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tent, air mattress, person, gravel ground, parked cars.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 1947.8459,
+      "timestamp_formatted": "0:32:27",
+      "activity": "A person is moving inside a tent, possibly setting up or organizing.",
+      "location": "Outdoor setting, inside a tent at a campsite.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is moving inside a tent, possibly setting up or organizing.\n2. **Location**: Outdoor setting, inside a tent at a campsite.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Tent, person in casual clothing, inflatable mattress, small bag, gravel ground.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 1948.8135333333335,
+      "timestamp_formatted": "0:32:28",
+      "activity": "A person is setting up or adjusting an inflatable mattress inside a tent.",
+      "location": "Outdoor setting, inside a tent at a campsite.",
+      "mood": "Calm and practical.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting an inflatable mattress inside a tent.\n2. **Location**: Outdoor setting, inside a tent at a campsite.\n3. **Mood**: Calm and practical.\n4. **Key Elements**: Inflatable mattress, tent, person in casual clothing, gravel ground, parked cars outside.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 1951.7164333333333,
+      "timestamp_formatted": "0:32:31",
+      "activity": "The scene shows a camping setup with a portable kitchen area.",
+      "location": "This is taking place inside a tent, likely in an outdoor camping area.",
+      "mood": "The atmosphere is calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene shows a camping setup with a portable kitchen area.\n2. **Location**: This is taking place inside a tent, likely in an outdoor camping area.\n3. **Mood**: The atmosphere is calm and organized.\n4. **Key Elements**: \n   - Portable kitchen unit\n   - Lantern\n   - Can of drink\n   - Cooking utensils\n   - Tent interior\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 1964.2956666666666,
+      "timestamp_formatted": "0:32:44",
+      "activity": "A person is setting up or adjusting a piece of equipment inside a tent.",
+      "location": "Outdoor, inside a tent.",
+      "mood": "Focused and practical.",
+      "key_elements": [],
+      "scene_type": "Setup/Preparation.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a piece of equipment inside a tent.\n2. **Location**: Outdoor, inside a tent.\n3. **Mood**: Focused and practical.\n4. **Key Elements**: Tent, person in casual clothing, equipment (possibly a heater or fan), gravel floor.\n5. **Scene Type**: Setup/Preparation."
+    },
+    {
+      "timestamp": 1966.2309333333333,
+      "timestamp_formatted": "0:32:46",
+      "activity": "A person is assembling or disassembling a metal object, possibly a piece of equipment or furniture.",
+      "location": "Outdoor setting, likely in a garden or patio area.",
+      "mood": "Focused and industrious.",
+      "key_elements": [],
+      "scene_type": "Action/assembly.",
+      "raw_analysis": "1. **Activity**: A person is assembling or disassembling a metal object, possibly a piece of equipment or furniture.\n2. **Location**: Outdoor setting, likely in a garden or patio area.\n3. **Mood**: Focused and industrious.\n4. **Key Elements**: \n   - Person wearing gloves\n   - Metal object or equipment\n   - Pebble or gravel ground\n   - Shadow of plants on a wall\n5. **Scene Type**: Action/assembly."
+    },
+    {
+      "timestamp": 1967.1985666666667,
+      "timestamp_formatted": "0:32:47",
+      "activity": "The scene shows a tent interior with shadows of tree branches on the fabric.",
+      "location": "Indoor, inside a tent.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a tent interior with shadows of tree branches on the fabric.\n2. **Location**: Indoor, inside a tent.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent fabric, shadows of branches, gravel floor, small metal rack.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 1969.1338333333333,
+      "timestamp_formatted": "0:32:49",
+      "activity": "A person is setting up or adjusting a metal rack inside a tent-like structure.",
+      "location": "Indoor, inside a tent or greenhouse.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Setup or preparation scene.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a metal rack inside a tent-like structure.\n2. **Location**: Indoor, inside a tent or greenhouse.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person wearing a hoodie, metal rack, tent structure, gravel floor, shadows of plants on the tent wall.\n5. **Scene Type**: Setup or preparation scene."
+    },
+    {
+      "timestamp": 1983.6483333333333,
+      "timestamp_formatted": "0:33:03",
+      "activity": "A person is setting up or adjusting a metal rack or grill.",
+      "location": "Indoor, inside a tent or temporary shelter.",
+      "mood": "Focused and practical.",
+      "key_elements": [],
+      "scene_type": "Setup or preparation scene.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a metal rack or grill.\n2. **Location**: Indoor, inside a tent or temporary shelter.\n3. **Mood**: Focused and practical.\n4. **Key Elements**: Person in a hoodie, metal rack, tent structure, gravel floor.\n5. **Scene Type**: Setup or preparation scene."
+    },
+    {
+      "timestamp": 1984.6159666666667,
+      "timestamp_formatted": "0:33:04",
+      "activity": "The scene appears to show a projection or reflection on a tent-like structure.",
+      "location": "Outdoor setting, possibly in a campsite or garden area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to show a projection or reflection on a tent-like structure.\n2. **Location**: Outdoor setting, possibly in a campsite or garden area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Tent fabric, shadows of leaves, gravel ground, projected text/image.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 2015.5802333333334,
+      "timestamp_formatted": "0:33:35",
+      "activity": "A person is setting up or adjusting a tent.",
+      "location": "Outdoor campsite.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent.\n2. **Location**: Outdoor campsite.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, person, trees, gravel path, grassy area.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 2025.2565666666667,
+      "timestamp_formatted": "0:33:45",
+      "activity": "A person is setting up or adjusting a tent.",
+      "location": "Outdoor, likely a campsite or park.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent.\n2. **Location**: Outdoor, likely a campsite or park.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tent, person, trees, gravel path, distant hills.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 2032.9976333333334,
+      "timestamp_formatted": "0:33:52",
+      "activity": "A person is setting up or adjusting a tent.",
+      "location": "Outdoor, likely a campsite or park area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent.\n2. **Location**: Outdoor, likely a campsite or park area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tent, person in casual clothing, gravel ground, trees, distant hills.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 2034.9329,
+      "timestamp_formatted": "0:33:54",
+      "activity": "A person is setting up or adjusting a tent.",
+      "location": "Outdoor, likely a campsite with a scenic view.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent.\n2. **Location**: Outdoor, likely a campsite with a scenic view.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, person in casual clothing, gravel ground, mountains, and a river in the background.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 2035.9005333333334,
+      "timestamp_formatted": "0:33:55",
+      "activity": "A person is setting up or inspecting a tent.",
+      "location": "Outdoor, likely a campsite near a river or open field.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Outdoor activity.",
+      "raw_analysis": "1. **Activity**: A person is setting up or inspecting a tent.\n2. **Location**: Outdoor, likely a campsite near a river or open field.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Tent, person in casual clothing, gravel ground, trees, distant hills.\n5. **Scene Type**: Outdoor activity."
+    },
+    {
+      "timestamp": 2039.7710666666667,
+      "timestamp_formatted": "0:33:59",
+      "activity": "A person is setting up or adjusting a tent.",
+      "location": "Outdoor, in a scenic camping area with trees and mountains.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Outdoor activity.",
+      "raw_analysis": "1. **Activity**: A person is setting up or adjusting a tent.\n2. **Location**: Outdoor, in a scenic camping area with trees and mountains.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Tent, person, trees, mountains, gravel ground.\n5. **Scene Type**: Outdoor activity."
+    },
+    {
+      "timestamp": 2056.2208333333333,
+      "timestamp_formatted": "0:34:16",
+      "activity": "A person is setting up a tent.",
+      "location": "Outdoor, in a scenic, rural area with mountains in the background.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is setting up a tent.\n2. **Location**: Outdoor, in a scenic, rural area with mountains in the background.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Person in casual clothing, tent components, trees, gravel ground.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 2057.1884666666665,
+      "timestamp_formatted": "0:34:17",
+      "activity": "A person is setting up or handling equipment outdoors.",
+      "location": "Outdoor setting, likely a garden or park area.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Action/setup.",
+      "raw_analysis": "1. **Activity**: A person is setting up or handling equipment outdoors.\n2. **Location**: Outdoor setting, likely a garden or park area.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Person in a hoodie, trees, gravel ground, mountains in the background, equipment in hand.\n5. **Scene Type**: Action/setup."
+    },
+    {
+      "timestamp": 2058.1561,
+      "timestamp_formatted": "0:34:18",
+      "activity": "A person appears to be setting up a tent or preparing a campsite.",
+      "location": "Outdoor, in a scenic natural area with mountains and trees.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Transition or establishing shot.",
+      "raw_analysis": "1. **Activity**: A person appears to be setting up a tent or preparing a campsite.\n2. **Location**: Outdoor, in a scenic natural area with mountains and trees.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Person in a hoodie, tent on the ground, trees, mountains, gravel area.\n5. **Scene Type**: Transition or establishing shot."
+    },
+    {
+      "timestamp": 2093.9585333333334,
+      "timestamp_formatted": "0:34:53",
+      "activity": "The scene appears to be a view from inside a vehicle, possibly concluding a journey.",
+      "location": "Outdoor, near a rural or suburban road with trees and utility poles.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a view from inside a vehicle, possibly concluding a journey.\n2. **Location**: Outdoor, near a rural or suburban road with trees and utility poles.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Trees, utility poles, gravel road, text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 2101.6996,
+      "timestamp_formatted": "0:35:01",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, on a tree-lined country road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Travel montage.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, on a tree-lined country road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, trees, power lines, vehicle hood, subtitles.\n5. **Scene Type**: Travel montage."
+    },
+    {
+      "timestamp": 2112.343566666667,
+      "timestamp_formatted": "0:35:12",
+      "activity": "A vehicle is driving down a rural road.",
+      "location": "Outdoor, countryside road.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A vehicle is driving down a rural road.\n2. **Location**: Outdoor, countryside road.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Road, trees, power lines, cloudy sky, text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 2118.1493666666665,
+      "timestamp_formatted": "0:35:18",
+      "activity": "The scene shows the end of a video, likely a travel vlog, with a thank you message.",
+      "location": "Outdoor, on a rural road.",
+      "mood": "Calm and reflective.",
+      "key_elements": [],
+      "scene_type": "Transition/closing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the end of a video, likely a travel vlog, with a thank you message.\n2. **Location**: Outdoor, on a rural road.\n3. **Mood**: Calm and reflective.\n4. **Key Elements**: Road, trees, power lines, thank you text overlay.\n5. **Scene Type**: Transition/closing shot."
+    },
+    {
+      "timestamp": 2119.117,
+      "timestamp_formatted": "0:35:19",
+      "activity": "The scene is concluding a video, likely a camping vlog.",
+      "location": "The setting appears to be outdoors, possibly a road or natural area.",
+      "mood": "The atmosphere is calm and reflective, typical of an ending scene.",
+      "key_elements": [],
+      "scene_type": "Conclusion/End credits.",
+      "raw_analysis": "1. **Activity**: The scene is concluding a video, likely a camping vlog.\n2. **Location**: The setting appears to be outdoors, possibly a road or natural area.\n3. **Mood**: The atmosphere is calm and reflective, typical of an ending scene.\n4. **Key Elements**: \n   - Text overlay thanking viewers\n   - \"Camping Vlog\" title\n   - Copyright notice\n5. **Scene Type**: Conclusion/End credits."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Establishing shot.",
+        75
+      ],
+      [
+        "Travel montage.",
+        17
+      ],
+      [
+        "Transition.",
+        12
+      ],
+      [
+        "Setup/Preparation.",
+        12
+      ],
+      [
+        "Food closeup.",
+        12
+      ]
+    ],
+    "locations": [
+      "Outdoor, in a natural setting with trees and mountains in the background.",
+      "Outdoor, in a rural or agricultural area with fields and distant hills.",
+      "This is taking place outdoors, inside a tent.",
+      "Outdoor, in a natural setting with trees and mountains.",
+      "Outdoor setting, likely at a campsite.",
+      "Outdoor campsite in a natural setting with mountains in the background.",
+      "Indoor setting within a tent, likely at a campsite.",
+      "Outdoor, likely at a campsite inside a tent.",
+      "Outdoor, likely a campsite.",
+      "Outdoor, likely in a rural or natural setting."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and serene.",
+        58
+      ],
+      [
+        "Casual and relaxed.",
+        13
+      ],
+      [
+        "Calm and peaceful.",
+        13
+      ],
+      [
+        "Relaxed and casual.",
+        11
+      ],
+      [
+        "Calm and focused.",
+        10
+      ]
+    ]
+  }
+}

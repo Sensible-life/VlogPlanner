@@ -1,0 +1,3354 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:10:01
+- Resolution: 1920x1080
+- FPS: 25.0
+
+## Visual Features
+- Dominant Colors: #856a4e, #ab9b7f, #19100b
+- Brightness Trend: Decreasing
+- Scene Changes: 288
+- Average Shot Length: 2.1s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 99
+- Content Length: 1041 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #856a4e, #ab9b7f, #19100b
+- Brightness: Decreasing
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 288
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Food closeup.: 49 occurrences
+  - Establishing shot.: 43 occurrences
+  - Food preparation.: 41 occurrences
+  - Transition.: 20 occurrences
+  - Unboxing.: 11 occurrences
+
+Dominant Moods:
+  - Calm and focused.: 59 scenes
+  - Calm and natural.: 23 scenes
+  - Casual and relaxed.: 16 scenes
+  - Casual and everyday.: 15 scenes
+  - Calm and leisurely.: 13 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:01]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with identifying or analyzing people in images.
+
+**Scene 2** [0:00:04]:
+  - Activity: A person and a dog are looking out of a window.
+  - Location: Indoor, possibly in a home or café setting.
+  - Mood: Calm and contemplative.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person and a dog are looking out of a window.
+2. **Location**: Indoor, possibly in a home or café setting.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: Person, dog, window, greenery outside, subtitles.
+5. **Scene Type**: Intimate moment.
+
+**Scene 3** [0:00:13]:
+  - Activity: The scene shows green tomatoes growing on a plant.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Nature closeup.
+  - Full Analysis: 1. **Activity**: The scene shows green tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Green tomatoes, tomato plant, leaves, sunlight, wall in the background.
+5. **Scene Type**: Nature closeup.
+
+**Scene 4** [0:00:16]:
+  - Activity: The scene shows young tomatoes growing on a plant.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows young tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Green tomatoes, tomato plant, sunlight, soil, planters.
+5. **Scene Type**: Establishing shot.
+
+**Scene 5** [0:00:18]:
+  - Activity: A person is tending to or observing plants.
+  - Location: Outdoor garden.
+  - Mood: Calm and natural.
+  - Scene Type: Gardening/plant care.
+  - Full Analysis: 1. **Activity**: A person is tending to or observing plants.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, bamboo stakes, greenery, person partially visible.
+5. **Scene Type**: Gardening/plant care.
+
+**Scene 6** [0:00:19]:
+  - Activity: A person is tending to or observing plants.
+  - Location: Outdoor garden or backyard.
+  - Mood: Calm and peaceful.
+  - Scene Type: Gardening or nature observation.
+  - Full Analysis: 1. **Activity**: A person is tending to or observing plants.
+2. **Location**: Outdoor garden or backyard.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Green tomatoes, bamboo stakes, leafy plants, person in a white shirt.
+5. **Scene Type**: Gardening or nature observation.
+
+**Scene 7** [0:00:20]:
+  - Activity: A person is tending to or observing plants in a garden.
+  - Location: Outdoor garden.
+  - Mood: Calm and intimate.
+  - Scene Type: Gardening/observation.
+  - Full Analysis: 1. **Activity**: A person is tending to or observing plants in a garden.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Green tomatoes, plant stakes, foliage, person partially visible.
+5. **Scene Type**: Gardening/observation.
+
+**Scene 8** [0:00:21]:
+  - Activity: A person is looking through tomato plants, possibly inspecting or gardening.
+  - Location: Outdoor garden.
+  - Mood: Calm and serene.
+  - Scene Type: Gardening/inspection.
+  - Full Analysis: 1. **Activity**: A person is looking through tomato plants, possibly inspecting or gardening.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tomato plants, wooden stakes, greenery, person's face.
+5. **Scene Type**: Gardening/inspection.
+
+**Scene 9** [0:00:22]:
+  - Activity: A person is tending to or observing plants, possibly in a garden.
+  - Location: Outdoor garden.
+  - Mood: Calm and intimate.
+  - Scene Type: Nature/observation.
+  - Full Analysis: 1. **Activity**: A person is tending to or observing plants, possibly in a garden.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Green tomatoes, plant stems, person partially visible, garden stakes, greenery.
+5. **Scene Type**: Nature/observation.
+
+**Scene 10** [0:00:23]:
+  - Activity: Someone is holding and possibly about to eat a powdered donut.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is holding and possibly about to eat a powdered donut.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Powdered donut, yellow donut box, granite countertop, Korean text.
+5. **Scene Type**: Food closeup.
+
+**Scene 11** [0:00:24]:
+  - Activity: A person is picking up a piece of pastry from a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is picking up a piece of pastry from a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Hand reaching for pastry
+   - Plate with pastries
+   - Text overlay in Korean
+   - White tablecloth
+5. **Scene Type**: Food closeup.
+
+**Scene 12** [0:00:26]:
+  - Activity: The scene shows a meal being prepared or served, featuring various dishes.
+  - Location: Indoor, likely a dining area or kitchen.
+  - Mood: Casual and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a meal being prepared or served, featuring various dishes.
+2. **Location**: Indoor, likely a dining area or kitchen.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Fried chicken on a plate, a bowl of sweet and sour sauce with vegetables, a red checkered placemat, subtitles in Korean.
+5. **Scene Type**: Food closeup.
+
+**Scene 13** [0:00:28]:
+  - Activity: A person is holding a croissant-like pastry.
+  - Location: Indoor, likely in a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a croissant-like pastry.
+2. **Location**: Indoor, likely in a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Croissant-like pastry, hand, wooden floor, text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 14** [0:00:29]:
+  - Activity: The scene shows a close-up of a dish, likely showcasing a food item.
+  - Location: Indoor, possibly a kitchen or dining area.
+  - Mood: Calm and inviting, focusing on the presentation of food.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a dish, likely showcasing a food item.
+2. **Location**: Indoor, possibly a kitchen or dining area.
+3. **Mood**: Calm and inviting, focusing on the presentation of food.
+4. **Key Elements**: Glass bowl, creamy mixture, apple slices, white cloth.
+5. **Scene Type**: Food closeup.
+
+**Scene 15** [0:00:36]:
+  - Activity: A spoonful of rice topped with a side dish is being held above a bowl.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and intimate, focused on food.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A spoonful of rice topped with a side dish is being held above a bowl.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and intimate, focused on food.
+4. **Key Elements**: Spoon, rice, side dish (possibly anchovies), bowl, text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 16** [0:00:38]:
+  - Activity: Two sausages are being cooked in a frying pan.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and domestic.
+  - Scene Type: Cooking closeup.
+  - Full Analysis: 1. **Activity**: Two sausages are being cooked in a frying pan.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Frying pan, two sausages, stovetop.
+5. **Scene Type**: Cooking closeup.
+
+**Scene 17** [0:00:39]:
+  - Activity: Two sausages are being cooked in a frying pan.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Two sausages are being cooked in a frying pan.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Frying pan, two sausages, stovetop, tongs.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 18** [0:00:41]:
+  - Activity: A person is about to eat sausages with ketchup using a fork.
+  - Location: Indoor, likely a dining area or kitchen.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is about to eat sausages with ketchup using a fork.
+2. **Location**: Indoor, likely a dining area or kitchen.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Sausages with ketchup, fork, lettuce salad, white plate, woven placemat.
+5. **Scene Type**: Food closeup.
+
+**Scene 19** [0:00:44]:
+  - Activity: Two sausages are being cooked in a frying pan.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Two sausages are being cooked in a frying pan.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Frying pan, sausages, stovetop, text overlay.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 20** [0:00:45]:
+  - Activity: Two sausages are being cooked in a frying pan.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking closeup.
+  - Full Analysis: 1. **Activity**: Two sausages are being cooked in a frying pan.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Frying pan, sausages, stovetop, tongs.
+5. **Scene Type**: Cooking closeup.
+
+**Scene 21** [0:00:46]:
+  - Activity: A person is slicing a tomato on a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is slicing a tomato on a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tomato slices, black plate, fork, knife.
+5. **Scene Type**: Food closeup.
+
+**Scene 22** [0:00:49]:
+  - Activity: The scene shows sliced oranges on a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and simple.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows sliced oranges on a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and simple.
+4. **Key Elements**: Sliced oranges, white plate, text overlay in Korean.
+5. **Scene Type**: Food closeup.
+
+**Scene 23** [0:00:51]:
+  - Activity: Someone is pouring milk into a cup filled with chocolate cereal.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is pouring milk into a cup filled with chocolate cereal.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Cup with cereal, milk being poured, wooden table, text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 24** [0:00:55]:
+  - Activity: A person is holding a piece of food wrapped in seaweed, likely showcasing a homemade dish.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and intimate, focused on food preparation or enjoyment.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a piece of food wrapped in seaweed, likely showcasing a homemade dish.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and intimate, focused on food preparation or enjoyment.
+4. **Key Elements**: Seaweed-wrapped food, white plate, granite countertop, hand holding the food.
+5. **Scene Type**: Food closeup.
+
+**Scene 25** [0:01:10]:
+  - Activity: The scene appears to be static with no visible activity occurring.
+  - Location: Indoor setting, possibly a room with a ceiling or wall view.
+  - Mood: Calm and neutral.
+  - Scene Type: Establishing shot or transition.
+  - Full Analysis: 1. **Activity**: The scene appears to be static with no visible activity occurring.
+2. **Location**: Indoor setting, possibly a room with a ceiling or wall view.
+3. **Mood**: Calm and neutral.
+4. **Key Elements**: 
+   - Two square panels or tiles
+   - Plain wall or ceiling
+   - Soft lighting
+5. **Scene Type**: Establishing shot or transition.
+
+**Scene 26** [0:01:19]:
+  - Activity: Butter or a similar spread is being applied to slices of bread.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and domestic.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Butter or a similar spread is being applied to slices of bread.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Slices of bread, butter or spread, plate, napkin.
+5. **Scene Type**: Food closeup.
+
+**Scene 27** [0:01:23]:
+  - Activity: The scene shows a treadmill in use, displaying workout metrics.
+  - Location: Indoor, likely a gym or home workout area.
+  - Mood: Functional and focused.
+  - Scene Type: Equipment closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a treadmill in use, displaying workout metrics.
+2. **Location**: Indoor, likely a gym or home workout area.
+3. **Mood**: Functional and focused.
+4. **Key Elements**: Treadmill display, digital readouts, control buttons.
+5. **Scene Type**: Equipment closeup.
+
+**Scene 28** [0:01:24]:
+  - Activity: The scene shows a treadmill display during a workout session.
+  - Location: Indoor, likely in a gym or home workout area.
+  - Mood: Focused and energetic.
+  - Scene Type: Exercise/fitness.
+  - Full Analysis: 1. **Activity**: The scene shows a treadmill display during a workout session.
+2. **Location**: Indoor, likely in a gym or home workout area.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Treadmill display, time, distance, heart rate, Korean subtitles.
+5. **Scene Type**: Exercise/fitness.
+
+**Scene 29** [0:01:25]:
+  - Activity: The scene shows a treadmill display in use, indicating a workout session.
+  - Location: Indoor, likely in a gym or home workout area.
+  - Mood: Focused and energetic.
+  - Scene Type: Exercise/fitness activity.
+  - Full Analysis: 1. **Activity**: The scene shows a treadmill display in use, indicating a workout session.
+2. **Location**: Indoor, likely in a gym or home workout area.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Treadmill display, digital readouts (time, distance, heart rate), control buttons, Korean subtitles.
+5. **Scene Type**: Exercise/fitness activity.
+
+**Scene 30** [0:01:26]:
+  - Activity: The scene shows exercise equipment laid out, possibly preparing for a workout.
+  - Location: Indoor, likely a home gym or workout area.
+  - Mood: Focused and calm, suggesting preparation or routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows exercise equipment laid out, possibly preparing for a workout.
+2. **Location**: Indoor, likely a home gym or workout area.
+3. **Mood**: Focused and calm, suggesting preparation or routine.
+4. **Key Elements**: Dumbbell, resistance bands, exercise mat, Korean text.
+5. **Scene Type**: Establishing shot.
+
+**Scene 31** [0:01:29]:
+  - Activity: A person is sitting on the floor, appearing to be in thought or resting.
+  - Location: Indoor, likely a home or personal room.
+  - Mood: Calm and introspective.
+  - Scene Type: Introspective moment.
+  - Full Analysis: 1. **Activity**: A person is sitting on the floor, appearing to be in thought or resting.
+2. **Location**: Indoor, likely a home or personal room.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Person sitting, exercise equipment, shelving unit, wooden floor.
+5. **Scene Type**: Introspective moment.
+
+**Scene 32** [0:01:34]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or greenhouse.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or greenhouse.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Green and red tomatoes, tomato plant leaves, soil, wooden stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 33** [0:01:37]:
+  - Activity: Ingredients are being prepared for a smoothie.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and organized.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Ingredients are being prepared for a smoothie.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Spinach, diced apples, whole kiwis, carrots, cutting board.
+5. **Scene Type**: Food preparation.
+
+**Scene 34** [0:01:40]:
+  - Activity: Vegetables are being prepared and chopped for cooking or storage.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and organized.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Vegetables are being prepared and chopped for cooking or storage.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Spinach, chopped potatoes, sliced carrots, cutting board, knife.
+5. **Scene Type**: Food preparation.
+
+**Scene 35** [0:01:43]:
+  - Activity: Almond milk is being poured into a blender.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Almond milk is being poured into a blender.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Blender, almond milk, countertop, kitchen cabinets.
+5. **Scene Type**: Food preparation.
+
+**Scene 36** [0:01:50]:
+  - Activity: Someone is preparing ingredients for blending, holding cashews over a blender.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing ingredients for blending, holding cashews over a blender.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Blender, cashews, greens inside the blender, kitchen cabinets.
+5. **Scene Type**: Food preparation.
+
+**Scene 37** [0:01:55]:
+  - Activity: Ingredients are being prepared in a blender, likely for a smoothie or sauce.
+  - Location: Indoor kitchen.
+  - Mood: Calm and routine.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Ingredients are being prepared in a blender, likely for a smoothie or sauce.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Blender, spinach, cashews, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 38** [0:01:57]:
+  - Activity: A green liquid is being poured into a glass mug.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A green liquid is being poured into a glass mug.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Glass mugs, green liquid, wooden table, white cloth.
+5. **Scene Type**: Food closeup.
+
+**Scene 39** [0:02:03]:
+  - Activity: The scene shows a peaceful outdoor setting, likely part of a nature walk or exploration.
+  - Location: Outdoor, in a forest or wooded area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a peaceful outdoor setting, likely part of a nature walk or exploration.
+2. **Location**: Outdoor, in a forest or wooded area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Trees, grass, sunlight filtering through leaves, forest background.
+5. **Scene Type**: Establishing shot.
+
+**Scene 40** [0:02:04]:
+  - Activity: The scene shows a peaceful outdoor setting, likely someone taking a walk or enjoying nature.
+  - Location: Outdoor, in a forest or wooded area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a peaceful outdoor setting, likely someone taking a walk or enjoying nature.
+2. **Location**: Outdoor, in a forest or wooded area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Trees, grass, sunlight filtering through the leaves, forest background.
+5. **Scene Type**: Establishing shot.
+
+**Scene 41** [0:02:05]:
+  - Activity: The scene captures a serene outdoor setting with no visible human activity.
+  - Location: Outdoor, in a forest or park area.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a serene outdoor setting with no visible human activity.
+2. **Location**: Outdoor, in a forest or park area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Green grass, small trees, dense forest background, sunlight filtering through trees.
+5. **Scene Type**: Establishing shot.
+
+**Scene 42** [0:02:06]:
+  - Activity: Two dogs are being walked on leashes.
+  - Location: Outdoor park or wooded area.
+  - Mood: Calm and peaceful.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: Two dogs are being walked on leashes.
+2. **Location**: Outdoor park or wooded area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Two dogs, leashes, trees, dirt path.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 43** [0:02:07]:
+  - Activity: Two dogs are being walked on leashes along a wooded path.
+  - Location: Outdoor, in a forest or park setting.
+  - Mood: Calm and peaceful.
+  - Scene Type: Leisure activity.
+  - Full Analysis: 1. **Activity**: Two dogs are being walked on leashes along a wooded path.
+2. **Location**: Outdoor, in a forest or park setting.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Two small dogs, leashes, trees, dirt path.
+5. **Scene Type**: Leisure activity.
+
+**Scene 44** [0:02:08]:
+  - Activity: Two dogs are being walked on leashes along a path.
+  - Location: Outdoor, in a wooded park or forest area.
+  - Mood: Calm and peaceful.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: Two dogs are being walked on leashes along a path.
+2. **Location**: Outdoor, in a wooded park or forest area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Two dogs, leashes, dirt path, surrounding greenery.
+5. **Scene Type**: Action.
+
+**Scene 45** [0:02:09]:
+  - Activity: A small dog is standing on the ground, appearing happy and playful.
+  - Location: Outdoor, likely in a park or wooded area.
+  - Mood: Cheerful and relaxed.
+  - Scene Type: Pet interaction.
+  - Full Analysis: 1. **Activity**: A small dog is standing on the ground, appearing happy and playful.
+2. **Location**: Outdoor, likely in a park or wooded area.
+3. **Mood**: Cheerful and relaxed.
+4. **Key Elements**: Small white dog, blue harness, leash, trees, park bench.
+5. **Scene Type**: Pet interaction.
+
+**Scene 46** [0:02:10]:
+  - Activity: A small dog is being walked on a leash in a park.
+  - Location: Outdoor, in a wooded park area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A small dog is being walked on a leash in a park.
+2. **Location**: Outdoor, in a wooded park area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Small white dog, blue leash, trees, park bench, fallen leaves.
+5. **Scene Type**: Establishing shot.
+
+**Scene 47** [0:02:11]:
+  - Activity: A dog is standing on a leash, possibly on a walk.
+  - Location: Outdoor, in a wooded park area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is standing on a leash, possibly on a walk.
+2. **Location**: Outdoor, in a wooded park area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Dog wearing a blue harness, leash, trees, park bench.
+5. **Scene Type**: Establishing shot.
+
+**Scene 48** [0:02:12]:
+  - Activity: A small dog is standing on a leash, possibly during a walk.
+  - Location: Outdoor park or wooded area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A small dog is standing on a leash, possibly during a walk.
+2. **Location**: Outdoor park or wooded area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Small white dog, blue leash, trees, park bench.
+5. **Scene Type**: Establishing shot.
+
+**Scene 49** [0:02:13]:
+  - Activity: The scene captures a view looking up through the canopy of trees.
+  - Location: Outdoor, likely in a forest or park.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a view looking up through the canopy of trees.
+2. **Location**: Outdoor, likely in a forest or park.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Green leaves, tree branches, sunlight filtering through.
+5. **Scene Type**: Establishing shot.
+
+**Scene 50** [0:02:14]:
+  - Activity: The scene captures a view looking up at the tree canopy.
+  - Location: Outdoor, in a forest or wooded area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a view looking up at the tree canopy.
+2. **Location**: Outdoor, in a forest or wooded area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Green leaves, tree branches, sunlight filtering through.
+5. **Scene Type**: Establishing shot.
+
+**Scene 51** [0:02:15]:
+  - Activity: The scene captures a view looking up at the tree canopy.
+  - Location: Outdoor, in a forest or park setting.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a view looking up at the tree canopy.
+2. **Location**: Outdoor, in a forest or park setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Green leaves, tree branches, sunlight filtering through.
+5. **Scene Type**: Establishing shot.
+
+**Scene 52** [0:02:16]:
+  - Activity: The scene shows the beginning of a cooking process, likely preparing dough.
+  - Location: Indoor, in a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: The scene shows the beginning of a cooking process, likely preparing dough.
+2. **Location**: Indoor, in a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Metal mixing bowl, yeast or similar ingredient, countertop, Korean text overlay.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 53** [0:02:18]:
+  - Activity: A liquid mixture is being prepared in a bowl, possibly for cooking or baking.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: A liquid mixture is being prepared in a bowl, possibly for cooking or baking.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Metal mixing bowl, liquid mixture, countertop.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 54** [0:02:25]:
+  - Activity: Ingredients are being mixed in a bowl, likely for a cooking or baking process.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Ingredients are being mixed in a bowl, likely for a cooking or baking process.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Metal mixing bowl, flour, liquid, countertop.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 55** [0:02:27]:
+  - Activity: Flour is being poured into a mixing bowl, likely for baking or cooking preparation.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Flour is being poured into a mixing bowl, likely for baking or cooking preparation.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Mixing bowl, flour, pouring motion, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 56** [0:02:32]:
+  - Activity: Dough is being mixed in a bowl.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Focused and practical.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Dough is being mixed in a bowl.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Focused and practical.
+4. **Key Elements**: Mixing bowl, dough, mixing hook.
+5. **Scene Type**: Food preparation.
+
+**Scene 57** [0:02:33]:
+  - Activity: Mixing ingredients in a bowl, likely for baking or cooking.
+  - Location: Indoor, kitchen setting.
+  - Mood: Focused and practical.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Mixing ingredients in a bowl, likely for baking or cooking.
+2. **Location**: Indoor, kitchen setting.
+3. **Mood**: Focused and practical.
+4. **Key Elements**: Mixing bowl, flour, spoon, dough.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 58** [0:02:34]:
+  - Activity: A person is shaping a ball of dough with their hands.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is shaping a ball of dough with their hands.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough, hands, wooden cutting board, granite countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 59** [0:02:35]:
+  - Activity: A person is kneading or shaping dough on a wooden cutting board.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is kneading or shaping dough on a wooden cutting board.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough, wooden cutting board, person's hands, granite countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 60** [0:02:40]:
+  - Activity: A person is handling a ball of dough, likely preparing it for baking.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is handling a ball of dough, likely preparing it for baking.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough, wooden cutting board, countertop, metal bowl.
+5. **Scene Type**: Food preparation.
+
+**Scene 61** [0:02:44]:
+  - Activity: A person is cutting dough on a wooden board.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is cutting dough on a wooden board.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough, wooden cutting board, dough scraper, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 62** [0:02:46]:
+  - Activity: Someone is preparing dough by cutting it with a plastic scraper.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing dough by cutting it with a plastic scraper.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough, plastic scraper, wooden cutting board, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 63** [0:02:50]:
+  - Activity: Someone is shaping dough pieces on a wooden board.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is shaping dough pieces on a wooden board.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough pieces, wooden board, person's hand, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 64** [0:02:55]:
+  - Activity: A person is preparing dough balls, likely for baking or cooking.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing dough balls, likely for baking or cooking.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough balls, wooden cutting board, hand, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 65** [0:02:56]:
+  - Activity: A person is shaping dough into balls.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is shaping dough into balls.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough balls, wooden cutting board, person's hands, granite countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 66** [0:03:07]:
+  - Activity: A person is shaping dough into a ring, likely preparing bagels or similar baked goods.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is shaping dough into a ring, likely preparing bagels or similar baked goods.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough balls, wooden cutting board, hands shaping dough, granite countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 67** [0:03:10]:
+  - Activity: Dough is being prepared for baking, likely bagels.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Dough is being prepared for baking, likely bagels.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough pieces, parchment paper, wooden board, granite countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 68** [0:03:14]:
+  - Activity: A piece of dough is being prepared to be placed into a pot of boiling water.
+  - Location: Indoor kitchen.
+  - Mood: Focused and calm.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: A piece of dough is being prepared to be placed into a pot of boiling water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Dough, parchment paper, pot, boiling water, countertop.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 69** [0:03:15]:
+  - Activity: A bagel is being placed into boiling water.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A bagel is being placed into boiling water.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagel dough, boiling water, parchment paper, hands, stainless steel pot.
+5. **Scene Type**: Food preparation.
+
+**Scene 70** [0:03:17]:
+  - Activity: A person is sprinkling salt into a pan of water where bagels are being boiled.
+  - Location: Indoor kitchen.
+  - Mood: Focused and calm.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: A person is sprinkling salt into a pan of water where bagels are being boiled.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Hand, salt, boiling water, bagels, pan.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 71** [0:03:18]:
+  - Activity: Two pieces of dough are being boiled in water, likely in the process of making bagels.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Two pieces of dough are being boiled in water, likely in the process of making bagels.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough pieces, parchment paper, boiling water, metal pot.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 72** [0:03:19]:
+  - Activity: Bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Pot of boiling water, bagels on parchment paper, slotted spoon, wooden spoon.
+5. **Scene Type**: Food preparation.
+
+**Scene 73** [0:03:20]:
+  - Activity: Bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Pot of water, bagels, parchment paper, wooden spoon, slotted spoon.
+5. **Scene Type**: Food preparation.
+
+**Scene 74** [0:03:21]:
+  - Activity: A bagel is being boiled in a pot of water.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: A bagel is being boiled in a pot of water.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagel, pot of water, spatula, stovetop.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 75** [0:03:22]:
+  - Activity: Bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagels, boiling water, pot, spatula, parchment paper.
+5. **Scene Type**: Food preparation.
+
+**Scene 76** [0:03:23]:
+  - Activity: Bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking process.
+  - Full Analysis: 1. **Activity**: Bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Boiling pot, bagels, spatula, parchment paper.
+5. **Scene Type**: Cooking process.
+
+**Scene 77** [0:03:24]:
+  - Activity: Two bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking process.
+  - Full Analysis: 1. **Activity**: Two bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagels, pot, boiling water, stovetop.
+5. **Scene Type**: Cooking process.
+
+**Scene 78** [0:03:26]:
+  - Activity: Bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking process.
+  - Full Analysis: 1. **Activity**: Bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagels, boiling water, pot, spatula, stove.
+5. **Scene Type**: Cooking process.
+
+**Scene 79** [0:03:27]:
+  - Activity: Bagels are being boiled in a pot of water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Bagels are being boiled in a pot of water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Boiling pot, bagels, spatula, stovetop.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 80** [0:03:29]:
+  - Activity: Bagels are baking in an oven.
+  - Location: Indoor, inside an oven in a kitchen.
+  - Mood: Warm and cozy.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Bagels are baking in an oven.
+2. **Location**: Indoor, inside an oven in a kitchen.
+3. **Mood**: Warm and cozy.
+4. **Key Elements**: Bagels, baking tray, oven interior.
+5. **Scene Type**: Food closeup.
+
+**Scene 81** [0:03:33]:
+  - Activity: Freshly baked bagels are being displayed or prepared.
+  - Location: Indoor kitchen or bakery setting.
+  - Mood: Calm and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly baked bagels are being displayed or prepared.
+2. **Location**: Indoor kitchen or bakery setting.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Bagels, baking sheet, countertop.
+5. **Scene Type**: Food closeup.
+
+**Scene 82** [0:03:34]:
+  - Activity: Freshly baked bagels are being prepared or displayed.
+  - Location: Indoor, likely a kitchen or bakery.
+  - Mood: Calm and focused.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly baked bagels are being prepared or displayed.
+2. **Location**: Indoor, likely a kitchen or bakery.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagels, parchment paper, countertop, gloved hand.
+5. **Scene Type**: Food closeup.
+
+**Scene 83** [0:03:35]:
+  - Activity: Someone is preparing or handling freshly baked bagels.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing or handling freshly baked bagels.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bagels, baking sheet, gloved hand, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 84** [0:03:36]:
+  - Activity: Freshly baked bagels are resting on a baking sheet.
+  - Location: Indoor, likely in a kitchen or bakery.
+  - Mood: Calm and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly baked bagels are resting on a baking sheet.
+2. **Location**: Indoor, likely in a kitchen or bakery.
+3. **Mood**: Calm and appetizing.
+4. **Key Elements**: Bagels, baking sheet, parchment paper.
+5. **Scene Type**: Food closeup.
+
+**Scene 85** [0:03:37]:
+  - Activity: Freshly baked bagels are cooling on a surface.
+  - Location: Indoor, likely in a bakery or kitchen.
+  - Mood: Calm and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly baked bagels are cooling on a surface.
+2. **Location**: Indoor, likely in a bakery or kitchen.
+3. **Mood**: Calm and appetizing.
+4. **Key Elements**: Bagels, baking sheet, light brown surface.
+5. **Scene Type**: Food closeup.
+
+**Scene 86** [0:03:38]:
+  - Activity: Cheese is being grated onto dough balls.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Cheese is being grated onto dough balls.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dough balls, cheese grater, grated cheese, parchment paper, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 87** [0:03:39]:
+  - Activity: Cheese is being grated onto bagels.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Cheese is being grated onto bagels.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Grater, bagels, grated cheese, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 88** [0:03:41]:
+  - Activity: Bagels are baking in an oven.
+  - Location: Indoor, inside an oven.
+  - Mood: Warm and cozy.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Bagels are baking in an oven.
+2. **Location**: Indoor, inside an oven.
+3. **Mood**: Warm and cozy.
+4. **Key Elements**: Bagels, baking tray, oven interior, melted cheese.
+5. **Scene Type**: Food closeup.
+
+**Scene 89** [0:03:44]:
+  - Activity: Freshly baked bagels are cooling on a baking sheet.
+  - Location: Indoor kitchen.
+  - Mood: Calm and homely.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly baked bagels are cooling on a baking sheet.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and homely.
+4. **Key Elements**: Bagels, baking sheet, countertop, mixing bowl.
+5. **Scene Type**: Food closeup.
+
+**Scene 90** [0:03:46]:
+  - Activity: Someone is arranging or inspecting freshly baked bagels on a cooling rack.
+  - Location: Indoor, likely a kitchen or bakery.
+  - Mood: Calm and satisfying.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is arranging or inspecting freshly baked bagels on a cooling rack.
+2. **Location**: Indoor, likely a kitchen or bakery.
+3. **Mood**: Calm and satisfying.
+4. **Key Elements**: Bagels, cooling rack, wooden surface, hand.
+5. **Scene Type**: Food closeup.
+
+**Scene 91** [0:03:47]:
+  - Activity: A person is picking up a freshly baked bagel from a cooling rack.
+  - Location: Indoor, likely a kitchen or bakery.
+  - Mood: Calm and homely.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is picking up a freshly baked bagel from a cooling rack.
+2. **Location**: Indoor, likely a kitchen or bakery.
+3. **Mood**: Calm and homely.
+4. **Key Elements**: Bagels, cooling rack, wooden surface, hand.
+5. **Scene Type**: Food closeup.
+
+**Scene 92** [0:03:50]:
+  - Activity: Someone is placing a bagel on a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is placing a bagel on a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Bagel, metal plate, striped cloth, hands.
+5. **Scene Type**: Food closeup.
+
+**Scene 93** [0:03:52]:
+  - Activity: Someone is about to pick up a bagel from a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is about to pick up a bagel from a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Bagel, metal plate, striped cloth, hands.
+5. **Scene Type**: Food closeup.
+
+**Scene 94** [0:03:54]:
+  - Activity: A person is preparing a toasted bagel.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing a toasted bagel.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Toasted bagel, metal plate, striped cloth, hands, cream cheese container.
+5. **Scene Type**: Food preparation.
+
+**Scene 95** [0:03:55]:
+  - Activity: A person is preparing to assemble or eat a toasted bagel.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing to assemble or eat a toasted bagel.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Toasted bagel, metal plate, striped cloth, hand reaching for the bagel.
+5. **Scene Type**: Food preparation.
+
+**Scene 96** [0:03:56]:
+  - Activity: Someone is spreading cream cheese on a toasted bagel.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is spreading cream cheese on a toasted bagel.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Toasted bagel, cream cheese, knife, striped tablecloth.
+5. **Scene Type**: Food closeup.
+
+**Scene 97** [0:04:00]:
+  - Activity: A person is spreading cream cheese on a toasted bagel.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is spreading cream cheese on a toasted bagel.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Toasted bagel, cream cheese, hand holding the bagel, container of cream cheese, striped tablecloth.
+5. **Scene Type**: Food closeup.
+
+**Scene 98** [0:04:01]:
+  - Activity: A toasted bagel is being prepared with cream cheese.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A toasted bagel is being prepared with cream cheese.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Toasted bagel, cream cheese container, metal plate, striped cloth.
+5. **Scene Type**: Food closeup.
+
+**Scene 99** [0:04:10]:
+  - Activity: The scene shows tomatoes ripening on the vine.
+  - Location: Outdoor garden or greenhouse.
+  - Mood: Calm and natural.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes ripening on the vine.
+2. **Location**: Outdoor garden or greenhouse.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomatoes, plant stems, leaves, garden containers.
+5. **Scene Type**: Food closeup.
+
+**Scene 100** [0:04:11]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomatoes, plant stems, leaves, plant support sticks.
+5. **Scene Type**: Establishing shot.
+
+**Scene 101** [0:04:14]:
+  - Activity: Someone is opening a cardboard box.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Anticipatory and casual.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: Someone is opening a cardboard box.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Anticipatory and casual.
+4. **Key Elements**: Cardboard box, packing material, hand, Korean text.
+5. **Scene Type**: Unboxing.
+
+**Scene 102** [0:04:15]:
+  - Activity: A package is being opened or examined.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Anticipatory or casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A package is being opened or examined.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Anticipatory or casual.
+4. **Key Elements**: Cardboard box, packing materials, wooden floor, Korean text overlay.
+5. **Scene Type**: Transition.
+
+**Scene 103** [0:04:16]:
+  - Activity: An unboxing is taking place, with a package being opened.
+  - Location: Indoor setting, likely a home or office.
+  - Mood: Anticipatory and casual.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: An unboxing is taking place, with a package being opened.
+2. **Location**: Indoor setting, likely a home or office.
+3. **Mood**: Anticipatory and casual.
+4. **Key Elements**: Cardboard box, packing material, plastic air cushions, paper wrapping.
+5. **Scene Type**: Unboxing.
+
+**Scene 104** [0:04:17]:
+  - Activity: The scene shows the unpacking of a cardboard box.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Neutral and mundane.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: The scene shows the unpacking of a cardboard box.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Neutral and mundane.
+4. **Key Elements**: Cardboard box, packing paper, air-filled packing material.
+5. **Scene Type**: Transition.
+
+**Scene 105** [0:04:19]:
+  - Activity: The scene shows an open cardboard box with packing paper inside, likely indicating unpacking or inspecting contents.
+  - Location: Indoor, possibly on a table or countertop.
+  - Mood: Neutral and mundane.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: The scene shows an open cardboard box with packing paper inside, likely indicating unpacking or inspecting contents.
+2. **Location**: Indoor, possibly on a table or countertop.
+3. **Mood**: Neutral and mundane.
+4. **Key Elements**: Cardboard box, packing paper, tabletop.
+5. **Scene Type**: Transition.
+
+**Scene 106** [0:04:20]:
+  - Activity: The scene shows a collection of snack and cereal boxes, possibly being unpacked or organized.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snack and cereal boxes, possibly being unpacked or organized.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, Cheetos bags, cardboard box.
+5. **Scene Type**: Establishing shot.
+
+**Scene 107** [0:04:21]:
+  - Activity: The scene shows a collection of snack items in a box, possibly being packed or unpacked.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snack items in a box, possibly being packed or unpacked.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cap'n Crunch cereal box, Cinnamon Toast Crunch cereal box, two bags of Cheetos.
+5. **Scene Type**: Establishing shot.
+
+**Scene 108** [0:04:22]:
+  - Activity: Someone is packing or unpacking a box of snacks and cereals.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is packing or unpacking a box of snacks and cereals.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, Cheetos bags, cardboard box.
+5. **Scene Type**: Transition.
+
+**Scene 109** [0:04:23]:
+  - Activity: Someone is unpacking or organizing snacks and cereal.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking or organizing snacks and cereal.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cheetos Flamin' Hot, Cap'n Crunch cereal, cardboard box.
+5. **Scene Type**: Transition.
+
+**Scene 110** [0:04:24]:
+  - Activity: Someone is unpacking or organizing snacks and cereal boxes.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Bag of Flamin' Hot Cheetos, Cap'n Crunch cereal box, cardboard box.
+5. **Scene Type**: Transition.
+
+**Scene 111** [0:04:25]:
+  - Activity: Someone is unpacking or organizing snacks and cereal boxes.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Bag of Cheetos, Cap'n Crunch cereal box, cardboard box, other cereal boxes.
+5. **Scene Type**: Transition.
+
+**Scene 112** [0:04:27]:
+  - Activity: Someone is unpacking a box containing snacks and cereal.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and routine.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: Someone is unpacking a box containing snacks and cereal.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Box of Cinnamon Toast Crunch, box of Cap'n Crunch, bag of Cheetos, cardboard box.
+5. **Scene Type**: Unboxing.
+
+**Scene 113** [0:04:28]:
+  - Activity: Someone is unpacking cereal boxes from a cardboard box.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking cereal boxes from a cardboard box.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, cardboard box, a person's hand.
+5. **Scene Type**: Transition.
+
+**Scene 114** [0:04:29]:
+  - Activity: Someone is unpacking or organizing cereal boxes and snacks from a cardboard box.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking or organizing cereal boxes and snacks from a cardboard box.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, a hand holding an orange snack bag, cardboard box.
+5. **Scene Type**: Transition.
+
+**Scene 115** [0:04:30]:
+  - Activity: Someone is unpacking or organizing snacks and cereal boxes.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cinnamon Toast Crunch cereal box, Flamin' Hot Cheetos bag, cardboard box, colorful packaging.
+5. **Scene Type**: Transition.
+
+**Scene 116** [0:04:31]:
+  - Activity: Someone is unpacking or organizing snacks and cereal boxes.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Bag of Flamin' Hot Cheetos, Cap'n Crunch cereal box, General Mills cereal box, cardboard box.
+5. **Scene Type**: Transition.
+
+**Scene 117** [0:04:32]:
+  - Activity: Someone is sorting or packing snack and cereal items.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is sorting or packing snack and cereal items.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Bag of Flamin' Hot Limon Cheetos, box of Cap'n Crunch cereal, cardboard box, hand holding the Cheetos.
+5. **Scene Type**: Transition.
+
+**Scene 118** [0:04:33]:
+  - Activity: The scene shows a close-up of snack and cereal packaging.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and everyday.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of snack and cereal packaging.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Snack bag with a cartoon character, cereal box, bright packaging.
+5. **Scene Type**: Product closeup.
+
+**Scene 119** [0:04:35]:
+  - Activity: The scene shows a close-up of snack packaging, possibly during a snack selection or unboxing.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of snack packaging, possibly during a snack selection or unboxing.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Open bag of spicy snacks, cereal box, cardboard box, bright packaging.
+5. **Scene Type**: Food closeup.
+
+**Scene 120** [0:04:36]:
+  - Activity: The scene shows a close-up of snacks being unpacked or displayed.
+  - Location: Indoor, possibly a kitchen or pantry area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of snacks being unpacked or displayed.
+2. **Location**: Indoor, possibly a kitchen or pantry area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Open bag of Flamin' Hot Cheetos, cereal box, cardboard box.
+5. **Scene Type**: Food closeup.
+
+**Scene 121** [0:04:39]:
+  - Activity: The scene shows an open bag of snacks, possibly being prepared for consumption or display.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows an open bag of snacks, possibly being prepared for consumption or display.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Open bag of Flamin' Hot Cheetos, cereal box, cardboard box.
+5. **Scene Type**: Food closeup.
+
+**Scene 122** [0:04:43]:
+  - Activity: The scene shows a display of snack and cereal packaging.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of snack and cereal packaging.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cereal box, snack bag, open bag of chips, cardboard box.
+5. **Scene Type**: Establishing shot.
+
+**Scene 123** [0:04:44]:
+  - Activity: Two dogs are observing open boxes on the floor.
+  - Location: Indoor, likely a home setting.
+  - Mood: Curious and playful.
+  - Scene Type: Casual observation.
+  - Full Analysis: 1. **Activity**: Two dogs are observing open boxes on the floor.
+2. **Location**: Indoor, likely a home setting.
+3. **Mood**: Curious and playful.
+4. **Key Elements**: Two dogs, open cardboard boxes, cereal box, and another packaged item.
+5. **Scene Type**: Casual observation.
+
+**Scene 124** [0:04:45]:
+  - Activity: Two dogs are approaching a box on the floor.
+  - Location: Indoor, likely a home setting.
+  - Mood: Calm and playful.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: Two dogs are approaching a box on the floor.
+2. **Location**: Indoor, likely a home setting.
+3. **Mood**: Calm and playful.
+4. **Key Elements**: Two dogs, a cardboard box, a cereal box labeled "Family Size," wooden floor.
+5. **Scene Type**: Interaction.
+
+**Scene 125** [0:04:46]:
+  - Activity: A person is reaching into a bag of snacks.
+  - Location: Indoor, likely a kitchen or living room.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is reaching into a bag of snacks.
+2. **Location**: Indoor, likely a kitchen or living room.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Hand, snack bag, snacks, cardboard surface.
+5. **Scene Type**: Food closeup.
+
+**Scene 126** [0:04:47]:
+  - Activity: The scene shows a close-up of snack items, possibly being unpacked or organized.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and mundane.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of snack items, possibly being unpacked or organized.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and mundane.
+4. **Key Elements**: Open bag of Cheetos, cereal box, cardboard box.
+5. **Scene Type**: Food closeup.
+
+**Scene 127** [0:04:48]:
+  - Activity: The scene shows a collection of snacks, possibly being unpacked or organized.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snacks, possibly being unpacked or organized.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Open bag of Cheetos, cereal box, cardboard box, snack packaging.
+5. **Scene Type**: Establishing shot.
+
+**Scene 128** [0:04:49]:
+  - Activity: The scene shows a collection of snack items, possibly being unpacked or organized.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snack items, possibly being unpacked or organized.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: 
+   - Open bag of spicy snacks
+   - Box of cereal
+   - Cardboard box
+   - Additional snack packaging
+5. **Scene Type**: Food closeup.
+
+**Scene 129** [0:04:50]:
+  - Activity: The scene shows a selection of snacks, possibly being unpacked or organized.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a selection of snacks, possibly being unpacked or organized.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Open bag of spicy snacks, cereal boxes, cardboard box.
+5. **Scene Type**: Food closeup.
+
+**Scene 130** [0:04:51]:
+  - Activity: The scene shows a collection of snack items being displayed or unpacked.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Product display.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snack items being displayed or unpacked.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Box of cereal
+   - Open bag of spicy snacks
+   - Cardboard box
+   - Snack packaging
+5. **Scene Type**: Product display.
+
+**Scene 131** [0:04:52]:
+  - Activity: The scene shows a close-up of snack items, possibly being organized or selected.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of snack items, possibly being organized or selected.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Open bag of cheese-flavored snacks, cereal boxes, colorful packaging.
+5. **Scene Type**: Food closeup.
+
+**Scene 132** [0:04:53]:
+  - Activity: Someone is reaching for a snack from an open bag.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is reaching for a snack from an open bag.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Open bag of snacks, cereal boxes, hand reaching for food.
+5. **Scene Type**: Food closeup.
+
+**Scene 133** [0:04:54]:
+  - Activity: Someone is holding a snack, possibly about to eat it.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is holding a snack, possibly about to eat it.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Box of Cinnamon Toast Crunch, bag of Cheetos, snack being held, Cap'n Crunch box.
+5. **Scene Type**: Food closeup.
+
+**Scene 134** [0:04:55]:
+  - Activity: The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, open bag of Cheetos, cardboard box.
+5. **Scene Type**: Establishing shot.
+
+**Scene 135** [0:04:56]:
+  - Activity: The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Casual and informal.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Casual and informal.
+4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, open bag of Cheetos, cardboard box.
+5. **Scene Type**: Establishing shot.
+
+**Scene 136** [0:04:57]:
+  - Activity: The scene shows a close-up of various snack and cereal packages, possibly being unpacked or displayed.
+  - Location: Indoor, likely a kitchen or pantry area.
+  - Mood: Casual and everyday.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of various snack and cereal packages, possibly being unpacked or displayed.
+2. **Location**: Indoor, likely a kitchen or pantry area.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Cereal box, snack bag, open bag of chips, colorful packaging.
+5. **Scene Type**: Food closeup.
+
+**Scene 137** [0:04:59]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor, likely in a garden or patio area.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor, likely in a garden or patio area.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant supports, sunlight.
+5. **Scene Type**: Establishing shot.
+
+**Scene 138** [0:05:00]:
+  - Activity: The scene shows tomato plants growing with ripe and unripe tomatoes visible.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomato plants growing with ripe and unripe tomatoes visible.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe red tomatoes, green tomatoes, plant pots, bamboo stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 139** [0:05:01]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Nature closeup.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, plant pot, bamboo stakes.
+5. **Scene Type**: Nature closeup.
+
+**Scene 140** [0:05:02]:
+  - Activity: The scene shows tomatoes growing on a vine.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a vine.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Green and red tomatoes, plant leaves, wooden stake, plant pot.
+5. **Scene Type**: Establishing shot.
+
+**Scene 141** [0:05:03]:
+  - Activity: The scene shows tomatoes ripening on the vine.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes ripening on the vine.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Green and red tomatoes, plant leaves, wooden stakes, plant pot.
+5. **Scene Type**: Establishing shot.
+
+**Scene 142** [0:05:04]:
+  - Activity: This scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: This scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomatoes, plant leaves, bamboo stakes, sunlight, plant pot.
+5. **Scene Type**: Establishing shot.
+
+**Scene 143** [0:05:05]:
+  - Activity: A person is adjusting their hair while looking at the camera.
+  - Location: Indoor, possibly a dressing room or studio.
+  - Mood: Intimate and casual.
+  - Scene Type: Personal moment.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair while looking at the camera.
+2. **Location**: Indoor, possibly a dressing room or studio.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: Person, hair, white wall, green sign.
+5. **Scene Type**: Personal moment.
+
+**Scene 144** [0:05:06]:
+  - Activity: A person is looking directly at the camera, possibly preparing for a recording or photo shoot.
+  - Location: Indoor setting, likely a studio or dressing room.
+  - Mood: Focused and calm.
+  - Scene Type: Preparation/behind-the-scenes.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly preparing for a recording or photo shoot.
+2. **Location**: Indoor setting, likely a studio or dressing room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: 
+   - Person with styled hair and makeup
+   - Plain background
+   - Subtitles in Korean
+5. **Scene Type**: Preparation/behind-the-scenes.
+
+**Scene 145** [0:05:07]:
+  - Activity: A person is looking directly at the camera, possibly preparing for a shoot.
+  - Location: Indoor setting, likely a studio or a room used for filming.
+  - Mood: Focused and anticipatory.
+  - Scene Type: Preparation or behind-the-scenes.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly preparing for a shoot.
+2. **Location**: Indoor setting, likely a studio or a room used for filming.
+3. **Mood**: Focused and anticipatory.
+4. **Key Elements**: 
+   - Person with long hair
+   - Plain wall background
+   - Cardboard boxes
+   - Korean text on screen
+5. **Scene Type**: Preparation or behind-the-scenes.
+
+**Scene 146** [0:05:08]:
+  - Activity: A person is looking towards the camera, possibly taking a selfie or recording a video.
+  - Location: Indoor setting, possibly a room with plain walls.
+  - Mood: Intimate and casual.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is looking towards the camera, possibly taking a selfie or recording a video.
+2. **Location**: Indoor setting, possibly a room with plain walls.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: Person with long hair, white wall, green exit sign, wooden furniture.
+5. **Scene Type**: Close-up.
+
+**Scene 147** [0:05:09]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with that.
+
+**Scene 148** [0:05:10]:
+  - Activity: A person is adjusting their hair or makeup while looking at the camera.
+  - Location: Indoor, possibly a dressing room or similar setting.
+  - Mood: Intimate and focused.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair or makeup while looking at the camera.
+2. **Location**: Indoor, possibly a dressing room or similar setting.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: Person's face, hand, hair, plain wall background.
+5. **Scene Type**: Close-up.
+
+**Scene 149** [0:05:11]:
+  - Activity: A person is looking intently at something off-camera.
+  - Location: Indoor setting, possibly a hallway or room with plain walls.
+  - Mood: Focused and contemplative.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is looking intently at something off-camera.
+2. **Location**: Indoor setting, possibly a hallway or room with plain walls.
+3. **Mood**: Focused and contemplative.
+4. **Key Elements**: Person's face, white wall, emergency exit sign.
+5. **Scene Type**: Close-up.
+
+**Scene 150** [0:05:12]:
+  - Activity: A person is looking intently at something off-camera.
+  - Location: Indoor setting, possibly a modern or minimalist room.
+  - Mood: Curious or contemplative.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is looking intently at something off-camera.
+2. **Location**: Indoor setting, possibly a modern or minimalist room.
+3. **Mood**: Curious or contemplative.
+4. **Key Elements**: Close-up of a person's face, white wall, glass block wall, wooden chair.
+5. **Scene Type**: Close-up.
+
+**Scene 151** [0:05:13]:
+  - Activity: A video shoot is taking place, capturing a person on camera.
+  - Location: Outdoor setting, likely in a garden or tropical area.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes of a video shoot.
+  - Full Analysis: 1. **Activity**: A video shoot is taking place, capturing a person on camera.
+2. **Location**: Outdoor setting, likely in a garden or tropical area.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Camera monitor displaying a person
+   - Camera rigging equipment
+   - Green foliage in the background
+   - Cables and technical gear
+5. **Scene Type**: Behind-the-scenes of a video shoot.
+
+**Scene 152** [0:05:14]:
+  - Activity: A video shoot is taking place, capturing a person on camera.
+  - Location: Outdoor setting, likely in a garden or tropical area.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes of a video production.
+  - Full Analysis: 1. **Activity**: A video shoot is taking place, capturing a person on camera.
+2. **Location**: Outdoor setting, likely in a garden or tropical area.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Camera monitor displaying a person
+   - Camera rigging equipment
+   - Green foliage in the background
+   - Cables and technical gear
+5. **Scene Type**: Behind-the-scenes of a video production.
+
+**Scene 153** [0:05:15]:
+  - Activity: A video shoot is taking place, capturing a person on camera.
+  - Location: Outdoor setting, likely in a garden or tropical area.
+  - Mood: Professional and focused.
+  - Scene Type: Filming/production setup.
+  - Full Analysis: 1. **Activity**: A video shoot is taking place, capturing a person on camera.
+2. **Location**: Outdoor setting, likely in a garden or tropical area.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Camera monitor, person on screen, camera equipment, greenery.
+5. **Scene Type**: Filming/production setup.
+
+**Scene 154** [0:05:16]:
+  - Activity: A video shoot is taking place, capturing a close-up of a person.
+  - Location: Outdoor setting, likely in a garden or a park with lush greenery.
+  - Mood: Professional and focused atmosphere.
+  - Scene Type: Filming/production setup.
+  - Full Analysis: 1. **Activity**: A video shoot is taking place, capturing a close-up of a person.
+2. **Location**: Outdoor setting, likely in a garden or a park with lush greenery.
+3. **Mood**: Professional and focused atmosphere.
+4. **Key Elements**: Camera monitor displaying a close-up, camera equipment, greenery, person in the background.
+5. **Scene Type**: Filming/production setup.
+
+**Scene 155** [0:05:17]:
+  - Activity: A video shoot is taking place, with a focus on capturing a close-up of a woman on the monitor.
+  - Location: Outdoor setting, likely in a garden or park with lush greenery.
+  - Mood: Professional and focused atmosphere.
+  - Scene Type: Filming/production setup.
+  - Full Analysis: 1. **Activity**: A video shoot is taking place, with a focus on capturing a close-up of a woman on the monitor.
+2. **Location**: Outdoor setting, likely in a garden or park with lush greenery.
+3. **Mood**: Professional and focused atmosphere.
+4. **Key Elements**: 
+   - Monitor displaying a close-up of a woman
+   - Camera equipment
+   - Crew members
+   - Green foliage in the background
+5. **Scene Type**: Filming/production setup.
+
+**Scene 156** [0:05:18]:
+  - Activity: A video is being filmed, with a focus on a person visible on the monitor.
+  - Location: Outdoor, likely in a garden or park setting.
+  - Mood: Professional and focused.
+  - Scene Type: Filming/production setup.
+  - Full Analysis: 1. **Activity**: A video is being filmed, with a focus on a person visible on the monitor.
+2. **Location**: Outdoor, likely in a garden or park setting.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Monitor displaying a close-up of a person
+   - Camera equipment
+   - Crew members
+   - Lush greenery in the background
+5. **Scene Type**: Filming/production setup.
+
+**Scene 157** [0:05:19]:
+  - Activity: A person is monitoring a video shoot on a display screen.
+  - Location: Indoor, likely a studio or filming set.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is monitoring a video shoot on a display screen.
+2. **Location**: Indoor, likely a studio or filming set.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Monitor displaying a close-up of a person.
+   - Person observing the monitor.
+   - Camera equipment.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 158** [0:05:21]:
+  - Activity: A person is monitoring a video feed on a monitor during a filming session.
+  - Location: Indoor, likely on a film set or studio.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is monitoring a video feed on a monitor during a filming session.
+2. **Location**: Indoor, likely on a film set or studio.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: 
+   - Video monitor displaying a close-up of a person.
+   - Person with blonde hair wearing glasses.
+   - Equipment and cables.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 159** [0:05:23]:
+  - Activity: Two people appear to be looking at a screen or monitor.
+  - Location: Indoor setting, possibly an office or studio.
+  - Mood: Focused and attentive.
+  - Scene Type: Dialogue or interaction.
+  - Full Analysis: 1. **Activity**: Two people appear to be looking at a screen or monitor.
+2. **Location**: Indoor setting, possibly an office or studio.
+3. **Mood**: Focused and attentive.
+4. **Key Elements**: Blonde hair, eyeglasses, face mask, screen/monitor.
+5. **Scene Type**: Dialogue or interaction.
+
+**Scene 160** [0:05:24]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor, likely a film or photography studio.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor, likely a film or photography studio.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: Monitor displaying a woman's face, person with blonde hair and glasses, camera equipment.
+5. **Scene Type**: Behind-the-scenes.
+
+**Scene 161** [0:05:25]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor, likely a film or photography studio.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor, likely a film or photography studio.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: Monitor displaying a woman's image, person with blonde hair, camera equipment, cables.
+5. **Scene Type**: Behind-the-scenes.
+
+**Scene 162** [0:05:26]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor, likely a studio or filming set.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor, likely a studio or filming set.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: Monitor displaying a woman's face, person with glasses observing the monitor, camera equipment.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 163** [0:05:31]:
+  - Activity: A video shoot is taking place, with a focus on a monitor displaying a woman's face.
+  - Location: Indoor setting, likely a studio or filming location.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A video shoot is taking place, with a focus on a monitor displaying a woman's face.
+2. **Location**: Indoor setting, likely a studio or filming location.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Monitor displaying a woman's face
+   - Camera equipment
+   - Person with blonde hair observing the monitor
+   - Cables and technical gear
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 164** [0:05:32]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor or outdoor set, likely a filming location.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor or outdoor set, likely a filming location.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Monitor displaying a woman's face, person with glasses and mask, camera equipment.
+5. **Scene Type**: Behind-the-scenes.
+
+**Scene 165** [0:05:33]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor setting, likely a studio or controlled environment.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor setting, likely a studio or controlled environment.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Monitor displaying a close-up of a woman, person with glasses reviewing the footage, camera equipment.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 166** [0:05:34]:
+  - Activity: A video is being filmed, with a focus on a person visible on the monitor.
+  - Location: Outdoor setting, likely a film set.
+  - Mood: Professional and focused.
+  - Scene Type: Filming/production setup.
+  - Full Analysis: 1. **Activity**: A video is being filmed, with a focus on a person visible on the monitor.
+2. **Location**: Outdoor setting, likely a film set.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Camera monitor, person on screen, person with sunglasses, camera equipment.
+5. **Scene Type**: Filming/production setup.
+
+**Scene 167** [0:05:35]:
+  - Activity: Someone is reviewing footage on a monitor.
+  - Location: Indoor, likely a film or video production set.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: Someone is reviewing footage on a monitor.
+2. **Location**: Indoor, likely a film or video production set.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: Monitor, person with glasses, camera equipment.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 168** [0:05:36]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor, likely a film or video production set.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor, likely a film or video production set.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: Monitor displaying footage, person with glasses, camera equipment, control panel.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 169** [0:05:37]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor, likely a studio or film set.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor, likely a studio or film set.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: Monitor displaying a video frame, person with headphones, camera equipment.
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 170** [0:05:38]:
+  - Activity: A video is being filmed, focusing on a person looking at the camera.
+  - Location: Indoor setting, possibly a studio or controlled environment.
+  - Mood: Professional and focused.
+  - Scene Type: Filming/production setup.
+  - Full Analysis: 1. **Activity**: A video is being filmed, focusing on a person looking at the camera.
+2. **Location**: Indoor setting, possibly a studio or controlled environment.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Camera monitor displaying a person
+   - Person with headphones observing the monitor
+   - Video camera setup
+   - Lighting equipment
+5. **Scene Type**: Filming/production setup.
+
+**Scene 171** [0:05:39]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor setting, likely a studio or controlled environment.
+  - Mood: Professional and focused.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor setting, likely a studio or controlled environment.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: 
+   - Monitor displaying a video frame
+   - Person with glasses observing the screen
+   - Camera equipment
+   - Image of a woman on the monitor
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 172** [0:05:40]:
+  - Activity: A person is reviewing footage on a monitor during a video shoot.
+  - Location: Indoor setting, likely a film set or studio.
+  - Mood: Focused and professional.
+  - Scene Type: Behind-the-scenes/production setup.
+  - Full Analysis: 1. **Activity**: A person is reviewing footage on a monitor during a video shoot.
+2. **Location**: Indoor setting, likely a film set or studio.
+3. **Mood**: Focused and professional.
+4. **Key Elements**: 
+   - Monitor displaying video footage
+   - Person with glasses and headphones
+   - Camera equipment
+5. **Scene Type**: Behind-the-scenes/production setup.
+
+**Scene 173** [0:05:44]:
+  - Activity: A person is turning their head, possibly flipping their hair.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition or casual moment.
+  - Full Analysis: 1. **Activity**: A person is turning their head, possibly flipping their hair.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person with long hair, framed photographs, television or monitor, wooden cabinet.
+5. **Scene Type**: Transition or casual moment.
+
+**Scene 174** [0:05:45]:
+  - Activity: A person is sitting or standing indoors, possibly in thought or conversation.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue or introspective moment.
+  - Full Analysis: 1. **Activity**: A person is sitting or standing indoors, possibly in thought or conversation.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person with long hair, framed photographs, television, wall thermostat.
+5. **Scene Type**: Dialogue or introspective moment.
+
+**Scene 175** [0:05:46]:
+  - Activity: A person is adjusting their hair, possibly preparing or grooming.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Calm and casual.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair, possibly preparing or grooming.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person, television, picture frames, table.
+5. **Scene Type**: Intimate moment.
+
+**Scene 176** [0:05:47]:
+  - Activity: A person is adjusting their hair while looking at the camera.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Casual and relaxed.
+  - Scene Type: Personal moment.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair while looking at the camera.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person, television, framed photos, light-colored walls.
+5. **Scene Type**: Personal moment.
+
+**Scene 177** [0:05:48]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with identifying or analyzing people in images.
+
+**Scene 178** [0:05:49]:
+  - Activity: A person is turning their head, causing their hair to move.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Intimate and calm.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is turning their head, causing their hair to move.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: Person, hair movement, bed, white shirt.
+5. **Scene Type**: Close-up.
+
+**Scene 179** [0:05:50]:
+  - Activity: A person is looking towards the camera with hair blowing across their face.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Intimate and casual.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is looking towards the camera with hair blowing across their face.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: Person with long hair, television, framed photo, white fabric.
+5. **Scene Type**: Intimate moment.
+
+**Scene 180** [0:05:51]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with identifying or analyzing people in images.
+
+**Scene 181** [0:05:52]:
+  - Activity: A person is turning their head, possibly reacting to something off-screen.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is turning their head, possibly reacting to something off-screen.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person with long hair, television, framed pictures, table.
+5. **Scene Type**: Transition.
+
+**Scene 182** [0:05:53]:
+  - Activity: A person is looking directly at the camera, possibly taking a selfie or recording a video.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Intimate and casual.
+  - Scene Type: Selfie/close-up.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly taking a selfie or recording a video.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: Person, television, framed photographs, table.
+5. **Scene Type**: Selfie/close-up.
+
+**Scene 183** [0:05:54]:
+  - Activity: A person is looking directly at the camera, possibly taking a selfie or recording a video.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Intimate and relaxed.
+  - Scene Type: Personal vlog or selfie moment.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly taking a selfie or recording a video.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person's face, television, picture frames, light-colored walls.
+5. **Scene Type**: Personal vlog or selfie moment.
+
+**Scene 184** [0:06:01]:
+  - Activity: A person is holding a decorative box, possibly about to open it.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Curious and anticipatory.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: A person is holding a decorative box, possibly about to open it.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Curious and anticipatory.
+4. **Key Elements**: Hand, decorative box, floral design, light bulb illustration, text.
+5. **Scene Type**: Unboxing.
+
+**Scene 185** [0:06:02]:
+  - Activity: A person is handling or examining a box.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Calm and focused.
+  - Scene Type: Product examination or unboxing.
+  - Full Analysis: 1. **Activity**: A person is handling or examining a box.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - White box with black and orange text and graphics
+   - Hand holding the box
+   - Wooden floor
+5. **Scene Type**: Product examination or unboxing.
+
+**Scene 186** [0:06:03]:
+  - Activity: The scene shows a close-up of a package or box, possibly being unboxed or examined.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Calm and focused.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a package or box, possibly being unboxed or examined.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - A box with text and graphics
+   - Wooden floor
+   - Korean text on the box
+5. **Scene Type**: Product closeup.
+
+**Scene 187** [0:06:04]:
+  - Activity: Someone is examining or presenting a box.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Neutral and focused.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: Someone is examining or presenting a box.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Neutral and focused.
+4. **Key Elements**: Box with text and illustrations, wooden floor, floral and light bulb graphics.
+5. **Scene Type**: Product showcase.
+
+**Scene 188** [0:06:05]:
+  - Activity: The scene shows a close-up of a decorative box, possibly being showcased or unboxed.
+  - Location: Indoor, likely on a wooden floor or table.
+  - Mood: Calm and focused.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a decorative box, possibly being showcased or unboxed.
+2. **Location**: Indoor, likely on a wooden floor or table.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Box with "SIMENON Maigret" text, illustrations of an anchor, a hat, and a lighthouse.
+5. **Scene Type**: Product showcase.
+
+**Scene 189** [0:06:06]:
+  - Activity: Someone is holding or examining a decorative box.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Curious and casual.
+  - Scene Type: Product examination.
+  - Full Analysis: 1. **Activity**: Someone is holding or examining a decorative box.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Curious and casual.
+4. **Key Elements**: Decorative box with text and illustrations, wooden floor, hand.
+5. **Scene Type**: Product examination.
+
+**Scene 190** [0:06:07]:
+  - Activity: The scene shows a close-up of a product box being examined or displayed.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Neutral and focused.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a product box being examined or displayed.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Neutral and focused.
+4. **Key Elements**: Product box with text and illustrations, wooden floor.
+5. **Scene Type**: Product closeup.
+
+**Scene 191** [0:06:08]:
+  - Activity: A person is opening or handling a box.
+  - Location: Indoor, likely on a wooden floor or table.
+  - Mood: Calm and focused.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: A person is opening or handling a box.
+2. **Location**: Indoor, likely on a wooden floor or table.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Hand, box with text, wooden surface.
+5. **Scene Type**: Unboxing.
+
+**Scene 192** [0:06:09]:
+  - Activity: The scene shows a close-up of a product package with text and graphics.
+  - Location: Indoor, likely on a table or countertop.
+  - Mood: Informative and neutral.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a product package with text and graphics.
+2. **Location**: Indoor, likely on a table or countertop.
+3. **Mood**: Informative and neutral.
+4. **Key Elements**: 
+   - Text in Korean
+   - Illustration of a light bulb
+   - Silhouette of a person
+   - Floral design
+   - Product packaging
+5. **Scene Type**: Product closeup.
+
+**Scene 193** [0:06:10]:
+  - Activity: The scene shows a close-up of a box with text and graphics on it.
+  - Location: Indoor, likely on a table or countertop.
+  - Mood: Neutral and informative.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a box with text and graphics on it.
+2. **Location**: Indoor, likely on a table or countertop.
+3. **Mood**: Neutral and informative.
+4. **Key Elements**: Box with text, light bulb graphic, floral design, wooden surface.
+5. **Scene Type**: Product closeup.
+
+**Scene 194** [0:06:11]:
+  - Activity: Someone is organizing or displaying a collection of books.
+  - Location: Indoor, likely a home or library setting.
+  - Mood: Calm and orderly.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Someone is organizing or displaying a collection of books.
+2. **Location**: Indoor, likely a home or library setting.
+3. **Mood**: Calm and orderly.
+4. **Key Elements**: A series of white book spines with Korean text, a wooden surface, a hand adjusting the books.
+5. **Scene Type**: Establishing shot.
+
+**Scene 195** [0:06:12]:
+  - Activity: The scene shows a collection of books neatly arranged in a box.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of books neatly arranged in a box.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: 
+   - A set of white books with numbered spines
+   - A box containing the books
+   - Wooden floor
+5. **Scene Type**: Establishing shot.
+
+**Scene 196** [0:06:13]:
+  - Activity: The scene shows a collection of books neatly arranged in a box.
+  - Location: Indoor, likely on a wooden floor or table.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a collection of books neatly arranged in a box.
+2. **Location**: Indoor, likely on a wooden floor or table.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Books with white spines, box container, wooden surface.
+5. **Scene Type**: Establishing shot.
+
+**Scene 197** [0:06:14]:
+  - Activity: A collection of books is being displayed or organized.
+  - Location: Indoor, likely on a wooden floor.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A collection of books is being displayed or organized.
+2. **Location**: Indoor, likely on a wooden floor.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Set of books, wooden floor, hand reaching towards the books.
+5. **Scene Type**: Establishing shot.
+
+**Scene 198** [0:06:30]:
+  - Activity: The scene captures a view of a river and cityscape during sunset.
+  - Location: Outdoor, under a bridge by a river, likely in an urban area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a view of a river and cityscape during sunset.
+2. **Location**: Outdoor, under a bridge by a river, likely in an urban area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: River, bridge, city skyline, sunset clouds, greenery.
+5. **Scene Type**: Establishing shot.
+
+**Scene 199** [0:06:34]:
+  - Activity: Two small dogs are being walked on leashes.
+  - Location: Outdoor, along a grassy path or sidewalk.
+  - Mood: Calm and leisurely.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: Two small dogs are being walked on leashes.
+2. **Location**: Outdoor, along a grassy path or sidewalk.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Two small white dogs, leashes, grass, sidewalk.
+5. **Scene Type**: Everyday activity.
+
+**Scene 200** [0:06:35]:
+  - Activity: Two small dogs are being walked on leashes.
+  - Location: Outdoor setting, likely a park or a path alongside greenery.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: Two small dogs are being walked on leashes.
+2. **Location**: Outdoor setting, likely a park or a path alongside greenery.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Two small white dogs, leashes, grassy area, paved path.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 201** [0:06:36]:
+  - Activity: Two dogs are being walked on leashes.
+  - Location: Outdoor, along a grassy path beside a sidewalk.
+  - Mood: Calm and leisurely.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: Two dogs are being walked on leashes.
+2. **Location**: Outdoor, along a grassy path beside a sidewalk.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Two small dogs, leashes, grass, sidewalk.
+5. **Scene Type**: Everyday activity.
+
+**Scene 202** [0:06:37]:
+  - Activity: Two small dogs are being walked on leashes.
+  - Location: Outdoor, alongside a grassy path next to a sidewalk.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: Two small dogs are being walked on leashes.
+2. **Location**: Outdoor, alongside a grassy path next to a sidewalk.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Two small dogs, leashes, grassy area, sidewalk.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 203** [0:06:38]:
+  - Activity: Two small dogs are being walked on leashes.
+  - Location: Outdoor, along a grassy roadside.
+  - Mood: Calm and leisurely.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: Two small dogs are being walked on leashes.
+2. **Location**: Outdoor, along a grassy roadside.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Two small white dogs, leashes, grass, roadside pavement.
+5. **Scene Type**: Everyday activity.
+
+**Scene 204** [0:06:39]:
+  - Activity: A person is walking two dogs on leashes.
+  - Location: Outdoor, along a grassy path or sidewalk.
+  - Mood: Calm and leisurely.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is walking two dogs on leashes.
+2. **Location**: Outdoor, along a grassy path or sidewalk.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Two dogs, leashes, grassy area, sidewalk.
+5. **Scene Type**: Everyday activity.
+
+**Scene 205** [0:06:40]:
+  - Activity: A small dog is being walked on a leash.
+  - Location: Outdoor, along a grassy path.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: A small dog is being walked on a leash.
+2. **Location**: Outdoor, along a grassy path.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Small white dog, leash, grassy area, path.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 206** [0:06:41]:
+  - Activity: A small dog is being walked on a leash along a path.
+  - Location: Outdoor, likely a park or a grassy roadside.
+  - Mood: Calm and leisurely.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A small dog is being walked on a leash along a path.
+2. **Location**: Outdoor, likely a park or a grassy roadside.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Small white dog, leash, grassy area, path.
+5. **Scene Type**: Transition.
+
+**Scene 207** [0:06:42]:
+  - Activity: A small dog is being walked on a leash.
+  - Location: Outdoor, along a grassy path.
+  - Mood: Calm and peaceful.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A small dog is being walked on a leash.
+2. **Location**: Outdoor, along a grassy path.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Small dog, leash, grassy area, path.
+5. **Scene Type**: Transition.
+
+**Scene 208** [0:06:43]:
+  - Activity: A person is walking a small white dog on a leash.
+  - Location: Outdoor, along a grassy path or park area.
+  - Mood: Calm and leisurely.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking a small white dog on a leash.
+2. **Location**: Outdoor, along a grassy path or park area.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Small white dog, leash, grassy hill, pathway.
+5. **Scene Type**: Transition.
+
+**Scene 209** [0:06:44]:
+  - Activity: A small dog is being walked along a grassy path.
+  - Location: Outdoor, alongside a road or sidewalk with a grassy embankment.
+  - Mood: Calm and leisurely.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A small dog is being walked along a grassy path.
+2. **Location**: Outdoor, alongside a road or sidewalk with a grassy embankment.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Small dog, leash, grassy embankment, sidewalk.
+5. **Scene Type**: Transition.
+
+**Scene 210** [0:06:45]:
+  - Activity: A person is walking a small white dog on a leash.
+  - Location: Outdoor, along a waterfront path.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor activity.
+  - Full Analysis: 1. **Activity**: A person is walking a small white dog on a leash.
+2. **Location**: Outdoor, along a waterfront path.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog, leash, person’s hand, railing, water.
+5. **Scene Type**: Casual outdoor activity.
+
+**Scene 211** [0:06:46]:
+  - Activity: A person is walking a dog along a waterfront path.
+  - Location: Outdoor, by a body of water, likely a lakeside or riverside path.
+  - Mood: Calm and peaceful.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking a dog along a waterfront path.
+2. **Location**: Outdoor, by a body of water, likely a lakeside or riverside path.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Dog on a leash, railing, water, paved path.
+5. **Scene Type**: Transition.
+
+**Scene 212** [0:06:47]:
+  - Activity: A person is walking a dog along a pathway.
+  - Location: Outdoor, by a waterfront or riverbank.
+  - Mood: Calm and leisurely.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking a dog along a pathway.
+2. **Location**: Outdoor, by a waterfront or riverbank.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog on a leash, pathway, railing, water.
+5. **Scene Type**: Transition.
+
+**Scene 213** [0:06:48]:
+  - Activity: A person is walking a dog along a pathway.
+  - Location: Outdoor, by a waterfront or riverbank.
+  - Mood: Calm and leisurely.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking a dog along a pathway.
+2. **Location**: Outdoor, by a waterfront or riverbank.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog on a leash, pathway, railing, water.
+5. **Scene Type**: Transition.
+
+**Scene 214** [0:06:49]:
+  - Activity: A small dog is lying on the floor, possibly resting or playing.
+  - Location: Indoor, likely a home setting.
+  - Mood: Calm and relaxed.
+  - Scene Type: Pet interaction.
+  - Full Analysis: 1. **Activity**: A small dog is lying on the floor, possibly resting or playing.
+2. **Location**: Indoor, likely a home setting.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Small white dog, wooden floor, puzzle toy, furniture.
+5. **Scene Type**: Pet interaction.
+
+**Scene 215** [0:07:07]:
+  - Activity: A person is looking directly at the camera, possibly speaking or preparing to speak.
+  - Location: Indoor, likely a private space such as a room or bathroom.
+  - Mood: Intimate and personal.
+  - Scene Type: Dialogue or personal monologue.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly speaking or preparing to speak.
+2. **Location**: Indoor, likely a private space such as a room or bathroom.
+3. **Mood**: Intimate and personal.
+4. **Key Elements**: Close-up of a person's face, wooden door or panel in the background, soft lighting.
+5. **Scene Type**: Dialogue or personal monologue.
+
+**Scene 216** [0:07:13]:
+  - Activity: The scene shows a decorated area for a welcoming event.
+  - Location: Indoor setting, likely a party or event venue.
+  - Mood: Festive and welcoming.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a decorated area for a welcoming event.
+2. **Location**: Indoor setting, likely a party or event venue.
+3. **Mood**: Festive and welcoming.
+4. **Key Elements**: 
+   - "WELCOME" balloon letters
+   - Cardboard cutout of a person
+   - Shiny streamers
+   - Balloons
+5. **Scene Type**: Establishing shot.
+
+**Scene 217** [0:07:15]:
+  - Activity: A welcome event or celebration is being set up.
+  - Location: Indoor, likely a decorated event space or party room.
+  - Mood: Festive and welcoming.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A welcome event or celebration is being set up.
+2. **Location**: Indoor, likely a decorated event space or party room.
+3. **Mood**: Festive and welcoming.
+4. **Key Elements**: 
+   - Metallic "WELCOME" balloons
+   - Cardboard cutout of a person
+   - Hanging balloons
+   - Iridescent streamers
+5. **Scene Type**: Establishing shot.
+
+**Scene 218** [0:07:16]:
+  - Activity: A welcome event or celebration is being set up or taking place.
+  - Location: Indoor setting, likely a party or event venue.
+  - Mood: Festive and welcoming.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A welcome event or celebration is being set up or taking place.
+2. **Location**: Indoor setting, likely a party or event venue.
+3. **Mood**: Festive and welcoming.
+4. **Key Elements**: 
+   - "WELCOME" balloon letters
+   - Assorted balloons
+   - Shimmering backdrop
+   - Cardboard cutout of a person
+   - Korean text with a heart emoji
+5. **Scene Type**: Establishing shot.
+
+**Scene 219** [0:07:18]:
+  - Activity: A welcome event or celebration is taking place.
+  - Location: Indoor setting, likely an office or event space.
+  - Mood: Festive and welcoming.
+  - Scene Type: Event setup.
+  - Full Analysis: 1. **Activity**: A welcome event or celebration is taking place.
+2. **Location**: Indoor setting, likely an office or event space.
+3. **Mood**: Festive and welcoming.
+4. **Key Elements**: Balloons, a large poster with a person's image, a welcome banner, ceiling lights.
+5. **Scene Type**: Event setup.
+
+**Scene 220** [0:07:22]:
+  - Activity: The scene shows a close-up of two packaged items with a photo and text on them.
+  - Location: Indoor, likely on a table or desk.
+  - Mood: Calm and promotional.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of two packaged items with a photo and text on them.
+2. **Location**: Indoor, likely on a table or desk.
+3. **Mood**: Calm and promotional.
+4. **Key Elements**: Two boxes with a photo of a person, Korean text, a rectangular frame or device.
+5. **Scene Type**: Product closeup.
+
+**Scene 221** [0:07:23]:
+  - Activity: A person is arranging or examining boxes on a table.
+  - Location: Indoor, likely on a wooden table or desk.
+  - Mood: Calm and focused.
+  - Scene Type: Product examination.
+  - Full Analysis: 1. **Activity**: A person is arranging or examining boxes on a table.
+2. **Location**: Indoor, likely on a wooden table or desk.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Boxes with a woman's image, hand interacting with the boxes, wooden surface, rectangular frame.
+5. **Scene Type**: Product examination.
+
+**Scene 222** [0:07:24]:
+  - Activity: A person is arranging or examining packaged items on a table.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Calm and organized.
+  - Scene Type: Product examination.
+  - Full Analysis: 1. **Activity**: A person is arranging or examining packaged items on a table.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Packaged boxes with a photo and text, a hand, a black rectangular frame.
+5. **Scene Type**: Product examination.
+
+**Scene 223** [0:07:25]:
+  - Activity: Someone is holding a gift box, possibly preparing to open it.
+  - Location: Indoor, likely on a table or countertop.
+  - Mood: Anticipatory and intimate.
+  - Scene Type: Gift opening.
+  - Full Analysis: 1. **Activity**: Someone is holding a gift box, possibly preparing to open it.
+2. **Location**: Indoor, likely on a table or countertop.
+3. **Mood**: Anticipatory and intimate.
+4. **Key Elements**: Red gift box with "Baccarat" branding, white ribbon, hands holding the box, wooden table surface.
+5. **Scene Type**: Gift opening.
+
+**Scene 224** [0:07:27]:
+  - Activity: Someone is untying a ribbon on a gift box.
+  - Location: Indoor, likely on a table in a home or office setting.
+  - Mood: Anticipatory and intimate.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: Someone is untying a ribbon on a gift box.
+2. **Location**: Indoor, likely on a table in a home or office setting.
+3. **Mood**: Anticipatory and intimate.
+4. **Key Elements**: Red gift box, white ribbon with "Baccarat" branding, hands untying the ribbon, wooden table surface.
+5. **Scene Type**: Unboxing.
+
+**Scene 225** [0:07:28]:
+  - Activity: Someone is untying a ribbon on a gift box.
+  - Location: Indoor, likely at a table or desk.
+  - Mood: Anticipatory and intimate.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: Someone is untying a ribbon on a gift box.
+2. **Location**: Indoor, likely at a table or desk.
+3. **Mood**: Anticipatory and intimate.
+4. **Key Elements**: Red gift box, ribbon, hands, wooden surface, text overlay.
+5. **Scene Type**: Unboxing.
+
+**Scene 226** [0:07:29]:
+  - Activity: Someone is holding and possibly about to open a gift box.
+  - Location: Indoor, likely at a table in a casual setting.
+  - Mood: Anticipatory and intimate.
+  - Scene Type: Gift exchange.
+  - Full Analysis: 1. **Activity**: Someone is holding and possibly about to open a gift box.
+2. **Location**: Indoor, likely at a table in a casual setting.
+3. **Mood**: Anticipatory and intimate.
+4. **Key Elements**: Red gift box with "Baccarat" logo, hands holding the box, wooden table, text in Korean.
+5. **Scene Type**: Gift exchange.
+
+**Scene 227** [0:07:31]:
+  - Activity: A person is opening a gift box to reveal a decorative glass item inside.
+  - Location: Indoor, likely a home or a casual setting.
+  - Mood: Intimate and appreciative.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: A person is opening a gift box to reveal a decorative glass item inside.
+2. **Location**: Indoor, likely a home or a casual setting.
+3. **Mood**: Intimate and appreciative.
+4. **Key Elements**: Red gift box, decorative glass item, hand opening the box, wooden table, text overlay.
+5. **Scene Type**: Unboxing.
+
+**Scene 228** [0:07:33]:
+  - Activity: Someone is unboxing or opening a gift box.
+  - Location: Indoor, likely on a table or countertop.
+  - Mood: Anticipatory and curious.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: Someone is unboxing or opening a gift box.
+2. **Location**: Indoor, likely on a table or countertop.
+3. **Mood**: Anticipatory and curious.
+4. **Key Elements**: Red gift box, hands, clear plastic object, ribbon.
+5. **Scene Type**: Unboxing.
+
+**Scene 229** [0:07:34]:
+  - Activity: Someone is unboxing a glass item from a red gift box.
+  - Location: Indoor, likely on a wooden table.
+  - Mood: Anticipatory and intimate.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: Someone is unboxing a glass item from a red gift box.
+2. **Location**: Indoor, likely on a wooden table.
+3. **Mood**: Anticipatory and intimate.
+4. **Key Elements**: Red gift box, glass item, hands, wooden table, ribbon.
+5. **Scene Type**: Unboxing.
+
+**Scene 230** [0:07:36]:
+  - Activity: A person is examining or showcasing a decorative glass.
+  - Location: Indoor, likely a home or a casual setting.
+  - Mood: Calm and focused.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is examining or showcasing a decorative glass.
+2. **Location**: Indoor, likely a home or a casual setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Decorative glass, red box, handbag, yellow bag, text overlay.
+5. **Scene Type**: Product showcase.
+
+**Scene 231** [0:07:37]:
+  - Activity: A person is holding a clear, textured glass.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is holding a clear, textured glass.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Hand, clear glass, wooden table, bag of chips.
+5. **Scene Type**: Everyday activity.
+
+**Scene 232** [0:07:38]:
+  - Activity: The scene shows a close-up of food items, possibly being prepared or packaged.
+  - Location: Indoor, likely a kitchen or food preparation area.
+  - Mood: Neutral, focused on the task at hand.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of food items, possibly being prepared or packaged.
+2. **Location**: Indoor, likely a kitchen or food preparation area.
+3. **Mood**: Neutral, focused on the task at hand.
+4. **Key Elements**: Raw chicken pieces, plastic wrap, a hand, packaging material.
+5. **Scene Type**: Food closeup.
+
+**Scene 233** [0:07:39]:
+  - Activity: A person is examining a decorative glass.
+  - Location: Indoor, likely at a home or a gift-giving setting.
+  - Mood: Calm and intimate.
+  - Scene Type: Unboxing.
+  - Full Analysis: 1. **Activity**: A person is examining a decorative glass.
+2. **Location**: Indoor, likely at a home or a gift-giving setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Decorative glass, red gift box, wooden table, ribbon.
+5. **Scene Type**: Unboxing.
+
+**Scene 234** [0:07:46]:
+  - Activity: A person is examining a decorative glass.
+  - Location: Indoor, likely at a table or countertop.
+  - Mood: Calm and focused.
+  - Scene Type: Closeup examination.
+  - Full Analysis: 1. **Activity**: A person is examining a decorative glass.
+2. **Location**: Indoor, likely at a table or countertop.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Decorative glass, hands, wooden surface, open box.
+5. **Scene Type**: Closeup examination.
+
+**Scene 235** [0:07:48]:
+  - Activity: Someone is unboxing or examining a glass object.
+  - Location: Indoor, likely on a table or countertop.
+  - Mood: Curious and focused.
+  - Scene Type: Unboxing or product reveal.
+  - Full Analysis: 1. **Activity**: Someone is unboxing or examining a glass object.
+2. **Location**: Indoor, likely on a table or countertop.
+3. **Mood**: Curious and focused.
+4. **Key Elements**: Red box, glass object, white ribbon, wooden surface.
+5. **Scene Type**: Unboxing or product reveal.
+
+**Scene 236** [0:07:49]:
+  - Activity: Two small dogs are resting on a blanket.
+  - Location: Indoor, likely a living room.
+  - Mood: Calm and cozy.
+  - Scene Type: Pet closeup.
+  - Full Analysis: 1. **Activity**: Two small dogs are resting on a blanket.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Two small dogs, blanket, wooden floor, part of a sofa.
+5. **Scene Type**: Pet closeup.
+
+**Scene 237** [0:08:02]:
+  - Activity: The scene shows tomato plants growing, possibly being cultivated or observed.
+  - Location: Outdoor garden or patio setting.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomato plants growing, possibly being cultivated or observed.
+2. **Location**: Outdoor garden or patio setting.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe red tomatoes, green leaves, plant stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 238** [0:08:03]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor, likely in a garden or patio area.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor, likely in a garden or patio area.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, potted plants, leaves.
+5. **Scene Type**: Establishing shot.
+
+**Scene 239** [0:08:04]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or patio area.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio area.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, bamboo support, potted plants.
+5. **Scene Type**: Establishing shot.
+
+**Scene 240** [0:08:05]:
+  - Activity: The scene shows tomatoes ripening on the vine.
+  - Location: This is taking place outdoors in a garden or patio setting.
+  - Mood: The atmosphere is calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes ripening on the vine.
+2. **Location**: This is taking place outdoors in a garden or patio setting.
+3. **Mood**: The atmosphere is calm and serene.
+4. **Key Elements**: 
+   - Ripening tomatoes
+   - Green leaves
+   - Plant support stakes
+   - Potted plants in the background
+5. **Scene Type**: Establishing shot.
+
+**Scene 241** [0:08:06]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor, likely in a garden or patio area.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor, likely in a garden or patio area.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, plant support sticks, potted plants.
+5. **Scene Type**: Establishing shot.
+
+**Scene 242** [0:08:07]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: This is taking place outdoors, likely in a garden or greenhouse.
+  - Mood: The atmosphere is calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: This is taking place outdoors, likely in a garden or greenhouse.
+3. **Mood**: The atmosphere is calm and natural.
+4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, plant pots, greenery.
+5. **Scene Type**: Establishing shot.
+
+**Scene 243** [0:08:08]:
+  - Activity: The scene shows tomatoes growing on plants, possibly being observed or tended to.
+  - Location: Outdoor garden or greenhouse.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on plants, possibly being observed or tended to.
+2. **Location**: Outdoor garden or greenhouse.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, green leaves, wooden stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 244** [0:08:09]:
+  - Activity: The scene shows tomato plants growing in a garden.
+  - Location: Outdoor garden or greenhouse.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomato plants growing in a garden.
+2. **Location**: Outdoor garden or greenhouse.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, soil, plant stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 245** [0:08:10]:
+  - Activity: The scene shows tomato plants growing, likely being observed or tended to.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomato plants growing, likely being observed or tended to.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant pots, bamboo stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 246** [0:08:11]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or greenhouse.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or greenhouse.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant stakes, pots.
+5. **Scene Type**: Establishing shot.
+
+**Scene 247** [0:08:12]:
+  - Activity: The scene shows tomatoes growing on a plant.
+  - Location: Outdoor garden or patio.
+  - Mood: Calm and natural.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows tomatoes growing on a plant.
+2. **Location**: Outdoor garden or patio.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant pots, wooden stakes.
+5. **Scene Type**: Establishing shot.
+
+**Scene 248** [0:08:13]:
+  - Activity: Freshly harvested tomatoes are being collected in a container.
+  - Location: Outdoor garden.
+  - Mood: Calm and satisfying.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly harvested tomatoes are being collected in a container.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and satisfying.
+4. **Key Elements**: Tomatoes, container, tomato plants, green leaves.
+5. **Scene Type**: Food closeup.
+
+**Scene 249** [0:08:14]:
+  - Activity: Freshly harvested tomatoes are being displayed in a bowl.
+  - Location: Outdoor garden.
+  - Mood: Calm and natural.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Freshly harvested tomatoes are being displayed in a bowl.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Bowl of tomatoes, tomato plants, greenery.
+5. **Scene Type**: Food closeup.
+
+**Scene 250** [0:08:15]:
+  - Activity: The scene shows freshly harvested tomatoes in a bowl.
+  - Location: Outdoor garden.
+  - Mood: Calm and natural.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows freshly harvested tomatoes in a bowl.
+2. **Location**: Outdoor garden.
+3. **Mood**: Calm and natural.
+4. **Key Elements**: Bowl of tomatoes, tomato plants, greenery.
+5. **Scene Type**: Food closeup.
+
+**Scene 251** [0:08:16]:
+  - Activity: Someone is harvesting or displaying freshly picked tomatoes.
+  - Location: Outdoor garden.
+  - Mood: Fresh and natural.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is harvesting or displaying freshly picked tomatoes.
+2. **Location**: Outdoor garden.
+3. **Mood**: Fresh and natural.
+4. **Key Elements**: Bowl of tomatoes, tomato plants, green leaves.
+5. **Scene Type**: Food closeup.
+
+**Scene 252** [0:08:17]:
+  - Activity: A person is preparing to cut vegetables on a wooden cutting board.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing to cut vegetables on a wooden cutting board.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Knife, wooden cutting board, zucchini, bell peppers, eggplants, tomatoes.
+5. **Scene Type**: Food preparation.
+
+**Scene 253** [0:08:22]:
+  - Activity: A person is slicing a tomato on a cutting board.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is slicing a tomato on a cutting board.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Cutting board, knife, tomatoes, assorted vegetables, text overlay.
+5. **Scene Type**: Food preparation.
+
+**Scene 254** [0:08:28]:
+  - Activity: Someone is preparing vegetables, specifically chopping tomatoes.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing vegetables, specifically chopping tomatoes.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Chopped tomatoes, whole vegetables (zucchini, bell pepper, tomatoes, eggplants), a bowl of cherry tomatoes, a hand in action.
+5. **Scene Type**: Food preparation.
+
+**Scene 255** [0:08:31]:
+  - Activity: Vegetables are being prepared for cooking, likely roasting.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Vegetables are being prepared for cooking, likely roasting.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Red bell peppers, tomatoes, garlic cloves, parchment paper.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 256** [0:08:34]:
+  - Activity: The scene shows roasted vegetables, likely prepared for a meal.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and domestic.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows roasted vegetables, likely prepared for a meal.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Roasted red peppers, cherry tomatoes, garlic cloves, parchment paper.
+5. **Scene Type**: Food closeup.
+
+**Scene 257** [0:08:35]:
+  - Activity: Ingredients are being prepared for making a sauce.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Ingredients are being prepared for making a sauce.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Roasted red peppers, cherry tomatoes, garlic cloves, almonds, parchment paper.
+5. **Scene Type**: Food preparation.
+
+**Scene 258** [0:08:36]:
+  - Activity: A person is preparing ingredients, likely for a sauce, by holding almonds over a tray of roasted vegetables.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing ingredients, likely for a sauce, by holding almonds over a tray of roasted vegetables.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Almonds, roasted red peppers, garlic cloves, baking tray.
+5. **Scene Type**: Food preparation.
+
+**Scene 259** [0:08:37]:
+  - Activity: The scene shows someone preparing ingredients for a sauce, holding almonds in their hand.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: The scene shows someone preparing ingredients for a sauce, holding almonds in their hand.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Almonds, roasted red peppers, garlic, baking tray.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 260** [0:08:38]:
+  - Activity: Bread pieces are being toasted in a frying pan.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: Bread pieces are being toasted in a frying pan.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Frying pan, bread pieces, stovetop, Korean text overlay.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 261** [0:08:40]:
+  - Activity: Bread cubes are being toasted in a frying pan.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking closeup.
+  - Full Analysis: 1. **Activity**: Bread cubes are being toasted in a frying pan.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Frying pan, bread cubes, stovetop.
+5. **Scene Type**: Cooking closeup.
+
+**Scene 262** [0:08:41]:
+  - Activity: A person is slicing zucchini on a cutting board.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is slicing zucchini on a cutting board.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Knife, cutting board, zucchini, tray of assorted vegetables (bell pepper, mushrooms, tomatoes, eggplant).
+5. **Scene Type**: Food preparation.
+
+**Scene 263** [0:08:47]:
+  - Activity: Someone is slicing mushrooms on a cutting board.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is slicing mushrooms on a cutting board.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Cutting board, knife, mushrooms, assorted vegetables, tray.
+5. **Scene Type**: Food preparation.
+
+**Scene 264** [0:08:49]:
+  - Activity: A person is preparing vegetables by adding seasoning and olive oil to a bowl.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing vegetables by adding seasoning and olive oil to a bowl.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Glass bowl, sliced vegetables (zucchini, mushrooms, broccoli), gloved hand, wooden table.
+5. **Scene Type**: Food preparation.
+
+**Scene 265** [0:08:52]:
+  - Activity: A person is preparing a salad by adding olive oil to a bowl of vegetables.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing a salad by adding olive oil to a bowl of vegetables.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Bottle of olive oil, glass bowl, sliced vegetables (zucchini, mushrooms, broccoli), wooden table.
+5. **Scene Type**: Food preparation.
+
+**Scene 266** [0:08:54]:
+  - Activity: A person is preparing a salad by adding ingredients to a bowl.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing a salad by adding ingredients to a bowl.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Glass bowl, sliced vegetables (zucchini, mushrooms, broccoli), gloved hands, bread in the background.
+5. **Scene Type**: Food preparation.
+
+**Scene 267** [0:08:55]:
+  - Activity: A person is preparing a salad by mixing vegetables in a bowl.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing a salad by mixing vegetables in a bowl.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Glass bowl, vegetables, gloved hands, bread, spoon.
+5. **Scene Type**: Food preparation.
+
+**Scene 268** [0:08:56]:
+  - Activity: Someone is preparing a salad by mixing vegetables in a bowl.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing a salad by mixing vegetables in a bowl.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Gloved hands, glass bowl, chopped vegetables, bread, and a spoon.
+5. **Scene Type**: Food preparation.
+
+**Scene 269** [0:08:57]:
+  - Activity: Onion slices are being grilled on an electric grill.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused on cooking.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Onion slices are being grilled on an electric grill.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused on cooking.
+4. **Key Elements**: Onion slices, electric grill, wooden surface, control knobs.
+5. **Scene Type**: Food closeup.
+
+**Scene 270** [0:08:59]:
+  - Activity: The scene shows a presentation of grilled vegetables on a plate.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a presentation of grilled vegetables on a plate.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and appetizing.
+4. **Key Elements**: Grilled onions, yellow bell peppers, zucchini, broccoli, eggplant.
+5. **Scene Type**: Food closeup.
+
+**Scene 271** [0:09:01]:
+  - Activity: Someone is spreading a red-orange paste onto a slice of bread.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is spreading a red-orange paste onto a slice of bread.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Slice of bread, red-orange paste, knife, wooden cutting board, dish with grilled vegetables.
+5. **Scene Type**: Food preparation.
+
+**Scene 272** [0:09:04]:
+  - Activity: A person is preparing food by placing cooked vegetables on slices of bread with orange spread.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing food by placing cooked vegetables on slices of bread with orange spread.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Slices of bread with spread, cooked vegetables, chopsticks, wooden board.
+5. **Scene Type**: Food preparation.
+
+**Scene 273** [0:09:06]:
+  - Activity: A person is preparing open-faced sandwiches with roasted vegetables and a spread.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing open-faced sandwiches with roasted vegetables and a spread.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Slices of bread with orange spread, grilled vegetables, a wooden serving board, a dish with more vegetables.
+5. **Scene Type**: Food preparation.
+
+**Scene 274** [0:09:09]:
+  - Activity: The scene shows a close-up of a food presentation, likely part of a meal being served.
+  - Location: Indoor, possibly in a restaurant or dining setting.
+  - Mood: The atmosphere is calm and focused on culinary aesthetics.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a food presentation, likely part of a meal being served.
+2. **Location**: Indoor, possibly in a restaurant or dining setting.
+3. **Mood**: The atmosphere is calm and focused on culinary aesthetics.
+4. **Key Elements**: 
+   - Grilled vegetables (eggplant, broccoli, onion)
+   - Sweet potato base
+   - Wooden serving board
+5. **Scene Type**: Food closeup.
+
+**Scene 275** [0:09:13]:
+  - Activity: A person is assembling or displaying open-faced sandwiches with various grilled vegetables.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is assembling or displaying open-faced sandwiches with various grilled vegetables.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and appetizing.
+4. **Key Elements**: Grilled vegetables (broccolini, bell peppers, eggplant, onions), bread slices, wooden serving board.
+5. **Scene Type**: Food closeup.
+
+**Scene 276** [0:09:17]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm unable to analyze the content of this video frame. It appears to be completely black, with no visible elements or activity to describe.
+
+**Scene 277** [0:09:23]:
+  - Activity: Two dogs are resting near a window.
+  - Location: Indoor, likely a living room with a view of a garden.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate.
+  - Full Analysis: 1. **Activity**: Two dogs are resting near a window.
+2. **Location**: Indoor, likely a living room with a view of a garden.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Two fluffy white dogs, a large window, a yellow mat, greenery outside.
+5. **Scene Type**: Intimate.
+
+**Scene 278** [0:09:27]:
+  - Activity: A person is interacting with a small dog, possibly taking a selfie or video.
+  - Location: Indoor, likely a living room.
+  - Mood: Intimate and relaxed.
+  - Scene Type: Casual interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a small dog, possibly taking a selfie or video.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person, small dog, sofa, potted plant, subtitles in Korean.
+5. **Scene Type**: Casual interaction.
+
+**Scene 279** [0:09:28]:
+  - Activity: A person is interacting with a dog, possibly expressing fatigue or stress.
+  - Location: Indoor, likely a home setting.
+  - Mood: Intimate and slightly weary.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a dog, possibly expressing fatigue or stress.
+2. **Location**: Indoor, likely a home setting.
+3. **Mood**: Intimate and slightly weary.
+4. **Key Elements**: Person, dog, hand on forehead, text overlay.
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 280** [0:09:30]:
+  - Activity: A person is interacting closely with a small dog.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Intimate and calm.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is interacting closely with a small dog.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: Person, small fluffy dog, bed or couch, dim lighting.
+5. **Scene Type**: Intimate moment.
+
+**Scene 281** [0:09:31]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with identifying or analyzing people in images.
+
+**Scene 282** [0:09:32]:
+  - Activity: A person is sitting with a white dog, possibly engaging in a casual interaction.
+  - Location: Indoor, likely in a living room or similar cozy space.
+  - Mood: Intimate and relaxed.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person is sitting with a white dog, possibly engaging in a casual interaction.
+2. **Location**: Indoor, likely in a living room or similar cozy space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: White dog, person, couch, cushions, text overlay.
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 283** [0:09:33]:
+  - Activity: The scene shows a person speaking or reacting, possibly in a vlog or casual conversation.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: The atmosphere seems casual and relaxed.
+  - Scene Type: Dialogue or personal vlog segment.
+  - Full Analysis: 1. **Activity**: The scene shows a person speaking or reacting, possibly in a vlog or casual conversation.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: The atmosphere seems casual and relaxed.
+4. **Key Elements**: 
+   - Blurred person in the foreground
+   - Couch or seating area
+   - Window blinds
+   - Potted plant
+   - Korean text overlay
+5. **Scene Type**: Dialogue or personal vlog segment.
+
+**Scene 284** [0:09:34]:
+  - Activity: Two dogs are resting comfortably on cushions.
+  - Location: Indoor, likely a living room with a view of a garden.
+  - Mood: Calm and cozy.
+  - Scene Type: Pet closeup.
+  - Full Analysis: 1. **Activity**: Two dogs are resting comfortably on cushions.
+2. **Location**: Indoor, likely a living room with a view of a garden.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Two dogs, cushions with colorful mats, large window, wooden floor.
+5. **Scene Type**: Pet closeup.
+
+**Scene 285** [0:09:39]:
+  - Activity: A person is looking towards the camera, possibly adjusting their hair.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Casual and intimate.
+  - Scene Type: Personal moment.
+  - Full Analysis: 1. **Activity**: A person is looking towards the camera, possibly adjusting their hair.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Casual and intimate.
+4. **Key Elements**: Person with long hair, yellow clothing, neutral-colored wall.
+5. **Scene Type**: Personal moment.
+
+**Scene 286** [0:09:40]:
+  - Activity: A person is looking directly at the camera, possibly engaging in a video call or recording a vlog.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Intimate and relaxed.
+  - Scene Type: Dialogue or personal vlog.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly engaging in a video call or recording a vlog.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person with long hair, yellow clothing, neutral-colored wall, soft lighting.
+5. **Scene Type**: Dialogue or personal vlog.
+
+**Scene 287** [0:09:41]:
+  - Activity: A person is looking directly at the camera, possibly taking a selfie or recording a video.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Intimate and relaxed.
+  - Scene Type: Selfie or personal vlog.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly taking a selfie or recording a video.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person with long hair, wooden wall paneling, bed or couch, stack of papers or books, bottles on a surface.
+5. **Scene Type**: Selfie or personal vlog.
+
+**Scene 288** [0:09:42]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm unable to analyze the content of this video frame as it appears to be completely black. If you have another frame or additional context, please provide it for further analysis.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 정시 wrong | Κ아야 | 벌레 | 짜뽀 | 카메라를 | ап | hairdo | 싱싱싱 | 이건 당거랑한테 초코올때ی 먹은achte | 이거는 그 두부랑은 참치, 생략채, 불어간, 올려인 주먹밥인데 오늘 김가루가 잘 안 붙어서 이렇게 김에 싸서 먹으려고요.
+
+### Segment 2 (01:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 뭔가 식단을 하니까 하루가 재미가 없네요. | 닭가슴에 | 제wn장
+
+### Segment 3 (02:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 아유 좋아진 고기 | 아유 좋아진 고기 | 아유 고기 | 으음 | 으음 | 으음 | 으음 | 으음 | 으음 | 으음 | 으음 | 으음 | 으음
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: Where are they, where have they been? | I'm going to make the balcony | Glory | tenía mis early | Hyuniek's cute | Glass | ostatagem | Oblivious | allen | astronomers today... | [( addictory BTS)] | [(세�という earth)] | [(진다)] | 시원하고
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 모좍 | 이번은 stock | are 냄새 오 Indeed | 네 acá | 집이 제가 | 아닌 | 농면 | 프리친 | 맛있는데 약간 되게 새콤하게 됐다. | 오 됐다.
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 1마빛이고 집에 왔는데 집에 주문하는 책이 도착해 있던 거.
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 조르지 10농에 줄이셔서 알드리고 아이고 먹으라고. | 조르지 10농이라는 줄이소서 작가를 추천 받았거든요. | 그래서 이거 보려고 이렇게 샀습니다. | 3분정에 얼리 갈 거야 면, 노란 게.. | 이게 볼거에요. | 재밌겠죠? | 색깔에р | 말 Inspector | 울� | hideers | domestic restraint | integrated | forgety | good | 좀 보려봅uya | 여름 sper에사 | 닭꼬고야 | 닭꼬리 processo | 거기서 또 왔어! | 한강도 왔어요? | 근데 또 맘마가 먹고 싶나 봐 | 한강도 온가 되었어! | 이게 진짜 왜 이래 기분이
+
+### Segment 8 (07:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 우리 저를 덕기처럼 뛰었어 | 오늘은 제가 이제 | 그 새로운 회사에 | 출근을 하는 날입니다 | 눈을 뜯어 어디서? | 우돈끼리 | 짭짤히 | 어 지금 안 오세요? | 아니 muy muy | Meow | Antonio | 반갑습니다 | 차량이득 | 달라를 | 물론 | 마 ungefeft | 아이고 예뻐 | 아이고 예뻐 | 어문나 좀 좋게 예뻐 | 바람에 흔날 되는 머리꼈어
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아이고 | vere | 아이고 | 진짜 막 안에 것なんだ
+
+### Segment 10 (09:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 나 누가оньının 손 bol
+
+### Segment 11 (10:00)
+- Brightness: Very Dark
+- Energy: Low
+
+(Total 11 segments)
+
+## Full Transcript
+정시 wrong Κ아야 벌레 짜뽀 카메라를ап hairdo 싱싱싱 이건 당거랑한테 초코올때ی 먹은achte 이거는 그 두부랑은 참치, 생략채, 불어간, 올려인 주먹밥인데 오늘 김가루가 잘 안 붙어서 이렇게 김에 싸서 먹으려고요. 뭔가 식단을 하니까 하루가 재미가 없네요. 닭가슴에 제wn장 아유 좋아진 고기 아유 좋아진 고기 아유 고기 으음 으음 으음 으음 으음 으음 으음 으음 으음 으음 Where are they, where have they been? I'm going to make the balcony Glory tenía mis early Hyuniek's cute Glass ostatagem Obliviousallen astronomers today... [( addictory BTS)] [(세�という earth)] [(진다)] 시원하고 모좍 이번은 stockare 냄새 오 Indeed 네 acá 집이 제가 아닌 농면 프리친 맛있는데 약간 되게 새콤하게 됐다. 오 됐다. 1마빛이고 집에 왔는데 집에 주문하는 책이 도착해 있던 거. 조르지 10농에 줄이셔서 알드리고 아이고 먹으라고. 조르지 10농이라는 줄이소서 작가를 추천 받았거든요. 그래서 이거 보려고 이렇게 샀습니다. 3분정에 얼리 갈 거야 면, 노란 게.. 이게 볼거에요. 재밌겠죠? 색깔에р 말 Inspector울�<|my|> hideers domestic restraint integrated forgety good 좀 보려봅uya 여름 sper에사 닭꼬고야 닭꼬리 processo 거기서 또 왔어! 한강도 왔어요? 근데 또 맘마가 먹고 싶나 봐 한강도 온가 되었어! 이게 진짜 왜 이래 기분이 우리 저를 덕기처럼 뛰었어 오늘은 제가 이제 그 새로운 회사에 출근을 하는 날입니다 눈을 뜯어 어디서? 우돈끼리 짭짤히 어 지금 안 오세요? 아니 muy muy Meow Antonio 반갑습니다 차량이득 달라를 물론 마 ungefeft 아이고 예뻐 아이고 예뻐 어문나 좀 좋게 예뻐 바람에 흔날 되는 머리꼈어 아이고vere 아이고 진짜 막 안에 것なんだ 나 누가оньının 손 bol

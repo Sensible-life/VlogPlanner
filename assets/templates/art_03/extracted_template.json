@@ -1,0 +1,150 @@
+{
+  "template_name": "Conversational Korean Lifestyle Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 240,
+      "description": "Introduction with conversational tone discussing various topics and setting the mood for the vlog.",
+      "key_elements": [
+        "Conversational introduction",
+        "Setting the mood",
+        "Initial topics"
+      ]
+    },
+    "body": {
+      "duration_seconds": 635,
+      "description": "Main content featuring cooking, exploring art materials, and lifestyle activities.",
+      "segments": [
+        {
+          "type": "cooking scene",
+          "description": "Preparing a vegetable pasta sauce with roasted vegetables, discussing ingredients and cooking process.",
+          "typical_duration": 120,
+          "scene_activity": "Cooking and discussing recipe",
+          "location": "Home kitchen",
+          "mood": "Relaxed and informative"
+        },
+        {
+          "type": "art materials exploration",
+          "description": "Visiting an art materials store, discussing various supplies and their uses.",
+          "typical_duration": 90,
+          "scene_activity": "Exploring and discussing art supplies",
+          "location": "Art materials store",
+          "mood": "Curious and engaging"
+        },
+        {
+          "type": "cafe visit",
+          "description": "Enjoying coffee at a cafe, discussing the ambiance and menu items.",
+          "typical_duration": 60,
+          "scene_activity": "Relaxing and chatting at a cafe",
+          "location": "Local cafe",
+          "mood": "Calm and social"
+        },
+        {
+          "type": "home tour",
+          "description": "Showing different parts of the home, including plants and decor.",
+          "typical_duration": 90,
+          "scene_activity": "Home tour and decor discussion",
+          "location": "Home interior",
+          "mood": "Cozy and inviting"
+        },
+        {
+          "type": "food tasting",
+          "description": "Tasting and reviewing a meal, discussing flavors and presentation.",
+          "typical_duration": 80,
+          "scene_activity": "Tasting and reviewing food",
+          "location": "Dining area",
+          "mood": "Enjoyable and descriptive"
+        },
+        {
+          "type": "outdoor exploration",
+          "description": "Walking through a neighborhood, observing surroundings and sharing thoughts.",
+          "typical_duration": 95,
+          "scene_activity": "Walking and exploring outdoors",
+          "location": "Neighborhood streets",
+          "mood": "Reflective and leisurely"
+        },
+        {
+          "type": "social interaction",
+          "description": "Meeting with a friend, discussing plans and experiences.",
+          "typical_duration": 100,
+          "scene_activity": "Socializing and planning",
+          "location": "Various locations",
+          "mood": "Friendly and conversational"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 200,
+      "description": "Conclusion with reflections on the day's activities and a farewell message.",
+      "key_elements": [
+        "Reflective conclusion",
+        "Farewell message",
+        "Summary of activities"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#52433b",
+      "#ada297",
+      "#837265",
+      "#1a1516",
+      "#d7d3cc"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.3759057971014492,
+    "scene_changes": 782,
+    "camera_work": [
+      "Handheld",
+      "Static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Sharing experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional clarifications or highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Conversational Cooking",
+      "description": "Engaging in casual conversation while cooking or preparing food.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Art and Lifestyle Exploration",
+      "description": "Exploring art materials and lifestyle elements with a curious and engaging tone.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine vlogs",
+    "Lifestyle content",
+    "Cooking and recipe sharing"
+  ]
+}

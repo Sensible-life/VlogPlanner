@@ -1,0 +1,2943 @@
+{
+  "total_scenes": 288,
+  "scenes": [
+    {
+      "timestamp": 1.0,
+      "timestamp_formatted": "0:00:01",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't help with identifying or analyzing people in images."
+    },
+    {
+      "timestamp": 4.0,
+      "timestamp_formatted": "0:00:04",
+      "activity": "A person and a dog are looking out of a window.",
+      "location": "Indoor, possibly in a home or café setting.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person and a dog are looking out of a window.\n2. **Location**: Indoor, possibly in a home or café setting.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: Person, dog, window, greenery outside, subtitles.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 13.0,
+      "timestamp_formatted": "0:00:13",
+      "activity": "The scene shows green tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Nature closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows green tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Green tomatoes, tomato plant, leaves, sunlight, wall in the background.\n5. **Scene Type**: Nature closeup."
+    },
+    {
+      "timestamp": 16.0,
+      "timestamp_formatted": "0:00:16",
+      "activity": "The scene shows young tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows young tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Green tomatoes, tomato plant, sunlight, soil, planters.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 18.0,
+      "timestamp_formatted": "0:00:18",
+      "activity": "A person is tending to or observing plants.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Gardening/plant care.",
+      "raw_analysis": "1. **Activity**: A person is tending to or observing plants.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, bamboo stakes, greenery, person partially visible.\n5. **Scene Type**: Gardening/plant care."
+    },
+    {
+      "timestamp": 19.0,
+      "timestamp_formatted": "0:00:19",
+      "activity": "A person is tending to or observing plants.",
+      "location": "Outdoor garden or backyard.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Gardening or nature observation.",
+      "raw_analysis": "1. **Activity**: A person is tending to or observing plants.\n2. **Location**: Outdoor garden or backyard.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Green tomatoes, bamboo stakes, leafy plants, person in a white shirt.\n5. **Scene Type**: Gardening or nature observation."
+    },
+    {
+      "timestamp": 20.0,
+      "timestamp_formatted": "0:00:20",
+      "activity": "A person is tending to or observing plants in a garden.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Gardening/observation.",
+      "raw_analysis": "1. **Activity**: A person is tending to or observing plants in a garden.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Green tomatoes, plant stakes, foliage, person partially visible.\n5. **Scene Type**: Gardening/observation."
+    },
+    {
+      "timestamp": 21.0,
+      "timestamp_formatted": "0:00:21",
+      "activity": "A person is looking through tomato plants, possibly inspecting or gardening.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Gardening/inspection.",
+      "raw_analysis": "1. **Activity**: A person is looking through tomato plants, possibly inspecting or gardening.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tomato plants, wooden stakes, greenery, person's face.\n5. **Scene Type**: Gardening/inspection."
+    },
+    {
+      "timestamp": 22.0,
+      "timestamp_formatted": "0:00:22",
+      "activity": "A person is tending to or observing plants, possibly in a garden.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Nature/observation.",
+      "raw_analysis": "1. **Activity**: A person is tending to or observing plants, possibly in a garden.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Green tomatoes, plant stems, person partially visible, garden stakes, greenery.\n5. **Scene Type**: Nature/observation."
+    },
+    {
+      "timestamp": 23.0,
+      "timestamp_formatted": "0:00:23",
+      "activity": "Someone is holding and possibly about to eat a powdered donut.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is holding and possibly about to eat a powdered donut.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Powdered donut, yellow donut box, granite countertop, Korean text.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 24.0,
+      "timestamp_formatted": "0:00:24",
+      "activity": "A person is picking up a piece of pastry from a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is picking up a piece of pastry from a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: \n   - Hand reaching for pastry\n   - Plate with pastries\n   - Text overlay in Korean\n   - White tablecloth\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 26.0,
+      "timestamp_formatted": "0:00:26",
+      "activity": "The scene shows a meal being prepared or served, featuring various dishes.",
+      "location": "Indoor, likely a dining area or kitchen.",
+      "mood": "Casual and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal being prepared or served, featuring various dishes.\n2. **Location**: Indoor, likely a dining area or kitchen.\n3. **Mood**: Casual and inviting.\n4. **Key Elements**: Fried chicken on a plate, a bowl of sweet and sour sauce with vegetables, a red checkered placemat, subtitles in Korean.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 28.0,
+      "timestamp_formatted": "0:00:28",
+      "activity": "A person is holding a croissant-like pastry.",
+      "location": "Indoor, likely in a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is holding a croissant-like pastry.\n2. **Location**: Indoor, likely in a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Croissant-like pastry, hand, wooden floor, text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 29.0,
+      "timestamp_formatted": "0:00:29",
+      "activity": "The scene shows a close-up of a dish, likely showcasing a food item.",
+      "location": "Indoor, possibly a kitchen or dining area.",
+      "mood": "Calm and inviting, focusing on the presentation of food.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a dish, likely showcasing a food item.\n2. **Location**: Indoor, possibly a kitchen or dining area.\n3. **Mood**: Calm and inviting, focusing on the presentation of food.\n4. **Key Elements**: Glass bowl, creamy mixture, apple slices, white cloth.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 36.0,
+      "timestamp_formatted": "0:00:36",
+      "activity": "A spoonful of rice topped with a side dish is being held above a bowl.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and intimate, focused on food.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A spoonful of rice topped with a side dish is being held above a bowl.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and intimate, focused on food.\n4. **Key Elements**: Spoon, rice, side dish (possibly anchovies), bowl, text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 38.0,
+      "timestamp_formatted": "0:00:38",
+      "activity": "Two sausages are being cooked in a frying pan.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Cooking closeup.",
+      "raw_analysis": "1. **Activity**: Two sausages are being cooked in a frying pan.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Frying pan, two sausages, stovetop.\n5. **Scene Type**: Cooking closeup."
+    },
+    {
+      "timestamp": 39.0,
+      "timestamp_formatted": "0:00:39",
+      "activity": "Two sausages are being cooked in a frying pan.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Two sausages are being cooked in a frying pan.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Frying pan, two sausages, stovetop, tongs.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 41.0,
+      "timestamp_formatted": "0:00:41",
+      "activity": "A person is about to eat sausages with ketchup using a fork.",
+      "location": "Indoor, likely a dining area or kitchen.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is about to eat sausages with ketchup using a fork.\n2. **Location**: Indoor, likely a dining area or kitchen.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Sausages with ketchup, fork, lettuce salad, white plate, woven placemat.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 44.0,
+      "timestamp_formatted": "0:00:44",
+      "activity": "Two sausages are being cooked in a frying pan.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Two sausages are being cooked in a frying pan.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Frying pan, sausages, stovetop, text overlay.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 45.0,
+      "timestamp_formatted": "0:00:45",
+      "activity": "Two sausages are being cooked in a frying pan.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking closeup.",
+      "raw_analysis": "1. **Activity**: Two sausages are being cooked in a frying pan.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Frying pan, sausages, stovetop, tongs.\n5. **Scene Type**: Cooking closeup."
+    },
+    {
+      "timestamp": 46.0,
+      "timestamp_formatted": "0:00:46",
+      "activity": "A person is slicing a tomato on a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is slicing a tomato on a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tomato slices, black plate, fork, knife.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 49.0,
+      "timestamp_formatted": "0:00:49",
+      "activity": "The scene shows sliced oranges on a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and simple.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows sliced oranges on a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and simple.\n4. **Key Elements**: Sliced oranges, white plate, text overlay in Korean.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 51.0,
+      "timestamp_formatted": "0:00:51",
+      "activity": "Someone is pouring milk into a cup filled with chocolate cereal.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is pouring milk into a cup filled with chocolate cereal.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Cup with cereal, milk being poured, wooden table, text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 55.0,
+      "timestamp_formatted": "0:00:55",
+      "activity": "A person is holding a piece of food wrapped in seaweed, likely showcasing a homemade dish.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and intimate, focused on food preparation or enjoyment.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is holding a piece of food wrapped in seaweed, likely showcasing a homemade dish.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and intimate, focused on food preparation or enjoyment.\n4. **Key Elements**: Seaweed-wrapped food, white plate, granite countertop, hand holding the food.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 70.0,
+      "timestamp_formatted": "0:01:10",
+      "activity": "The scene appears to be static with no visible activity occurring.",
+      "location": "Indoor setting, possibly a room with a ceiling or wall view.",
+      "mood": "Calm and neutral.",
+      "key_elements": [],
+      "scene_type": "Establishing shot or transition.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static with no visible activity occurring.\n2. **Location**: Indoor setting, possibly a room with a ceiling or wall view.\n3. **Mood**: Calm and neutral.\n4. **Key Elements**: \n   - Two square panels or tiles\n   - Plain wall or ceiling\n   - Soft lighting\n5. **Scene Type**: Establishing shot or transition."
+    },
+    {
+      "timestamp": 79.0,
+      "timestamp_formatted": "0:01:19",
+      "activity": "Butter or a similar spread is being applied to slices of bread.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Butter or a similar spread is being applied to slices of bread.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Slices of bread, butter or spread, plate, napkin.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 83.0,
+      "timestamp_formatted": "0:01:23",
+      "activity": "The scene shows a treadmill in use, displaying workout metrics.",
+      "location": "Indoor, likely a gym or home workout area.",
+      "mood": "Functional and focused.",
+      "key_elements": [],
+      "scene_type": "Equipment closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a treadmill in use, displaying workout metrics.\n2. **Location**: Indoor, likely a gym or home workout area.\n3. **Mood**: Functional and focused.\n4. **Key Elements**: Treadmill display, digital readouts, control buttons.\n5. **Scene Type**: Equipment closeup."
+    },
+    {
+      "timestamp": 84.0,
+      "timestamp_formatted": "0:01:24",
+      "activity": "The scene shows a treadmill display during a workout session.",
+      "location": "Indoor, likely in a gym or home workout area.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Exercise/fitness.",
+      "raw_analysis": "1. **Activity**: The scene shows a treadmill display during a workout session.\n2. **Location**: Indoor, likely in a gym or home workout area.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Treadmill display, time, distance, heart rate, Korean subtitles.\n5. **Scene Type**: Exercise/fitness."
+    },
+    {
+      "timestamp": 85.0,
+      "timestamp_formatted": "0:01:25",
+      "activity": "The scene shows a treadmill display in use, indicating a workout session.",
+      "location": "Indoor, likely in a gym or home workout area.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Exercise/fitness activity.",
+      "raw_analysis": "1. **Activity**: The scene shows a treadmill display in use, indicating a workout session.\n2. **Location**: Indoor, likely in a gym or home workout area.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Treadmill display, digital readouts (time, distance, heart rate), control buttons, Korean subtitles.\n5. **Scene Type**: Exercise/fitness activity."
+    },
+    {
+      "timestamp": 86.0,
+      "timestamp_formatted": "0:01:26",
+      "activity": "The scene shows exercise equipment laid out, possibly preparing for a workout.",
+      "location": "Indoor, likely a home gym or workout area.",
+      "mood": "Focused and calm, suggesting preparation or routine.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows exercise equipment laid out, possibly preparing for a workout.\n2. **Location**: Indoor, likely a home gym or workout area.\n3. **Mood**: Focused and calm, suggesting preparation or routine.\n4. **Key Elements**: Dumbbell, resistance bands, exercise mat, Korean text.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 89.0,
+      "timestamp_formatted": "0:01:29",
+      "activity": "A person is sitting on the floor, appearing to be in thought or resting.",
+      "location": "Indoor, likely a home or personal room.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Introspective moment.",
+      "raw_analysis": "1. **Activity**: A person is sitting on the floor, appearing to be in thought or resting.\n2. **Location**: Indoor, likely a home or personal room.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: Person sitting, exercise equipment, shelving unit, wooden floor.\n5. **Scene Type**: Introspective moment."
+    },
+    {
+      "timestamp": 94.0,
+      "timestamp_formatted": "0:01:34",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or greenhouse.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or greenhouse.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Green and red tomatoes, tomato plant leaves, soil, wooden stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 97.0,
+      "timestamp_formatted": "0:01:37",
+      "activity": "Ingredients are being prepared for a smoothie.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Ingredients are being prepared for a smoothie.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Spinach, diced apples, whole kiwis, carrots, cutting board.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 100.0,
+      "timestamp_formatted": "0:01:40",
+      "activity": "Vegetables are being prepared and chopped for cooking or storage.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Vegetables are being prepared and chopped for cooking or storage.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Spinach, chopped potatoes, sliced carrots, cutting board, knife.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 103.0,
+      "timestamp_formatted": "0:01:43",
+      "activity": "Almond milk is being poured into a blender.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Almond milk is being poured into a blender.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Blender, almond milk, countertop, kitchen cabinets.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 110.0,
+      "timestamp_formatted": "0:01:50",
+      "activity": "Someone is preparing ingredients for blending, holding cashews over a blender.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing ingredients for blending, holding cashews over a blender.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Blender, cashews, greens inside the blender, kitchen cabinets.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 115.0,
+      "timestamp_formatted": "0:01:55",
+      "activity": "Ingredients are being prepared in a blender, likely for a smoothie or sauce.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Ingredients are being prepared in a blender, likely for a smoothie or sauce.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Blender, spinach, cashews, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 117.0,
+      "timestamp_formatted": "0:01:57",
+      "activity": "A green liquid is being poured into a glass mug.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A green liquid is being poured into a glass mug.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Glass mugs, green liquid, wooden table, white cloth.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 123.0,
+      "timestamp_formatted": "0:02:03",
+      "activity": "The scene shows a peaceful outdoor setting, likely part of a nature walk or exploration.",
+      "location": "Outdoor, in a forest or wooded area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a peaceful outdoor setting, likely part of a nature walk or exploration.\n2. **Location**: Outdoor, in a forest or wooded area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Trees, grass, sunlight filtering through leaves, forest background.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 124.0,
+      "timestamp_formatted": "0:02:04",
+      "activity": "The scene shows a peaceful outdoor setting, likely someone taking a walk or enjoying nature.",
+      "location": "Outdoor, in a forest or wooded area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a peaceful outdoor setting, likely someone taking a walk or enjoying nature.\n2. **Location**: Outdoor, in a forest or wooded area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Trees, grass, sunlight filtering through the leaves, forest background.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 125.0,
+      "timestamp_formatted": "0:02:05",
+      "activity": "The scene captures a serene outdoor setting with no visible human activity.",
+      "location": "Outdoor, in a forest or park area.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a serene outdoor setting with no visible human activity.\n2. **Location**: Outdoor, in a forest or park area.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Green grass, small trees, dense forest background, sunlight filtering through trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 126.0,
+      "timestamp_formatted": "0:02:06",
+      "activity": "Two dogs are being walked on leashes.",
+      "location": "Outdoor park or wooded area.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Casual outdoor walk.",
+      "raw_analysis": "1. **Activity**: Two dogs are being walked on leashes.\n2. **Location**: Outdoor park or wooded area.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Two dogs, leashes, trees, dirt path.\n5. **Scene Type**: Casual outdoor walk."
+    },
+    {
+      "timestamp": 127.0,
+      "timestamp_formatted": "0:02:07",
+      "activity": "Two dogs are being walked on leashes along a wooded path.",
+      "location": "Outdoor, in a forest or park setting.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Leisure activity.",
+      "raw_analysis": "1. **Activity**: Two dogs are being walked on leashes along a wooded path.\n2. **Location**: Outdoor, in a forest or park setting.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Two small dogs, leashes, trees, dirt path.\n5. **Scene Type**: Leisure activity."
+    },
+    {
+      "timestamp": 128.0,
+      "timestamp_formatted": "0:02:08",
+      "activity": "Two dogs are being walked on leashes along a path.",
+      "location": "Outdoor, in a wooded park or forest area.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: Two dogs are being walked on leashes along a path.\n2. **Location**: Outdoor, in a wooded park or forest area.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Two dogs, leashes, dirt path, surrounding greenery.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 129.0,
+      "timestamp_formatted": "0:02:09",
+      "activity": "A small dog is standing on the ground, appearing happy and playful.",
+      "location": "Outdoor, likely in a park or wooded area.",
+      "mood": "Cheerful and relaxed.",
+      "key_elements": [],
+      "scene_type": "Pet interaction.",
+      "raw_analysis": "1. **Activity**: A small dog is standing on the ground, appearing happy and playful.\n2. **Location**: Outdoor, likely in a park or wooded area.\n3. **Mood**: Cheerful and relaxed.\n4. **Key Elements**: Small white dog, blue harness, leash, trees, park bench.\n5. **Scene Type**: Pet interaction."
+    },
+    {
+      "timestamp": 130.0,
+      "timestamp_formatted": "0:02:10",
+      "activity": "A small dog is being walked on a leash in a park.",
+      "location": "Outdoor, in a wooded park area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A small dog is being walked on a leash in a park.\n2. **Location**: Outdoor, in a wooded park area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Small white dog, blue leash, trees, park bench, fallen leaves.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 131.0,
+      "timestamp_formatted": "0:02:11",
+      "activity": "A dog is standing on a leash, possibly on a walk.",
+      "location": "Outdoor, in a wooded park area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A dog is standing on a leash, possibly on a walk.\n2. **Location**: Outdoor, in a wooded park area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Dog wearing a blue harness, leash, trees, park bench.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 132.0,
+      "timestamp_formatted": "0:02:12",
+      "activity": "A small dog is standing on a leash, possibly during a walk.",
+      "location": "Outdoor park or wooded area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A small dog is standing on a leash, possibly during a walk.\n2. **Location**: Outdoor park or wooded area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Small white dog, blue leash, trees, park bench.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 133.0,
+      "timestamp_formatted": "0:02:13",
+      "activity": "The scene captures a view looking up through the canopy of trees.",
+      "location": "Outdoor, likely in a forest or park.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a view looking up through the canopy of trees.\n2. **Location**: Outdoor, likely in a forest or park.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Green leaves, tree branches, sunlight filtering through.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 134.0,
+      "timestamp_formatted": "0:02:14",
+      "activity": "The scene captures a view looking up at the tree canopy.",
+      "location": "Outdoor, in a forest or wooded area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a view looking up at the tree canopy.\n2. **Location**: Outdoor, in a forest or wooded area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Green leaves, tree branches, sunlight filtering through.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 135.0,
+      "timestamp_formatted": "0:02:15",
+      "activity": "The scene captures a view looking up at the tree canopy.",
+      "location": "Outdoor, in a forest or park setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a view looking up at the tree canopy.\n2. **Location**: Outdoor, in a forest or park setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Green leaves, tree branches, sunlight filtering through.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 136.0,
+      "timestamp_formatted": "0:02:16",
+      "activity": "The scene shows the beginning of a cooking process, likely preparing dough.",
+      "location": "Indoor, in a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: The scene shows the beginning of a cooking process, likely preparing dough.\n2. **Location**: Indoor, in a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Metal mixing bowl, yeast or similar ingredient, countertop, Korean text overlay.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 138.0,
+      "timestamp_formatted": "0:02:18",
+      "activity": "A liquid mixture is being prepared in a bowl, possibly for cooking or baking.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: A liquid mixture is being prepared in a bowl, possibly for cooking or baking.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Metal mixing bowl, liquid mixture, countertop.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 145.0,
+      "timestamp_formatted": "0:02:25",
+      "activity": "Ingredients are being mixed in a bowl, likely for a cooking or baking process.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Ingredients are being mixed in a bowl, likely for a cooking or baking process.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Metal mixing bowl, flour, liquid, countertop.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 147.0,
+      "timestamp_formatted": "0:02:27",
+      "activity": "Flour is being poured into a mixing bowl, likely for baking or cooking preparation.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Flour is being poured into a mixing bowl, likely for baking or cooking preparation.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Mixing bowl, flour, pouring motion, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 152.0,
+      "timestamp_formatted": "0:02:32",
+      "activity": "Dough is being mixed in a bowl.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Focused and practical.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Dough is being mixed in a bowl.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Focused and practical.\n4. **Key Elements**: Mixing bowl, dough, mixing hook.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 153.0,
+      "timestamp_formatted": "0:02:33",
+      "activity": "Mixing ingredients in a bowl, likely for baking or cooking.",
+      "location": "Indoor, kitchen setting.",
+      "mood": "Focused and practical.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Mixing ingredients in a bowl, likely for baking or cooking.\n2. **Location**: Indoor, kitchen setting.\n3. **Mood**: Focused and practical.\n4. **Key Elements**: Mixing bowl, flour, spoon, dough.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 154.0,
+      "timestamp_formatted": "0:02:34",
+      "activity": "A person is shaping a ball of dough with their hands.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is shaping a ball of dough with their hands.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough, hands, wooden cutting board, granite countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 155.0,
+      "timestamp_formatted": "0:02:35",
+      "activity": "A person is kneading or shaping dough on a wooden cutting board.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is kneading or shaping dough on a wooden cutting board.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough, wooden cutting board, person's hands, granite countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 160.0,
+      "timestamp_formatted": "0:02:40",
+      "activity": "A person is handling a ball of dough, likely preparing it for baking.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is handling a ball of dough, likely preparing it for baking.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough, wooden cutting board, countertop, metal bowl.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 164.0,
+      "timestamp_formatted": "0:02:44",
+      "activity": "A person is cutting dough on a wooden board.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is cutting dough on a wooden board.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough, wooden cutting board, dough scraper, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 166.0,
+      "timestamp_formatted": "0:02:46",
+      "activity": "Someone is preparing dough by cutting it with a plastic scraper.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing dough by cutting it with a plastic scraper.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough, plastic scraper, wooden cutting board, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 170.0,
+      "timestamp_formatted": "0:02:50",
+      "activity": "Someone is shaping dough pieces on a wooden board.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is shaping dough pieces on a wooden board.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough pieces, wooden board, person's hand, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 175.0,
+      "timestamp_formatted": "0:02:55",
+      "activity": "A person is preparing dough balls, likely for baking or cooking.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing dough balls, likely for baking or cooking.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough balls, wooden cutting board, hand, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 176.0,
+      "timestamp_formatted": "0:02:56",
+      "activity": "A person is shaping dough into balls.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is shaping dough into balls.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough balls, wooden cutting board, person's hands, granite countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 187.0,
+      "timestamp_formatted": "0:03:07",
+      "activity": "A person is shaping dough into a ring, likely preparing bagels or similar baked goods.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is shaping dough into a ring, likely preparing bagels or similar baked goods.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough balls, wooden cutting board, hands shaping dough, granite countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 190.0,
+      "timestamp_formatted": "0:03:10",
+      "activity": "Dough is being prepared for baking, likely bagels.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Dough is being prepared for baking, likely bagels.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough pieces, parchment paper, wooden board, granite countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 194.0,
+      "timestamp_formatted": "0:03:14",
+      "activity": "A piece of dough is being prepared to be placed into a pot of boiling water.",
+      "location": "Indoor kitchen.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: A piece of dough is being prepared to be placed into a pot of boiling water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Dough, parchment paper, pot, boiling water, countertop.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 195.0,
+      "timestamp_formatted": "0:03:15",
+      "activity": "A bagel is being placed into boiling water.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A bagel is being placed into boiling water.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagel dough, boiling water, parchment paper, hands, stainless steel pot.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 197.0,
+      "timestamp_formatted": "0:03:17",
+      "activity": "A person is sprinkling salt into a pan of water where bagels are being boiled.",
+      "location": "Indoor kitchen.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: A person is sprinkling salt into a pan of water where bagels are being boiled.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Hand, salt, boiling water, bagels, pan.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 198.0,
+      "timestamp_formatted": "0:03:18",
+      "activity": "Two pieces of dough are being boiled in water, likely in the process of making bagels.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Two pieces of dough are being boiled in water, likely in the process of making bagels.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough pieces, parchment paper, boiling water, metal pot.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 199.0,
+      "timestamp_formatted": "0:03:19",
+      "activity": "Bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Pot of boiling water, bagels on parchment paper, slotted spoon, wooden spoon.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 200.0,
+      "timestamp_formatted": "0:03:20",
+      "activity": "Bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Pot of water, bagels, parchment paper, wooden spoon, slotted spoon.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 201.0,
+      "timestamp_formatted": "0:03:21",
+      "activity": "A bagel is being boiled in a pot of water.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: A bagel is being boiled in a pot of water.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagel, pot of water, spatula, stovetop.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 202.0,
+      "timestamp_formatted": "0:03:22",
+      "activity": "Bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagels, boiling water, pot, spatula, parchment paper.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 203.0,
+      "timestamp_formatted": "0:03:23",
+      "activity": "Bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking process.",
+      "raw_analysis": "1. **Activity**: Bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Boiling pot, bagels, spatula, parchment paper.\n5. **Scene Type**: Cooking process."
+    },
+    {
+      "timestamp": 204.0,
+      "timestamp_formatted": "0:03:24",
+      "activity": "Two bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking process.",
+      "raw_analysis": "1. **Activity**: Two bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagels, pot, boiling water, stovetop.\n5. **Scene Type**: Cooking process."
+    },
+    {
+      "timestamp": 206.0,
+      "timestamp_formatted": "0:03:26",
+      "activity": "Bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking process.",
+      "raw_analysis": "1. **Activity**: Bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagels, boiling water, pot, spatula, stove.\n5. **Scene Type**: Cooking process."
+    },
+    {
+      "timestamp": 207.0,
+      "timestamp_formatted": "0:03:27",
+      "activity": "Bagels are being boiled in a pot of water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Bagels are being boiled in a pot of water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Boiling pot, bagels, spatula, stovetop.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 209.0,
+      "timestamp_formatted": "0:03:29",
+      "activity": "Bagels are baking in an oven.",
+      "location": "Indoor, inside an oven in a kitchen.",
+      "mood": "Warm and cozy.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Bagels are baking in an oven.\n2. **Location**: Indoor, inside an oven in a kitchen.\n3. **Mood**: Warm and cozy.\n4. **Key Elements**: Bagels, baking tray, oven interior.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 213.0,
+      "timestamp_formatted": "0:03:33",
+      "activity": "Freshly baked bagels are being displayed or prepared.",
+      "location": "Indoor kitchen or bakery setting.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly baked bagels are being displayed or prepared.\n2. **Location**: Indoor kitchen or bakery setting.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Bagels, baking sheet, countertop.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 214.0,
+      "timestamp_formatted": "0:03:34",
+      "activity": "Freshly baked bagels are being prepared or displayed.",
+      "location": "Indoor, likely a kitchen or bakery.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly baked bagels are being prepared or displayed.\n2. **Location**: Indoor, likely a kitchen or bakery.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagels, parchment paper, countertop, gloved hand.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 215.0,
+      "timestamp_formatted": "0:03:35",
+      "activity": "Someone is preparing or handling freshly baked bagels.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing or handling freshly baked bagels.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bagels, baking sheet, gloved hand, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 216.0,
+      "timestamp_formatted": "0:03:36",
+      "activity": "Freshly baked bagels are resting on a baking sheet.",
+      "location": "Indoor, likely in a kitchen or bakery.",
+      "mood": "Calm and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly baked bagels are resting on a baking sheet.\n2. **Location**: Indoor, likely in a kitchen or bakery.\n3. **Mood**: Calm and appetizing.\n4. **Key Elements**: Bagels, baking sheet, parchment paper.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 217.0,
+      "timestamp_formatted": "0:03:37",
+      "activity": "Freshly baked bagels are cooling on a surface.",
+      "location": "Indoor, likely in a bakery or kitchen.",
+      "mood": "Calm and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly baked bagels are cooling on a surface.\n2. **Location**: Indoor, likely in a bakery or kitchen.\n3. **Mood**: Calm and appetizing.\n4. **Key Elements**: Bagels, baking sheet, light brown surface.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 218.0,
+      "timestamp_formatted": "0:03:38",
+      "activity": "Cheese is being grated onto dough balls.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Cheese is being grated onto dough balls.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Dough balls, cheese grater, grated cheese, parchment paper, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 219.0,
+      "timestamp_formatted": "0:03:39",
+      "activity": "Cheese is being grated onto bagels.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Cheese is being grated onto bagels.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Grater, bagels, grated cheese, countertop.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 221.0,
+      "timestamp_formatted": "0:03:41",
+      "activity": "Bagels are baking in an oven.",
+      "location": "Indoor, inside an oven.",
+      "mood": "Warm and cozy.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Bagels are baking in an oven.\n2. **Location**: Indoor, inside an oven.\n3. **Mood**: Warm and cozy.\n4. **Key Elements**: Bagels, baking tray, oven interior, melted cheese.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 224.0,
+      "timestamp_formatted": "0:03:44",
+      "activity": "Freshly baked bagels are cooling on a baking sheet.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and homely.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly baked bagels are cooling on a baking sheet.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and homely.\n4. **Key Elements**: Bagels, baking sheet, countertop, mixing bowl.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 226.0,
+      "timestamp_formatted": "0:03:46",
+      "activity": "Someone is arranging or inspecting freshly baked bagels on a cooling rack.",
+      "location": "Indoor, likely a kitchen or bakery.",
+      "mood": "Calm and satisfying.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is arranging or inspecting freshly baked bagels on a cooling rack.\n2. **Location**: Indoor, likely a kitchen or bakery.\n3. **Mood**: Calm and satisfying.\n4. **Key Elements**: Bagels, cooling rack, wooden surface, hand.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 227.0,
+      "timestamp_formatted": "0:03:47",
+      "activity": "A person is picking up a freshly baked bagel from a cooling rack.",
+      "location": "Indoor, likely a kitchen or bakery.",
+      "mood": "Calm and homely.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is picking up a freshly baked bagel from a cooling rack.\n2. **Location**: Indoor, likely a kitchen or bakery.\n3. **Mood**: Calm and homely.\n4. **Key Elements**: Bagels, cooling rack, wooden surface, hand.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 230.0,
+      "timestamp_formatted": "0:03:50",
+      "activity": "Someone is placing a bagel on a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is placing a bagel on a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Bagel, metal plate, striped cloth, hands.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 232.0,
+      "timestamp_formatted": "0:03:52",
+      "activity": "Someone is about to pick up a bagel from a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is about to pick up a bagel from a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Bagel, metal plate, striped cloth, hands.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 234.0,
+      "timestamp_formatted": "0:03:54",
+      "activity": "A person is preparing a toasted bagel.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing a toasted bagel.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Toasted bagel, metal plate, striped cloth, hands, cream cheese container.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 235.0,
+      "timestamp_formatted": "0:03:55",
+      "activity": "A person is preparing to assemble or eat a toasted bagel.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing to assemble or eat a toasted bagel.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Toasted bagel, metal plate, striped cloth, hand reaching for the bagel.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 236.0,
+      "timestamp_formatted": "0:03:56",
+      "activity": "Someone is spreading cream cheese on a toasted bagel.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is spreading cream cheese on a toasted bagel.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Toasted bagel, cream cheese, knife, striped tablecloth.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 240.0,
+      "timestamp_formatted": "0:04:00",
+      "activity": "A person is spreading cream cheese on a toasted bagel.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is spreading cream cheese on a toasted bagel.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Toasted bagel, cream cheese, hand holding the bagel, container of cream cheese, striped tablecloth.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 241.0,
+      "timestamp_formatted": "0:04:01",
+      "activity": "A toasted bagel is being prepared with cream cheese.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A toasted bagel is being prepared with cream cheese.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Toasted bagel, cream cheese container, metal plate, striped cloth.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 250.0,
+      "timestamp_formatted": "0:04:10",
+      "activity": "The scene shows tomatoes ripening on the vine.",
+      "location": "Outdoor garden or greenhouse.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes ripening on the vine.\n2. **Location**: Outdoor garden or greenhouse.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomatoes, plant stems, leaves, garden containers.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 251.0,
+      "timestamp_formatted": "0:04:11",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomatoes, plant stems, leaves, plant support sticks.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 254.0,
+      "timestamp_formatted": "0:04:14",
+      "activity": "Someone is opening a cardboard box.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Anticipatory and casual.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: Someone is opening a cardboard box.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Anticipatory and casual.\n4. **Key Elements**: Cardboard box, packing material, hand, Korean text.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 255.0,
+      "timestamp_formatted": "0:04:15",
+      "activity": "A package is being opened or examined.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Anticipatory or casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A package is being opened or examined.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Anticipatory or casual.\n4. **Key Elements**: Cardboard box, packing materials, wooden floor, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 256.0,
+      "timestamp_formatted": "0:04:16",
+      "activity": "An unboxing is taking place, with a package being opened.",
+      "location": "Indoor setting, likely a home or office.",
+      "mood": "Anticipatory and casual.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: An unboxing is taking place, with a package being opened.\n2. **Location**: Indoor setting, likely a home or office.\n3. **Mood**: Anticipatory and casual.\n4. **Key Elements**: Cardboard box, packing material, plastic air cushions, paper wrapping.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 257.0,
+      "timestamp_formatted": "0:04:17",
+      "activity": "The scene shows the unpacking of a cardboard box.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Neutral and mundane.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows the unpacking of a cardboard box.\n2. **Location**: Indoor, likely in a home or office setting.\n3. **Mood**: Neutral and mundane.\n4. **Key Elements**: Cardboard box, packing paper, air-filled packing material.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 259.0,
+      "timestamp_formatted": "0:04:19",
+      "activity": "The scene shows an open cardboard box with packing paper inside, likely indicating unpacking or inspecting contents.",
+      "location": "Indoor, possibly on a table or countertop.",
+      "mood": "Neutral and mundane.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows an open cardboard box with packing paper inside, likely indicating unpacking or inspecting contents.\n2. **Location**: Indoor, possibly on a table or countertop.\n3. **Mood**: Neutral and mundane.\n4. **Key Elements**: Cardboard box, packing paper, tabletop.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 260.0,
+      "timestamp_formatted": "0:04:20",
+      "activity": "The scene shows a collection of snack and cereal boxes, possibly being unpacked or organized.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snack and cereal boxes, possibly being unpacked or organized.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, Cheetos bags, cardboard box.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 261.0,
+      "timestamp_formatted": "0:04:21",
+      "activity": "The scene shows a collection of snack items in a box, possibly being packed or unpacked.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snack items in a box, possibly being packed or unpacked.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cap'n Crunch cereal box, Cinnamon Toast Crunch cereal box, two bags of Cheetos.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 262.0,
+      "timestamp_formatted": "0:04:22",
+      "activity": "Someone is packing or unpacking a box of snacks and cereals.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is packing or unpacking a box of snacks and cereals.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, Cheetos bags, cardboard box.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 263.0,
+      "timestamp_formatted": "0:04:23",
+      "activity": "Someone is unpacking or organizing snacks and cereal.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking or organizing snacks and cereal.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cheetos Flamin' Hot, Cap'n Crunch cereal, cardboard box.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 264.0,
+      "timestamp_formatted": "0:04:24",
+      "activity": "Someone is unpacking or organizing snacks and cereal boxes.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Bag of Flamin' Hot Cheetos, Cap'n Crunch cereal box, cardboard box.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 265.0,
+      "timestamp_formatted": "0:04:25",
+      "activity": "Someone is unpacking or organizing snacks and cereal boxes.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Bag of Cheetos, Cap'n Crunch cereal box, cardboard box, other cereal boxes.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 267.0,
+      "timestamp_formatted": "0:04:27",
+      "activity": "Someone is unpacking a box containing snacks and cereal.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking a box containing snacks and cereal.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Box of Cinnamon Toast Crunch, box of Cap'n Crunch, bag of Cheetos, cardboard box.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 268.0,
+      "timestamp_formatted": "0:04:28",
+      "activity": "Someone is unpacking cereal boxes from a cardboard box.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking cereal boxes from a cardboard box.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, cardboard box, a person's hand.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 269.0,
+      "timestamp_formatted": "0:04:29",
+      "activity": "Someone is unpacking or organizing cereal boxes and snacks from a cardboard box.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking or organizing cereal boxes and snacks from a cardboard box.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, a hand holding an orange snack bag, cardboard box.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 270.0,
+      "timestamp_formatted": "0:04:30",
+      "activity": "Someone is unpacking or organizing snacks and cereal boxes.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cinnamon Toast Crunch cereal box, Flamin' Hot Cheetos bag, cardboard box, colorful packaging.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 271.0,
+      "timestamp_formatted": "0:04:31",
+      "activity": "Someone is unpacking or organizing snacks and cereal boxes.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is unpacking or organizing snacks and cereal boxes.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Bag of Flamin' Hot Cheetos, Cap'n Crunch cereal box, General Mills cereal box, cardboard box.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 272.0,
+      "timestamp_formatted": "0:04:32",
+      "activity": "Someone is sorting or packing snack and cereal items.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is sorting or packing snack and cereal items.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Bag of Flamin' Hot Limon Cheetos, box of Cap'n Crunch cereal, cardboard box, hand holding the Cheetos.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 273.0,
+      "timestamp_formatted": "0:04:33",
+      "activity": "The scene shows a close-up of snack and cereal packaging.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of snack and cereal packaging.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Snack bag with a cartoon character, cereal box, bright packaging.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 275.0,
+      "timestamp_formatted": "0:04:35",
+      "activity": "The scene shows a close-up of snack packaging, possibly during a snack selection or unboxing.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of snack packaging, possibly during a snack selection or unboxing.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Open bag of spicy snacks, cereal box, cardboard box, bright packaging.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 276.0,
+      "timestamp_formatted": "0:04:36",
+      "activity": "The scene shows a close-up of snacks being unpacked or displayed.",
+      "location": "Indoor, possibly a kitchen or pantry area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of snacks being unpacked or displayed.\n2. **Location**: Indoor, possibly a kitchen or pantry area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Open bag of Flamin' Hot Cheetos, cereal box, cardboard box.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 279.0,
+      "timestamp_formatted": "0:04:39",
+      "activity": "The scene shows an open bag of snacks, possibly being prepared for consumption or display.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows an open bag of snacks, possibly being prepared for consumption or display.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Open bag of Flamin' Hot Cheetos, cereal box, cardboard box.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 283.0,
+      "timestamp_formatted": "0:04:43",
+      "activity": "The scene shows a display of snack and cereal packaging.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of snack and cereal packaging.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cereal box, snack bag, open bag of chips, cardboard box.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 284.0,
+      "timestamp_formatted": "0:04:44",
+      "activity": "Two dogs are observing open boxes on the floor.",
+      "location": "Indoor, likely a home setting.",
+      "mood": "Curious and playful.",
+      "key_elements": [],
+      "scene_type": "Casual observation.",
+      "raw_analysis": "1. **Activity**: Two dogs are observing open boxes on the floor.\n2. **Location**: Indoor, likely a home setting.\n3. **Mood**: Curious and playful.\n4. **Key Elements**: Two dogs, open cardboard boxes, cereal box, and another packaged item.\n5. **Scene Type**: Casual observation."
+    },
+    {
+      "timestamp": 285.0,
+      "timestamp_formatted": "0:04:45",
+      "activity": "Two dogs are approaching a box on the floor.",
+      "location": "Indoor, likely a home setting.",
+      "mood": "Calm and playful.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: Two dogs are approaching a box on the floor.\n2. **Location**: Indoor, likely a home setting.\n3. **Mood**: Calm and playful.\n4. **Key Elements**: Two dogs, a cardboard box, a cereal box labeled \"Family Size,\" wooden floor.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 286.0,
+      "timestamp_formatted": "0:04:46",
+      "activity": "A person is reaching into a bag of snacks.",
+      "location": "Indoor, likely a kitchen or living room.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is reaching into a bag of snacks.\n2. **Location**: Indoor, likely a kitchen or living room.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Hand, snack bag, snacks, cardboard surface.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 287.0,
+      "timestamp_formatted": "0:04:47",
+      "activity": "The scene shows a close-up of snack items, possibly being unpacked or organized.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and mundane.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of snack items, possibly being unpacked or organized.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and mundane.\n4. **Key Elements**: Open bag of Cheetos, cereal box, cardboard box.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 288.0,
+      "timestamp_formatted": "0:04:48",
+      "activity": "The scene shows a collection of snacks, possibly being unpacked or organized.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snacks, possibly being unpacked or organized.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Open bag of Cheetos, cereal box, cardboard box, snack packaging.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 289.0,
+      "timestamp_formatted": "0:04:49",
+      "activity": "The scene shows a collection of snack items, possibly being unpacked or organized.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snack items, possibly being unpacked or organized.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: \n   - Open bag of spicy snacks\n   - Box of cereal\n   - Cardboard box\n   - Additional snack packaging\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 290.0,
+      "timestamp_formatted": "0:04:50",
+      "activity": "The scene shows a selection of snacks, possibly being unpacked or organized.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a selection of snacks, possibly being unpacked or organized.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Open bag of spicy snacks, cereal boxes, cardboard box.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 291.0,
+      "timestamp_formatted": "0:04:51",
+      "activity": "The scene shows a collection of snack items being displayed or unpacked.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Product display.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snack items being displayed or unpacked.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: \n   - Box of cereal\n   - Open bag of spicy snacks\n   - Cardboard box\n   - Snack packaging\n5. **Scene Type**: Product display."
+    },
+    {
+      "timestamp": 292.0,
+      "timestamp_formatted": "0:04:52",
+      "activity": "The scene shows a close-up of snack items, possibly being organized or selected.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of snack items, possibly being organized or selected.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Open bag of cheese-flavored snacks, cereal boxes, colorful packaging.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 293.0,
+      "timestamp_formatted": "0:04:53",
+      "activity": "Someone is reaching for a snack from an open bag.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is reaching for a snack from an open bag.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Open bag of snacks, cereal boxes, hand reaching for food.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 294.0,
+      "timestamp_formatted": "0:04:54",
+      "activity": "Someone is holding a snack, possibly about to eat it.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is holding a snack, possibly about to eat it.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Box of Cinnamon Toast Crunch, bag of Cheetos, snack being held, Cap'n Crunch box.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 295.0,
+      "timestamp_formatted": "0:04:55",
+      "activity": "The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, open bag of Cheetos, cardboard box.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 296.0,
+      "timestamp_formatted": "0:04:56",
+      "activity": "The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.",
+      "location": "Indoor, likely a kitchen or pantry.",
+      "mood": "Casual and informal.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of snack and cereal boxes, possibly being organized or displayed.\n2. **Location**: Indoor, likely a kitchen or pantry.\n3. **Mood**: Casual and informal.\n4. **Key Elements**: Cinnamon Toast Crunch box, Cap'n Crunch box, open bag of Cheetos, cardboard box.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 297.0,
+      "timestamp_formatted": "0:04:57",
+      "activity": "The scene shows a close-up of various snack and cereal packages, possibly being unpacked or displayed.",
+      "location": "Indoor, likely a kitchen or pantry area.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of various snack and cereal packages, possibly being unpacked or displayed.\n2. **Location**: Indoor, likely a kitchen or pantry area.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Cereal box, snack bag, open bag of chips, colorful packaging.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 299.0,
+      "timestamp_formatted": "0:04:59",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor, likely in a garden or patio area.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor, likely in a garden or patio area.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant supports, sunlight.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 300.0,
+      "timestamp_formatted": "0:05:00",
+      "activity": "The scene shows tomato plants growing with ripe and unripe tomatoes visible.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomato plants growing with ripe and unripe tomatoes visible.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe red tomatoes, green tomatoes, plant pots, bamboo stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 301.0,
+      "timestamp_formatted": "0:05:01",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Nature closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, plant pot, bamboo stakes.\n5. **Scene Type**: Nature closeup."
+    },
+    {
+      "timestamp": 302.0,
+      "timestamp_formatted": "0:05:02",
+      "activity": "The scene shows tomatoes growing on a vine.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a vine.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Green and red tomatoes, plant leaves, wooden stake, plant pot.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 303.0,
+      "timestamp_formatted": "0:05:03",
+      "activity": "The scene shows tomatoes ripening on the vine.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes ripening on the vine.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Green and red tomatoes, plant leaves, wooden stakes, plant pot.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 304.0,
+      "timestamp_formatted": "0:05:04",
+      "activity": "This scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: This scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomatoes, plant leaves, bamboo stakes, sunlight, plant pot.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 305.0,
+      "timestamp_formatted": "0:05:05",
+      "activity": "A person is adjusting their hair while looking at the camera.",
+      "location": "Indoor, possibly a dressing room or studio.",
+      "mood": "Intimate and casual.",
+      "key_elements": [],
+      "scene_type": "Personal moment.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair while looking at the camera.\n2. **Location**: Indoor, possibly a dressing room or studio.\n3. **Mood**: Intimate and casual.\n4. **Key Elements**: Person, hair, white wall, green sign.\n5. **Scene Type**: Personal moment."
+    },
+    {
+      "timestamp": 306.0,
+      "timestamp_formatted": "0:05:06",
+      "activity": "A person is looking directly at the camera, possibly preparing for a recording or photo shoot.",
+      "location": "Indoor setting, likely a studio or dressing room.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Preparation/behind-the-scenes.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly preparing for a recording or photo shoot.\n2. **Location**: Indoor setting, likely a studio or dressing room.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: \n   - Person with styled hair and makeup\n   - Plain background\n   - Subtitles in Korean\n5. **Scene Type**: Preparation/behind-the-scenes."
+    },
+    {
+      "timestamp": 307.0,
+      "timestamp_formatted": "0:05:07",
+      "activity": "A person is looking directly at the camera, possibly preparing for a shoot.",
+      "location": "Indoor setting, likely a studio or a room used for filming.",
+      "mood": "Focused and anticipatory.",
+      "key_elements": [],
+      "scene_type": "Preparation or behind-the-scenes.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly preparing for a shoot.\n2. **Location**: Indoor setting, likely a studio or a room used for filming.\n3. **Mood**: Focused and anticipatory.\n4. **Key Elements**: \n   - Person with long hair\n   - Plain wall background\n   - Cardboard boxes\n   - Korean text on screen\n5. **Scene Type**: Preparation or behind-the-scenes."
+    },
+    {
+      "timestamp": 308.0,
+      "timestamp_formatted": "0:05:08",
+      "activity": "A person is looking towards the camera, possibly taking a selfie or recording a video.",
+      "location": "Indoor setting, possibly a room with plain walls.",
+      "mood": "Intimate and casual.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is looking towards the camera, possibly taking a selfie or recording a video.\n2. **Location**: Indoor setting, possibly a room with plain walls.\n3. **Mood**: Intimate and casual.\n4. **Key Elements**: Person with long hair, white wall, green exit sign, wooden furniture.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 309.0,
+      "timestamp_formatted": "0:05:09",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't help with that."
+    },
+    {
+      "timestamp": 310.0,
+      "timestamp_formatted": "0:05:10",
+      "activity": "A person is adjusting their hair or makeup while looking at the camera.",
+      "location": "Indoor, possibly a dressing room or similar setting.",
+      "mood": "Intimate and focused.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair or makeup while looking at the camera.\n2. **Location**: Indoor, possibly a dressing room or similar setting.\n3. **Mood**: Intimate and focused.\n4. **Key Elements**: Person's face, hand, hair, plain wall background.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 311.0,
+      "timestamp_formatted": "0:05:11",
+      "activity": "A person is looking intently at something off-camera.",
+      "location": "Indoor setting, possibly a hallway or room with plain walls.",
+      "mood": "Focused and contemplative.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is looking intently at something off-camera.\n2. **Location**: Indoor setting, possibly a hallway or room with plain walls.\n3. **Mood**: Focused and contemplative.\n4. **Key Elements**: Person's face, white wall, emergency exit sign.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 312.0,
+      "timestamp_formatted": "0:05:12",
+      "activity": "A person is looking intently at something off-camera.",
+      "location": "Indoor setting, possibly a modern or minimalist room.",
+      "mood": "Curious or contemplative.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is looking intently at something off-camera.\n2. **Location**: Indoor setting, possibly a modern or minimalist room.\n3. **Mood**: Curious or contemplative.\n4. **Key Elements**: Close-up of a person's face, white wall, glass block wall, wooden chair.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 313.0,
+      "timestamp_formatted": "0:05:13",
+      "activity": "A video shoot is taking place, capturing a person on camera.",
+      "location": "Outdoor setting, likely in a garden or tropical area.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes of a video shoot.",
+      "raw_analysis": "1. **Activity**: A video shoot is taking place, capturing a person on camera.\n2. **Location**: Outdoor setting, likely in a garden or tropical area.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Camera monitor displaying a person\n   - Camera rigging equipment\n   - Green foliage in the background\n   - Cables and technical gear\n5. **Scene Type**: Behind-the-scenes of a video shoot."
+    },
+    {
+      "timestamp": 314.0,
+      "timestamp_formatted": "0:05:14",
+      "activity": "A video shoot is taking place, capturing a person on camera.",
+      "location": "Outdoor setting, likely in a garden or tropical area.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes of a video production.",
+      "raw_analysis": "1. **Activity**: A video shoot is taking place, capturing a person on camera.\n2. **Location**: Outdoor setting, likely in a garden or tropical area.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Camera monitor displaying a person\n   - Camera rigging equipment\n   - Green foliage in the background\n   - Cables and technical gear\n5. **Scene Type**: Behind-the-scenes of a video production."
+    },
+    {
+      "timestamp": 315.0,
+      "timestamp_formatted": "0:05:15",
+      "activity": "A video shoot is taking place, capturing a person on camera.",
+      "location": "Outdoor setting, likely in a garden or tropical area.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Filming/production setup.",
+      "raw_analysis": "1. **Activity**: A video shoot is taking place, capturing a person on camera.\n2. **Location**: Outdoor setting, likely in a garden or tropical area.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Camera monitor, person on screen, camera equipment, greenery.\n5. **Scene Type**: Filming/production setup."
+    },
+    {
+      "timestamp": 316.0,
+      "timestamp_formatted": "0:05:16",
+      "activity": "A video shoot is taking place, capturing a close-up of a person.",
+      "location": "Outdoor setting, likely in a garden or a park with lush greenery.",
+      "mood": "Professional and focused atmosphere.",
+      "key_elements": [],
+      "scene_type": "Filming/production setup.",
+      "raw_analysis": "1. **Activity**: A video shoot is taking place, capturing a close-up of a person.\n2. **Location**: Outdoor setting, likely in a garden or a park with lush greenery.\n3. **Mood**: Professional and focused atmosphere.\n4. **Key Elements**: Camera monitor displaying a close-up, camera equipment, greenery, person in the background.\n5. **Scene Type**: Filming/production setup."
+    },
+    {
+      "timestamp": 317.0,
+      "timestamp_formatted": "0:05:17",
+      "activity": "A video shoot is taking place, with a focus on capturing a close-up of a woman on the monitor.",
+      "location": "Outdoor setting, likely in a garden or park with lush greenery.",
+      "mood": "Professional and focused atmosphere.",
+      "key_elements": [],
+      "scene_type": "Filming/production setup.",
+      "raw_analysis": "1. **Activity**: A video shoot is taking place, with a focus on capturing a close-up of a woman on the monitor.\n2. **Location**: Outdoor setting, likely in a garden or park with lush greenery.\n3. **Mood**: Professional and focused atmosphere.\n4. **Key Elements**: \n   - Monitor displaying a close-up of a woman\n   - Camera equipment\n   - Crew members\n   - Green foliage in the background\n5. **Scene Type**: Filming/production setup."
+    },
+    {
+      "timestamp": 318.0,
+      "timestamp_formatted": "0:05:18",
+      "activity": "A video is being filmed, with a focus on a person visible on the monitor.",
+      "location": "Outdoor, likely in a garden or park setting.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Filming/production setup.",
+      "raw_analysis": "1. **Activity**: A video is being filmed, with a focus on a person visible on the monitor.\n2. **Location**: Outdoor, likely in a garden or park setting.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Monitor displaying a close-up of a person\n   - Camera equipment\n   - Crew members\n   - Lush greenery in the background\n5. **Scene Type**: Filming/production setup."
+    },
+    {
+      "timestamp": 319.0,
+      "timestamp_formatted": "0:05:19",
+      "activity": "A person is monitoring a video shoot on a display screen.",
+      "location": "Indoor, likely a studio or filming set.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is monitoring a video shoot on a display screen.\n2. **Location**: Indoor, likely a studio or filming set.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Monitor displaying a close-up of a person.\n   - Person observing the monitor.\n   - Camera equipment.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 321.0,
+      "timestamp_formatted": "0:05:21",
+      "activity": "A person is monitoring a video feed on a monitor during a filming session.",
+      "location": "Indoor, likely on a film set or studio.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is monitoring a video feed on a monitor during a filming session.\n2. **Location**: Indoor, likely on a film set or studio.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: \n   - Video monitor displaying a close-up of a person.\n   - Person with blonde hair wearing glasses.\n   - Equipment and cables.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 323.0,
+      "timestamp_formatted": "0:05:23",
+      "activity": "Two people appear to be looking at a screen or monitor.",
+      "location": "Indoor setting, possibly an office or studio.",
+      "mood": "Focused and attentive.",
+      "key_elements": [],
+      "scene_type": "Dialogue or interaction.",
+      "raw_analysis": "1. **Activity**: Two people appear to be looking at a screen or monitor.\n2. **Location**: Indoor setting, possibly an office or studio.\n3. **Mood**: Focused and attentive.\n4. **Key Elements**: Blonde hair, eyeglasses, face mask, screen/monitor.\n5. **Scene Type**: Dialogue or interaction."
+    },
+    {
+      "timestamp": 324.0,
+      "timestamp_formatted": "0:05:24",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor, likely a film or photography studio.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor, likely a film or photography studio.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Monitor displaying a woman's face, person with blonde hair and glasses, camera equipment.\n5. **Scene Type**: Behind-the-scenes."
+    },
+    {
+      "timestamp": 325.0,
+      "timestamp_formatted": "0:05:25",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor, likely a film or photography studio.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor, likely a film or photography studio.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Monitor displaying a woman's image, person with blonde hair, camera equipment, cables.\n5. **Scene Type**: Behind-the-scenes."
+    },
+    {
+      "timestamp": 326.0,
+      "timestamp_formatted": "0:05:26",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor, likely a studio or filming set.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor, likely a studio or filming set.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Monitor displaying a woman's face, person with glasses observing the monitor, camera equipment.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 331.0,
+      "timestamp_formatted": "0:05:31",
+      "activity": "A video shoot is taking place, with a focus on a monitor displaying a woman's face.",
+      "location": "Indoor setting, likely a studio or filming location.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A video shoot is taking place, with a focus on a monitor displaying a woman's face.\n2. **Location**: Indoor setting, likely a studio or filming location.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Monitor displaying a woman's face\n   - Camera equipment\n   - Person with blonde hair observing the monitor\n   - Cables and technical gear\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 332.0,
+      "timestamp_formatted": "0:05:32",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor or outdoor set, likely a filming location.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor or outdoor set, likely a filming location.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Monitor displaying a woman's face, person with glasses and mask, camera equipment.\n5. **Scene Type**: Behind-the-scenes."
+    },
+    {
+      "timestamp": 333.0,
+      "timestamp_formatted": "0:05:33",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor setting, likely a studio or controlled environment.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor setting, likely a studio or controlled environment.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Monitor displaying a close-up of a woman, person with glasses reviewing the footage, camera equipment.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 334.0,
+      "timestamp_formatted": "0:05:34",
+      "activity": "A video is being filmed, with a focus on a person visible on the monitor.",
+      "location": "Outdoor setting, likely a film set.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Filming/production setup.",
+      "raw_analysis": "1. **Activity**: A video is being filmed, with a focus on a person visible on the monitor.\n2. **Location**: Outdoor setting, likely a film set.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Camera monitor, person on screen, person with sunglasses, camera equipment.\n5. **Scene Type**: Filming/production setup."
+    },
+    {
+      "timestamp": 335.0,
+      "timestamp_formatted": "0:05:35",
+      "activity": "Someone is reviewing footage on a monitor.",
+      "location": "Indoor, likely a film or video production set.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: Someone is reviewing footage on a monitor.\n2. **Location**: Indoor, likely a film or video production set.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Monitor, person with glasses, camera equipment.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 336.0,
+      "timestamp_formatted": "0:05:36",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor, likely a film or video production set.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor, likely a film or video production set.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Monitor displaying footage, person with glasses, camera equipment, control panel.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 337.0,
+      "timestamp_formatted": "0:05:37",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor, likely a studio or film set.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor, likely a studio or film set.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Monitor displaying a video frame, person with headphones, camera equipment.\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 338.0,
+      "timestamp_formatted": "0:05:38",
+      "activity": "A video is being filmed, focusing on a person looking at the camera.",
+      "location": "Indoor setting, possibly a studio or controlled environment.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Filming/production setup.",
+      "raw_analysis": "1. **Activity**: A video is being filmed, focusing on a person looking at the camera.\n2. **Location**: Indoor setting, possibly a studio or controlled environment.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Camera monitor displaying a person\n   - Person with headphones observing the monitor\n   - Video camera setup\n   - Lighting equipment\n5. **Scene Type**: Filming/production setup."
+    },
+    {
+      "timestamp": 339.0,
+      "timestamp_formatted": "0:05:39",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor setting, likely a studio or controlled environment.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor setting, likely a studio or controlled environment.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Monitor displaying a video frame\n   - Person with glasses observing the screen\n   - Camera equipment\n   - Image of a woman on the monitor\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 340.0,
+      "timestamp_formatted": "0:05:40",
+      "activity": "A person is reviewing footage on a monitor during a video shoot.",
+      "location": "Indoor setting, likely a film set or studio.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Behind-the-scenes/production setup.",
+      "raw_analysis": "1. **Activity**: A person is reviewing footage on a monitor during a video shoot.\n2. **Location**: Indoor setting, likely a film set or studio.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: \n   - Monitor displaying video footage\n   - Person with glasses and headphones\n   - Camera equipment\n5. **Scene Type**: Behind-the-scenes/production setup."
+    },
+    {
+      "timestamp": 344.0,
+      "timestamp_formatted": "0:05:44",
+      "activity": "A person is turning their head, possibly flipping their hair.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition or casual moment.",
+      "raw_analysis": "1. **Activity**: A person is turning their head, possibly flipping their hair.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Person with long hair, framed photographs, television or monitor, wooden cabinet.\n5. **Scene Type**: Transition or casual moment."
+    },
+    {
+      "timestamp": 345.0,
+      "timestamp_formatted": "0:05:45",
+      "activity": "A person is sitting or standing indoors, possibly in thought or conversation.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or introspective moment.",
+      "raw_analysis": "1. **Activity**: A person is sitting or standing indoors, possibly in thought or conversation.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person with long hair, framed photographs, television, wall thermostat.\n5. **Scene Type**: Dialogue or introspective moment."
+    },
+    {
+      "timestamp": 346.0,
+      "timestamp_formatted": "0:05:46",
+      "activity": "A person is adjusting their hair, possibly preparing or grooming.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair, possibly preparing or grooming.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Person, television, picture frames, table.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 347.0,
+      "timestamp_formatted": "0:05:47",
+      "activity": "A person is adjusting their hair while looking at the camera.",
+      "location": "Indoor, likely a living room or bedroom.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Personal moment.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair while looking at the camera.\n2. **Location**: Indoor, likely a living room or bedroom.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Person, television, framed photos, light-colored walls.\n5. **Scene Type**: Personal moment."
+    },
+    {
+      "timestamp": 348.0,
+      "timestamp_formatted": "0:05:48",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't help with identifying or analyzing people in images."
+    },
+    {
+      "timestamp": 349.0,
+      "timestamp_formatted": "0:05:49",
+      "activity": "A person is turning their head, causing their hair to move.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is turning their head, causing their hair to move.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: Person, hair movement, bed, white shirt.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 350.0,
+      "timestamp_formatted": "0:05:50",
+      "activity": "A person is looking towards the camera with hair blowing across their face.",
+      "location": "Indoor, likely a living room or bedroom.",
+      "mood": "Intimate and casual.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is looking towards the camera with hair blowing across their face.\n2. **Location**: Indoor, likely a living room or bedroom.\n3. **Mood**: Intimate and casual.\n4. **Key Elements**: Person with long hair, television, framed photo, white fabric.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 351.0,
+      "timestamp_formatted": "0:05:51",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't help with identifying or analyzing people in images."
+    },
+    {
+      "timestamp": 352.0,
+      "timestamp_formatted": "0:05:52",
+      "activity": "A person is turning their head, possibly reacting to something off-screen.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is turning their head, possibly reacting to something off-screen.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Person with long hair, television, framed pictures, table.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 353.0,
+      "timestamp_formatted": "0:05:53",
+      "activity": "A person is looking directly at the camera, possibly taking a selfie or recording a video.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Intimate and casual.",
+      "key_elements": [],
+      "scene_type": "Selfie/close-up.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly taking a selfie or recording a video.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Intimate and casual.\n4. **Key Elements**: Person, television, framed photographs, table.\n5. **Scene Type**: Selfie/close-up."
+    },
+    {
+      "timestamp": 354.0,
+      "timestamp_formatted": "0:05:54",
+      "activity": "A person is looking directly at the camera, possibly taking a selfie or recording a video.",
+      "location": "Indoor, likely a living room or bedroom.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Personal vlog or selfie moment.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly taking a selfie or recording a video.\n2. **Location**: Indoor, likely a living room or bedroom.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person's face, television, picture frames, light-colored walls.\n5. **Scene Type**: Personal vlog or selfie moment."
+    },
+    {
+      "timestamp": 361.0,
+      "timestamp_formatted": "0:06:01",
+      "activity": "A person is holding a decorative box, possibly about to open it.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Curious and anticipatory.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: A person is holding a decorative box, possibly about to open it.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Curious and anticipatory.\n4. **Key Elements**: Hand, decorative box, floral design, light bulb illustration, text.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 362.0,
+      "timestamp_formatted": "0:06:02",
+      "activity": "A person is handling or examining a box.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product examination or unboxing.",
+      "raw_analysis": "1. **Activity**: A person is handling or examining a box.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - White box with black and orange text and graphics\n   - Hand holding the box\n   - Wooden floor\n5. **Scene Type**: Product examination or unboxing."
+    },
+    {
+      "timestamp": 363.0,
+      "timestamp_formatted": "0:06:03",
+      "activity": "The scene shows a close-up of a package or box, possibly being unboxed or examined.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a package or box, possibly being unboxed or examined.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - A box with text and graphics\n   - Wooden floor\n   - Korean text on the box\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 364.0,
+      "timestamp_formatted": "0:06:04",
+      "activity": "Someone is examining or presenting a box.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Neutral and focused.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: Someone is examining or presenting a box.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Neutral and focused.\n4. **Key Elements**: Box with text and illustrations, wooden floor, floral and light bulb graphics.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 365.0,
+      "timestamp_formatted": "0:06:05",
+      "activity": "The scene shows a close-up of a decorative box, possibly being showcased or unboxed.",
+      "location": "Indoor, likely on a wooden floor or table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a decorative box, possibly being showcased or unboxed.\n2. **Location**: Indoor, likely on a wooden floor or table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Box with \"SIMENON Maigret\" text, illustrations of an anchor, a hat, and a lighthouse.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 366.0,
+      "timestamp_formatted": "0:06:06",
+      "activity": "Someone is holding or examining a decorative box.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Curious and casual.",
+      "key_elements": [],
+      "scene_type": "Product examination.",
+      "raw_analysis": "1. **Activity**: Someone is holding or examining a decorative box.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Curious and casual.\n4. **Key Elements**: Decorative box with text and illustrations, wooden floor, hand.\n5. **Scene Type**: Product examination."
+    },
+    {
+      "timestamp": 367.0,
+      "timestamp_formatted": "0:06:07",
+      "activity": "The scene shows a close-up of a product box being examined or displayed.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Neutral and focused.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a product box being examined or displayed.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Neutral and focused.\n4. **Key Elements**: Product box with text and illustrations, wooden floor.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 368.0,
+      "timestamp_formatted": "0:06:08",
+      "activity": "A person is opening or handling a box.",
+      "location": "Indoor, likely on a wooden floor or table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: A person is opening or handling a box.\n2. **Location**: Indoor, likely on a wooden floor or table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Hand, box with text, wooden surface.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 369.0,
+      "timestamp_formatted": "0:06:09",
+      "activity": "The scene shows a close-up of a product package with text and graphics.",
+      "location": "Indoor, likely on a table or countertop.",
+      "mood": "Informative and neutral.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a product package with text and graphics.\n2. **Location**: Indoor, likely on a table or countertop.\n3. **Mood**: Informative and neutral.\n4. **Key Elements**: \n   - Text in Korean\n   - Illustration of a light bulb\n   - Silhouette of a person\n   - Floral design\n   - Product packaging\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 370.0,
+      "timestamp_formatted": "0:06:10",
+      "activity": "The scene shows a close-up of a box with text and graphics on it.",
+      "location": "Indoor, likely on a table or countertop.",
+      "mood": "Neutral and informative.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a box with text and graphics on it.\n2. **Location**: Indoor, likely on a table or countertop.\n3. **Mood**: Neutral and informative.\n4. **Key Elements**: Box with text, light bulb graphic, floral design, wooden surface.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 371.0,
+      "timestamp_formatted": "0:06:11",
+      "activity": "Someone is organizing or displaying a collection of books.",
+      "location": "Indoor, likely a home or library setting.",
+      "mood": "Calm and orderly.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: Someone is organizing or displaying a collection of books.\n2. **Location**: Indoor, likely a home or library setting.\n3. **Mood**: Calm and orderly.\n4. **Key Elements**: A series of white book spines with Korean text, a wooden surface, a hand adjusting the books.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 372.0,
+      "timestamp_formatted": "0:06:12",
+      "activity": "The scene shows a collection of books neatly arranged in a box.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of books neatly arranged in a box.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: \n   - A set of white books with numbered spines\n   - A box containing the books\n   - Wooden floor\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 373.0,
+      "timestamp_formatted": "0:06:13",
+      "activity": "The scene shows a collection of books neatly arranged in a box.",
+      "location": "Indoor, likely on a wooden floor or table.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of books neatly arranged in a box.\n2. **Location**: Indoor, likely on a wooden floor or table.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Books with white spines, box container, wooden surface.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 374.0,
+      "timestamp_formatted": "0:06:14",
+      "activity": "A collection of books is being displayed or organized.",
+      "location": "Indoor, likely on a wooden floor.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A collection of books is being displayed or organized.\n2. **Location**: Indoor, likely on a wooden floor.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Set of books, wooden floor, hand reaching towards the books.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 390.0,
+      "timestamp_formatted": "0:06:30",
+      "activity": "The scene captures a view of a river and cityscape during sunset.",
+      "location": "Outdoor, under a bridge by a river, likely in an urban area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a view of a river and cityscape during sunset.\n2. **Location**: Outdoor, under a bridge by a river, likely in an urban area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: River, bridge, city skyline, sunset clouds, greenery.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 394.0,
+      "timestamp_formatted": "0:06:34",
+      "activity": "Two small dogs are being walked on leashes.",
+      "location": "Outdoor, along a grassy path or sidewalk.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: Two small dogs are being walked on leashes.\n2. **Location**: Outdoor, along a grassy path or sidewalk.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Two small white dogs, leashes, grass, sidewalk.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 395.0,
+      "timestamp_formatted": "0:06:35",
+      "activity": "Two small dogs are being walked on leashes.",
+      "location": "Outdoor setting, likely a park or a path alongside greenery.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Casual outdoor walk.",
+      "raw_analysis": "1. **Activity**: Two small dogs are being walked on leashes.\n2. **Location**: Outdoor setting, likely a park or a path alongside greenery.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Two small white dogs, leashes, grassy area, paved path.\n5. **Scene Type**: Casual outdoor walk."
+    },
+    {
+      "timestamp": 396.0,
+      "timestamp_formatted": "0:06:36",
+      "activity": "Two dogs are being walked on leashes.",
+      "location": "Outdoor, along a grassy path beside a sidewalk.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: Two dogs are being walked on leashes.\n2. **Location**: Outdoor, along a grassy path beside a sidewalk.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Two small dogs, leashes, grass, sidewalk.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 397.0,
+      "timestamp_formatted": "0:06:37",
+      "activity": "Two small dogs are being walked on leashes.",
+      "location": "Outdoor, alongside a grassy path next to a sidewalk.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Casual outdoor walk.",
+      "raw_analysis": "1. **Activity**: Two small dogs are being walked on leashes.\n2. **Location**: Outdoor, alongside a grassy path next to a sidewalk.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Two small dogs, leashes, grassy area, sidewalk.\n5. **Scene Type**: Casual outdoor walk."
+    },
+    {
+      "timestamp": 398.0,
+      "timestamp_formatted": "0:06:38",
+      "activity": "Two small dogs are being walked on leashes.",
+      "location": "Outdoor, along a grassy roadside.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: Two small dogs are being walked on leashes.\n2. **Location**: Outdoor, along a grassy roadside.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Two small white dogs, leashes, grass, roadside pavement.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 399.0,
+      "timestamp_formatted": "0:06:39",
+      "activity": "A person is walking two dogs on leashes.",
+      "location": "Outdoor, along a grassy path or sidewalk.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is walking two dogs on leashes.\n2. **Location**: Outdoor, along a grassy path or sidewalk.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Two dogs, leashes, grassy area, sidewalk.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 400.0,
+      "timestamp_formatted": "0:06:40",
+      "activity": "A small dog is being walked on a leash.",
+      "location": "Outdoor, along a grassy path.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Casual outdoor walk.",
+      "raw_analysis": "1. **Activity**: A small dog is being walked on a leash.\n2. **Location**: Outdoor, along a grassy path.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Small white dog, leash, grassy area, path.\n5. **Scene Type**: Casual outdoor walk."
+    },
+    {
+      "timestamp": 401.0,
+      "timestamp_formatted": "0:06:41",
+      "activity": "A small dog is being walked on a leash along a path.",
+      "location": "Outdoor, likely a park or a grassy roadside.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A small dog is being walked on a leash along a path.\n2. **Location**: Outdoor, likely a park or a grassy roadside.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Small white dog, leash, grassy area, path.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 402.0,
+      "timestamp_formatted": "0:06:42",
+      "activity": "A small dog is being walked on a leash.",
+      "location": "Outdoor, along a grassy path.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A small dog is being walked on a leash.\n2. **Location**: Outdoor, along a grassy path.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Small dog, leash, grassy area, path.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 403.0,
+      "timestamp_formatted": "0:06:43",
+      "activity": "A person is walking a small white dog on a leash.",
+      "location": "Outdoor, along a grassy path or park area.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking a small white dog on a leash.\n2. **Location**: Outdoor, along a grassy path or park area.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Small white dog, leash, grassy hill, pathway.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 404.0,
+      "timestamp_formatted": "0:06:44",
+      "activity": "A small dog is being walked along a grassy path.",
+      "location": "Outdoor, alongside a road or sidewalk with a grassy embankment.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A small dog is being walked along a grassy path.\n2. **Location**: Outdoor, alongside a road or sidewalk with a grassy embankment.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Small dog, leash, grassy embankment, sidewalk.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 405.0,
+      "timestamp_formatted": "0:06:45",
+      "activity": "A person is walking a small white dog on a leash.",
+      "location": "Outdoor, along a waterfront path.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Casual outdoor activity.",
+      "raw_analysis": "1. **Activity**: A person is walking a small white dog on a leash.\n2. **Location**: Outdoor, along a waterfront path.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Dog, leash, person’s hand, railing, water.\n5. **Scene Type**: Casual outdoor activity."
+    },
+    {
+      "timestamp": 406.0,
+      "timestamp_formatted": "0:06:46",
+      "activity": "A person is walking a dog along a waterfront path.",
+      "location": "Outdoor, by a body of water, likely a lakeside or riverside path.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking a dog along a waterfront path.\n2. **Location**: Outdoor, by a body of water, likely a lakeside or riverside path.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: Dog on a leash, railing, water, paved path.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 407.0,
+      "timestamp_formatted": "0:06:47",
+      "activity": "A person is walking a dog along a pathway.",
+      "location": "Outdoor, by a waterfront or riverbank.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking a dog along a pathway.\n2. **Location**: Outdoor, by a waterfront or riverbank.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Dog on a leash, pathway, railing, water.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 408.0,
+      "timestamp_formatted": "0:06:48",
+      "activity": "A person is walking a dog along a pathway.",
+      "location": "Outdoor, by a waterfront or riverbank.",
+      "mood": "Calm and leisurely.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking a dog along a pathway.\n2. **Location**: Outdoor, by a waterfront or riverbank.\n3. **Mood**: Calm and leisurely.\n4. **Key Elements**: Dog on a leash, pathway, railing, water.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 409.0,
+      "timestamp_formatted": "0:06:49",
+      "activity": "A small dog is lying on the floor, possibly resting or playing.",
+      "location": "Indoor, likely a home setting.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Pet interaction.",
+      "raw_analysis": "1. **Activity**: A small dog is lying on the floor, possibly resting or playing.\n2. **Location**: Indoor, likely a home setting.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Small white dog, wooden floor, puzzle toy, furniture.\n5. **Scene Type**: Pet interaction."
+    },
+    {
+      "timestamp": 427.0,
+      "timestamp_formatted": "0:07:07",
+      "activity": "A person is looking directly at the camera, possibly speaking or preparing to speak.",
+      "location": "Indoor, likely a private space such as a room or bathroom.",
+      "mood": "Intimate and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal monologue.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly speaking or preparing to speak.\n2. **Location**: Indoor, likely a private space such as a room or bathroom.\n3. **Mood**: Intimate and personal.\n4. **Key Elements**: Close-up of a person's face, wooden door or panel in the background, soft lighting.\n5. **Scene Type**: Dialogue or personal monologue."
+    },
+    {
+      "timestamp": 433.0,
+      "timestamp_formatted": "0:07:13",
+      "activity": "The scene shows a decorated area for a welcoming event.",
+      "location": "Indoor setting, likely a party or event venue.",
+      "mood": "Festive and welcoming.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a decorated area for a welcoming event.\n2. **Location**: Indoor setting, likely a party or event venue.\n3. **Mood**: Festive and welcoming.\n4. **Key Elements**: \n   - \"WELCOME\" balloon letters\n   - Cardboard cutout of a person\n   - Shiny streamers\n   - Balloons\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 435.0,
+      "timestamp_formatted": "0:07:15",
+      "activity": "A welcome event or celebration is being set up.",
+      "location": "Indoor, likely a decorated event space or party room.",
+      "mood": "Festive and welcoming.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A welcome event or celebration is being set up.\n2. **Location**: Indoor, likely a decorated event space or party room.\n3. **Mood**: Festive and welcoming.\n4. **Key Elements**: \n   - Metallic \"WELCOME\" balloons\n   - Cardboard cutout of a person\n   - Hanging balloons\n   - Iridescent streamers\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 436.0,
+      "timestamp_formatted": "0:07:16",
+      "activity": "A welcome event or celebration is being set up or taking place.",
+      "location": "Indoor setting, likely a party or event venue.",
+      "mood": "Festive and welcoming.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A welcome event or celebration is being set up or taking place.\n2. **Location**: Indoor setting, likely a party or event venue.\n3. **Mood**: Festive and welcoming.\n4. **Key Elements**: \n   - \"WELCOME\" balloon letters\n   - Assorted balloons\n   - Shimmering backdrop\n   - Cardboard cutout of a person\n   - Korean text with a heart emoji\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 438.0,
+      "timestamp_formatted": "0:07:18",
+      "activity": "A welcome event or celebration is taking place.",
+      "location": "Indoor setting, likely an office or event space.",
+      "mood": "Festive and welcoming.",
+      "key_elements": [],
+      "scene_type": "Event setup.",
+      "raw_analysis": "1. **Activity**: A welcome event or celebration is taking place.\n2. **Location**: Indoor setting, likely an office or event space.\n3. **Mood**: Festive and welcoming.\n4. **Key Elements**: Balloons, a large poster with a person's image, a welcome banner, ceiling lights.\n5. **Scene Type**: Event setup."
+    },
+    {
+      "timestamp": 442.0,
+      "timestamp_formatted": "0:07:22",
+      "activity": "The scene shows a close-up of two packaged items with a photo and text on them.",
+      "location": "Indoor, likely on a table or desk.",
+      "mood": "Calm and promotional.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of two packaged items with a photo and text on them.\n2. **Location**: Indoor, likely on a table or desk.\n3. **Mood**: Calm and promotional.\n4. **Key Elements**: Two boxes with a photo of a person, Korean text, a rectangular frame or device.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 443.0,
+      "timestamp_formatted": "0:07:23",
+      "activity": "A person is arranging or examining boxes on a table.",
+      "location": "Indoor, likely on a wooden table or desk.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product examination.",
+      "raw_analysis": "1. **Activity**: A person is arranging or examining boxes on a table.\n2. **Location**: Indoor, likely on a wooden table or desk.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Boxes with a woman's image, hand interacting with the boxes, wooden surface, rectangular frame.\n5. **Scene Type**: Product examination."
+    },
+    {
+      "timestamp": 444.0,
+      "timestamp_formatted": "0:07:24",
+      "activity": "A person is arranging or examining packaged items on a table.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Product examination.",
+      "raw_analysis": "1. **Activity**: A person is arranging or examining packaged items on a table.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Packaged boxes with a photo and text, a hand, a black rectangular frame.\n5. **Scene Type**: Product examination."
+    },
+    {
+      "timestamp": 445.0,
+      "timestamp_formatted": "0:07:25",
+      "activity": "Someone is holding a gift box, possibly preparing to open it.",
+      "location": "Indoor, likely on a table or countertop.",
+      "mood": "Anticipatory and intimate.",
+      "key_elements": [],
+      "scene_type": "Gift opening.",
+      "raw_analysis": "1. **Activity**: Someone is holding a gift box, possibly preparing to open it.\n2. **Location**: Indoor, likely on a table or countertop.\n3. **Mood**: Anticipatory and intimate.\n4. **Key Elements**: Red gift box with \"Baccarat\" branding, white ribbon, hands holding the box, wooden table surface.\n5. **Scene Type**: Gift opening."
+    },
+    {
+      "timestamp": 447.0,
+      "timestamp_formatted": "0:07:27",
+      "activity": "Someone is untying a ribbon on a gift box.",
+      "location": "Indoor, likely on a table in a home or office setting.",
+      "mood": "Anticipatory and intimate.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: Someone is untying a ribbon on a gift box.\n2. **Location**: Indoor, likely on a table in a home or office setting.\n3. **Mood**: Anticipatory and intimate.\n4. **Key Elements**: Red gift box, white ribbon with \"Baccarat\" branding, hands untying the ribbon, wooden table surface.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 448.0,
+      "timestamp_formatted": "0:07:28",
+      "activity": "Someone is untying a ribbon on a gift box.",
+      "location": "Indoor, likely at a table or desk.",
+      "mood": "Anticipatory and intimate.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: Someone is untying a ribbon on a gift box.\n2. **Location**: Indoor, likely at a table or desk.\n3. **Mood**: Anticipatory and intimate.\n4. **Key Elements**: Red gift box, ribbon, hands, wooden surface, text overlay.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 449.0,
+      "timestamp_formatted": "0:07:29",
+      "activity": "Someone is holding and possibly about to open a gift box.",
+      "location": "Indoor, likely at a table in a casual setting.",
+      "mood": "Anticipatory and intimate.",
+      "key_elements": [],
+      "scene_type": "Gift exchange.",
+      "raw_analysis": "1. **Activity**: Someone is holding and possibly about to open a gift box.\n2. **Location**: Indoor, likely at a table in a casual setting.\n3. **Mood**: Anticipatory and intimate.\n4. **Key Elements**: Red gift box with \"Baccarat\" logo, hands holding the box, wooden table, text in Korean.\n5. **Scene Type**: Gift exchange."
+    },
+    {
+      "timestamp": 451.0,
+      "timestamp_formatted": "0:07:31",
+      "activity": "A person is opening a gift box to reveal a decorative glass item inside.",
+      "location": "Indoor, likely a home or a casual setting.",
+      "mood": "Intimate and appreciative.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: A person is opening a gift box to reveal a decorative glass item inside.\n2. **Location**: Indoor, likely a home or a casual setting.\n3. **Mood**: Intimate and appreciative.\n4. **Key Elements**: Red gift box, decorative glass item, hand opening the box, wooden table, text overlay.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 453.0,
+      "timestamp_formatted": "0:07:33",
+      "activity": "Someone is unboxing or opening a gift box.",
+      "location": "Indoor, likely on a table or countertop.",
+      "mood": "Anticipatory and curious.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: Someone is unboxing or opening a gift box.\n2. **Location**: Indoor, likely on a table or countertop.\n3. **Mood**: Anticipatory and curious.\n4. **Key Elements**: Red gift box, hands, clear plastic object, ribbon.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 454.0,
+      "timestamp_formatted": "0:07:34",
+      "activity": "Someone is unboxing a glass item from a red gift box.",
+      "location": "Indoor, likely on a wooden table.",
+      "mood": "Anticipatory and intimate.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: Someone is unboxing a glass item from a red gift box.\n2. **Location**: Indoor, likely on a wooden table.\n3. **Mood**: Anticipatory and intimate.\n4. **Key Elements**: Red gift box, glass item, hands, wooden table, ribbon.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 456.0,
+      "timestamp_formatted": "0:07:36",
+      "activity": "A person is examining or showcasing a decorative glass.",
+      "location": "Indoor, likely a home or a casual setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is examining or showcasing a decorative glass.\n2. **Location**: Indoor, likely a home or a casual setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Decorative glass, red box, handbag, yellow bag, text overlay.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 457.0,
+      "timestamp_formatted": "0:07:37",
+      "activity": "A person is holding a clear, textured glass.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is holding a clear, textured glass.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Hand, clear glass, wooden table, bag of chips.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 458.0,
+      "timestamp_formatted": "0:07:38",
+      "activity": "The scene shows a close-up of food items, possibly being prepared or packaged.",
+      "location": "Indoor, likely a kitchen or food preparation area.",
+      "mood": "Neutral, focused on the task at hand.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of food items, possibly being prepared or packaged.\n2. **Location**: Indoor, likely a kitchen or food preparation area.\n3. **Mood**: Neutral, focused on the task at hand.\n4. **Key Elements**: Raw chicken pieces, plastic wrap, a hand, packaging material.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 459.0,
+      "timestamp_formatted": "0:07:39",
+      "activity": "A person is examining a decorative glass.",
+      "location": "Indoor, likely at a home or a gift-giving setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Unboxing.",
+      "raw_analysis": "1. **Activity**: A person is examining a decorative glass.\n2. **Location**: Indoor, likely at a home or a gift-giving setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Decorative glass, red gift box, wooden table, ribbon.\n5. **Scene Type**: Unboxing."
+    },
+    {
+      "timestamp": 466.0,
+      "timestamp_formatted": "0:07:46",
+      "activity": "A person is examining a decorative glass.",
+      "location": "Indoor, likely at a table or countertop.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Closeup examination.",
+      "raw_analysis": "1. **Activity**: A person is examining a decorative glass.\n2. **Location**: Indoor, likely at a table or countertop.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Decorative glass, hands, wooden surface, open box.\n5. **Scene Type**: Closeup examination."
+    },
+    {
+      "timestamp": 468.0,
+      "timestamp_formatted": "0:07:48",
+      "activity": "Someone is unboxing or examining a glass object.",
+      "location": "Indoor, likely on a table or countertop.",
+      "mood": "Curious and focused.",
+      "key_elements": [],
+      "scene_type": "Unboxing or product reveal.",
+      "raw_analysis": "1. **Activity**: Someone is unboxing or examining a glass object.\n2. **Location**: Indoor, likely on a table or countertop.\n3. **Mood**: Curious and focused.\n4. **Key Elements**: Red box, glass object, white ribbon, wooden surface.\n5. **Scene Type**: Unboxing or product reveal."
+    },
+    {
+      "timestamp": 469.0,
+      "timestamp_formatted": "0:07:49",
+      "activity": "Two small dogs are resting on a blanket.",
+      "location": "Indoor, likely a living room.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Pet closeup.",
+      "raw_analysis": "1. **Activity**: Two small dogs are resting on a blanket.\n2. **Location**: Indoor, likely a living room.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Two small dogs, blanket, wooden floor, part of a sofa.\n5. **Scene Type**: Pet closeup."
+    },
+    {
+      "timestamp": 482.0,
+      "timestamp_formatted": "0:08:02",
+      "activity": "The scene shows tomato plants growing, possibly being cultivated or observed.",
+      "location": "Outdoor garden or patio setting.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomato plants growing, possibly being cultivated or observed.\n2. **Location**: Outdoor garden or patio setting.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe red tomatoes, green leaves, plant stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 483.0,
+      "timestamp_formatted": "0:08:03",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor, likely in a garden or patio area.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor, likely in a garden or patio area.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, potted plants, leaves.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 484.0,
+      "timestamp_formatted": "0:08:04",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio area.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio area.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, bamboo support, potted plants.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 485.0,
+      "timestamp_formatted": "0:08:05",
+      "activity": "The scene shows tomatoes ripening on the vine.",
+      "location": "This is taking place outdoors in a garden or patio setting.",
+      "mood": "The atmosphere is calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes ripening on the vine.\n2. **Location**: This is taking place outdoors in a garden or patio setting.\n3. **Mood**: The atmosphere is calm and serene.\n4. **Key Elements**: \n   - Ripening tomatoes\n   - Green leaves\n   - Plant support stakes\n   - Potted plants in the background\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 486.0,
+      "timestamp_formatted": "0:08:06",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor, likely in a garden or patio area.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor, likely in a garden or patio area.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, plant support sticks, potted plants.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 487.0,
+      "timestamp_formatted": "0:08:07",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "This is taking place outdoors, likely in a garden or greenhouse.",
+      "mood": "The atmosphere is calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: This is taking place outdoors, likely in a garden or greenhouse.\n3. **Mood**: The atmosphere is calm and natural.\n4. **Key Elements**: Tomato plant, ripe and unripe tomatoes, plant pots, greenery.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 488.0,
+      "timestamp_formatted": "0:08:08",
+      "activity": "The scene shows tomatoes growing on plants, possibly being observed or tended to.",
+      "location": "Outdoor garden or greenhouse.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on plants, possibly being observed or tended to.\n2. **Location**: Outdoor garden or greenhouse.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, green leaves, wooden stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 489.0,
+      "timestamp_formatted": "0:08:09",
+      "activity": "The scene shows tomato plants growing in a garden.",
+      "location": "Outdoor garden or greenhouse.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomato plants growing in a garden.\n2. **Location**: Outdoor garden or greenhouse.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, soil, plant stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 490.0,
+      "timestamp_formatted": "0:08:10",
+      "activity": "The scene shows tomato plants growing, likely being observed or tended to.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomato plants growing, likely being observed or tended to.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant pots, bamboo stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 491.0,
+      "timestamp_formatted": "0:08:11",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or greenhouse.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or greenhouse.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant stakes, pots.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 492.0,
+      "timestamp_formatted": "0:08:12",
+      "activity": "The scene shows tomatoes growing on a plant.",
+      "location": "Outdoor garden or patio.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows tomatoes growing on a plant.\n2. **Location**: Outdoor garden or patio.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Tomato plants, ripe and unripe tomatoes, plant pots, wooden stakes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 493.0,
+      "timestamp_formatted": "0:08:13",
+      "activity": "Freshly harvested tomatoes are being collected in a container.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and satisfying.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly harvested tomatoes are being collected in a container.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and satisfying.\n4. **Key Elements**: Tomatoes, container, tomato plants, green leaves.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 494.0,
+      "timestamp_formatted": "0:08:14",
+      "activity": "Freshly harvested tomatoes are being displayed in a bowl.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Freshly harvested tomatoes are being displayed in a bowl.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Bowl of tomatoes, tomato plants, greenery.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 495.0,
+      "timestamp_formatted": "0:08:15",
+      "activity": "The scene shows freshly harvested tomatoes in a bowl.",
+      "location": "Outdoor garden.",
+      "mood": "Calm and natural.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows freshly harvested tomatoes in a bowl.\n2. **Location**: Outdoor garden.\n3. **Mood**: Calm and natural.\n4. **Key Elements**: Bowl of tomatoes, tomato plants, greenery.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 496.0,
+      "timestamp_formatted": "0:08:16",
+      "activity": "Someone is harvesting or displaying freshly picked tomatoes.",
+      "location": "Outdoor garden.",
+      "mood": "Fresh and natural.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Someone is harvesting or displaying freshly picked tomatoes.\n2. **Location**: Outdoor garden.\n3. **Mood**: Fresh and natural.\n4. **Key Elements**: Bowl of tomatoes, tomato plants, green leaves.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 497.0,
+      "timestamp_formatted": "0:08:17",
+      "activity": "A person is preparing to cut vegetables on a wooden cutting board.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing to cut vegetables on a wooden cutting board.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Knife, wooden cutting board, zucchini, bell peppers, eggplants, tomatoes.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 502.0,
+      "timestamp_formatted": "0:08:22",
+      "activity": "A person is slicing a tomato on a cutting board.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is slicing a tomato on a cutting board.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Cutting board, knife, tomatoes, assorted vegetables, text overlay.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 508.0,
+      "timestamp_formatted": "0:08:28",
+      "activity": "Someone is preparing vegetables, specifically chopping tomatoes.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing vegetables, specifically chopping tomatoes.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Chopped tomatoes, whole vegetables (zucchini, bell pepper, tomatoes, eggplants), a bowl of cherry tomatoes, a hand in action.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 511.0,
+      "timestamp_formatted": "0:08:31",
+      "activity": "Vegetables are being prepared for cooking, likely roasting.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: Vegetables are being prepared for cooking, likely roasting.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Red bell peppers, tomatoes, garlic cloves, parchment paper.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 514.0,
+      "timestamp_formatted": "0:08:34",
+      "activity": "The scene shows roasted vegetables, likely prepared for a meal.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows roasted vegetables, likely prepared for a meal.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Roasted red peppers, cherry tomatoes, garlic cloves, parchment paper.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 515.0,
+      "timestamp_formatted": "0:08:35",
+      "activity": "Ingredients are being prepared for making a sauce.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Ingredients are being prepared for making a sauce.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Roasted red peppers, cherry tomatoes, garlic cloves, almonds, parchment paper.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 516.0,
+      "timestamp_formatted": "0:08:36",
+      "activity": "A person is preparing ingredients, likely for a sauce, by holding almonds over a tray of roasted vegetables.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing ingredients, likely for a sauce, by holding almonds over a tray of roasted vegetables.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Almonds, roasted red peppers, garlic cloves, baking tray.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 517.0,
+      "timestamp_formatted": "0:08:37",
+      "activity": "The scene shows someone preparing ingredients for a sauce, holding almonds in their hand.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows someone preparing ingredients for a sauce, holding almonds in their hand.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Almonds, roasted red peppers, garlic, baking tray.\n5. **Scene Type**: Food preparation closeup."
+    },
+    {
+      "timestamp": 518.0,
+      "timestamp_formatted": "0:08:38",
+      "activity": "Bread pieces are being toasted in a frying pan.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: Bread pieces are being toasted in a frying pan.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Frying pan, bread pieces, stovetop, Korean text overlay.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 520.0,
+      "timestamp_formatted": "0:08:40",
+      "activity": "Bread cubes are being toasted in a frying pan.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking closeup.",
+      "raw_analysis": "1. **Activity**: Bread cubes are being toasted in a frying pan.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Frying pan, bread cubes, stovetop.\n5. **Scene Type**: Cooking closeup."
+    },
+    {
+      "timestamp": 521.0,
+      "timestamp_formatted": "0:08:41",
+      "activity": "A person is slicing zucchini on a cutting board.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is slicing zucchini on a cutting board.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Knife, cutting board, zucchini, tray of assorted vegetables (bell pepper, mushrooms, tomatoes, eggplant).\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 527.0,
+      "timestamp_formatted": "0:08:47",
+      "activity": "Someone is slicing mushrooms on a cutting board.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is slicing mushrooms on a cutting board.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Cutting board, knife, mushrooms, assorted vegetables, tray.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 529.0,
+      "timestamp_formatted": "0:08:49",
+      "activity": "A person is preparing vegetables by adding seasoning and olive oil to a bowl.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing vegetables by adding seasoning and olive oil to a bowl.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Glass bowl, sliced vegetables (zucchini, mushrooms, broccoli), gloved hand, wooden table.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 532.0,
+      "timestamp_formatted": "0:08:52",
+      "activity": "A person is preparing a salad by adding olive oil to a bowl of vegetables.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing a salad by adding olive oil to a bowl of vegetables.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Bottle of olive oil, glass bowl, sliced vegetables (zucchini, mushrooms, broccoli), wooden table.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 534.0,
+      "timestamp_formatted": "0:08:54",
+      "activity": "A person is preparing a salad by adding ingredients to a bowl.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing a salad by adding ingredients to a bowl.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Glass bowl, sliced vegetables (zucchini, mushrooms, broccoli), gloved hands, bread in the background.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 535.0,
+      "timestamp_formatted": "0:08:55",
+      "activity": "A person is preparing a salad by mixing vegetables in a bowl.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing a salad by mixing vegetables in a bowl.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Glass bowl, vegetables, gloved hands, bread, spoon.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 536.0,
+      "timestamp_formatted": "0:08:56",
+      "activity": "Someone is preparing a salad by mixing vegetables in a bowl.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing a salad by mixing vegetables in a bowl.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Gloved hands, glass bowl, chopped vegetables, bread, and a spoon.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 537.0,
+      "timestamp_formatted": "0:08:57",
+      "activity": "Onion slices are being grilled on an electric grill.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused on cooking.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: Onion slices are being grilled on an electric grill.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused on cooking.\n4. **Key Elements**: Onion slices, electric grill, wooden surface, control knobs.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 539.0,
+      "timestamp_formatted": "0:08:59",
+      "activity": "The scene shows a presentation of grilled vegetables on a plate.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a presentation of grilled vegetables on a plate.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and appetizing.\n4. **Key Elements**: Grilled onions, yellow bell peppers, zucchini, broccoli, eggplant.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 541.0,
+      "timestamp_formatted": "0:09:01",
+      "activity": "Someone is spreading a red-orange paste onto a slice of bread.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is spreading a red-orange paste onto a slice of bread.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Slice of bread, red-orange paste, knife, wooden cutting board, dish with grilled vegetables.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 544.0,
+      "timestamp_formatted": "0:09:04",
+      "activity": "A person is preparing food by placing cooked vegetables on slices of bread with orange spread.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing food by placing cooked vegetables on slices of bread with orange spread.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Slices of bread with spread, cooked vegetables, chopsticks, wooden board.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 546.0,
+      "timestamp_formatted": "0:09:06",
+      "activity": "A person is preparing open-faced sandwiches with roasted vegetables and a spread.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing open-faced sandwiches with roasted vegetables and a spread.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Slices of bread with orange spread, grilled vegetables, a wooden serving board, a dish with more vegetables.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 549.0,
+      "timestamp_formatted": "0:09:09",
+      "activity": "The scene shows a close-up of a food presentation, likely part of a meal being served.",
+      "location": "Indoor, possibly in a restaurant or dining setting.",
+      "mood": "The atmosphere is calm and focused on culinary aesthetics.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a food presentation, likely part of a meal being served.\n2. **Location**: Indoor, possibly in a restaurant or dining setting.\n3. **Mood**: The atmosphere is calm and focused on culinary aesthetics.\n4. **Key Elements**: \n   - Grilled vegetables (eggplant, broccoli, onion)\n   - Sweet potato base\n   - Wooden serving board\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 553.0,
+      "timestamp_formatted": "0:09:13",
+      "activity": "A person is assembling or displaying open-faced sandwiches with various grilled vegetables.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is assembling or displaying open-faced sandwiches with various grilled vegetables.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and appetizing.\n4. **Key Elements**: Grilled vegetables (broccolini, bell peppers, eggplant, onions), bread slices, wooden serving board.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 557.0,
+      "timestamp_formatted": "0:09:17",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the content of this video frame. It appears to be completely black, with no visible elements or activity to describe."
+    },
+    {
+      "timestamp": 563.0,
+      "timestamp_formatted": "0:09:23",
+      "activity": "Two dogs are resting near a window.",
+      "location": "Indoor, likely a living room with a view of a garden.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate.",
+      "raw_analysis": "1. **Activity**: Two dogs are resting near a window.\n2. **Location**: Indoor, likely a living room with a view of a garden.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Two fluffy white dogs, a large window, a yellow mat, greenery outside.\n5. **Scene Type**: Intimate."
+    },
+    {
+      "timestamp": 567.0,
+      "timestamp_formatted": "0:09:27",
+      "activity": "A person is interacting with a small dog, possibly taking a selfie or video.",
+      "location": "Indoor, likely a living room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a small dog, possibly taking a selfie or video.\n2. **Location**: Indoor, likely a living room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person, small dog, sofa, potted plant, subtitles in Korean.\n5. **Scene Type**: Casual interaction."
+    },
+    {
+      "timestamp": 568.0,
+      "timestamp_formatted": "0:09:28",
+      "activity": "A person is interacting with a dog, possibly expressing fatigue or stress.",
+      "location": "Indoor, likely a home setting.",
+      "mood": "Intimate and slightly weary.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with a dog, possibly expressing fatigue or stress.\n2. **Location**: Indoor, likely a home setting.\n3. **Mood**: Intimate and slightly weary.\n4. **Key Elements**: Person, dog, hand on forehead, text overlay.\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 570.0,
+      "timestamp_formatted": "0:09:30",
+      "activity": "A person is interacting closely with a small dog.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Intimate and calm.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is interacting closely with a small dog.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Intimate and calm.\n4. **Key Elements**: Person, small fluffy dog, bed or couch, dim lighting.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 571.0,
+      "timestamp_formatted": "0:09:31",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't help with identifying or analyzing people in images."
+    },
+    {
+      "timestamp": 572.0,
+      "timestamp_formatted": "0:09:32",
+      "activity": "A person is sitting with a white dog, possibly engaging in a casual interaction.",
+      "location": "Indoor, likely in a living room or similar cozy space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting with a white dog, possibly engaging in a casual interaction.\n2. **Location**: Indoor, likely in a living room or similar cozy space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: White dog, person, couch, cushions, text overlay.\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 573.0,
+      "timestamp_formatted": "0:09:33",
+      "activity": "The scene shows a person speaking or reacting, possibly in a vlog or casual conversation.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "The atmosphere seems casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal vlog segment.",
+      "raw_analysis": "1. **Activity**: The scene shows a person speaking or reacting, possibly in a vlog or casual conversation.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: The atmosphere seems casual and relaxed.\n4. **Key Elements**: \n   - Blurred person in the foreground\n   - Couch or seating area\n   - Window blinds\n   - Potted plant\n   - Korean text overlay\n5. **Scene Type**: Dialogue or personal vlog segment."
+    },
+    {
+      "timestamp": 574.0,
+      "timestamp_formatted": "0:09:34",
+      "activity": "Two dogs are resting comfortably on cushions.",
+      "location": "Indoor, likely a living room with a view of a garden.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Pet closeup.",
+      "raw_analysis": "1. **Activity**: Two dogs are resting comfortably on cushions.\n2. **Location**: Indoor, likely a living room with a view of a garden.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Two dogs, cushions with colorful mats, large window, wooden floor.\n5. **Scene Type**: Pet closeup."
+    },
+    {
+      "timestamp": 579.0,
+      "timestamp_formatted": "0:09:39",
+      "activity": "A person is looking towards the camera, possibly adjusting their hair.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Casual and intimate.",
+      "key_elements": [],
+      "scene_type": "Personal moment.",
+      "raw_analysis": "1. **Activity**: A person is looking towards the camera, possibly adjusting their hair.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Casual and intimate.\n4. **Key Elements**: Person with long hair, yellow clothing, neutral-colored wall.\n5. **Scene Type**: Personal moment."
+    },
+    {
+      "timestamp": 580.0,
+      "timestamp_formatted": "0:09:40",
+      "activity": "A person is looking directly at the camera, possibly engaging in a video call or recording a vlog.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal vlog.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly engaging in a video call or recording a vlog.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person with long hair, yellow clothing, neutral-colored wall, soft lighting.\n5. **Scene Type**: Dialogue or personal vlog."
+    },
+    {
+      "timestamp": 581.0,
+      "timestamp_formatted": "0:09:41",
+      "activity": "A person is looking directly at the camera, possibly taking a selfie or recording a video.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Selfie or personal vlog.",
+      "raw_analysis": "1. **Activity**: A person is looking directly at the camera, possibly taking a selfie or recording a video.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person with long hair, wooden wall paneling, bed or couch, stack of papers or books, bottles on a surface.\n5. **Scene Type**: Selfie or personal vlog."
+    },
+    {
+      "timestamp": 582.0,
+      "timestamp_formatted": "0:09:42",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the content of this video frame as it appears to be completely black. If you have another frame or additional context, please provide it for further analysis."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Food closeup.",
+        49
+      ],
+      [
+        "Establishing shot.",
+        43
+      ],
+      [
+        "Food preparation.",
+        41
+      ],
+      [
+        "Transition.",
+        20
+      ],
+      [
+        "Unboxing.",
+        11
+      ]
+    ],
+    "locations": [
+      "",
+      "Indoor, possibly in a home or café setting.",
+      "Outdoor garden or patio.",
+      "Outdoor garden.",
+      "Outdoor garden or backyard.",
+      "Indoor, likely a kitchen or dining area.",
+      "Indoor, likely a dining area or kitchen.",
+      "Indoor, likely in a kitchen or dining area.",
+      "Indoor, possibly a kitchen or dining area.",
+      "Indoor, likely a kitchen."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and focused.",
+        59
+      ],
+      [
+        "Calm and natural.",
+        23
+      ],
+      [
+        "Casual and relaxed.",
+        16
+      ],
+      [
+        "Casual and everyday.",
+        15
+      ],
+      [
+        "Calm and leisurely.",
+        13
+      ]
+    ]
+  }
+}

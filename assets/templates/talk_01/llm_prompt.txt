@@ -1,0 +1,1394 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:20:47
+- Resolution: 1920x1080
+- FPS: 30.0
+
+## Visual Features
+- Dominant Colors: #1d1715, #b3977c, #7b6f65
+- Brightness Trend: Decreasing
+- Scene Changes: 103
+- Average Shot Length: 12.1s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 569
+- Content Length: 5195 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #1d1715, #b3977c, #7b6f65
+- Brightness: Decreasing
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 103
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Establishing shot.: 22 occurrences
+  - Food closeup.: 15 occurrences
+  - Dialogue.: 14 occurrences
+  - Food preparation.: 9 occurrences
+  - Leisure activity.: 4 occurrences
+
+Dominant Moods:
+  - Calm and serene.: 10 scenes
+  - Casual and focused.: 9 scenes
+  - Relaxed and social.: 6 scenes
+  - Casual and relaxed.: 5 scenes
+  - Casual and social.: 5 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:02]:
+  - Activity: A person is enjoying a meal, likely engaging in conversation.
+  - Location: Indoor, possibly a restaurant or dining area.
+  - Mood: Relaxed and cheerful.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is enjoying a meal, likely engaging in conversation.
+2. **Location**: Indoor, possibly a restaurant or dining area.
+3. **Mood**: Relaxed and cheerful.
+4. **Key Elements**: A pot with meat and greens, a person smiling, a glass, chopsticks, and an air conditioner.
+5. **Scene Type**: Dialogue.
+
+**Scene 2** [0:00:03]:
+  - Activity: A person is enjoying a meal, possibly cooking or grilling food at the table.
+  - Location: Indoor, likely a casual restaurant or dining area.
+  - Mood: Relaxed and cheerful.
+  - Scene Type: Dining scene.
+  - Full Analysis: 1. **Activity**: A person is enjoying a meal, possibly cooking or grilling food at the table.
+2. **Location**: Indoor, likely a casual restaurant or dining area.
+3. **Mood**: Relaxed and cheerful.
+4. **Key Elements**: Griddle or grill, glass with drink, person smiling, wall decorations.
+5. **Scene Type**: Dining scene.
+
+**Scene 3** [0:00:06]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with identifying or analyzing people in images.
+
+**Scene 4** [0:00:11]:
+  - Activity: A person is flying a kite in the evening.
+  - Location: Outdoor park area near a body of water.
+  - Mood: Calm and serene.
+  - Scene Type: Leisure activity.
+  - Full Analysis: 1. **Activity**: A person is flying a kite in the evening.
+2. **Location**: Outdoor park area near a body of water.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Kite, person, trees, illuminated bridge, water.
+5. **Scene Type**: Leisure activity.
+
+**Scene 5** [0:00:15]:
+  - Activity: People are grilling meat and preparing food at a table.
+  - Location: Outdoor dining area, possibly a rooftop or balcony.
+  - Mood: Relaxed and social.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: People are grilling meat and preparing food at a table.
+2. **Location**: Outdoor dining area, possibly a rooftop or balcony.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Grill with meat, person using tongs, bowl of food, Pepsi can, overhead exhaust hood.
+5. **Scene Type**: Food preparation.
+
+**Scene 6** [0:00:16]:
+  - Activity: A person is grilling meat and preparing food at a table.
+  - Location: Outdoor dining area, likely at a barbecue restaurant.
+  - Mood: Relaxed and social.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is grilling meat and preparing food at a table.
+2. **Location**: Outdoor dining area, likely at a barbecue restaurant.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Grilled meat, a can of Pepsi, a metal grill, a bowl of food, and a ventilation hood.
+5. **Scene Type**: Food preparation.
+
+**Scene 7** [0:00:17]:
+  - Activity: People are grilling meat and preparing food at a table.
+  - Location: Outdoor setting, likely a restaurant or a rooftop dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: People are grilling meat and preparing food at a table.
+2. **Location**: Outdoor setting, likely a restaurant or a rooftop dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Grill with various meats, a can of Pepsi, a bowl of vegetables, and cooking utensils.
+5. **Scene Type**: Food preparation.
+
+**Scene 8** [0:00:18]:
+  - Activity: Someone is grilling meat on a tabletop grill.
+  - Location: Indoor, likely a restaurant setting.
+  - Mood: Casual and social.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is grilling meat on a tabletop grill.
+2. **Location**: Indoor, likely a restaurant setting.
+3. **Mood**: Casual and social.
+4. **Key Elements**: Tabletop grill, raw meat, metal bowl, beverage can, side dishes.
+5. **Scene Type**: Food preparation.
+
+**Scene 9** [0:00:19]:
+  - Activity: The scene shows a view from inside a train looking out at the cityscape.
+  - Location: Indoor, inside a train.
+  - Mood: Calm and observational.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a view from inside a train looking out at the cityscape.
+2. **Location**: Indoor, inside a train.
+3. **Mood**: Calm and observational.
+4. **Key Elements**: Train doors, city buildings, mountains in the background, Korean text on screen.
+5. **Scene Type**: Establishing shot.
+
+**Scene 10** [0:00:40]:
+  - Activity: The scene displays a motivational message.
+  - Location: This is a text overlay, likely part of a video or presentation, not tied to a specific physical location.
+  - Mood: Encouraging and motivational.
+  - Scene Type: Motivational text display.
+  - Full Analysis: 1. **Activity**: The scene displays a motivational message.
+2. **Location**: This is a text overlay, likely part of a video or presentation, not tied to a specific physical location.
+3. **Mood**: Encouraging and motivational.
+4. **Key Elements**: 
+   - Text: "Yoo Can Do It!"
+   - Black background
+5. **Scene Type**: Motivational text display.
+
+**Scene 11** [0:00:41]:
+  - Activity: The scene shows an empty restaurant setting, possibly preparing for service or recently closed.
+  - Location: Indoor, in a small, casual restaurant.
+  - Mood: Calm and quiet, with a sense of anticipation or closure.
+  - Scene Type: Establishing shot
+  - Full Analysis: 1. **Activity**: The scene shows an empty restaurant setting, possibly preparing for service or recently closed.
+2. **Location**: Indoor, in a small, casual restaurant.
+3. **Mood**: Calm and quiet, with a sense of anticipation or closure.
+4. **Key Elements**: 
+   - Wooden tables with gas burners
+   - Wall clock
+   - Posters on the wall
+   - Kitchen area with shelves and dishes
+   - Air conditioning unit
+5. **Scene Type**: Establishing shot
+
+**Scene 12** [0:00:42]:
+  - Activity: The scene shows a quiet moment inside a restaurant or café, possibly preparing for service or in between busy periods.
+  - Location: Indoor, likely a small, local restaurant or café.
+  - Mood: Calm and informal.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet moment inside a restaurant or café, possibly preparing for service or in between busy periods.
+2. **Location**: Indoor, likely a small, local restaurant or café.
+3. **Mood**: Calm and informal.
+4. **Key Elements**: Water dispenser, shelves with dishes, wall clock, beer advertisement, table with cooking equipment.
+5. **Scene Type**: Establishing shot.
+
+**Scene 13** [0:00:43]:
+  - Activity: A person is organizing or cleaning dishes in a kitchen area.
+  - Location: Indoor, likely a small restaurant or café kitchen.
+  - Mood: Practical and busy.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is organizing or cleaning dishes in a kitchen area.
+2. **Location**: Indoor, likely a small restaurant or café kitchen.
+3. **Mood**: Practical and busy.
+4. **Key Elements**: Water dispenser, shelves with dishes, clock, refrigerator.
+5. **Scene Type**: Establishing shot.
+
+**Scene 14** [0:00:44]:
+  - Activity: People are dining or preparing to dine in a restaurant setting.
+  - Location: Indoor, in a casual restaurant or eatery.
+  - Mood: Casual and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are dining or preparing to dine in a restaurant setting.
+2. **Location**: Indoor, in a casual restaurant or eatery.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Water dispenser, menu signs, dining tables, kitchenware, person in the foreground.
+5. **Scene Type**: Establishing shot.
+
+**Scene 15** [0:00:45]:
+  - Activity: A person is sitting at a table, possibly engaged in conversation or waiting for food.
+  - Location: Indoor, likely a casual restaurant or eatery.
+  - Mood: Relaxed and informal.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a table, possibly engaged in conversation or waiting for food.
+2. **Location**: Indoor, likely a casual restaurant or eatery.
+3. **Mood**: Relaxed and informal.
+4. **Key Elements**: Person sitting at a table, water dispenser, menu on the wall, overhead lighting, refrigerator.
+5. **Scene Type**: Dialogue.
+
+**Scene 16** [0:00:46]:
+  - Activity: A person is seated indoors, possibly engaged in conversation or being introduced.
+  - Location: Indoor setting, likely a casual restaurant or café.
+  - Mood: Relaxed and informal.
+  - Scene Type: Dialogue/Introduction
+  - Full Analysis: 1. **Activity**: A person is seated indoors, possibly engaged in conversation or being introduced.
+2. **Location**: Indoor setting, likely a casual restaurant or café.
+3. **Mood**: Relaxed and informal.
+4. **Key Elements**: 
+   - Seated person
+   - Indoor restaurant setting
+   - Wall with pipes and windows
+   - Refrigerator or storage unit
+   - Text overlay with location details
+5. **Scene Type**: Dialogue/Introduction
+
+**Scene 17** [0:00:47]:
+  - Activity: A person is sitting at a table, possibly engaged in conversation.
+  - Location: Indoor, likely a casual restaurant or eatery.
+  - Mood: Relaxed and informal.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a table, possibly engaged in conversation.
+2. **Location**: Indoor, likely a casual restaurant or eatery.
+3. **Mood**: Relaxed and informal.
+4. **Key Elements**: 
+   - Person sitting at a table
+   - Wooden interior
+   - Windows with a view outside
+   - Text overlay with location details
+5. **Scene Type**: Dialogue.
+
+**Scene 18** [0:00:48]:
+  - Activity: A person is engaged in a conversation, possibly introducing someone.
+  - Location: Indoor, likely a casual dining setting or restaurant.
+  - Mood: Relaxed and informal.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is engaged in a conversation, possibly introducing someone.
+2. **Location**: Indoor, likely a casual dining setting or restaurant.
+3. **Mood**: Relaxed and informal.
+4. **Key Elements**: Person sitting, window, red pipe, chairs, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 19** [0:00:49]:
+  - Activity: A conversation is taking place at a table, possibly involving an introduction or discussion about a guest.
+  - Location: Indoor setting, likely a casual dining or meeting place.
+  - Mood: Relaxed and informal.
+  - Scene Type: Dialogue
+  - Full Analysis: 1. **Activity**: A conversation is taking place at a table, possibly involving an introduction or discussion about a guest.
+2. **Location**: Indoor setting, likely a casual dining or meeting place.
+3. **Mood**: Relaxed and informal.
+4. **Key Elements**: 
+   - Table with a metal object and a phone
+   - Red pipe and a roll of paper towels
+   - Person seated at the table
+5. **Scene Type**: Dialogue
+
+**Scene 20** [0:00:50]:
+  - Activity: Meat and vegetables are being grilled on a tabletop grill.
+  - Location: Indoor setting, likely a restaurant.
+  - Mood: Casual and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Meat and vegetables are being grilled on a tabletop grill.
+2. **Location**: Indoor setting, likely a restaurant.
+3. **Mood**: Casual and appetizing.
+4. **Key Elements**: Grilled meat, green onions, tabletop grill, bowl with sauce, text overlay with location details.
+5. **Scene Type**: Food closeup.
+
+**Scene 21** [0:00:51]:
+  - Activity: Someone is grilling meat and vegetables on a tabletop grill.
+  - Location: Indoor, likely a restaurant.
+  - Mood: Casual and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is grilling meat and vegetables on a tabletop grill.
+2. **Location**: Indoor, likely a restaurant.
+3. **Mood**: Casual and appetizing.
+4. **Key Elements**: Tabletop grill, meat, green onions, tongs.
+5. **Scene Type**: Food closeup.
+
+**Scene 22** [0:01:00]:
+  - Activity: Raw marinated meat is being prepared for cooking on a grill.
+  - Location: Indoor, likely in a restaurant or dining area.
+  - Mood: Warm and inviting, suggesting a communal or social dining experience.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Raw marinated meat is being prepared for cooking on a grill.
+2. **Location**: Indoor, likely in a restaurant or dining area.
+3. **Mood**: Warm and inviting, suggesting a communal or social dining experience.
+4. **Key Elements**: 
+   - Raw marinated meat
+   - Metal grill or cooking pan
+   - Wooden table
+   - Person's arm visible
+5. **Scene Type**: Food closeup.
+
+**Scene 23** [0:01:08]:
+  - Activity: Someone is cooking or preparing a dish with meat and garlic on a grill or hot plate.
+  - Location: Indoor, likely in a restaurant or kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is cooking or preparing a dish with meat and garlic on a grill or hot plate.
+2. **Location**: Indoor, likely in a restaurant or kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Raw meat, garlic cloves, tongs, hot plate, person’s hands.
+5. **Scene Type**: Food preparation.
+
+**Scene 24** [0:01:09]:
+  - Activity: Someone is preparing a dish by cutting meat with scissors on a grill or hot plate.
+  - Location: Indoor, likely in a restaurant or kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Someone is preparing a dish by cutting meat with scissors on a grill or hot plate.
+2. **Location**: Indoor, likely in a restaurant or kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Raw meat, garlic cloves, scissors, grill/hot plate, hands.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 25** [0:01:10]:
+  - Activity: Someone is cooking or preparing meat with garlic on a grill or hot plate.
+  - Location: Indoor, likely a restaurant or dining area.
+  - Mood: Casual and communal.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is cooking or preparing meat with garlic on a grill or hot plate.
+2. **Location**: Indoor, likely a restaurant or dining area.
+3. **Mood**: Casual and communal.
+4. **Key Elements**: Raw meat, garlic cloves, tongs, grill/hot plate, table setting.
+5. **Scene Type**: Food preparation.
+
+**Scene 26** [0:01:11]:
+  - Activity: Someone is cooking or preparing a dish with meat and garlic using tongs.
+  - Location: Indoor, likely in a kitchen or dining area.
+  - Mood: Intimate and focused on cooking.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Someone is cooking or preparing a dish with meat and garlic using tongs.
+2. **Location**: Indoor, likely in a kitchen or dining area.
+3. **Mood**: Intimate and focused on cooking.
+4. **Key Elements**: Raw meat, garlic cloves, tongs, cooking pot, table.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 27** [0:01:12]:
+  - Activity: Someone is cooking or preparing a dish with meat and garlic in a pan.
+  - Location: Indoor, likely in a kitchen or restaurant setting.
+  - Mood: The atmosphere is focused and culinary.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: Someone is cooking or preparing a dish with meat and garlic in a pan.
+2. **Location**: Indoor, likely in a kitchen or restaurant setting.
+3. **Mood**: The atmosphere is focused and culinary.
+4. **Key Elements**: 
+   - Pan with meat and garlic
+   - Cooking utensils (tongs)
+   - Table surface
+   - Green peppers on a plate
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 28** [0:01:13]:
+  - Activity: A meal is being prepared or served, featuring a dish with meat and greens.
+  - Location: Indoor, likely in a restaurant or dining area.
+  - Mood: Casual and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A meal is being prepared or served, featuring a dish with meat and greens.
+2. **Location**: Indoor, likely in a restaurant or dining area.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: A large pan with meat and greens, a person standing nearby, a bowl of side dishes, and text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 29** [0:01:14]:
+  - Activity: A meal is being prepared or served, with a focus on a dish cooking at the table.
+  - Location: Indoor, likely in a restaurant or dining area.
+  - Mood: Casual and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A meal is being prepared or served, with a focus on a dish cooking at the table.
+2. **Location**: Indoor, likely in a restaurant or dining area.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Large pot with meat and greens, side dish of kimchi, person seated at the table, subtitles in Korean.
+5. **Scene Type**: Food closeup.
+
+**Scene 30** [0:01:15]:
+  - Activity: A hot pot dish is being cooked and prepared for a meal.
+  - Location: Indoor, likely in a restaurant or home dining setting.
+  - Mood: Warm and inviting, suggesting a communal or family meal.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A hot pot dish is being cooked and prepared for a meal.
+2. **Location**: Indoor, likely in a restaurant or home dining setting.
+3. **Mood**: Warm and inviting, suggesting a communal or family meal.
+4. **Key Elements**: Hot pot with meat and greens, side dish (possibly kimchi), dining table, person partially visible.
+5. **Scene Type**: Food closeup.
+
+**Scene 31** [0:01:16]:
+  - Activity: A person is cooking or preparing a dish with meat and greens on a hot plate.
+  - Location: Indoor, likely in a restaurant or kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is cooking or preparing a dish with meat and greens on a hot plate.
+2. **Location**: Indoor, likely in a restaurant or kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Hot plate with meat and greens, a person holding utensils, side dish in a bowl, text overlay.
+5. **Scene Type**: Food preparation.
+
+**Scene 32** [0:01:18]:
+  - Activity: A person is cooking or preparing food on a hot plate.
+  - Location: Indoor, likely a small restaurant or kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking/food preparation.
+  - Full Analysis: 1. **Activity**: A person is cooking or preparing food on a hot plate.
+2. **Location**: Indoor, likely a small restaurant or kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Hot plate with steaming food, person seated, air conditioning unit, calendar on the wall.
+5. **Scene Type**: Cooking/food preparation.
+
+**Scene 33** [0:01:43]:
+  - Activity: A person is eating food, possibly soup, using a spoon.
+  - Location: Indoor, likely a restaurant or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dining scene.
+  - Full Analysis: 1. **Activity**: A person is eating food, possibly soup, using a spoon.
+2. **Location**: Indoor, likely a restaurant or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person eating, spoon, bowl of food, air conditioning unit, wooden interior.
+5. **Scene Type**: Dining scene.
+
+**Scene 34** [0:02:46]:
+  - Activity: A person is cooking or serving food, possibly adding ingredients to a pan.
+  - Location: Indoor, likely a restaurant or kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Cooking or food preparation.
+  - Full Analysis: 1. **Activity**: A person is cooking or serving food, possibly adding ingredients to a pan.
+2. **Location**: Indoor, likely a restaurant or kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Person holding a plate, pan on a stove, wall calendar, air conditioner.
+5. **Scene Type**: Cooking or food preparation.
+
+**Scene 35** [0:02:58]:
+  - Activity: A person is cooking or preparing food.
+  - Location: Indoor, likely in a kitchen or restaurant setting.
+  - Mood: Focused and calm.
+  - Scene Type: Cooking action.
+  - Full Analysis: 1. **Activity**: A person is cooking or preparing food.
+2. **Location**: Indoor, likely in a kitchen or restaurant setting.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Cooking pan, spatula, plate, steam, air conditioning unit.
+5. **Scene Type**: Cooking action.
+
+**Scene 36** [0:02:59]:
+  - Activity: The scene displays a motivational message.
+  - Location: The setting is not specific, likely a digital screen.
+  - Mood: Encouraging and motivational.
+  - Scene Type: Motivational text display.
+  - Full Analysis: 1. **Activity**: The scene displays a motivational message.
+2. **Location**: The setting is not specific, likely a digital screen.
+3. **Mood**: Encouraging and motivational.
+4. **Key Elements**: 
+   - Text: "Yoo Can Do It!"
+   - Black background
+5. **Scene Type**: Motivational text display.
+
+**Scene 37** [0:03:00]:
+  - Activity: A person is smiling and possibly engaged in conversation or enjoying a moment.
+  - Location: Indoor setting, likely a cafe or a casual dining area with a large window.
+  - Mood: The atmosphere is calm and pleasant.
+  - Scene Type: Dialogue or casual interaction.
+  - Full Analysis: 1. **Activity**: A person is smiling and possibly engaged in conversation or enjoying a moment.
+2. **Location**: Indoor setting, likely a cafe or a casual dining area with a large window.
+3. **Mood**: The atmosphere is calm and pleasant.
+4. **Key Elements**: 
+   - Person smiling
+   - Large window with a view of greenery
+   - Indoor plant
+   - Watch on the person's wrist
+5. **Scene Type**: Dialogue or casual interaction.
+
+**Scene 38** [0:03:29]:
+  - Activity: A person is speaking, possibly engaged in a conversation or interview.
+  - Location: Indoor setting, likely a room with a large window showing greenery outside.
+  - Mood: Calm and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly engaged in a conversation or interview.
+2. **Location**: Indoor setting, likely a room with a large window showing greenery outside.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Large window
+   - Greenery outside
+   - Text overlay
+5. **Scene Type**: Dialogue.
+
+**Scene 39** [0:04:00]:
+  - Activity: A person is engaged in a conversation or monologue.
+  - Location: Indoor setting, possibly a cafe or home, near a window.
+  - Mood: Calm and reflective.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is engaged in a conversation or monologue.
+2. **Location**: Indoor setting, possibly a cafe or home, near a window.
+3. **Mood**: Calm and reflective.
+4. **Key Elements**: Person in a black shirt, large window with greenery outside, indoor plant, text overlay in Korean.
+5. **Scene Type**: Dialogue.
+
+**Scene 40** [0:04:38]:
+  - Activity: Two people are engaged in a conversation at a table.
+  - Location: Indoor setting, likely a café or casual dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are engaged in a conversation at a table.
+2. **Location**: Indoor setting, likely a café or casual dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Two people, table, drinks, window, plants.
+5. **Scene Type**: Dialogue.
+
+**Scene 41** [0:06:25]:
+  - Activity: Two people are engaged in a conversation at a table.
+  - Location: Indoor setting, likely a casual dining or living area.
+  - Mood: Intimate and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are engaged in a conversation at a table.
+2. **Location**: Indoor setting, likely a casual dining or living area.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: Two people, table, drinks, window, potted plant.
+5. **Scene Type**: Dialogue.
+
+**Scene 42** [0:11:44]:
+  - Activity: A person is speaking, possibly explaining or discussing a topic.
+  - Location: Indoor setting, likely near a large window with a view of greenery outside.
+  - Mood: Calm and contemplative.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly explaining or discussing a topic.
+2. **Location**: Indoor setting, likely near a large window with a view of greenery outside.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: Person in a black shirt, large window, green foliage outside, potted plant, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 43** [0:12:39]:
+  - Activity: A person is speaking, possibly responding to a question or comment.
+  - Location: Indoor setting, likely a room with a large window showing greenery outside.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly responding to a question or comment.
+2. **Location**: Indoor setting, likely a room with a large window showing greenery outside.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Large window with view of trees
+   - Text overlay with a question and response
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue.
+
+**Scene 44** [0:12:44]:
+  - Activity: A person is sitting or standing near a window, possibly engaged in conversation or thought.
+  - Location: Indoor setting, likely a room with a large window overlooking greenery.
+  - Mood: Calm and relaxed.
+  - Scene Type: Dialogue or contemplative moment.
+  - Full Analysis: 1. **Activity**: A person is sitting or standing near a window, possibly engaged in conversation or thought.
+2. **Location**: Indoor setting, likely a room with a large window overlooking greenery.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person in a black shirt
+   - Large window
+   - Green foliage outside
+   - Indoor plant
+5. **Scene Type**: Dialogue or contemplative moment.
+
+**Scene 45** [0:12:48]:
+  - Activity: A person is speaking, possibly explaining or discussing something.
+  - Location: Indoor setting, likely an office or casual meeting space.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly explaining or discussing something.
+2. **Location**: Indoor setting, likely an office or casual meeting space.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Large window with a view of trees
+   - Text overlay with a conversation
+   - Casual clothing
+5. **Scene Type**: Dialogue
+
+**Scene 46** [0:12:55]:
+  - Activity: A person is sitting and possibly speaking or listening.
+  - Location: Indoor setting, likely near a window with a view of greenery outside.
+  - Mood: Calm and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting and possibly speaking or listening.
+2. **Location**: Indoor setting, likely near a window with a view of greenery outside.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Person, window, greenery outside, indoor plant.
+5. **Scene Type**: Dialogue.
+
+**Scene 47** [0:13:02]:
+  - Activity: A person is sitting and possibly talking or listening.
+  - Location: Indoor setting, likely near a window with a view of greenery outside.
+  - Mood: Calm and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting and possibly talking or listening.
+2. **Location**: Indoor setting, likely near a window with a view of greenery outside.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Person, large window, greenery outside, plant inside.
+5. **Scene Type**: Dialogue.
+
+**Scene 48** [0:13:09]:
+  - Activity: A person is speaking, possibly discussing or explaining something.
+  - Location: Indoor setting, likely a casual or informal space.
+  - Mood: The atmosphere appears calm and conversational.
+  - Scene Type: Dialogue
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly discussing or explaining something.
+2. **Location**: Indoor setting, likely a casual or informal space.
+3. **Mood**: The atmosphere appears calm and conversational.
+4. **Key Elements**: 
+   - Person speaking
+   - Window with a view of greenery
+   - Text overlay with dialogue
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue
+
+**Scene 49** [0:13:16]:
+  - Activity: A person is speaking or engaged in conversation.
+  - Location: Indoor setting, likely near a large window with a view of greenery outside.
+  - Mood: Calm and relaxed.
+  - Scene Type: Dialogue
+  - Full Analysis: 1. **Activity**: A person is speaking or engaged in conversation.
+2. **Location**: Indoor setting, likely near a large window with a view of greenery outside.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Large window
+   - Greenery outside
+   - Indoor lighting
+5. **Scene Type**: Dialogue
+
+**Scene 50** [0:14:29]:
+  - Activity: The scene displays an encouraging message.
+  - Location: The setting is not visible; it appears to be a title or transition screen.
+  - Mood: Motivational and supportive.
+  - Scene Type: Transition or title card.
+  - Full Analysis: 1. **Activity**: The scene displays an encouraging message.
+2. **Location**: The setting is not visible; it appears to be a title or transition screen.
+3. **Mood**: Motivational and supportive.
+4. **Key Elements**: 
+   - Text: "Yoo Can Do It!"
+   - Subtitle in Korean
+   - Black background
+5. **Scene Type**: Transition or title card.
+
+**Scene 51** [0:14:30]:
+  - Activity: A person is walking away from the camera in a restaurant or cafe setting.
+  - Location: Indoor, likely a restaurant or cafe.
+  - Mood: Calm and quiet.
+  - Scene Type: Transition
+  - Full Analysis: 1. **Activity**: A person is walking away from the camera in a restaurant or cafe setting.
+2. **Location**: Indoor, likely a restaurant or cafe.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Person in casual clothing
+   - Long dining table
+   - Large window with a view outside
+   - Soft lighting
+   - Decorative plants
+5. **Scene Type**: Transition
+
+**Scene 52** [0:14:31]:
+  - Activity: A person is standing near a table, possibly preparing to sit or engage in an activity.
+  - Location: Indoor, likely a modern restaurant or café.
+  - Mood: Calm and quiet.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is standing near a table, possibly preparing to sit or engage in an activity.
+2. **Location**: Indoor, likely a modern restaurant or café.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Person in a black hoodie, long table, large window, ambient lighting.
+5. **Scene Type**: Establishing shot.
+
+**Scene 53** [0:15:02]:
+  - Activity: The scene shows an empty table setting, possibly in preparation for a meal.
+  - Location: Indoor, likely a restaurant or café.
+  - Mood: Calm and minimalist.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows an empty table setting, possibly in preparation for a meal.
+2. **Location**: Indoor, likely a restaurant or café.
+3. **Mood**: Calm and minimalist.
+4. **Key Elements**: 
+   - Long table with chairs
+   - Wall art or sculpture
+   - Window with a view outside
+   - Napkin holder and utensils
+5. **Scene Type**: Establishing shot.
+
+**Scene 54** [0:15:03]:
+  - Activity: The scene shows a quiet moment in a dining area, possibly before or after a meal.
+  - Location: Indoor, likely a restaurant or café.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet moment in a dining area, possibly before or after a meal.
+2. **Location**: Indoor, likely a restaurant or café.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Modern table lamp
+   - Dining table with dividers
+   - Window with a view outside
+   - Napkin holder and utensils
+5. **Scene Type**: Establishing shot.
+
+**Scene 55** [0:15:22]:
+  - Activity: The scene displays a motivational message.
+  - Location: Not applicable (text on a black background).
+  - Mood: Encouraging and motivational.
+  - Scene Type: Text overlay/message.
+  - Full Analysis: 1. **Activity**: The scene displays a motivational message.
+2. **Location**: Not applicable (text on a black background).
+3. **Mood**: Encouraging and motivational.
+4. **Key Elements**: 
+   - Text: "Yoo Can Do It!"
+   - Black background
+5. **Scene Type**: Text overlay/message.
+
+**Scene 56** [0:15:23]:
+  - Activity: The scene shows a peaceful walk along a tree-lined path.
+  - Location: Outdoor park setting, likely a riverside park.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a peaceful walk along a tree-lined path.
+2. **Location**: Outdoor park setting, likely a riverside park.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tree-lined path, benches, grass, and distant view of a river.
+5. **Scene Type**: Establishing shot.
+
+**Scene 57** [0:15:24]:
+  - Activity: The scene shows a peaceful walk or exploration in a park.
+  - Location: Outdoor, in a park setting.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a peaceful walk or exploration in a park.
+2. **Location**: Outdoor, in a park setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tree-lined path, benches, grassy areas, informational sign.
+5. **Scene Type**: Establishing shot.
+
+**Scene 58** [0:15:25]:
+  - Activity: The scene shows a view of a park area, possibly during a walk or exploration.
+  - Location: Outdoor, in a park setting.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a view of a park area, possibly during a walk or exploration.
+2. **Location**: Outdoor, in a park setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Trees, walking path, grass, park signage, and street lamps.
+5. **Scene Type**: Establishing shot.
+
+**Scene 59** [0:15:26]:
+  - Activity: The scene captures a serene moment in a park during sunset.
+  - Location: Outdoor, in a park setting.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a serene moment in a park during sunset.
+2. **Location**: Outdoor, in a park setting.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Trees, walking path, grass, sunset sky, informational text overlay.
+5. **Scene Type**: Establishing shot.
+
+**Scene 60** [0:15:27]:
+  - Activity: The scene captures a serene moment in a park during sunset.
+  - Location: Outdoor, in a park near a river.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a serene moment in a park during sunset.
+2. **Location**: Outdoor, in a park near a river.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Trees, grass, walking path, river, sunset sky.
+5. **Scene Type**: Establishing shot.
+
+**Scene 61** [0:15:28]:
+  - Activity: The scene shows a view of a park during sunset or sunrise.
+  - Location: Outdoor, in a park setting.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a view of a park during sunset or sunrise.
+2. **Location**: Outdoor, in a park setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Grass fields, trees, a pathway, a river or body of water, and a sunset/sunrise sky.
+5. **Scene Type**: Establishing shot.
+
+**Scene 62** [0:15:39]:
+  - Activity: A transaction is taking place at a counter, likely a purchase.
+  - Location: Indoor, at a convenience store or similar retail setting.
+  - Mood: Routine and transactional.
+  - Scene Type: Transaction.
+  - Full Analysis: 1. **Activity**: A transaction is taking place at a counter, likely a purchase.
+2. **Location**: Indoor, at a convenience store or similar retail setting.
+3. **Mood**: Routine and transactional.
+4. **Key Elements**: Cash register, roll of paper, signage about age restriction, person wearing gloves, customer holding a wallet.
+5. **Scene Type**: Transaction.
+
+**Scene 63** [0:15:40]:
+  - Activity: A person is making a purchase or transaction at a counter.
+  - Location: Indoor, likely in a store or shop.
+  - Mood: Casual and routine.
+  - Scene Type: Transaction.
+  - Full Analysis: 1. **Activity**: A person is making a purchase or transaction at a counter.
+2. **Location**: Indoor, likely in a store or shop.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Cash register, stack of paper cups, a sign with a no-smoking symbol, a person holding a card.
+5. **Scene Type**: Transaction.
+
+**Scene 64** [0:15:41]:
+  - Activity: A person is preparing or purchasing an item at a counter.
+  - Location: Indoor, likely a convenience store or small shop.
+  - Mood: Casual and routine.
+  - Scene Type: Transaction.
+  - Full Analysis: 1. **Activity**: A person is preparing or purchasing an item at a counter.
+2. **Location**: Indoor, likely a convenience store or small shop.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Cash register, receipt printer, various small products, a display screen.
+5. **Scene Type**: Transaction.
+
+**Scene 65** [0:15:43]:
+  - Activity: A person is purchasing or handling a packaged item with a design resembling a flag.
+  - Location: Indoor, likely a convenience store or small shop.
+  - Mood: Casual and routine.
+  - Scene Type: Transaction.
+  - Full Analysis: 1. **Activity**: A person is purchasing or handling a packaged item with a design resembling a flag.
+2. **Location**: Indoor, likely a convenience store or small shop.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Packaged item with a flag design, counter with various items, cash register, rolls of paper.
+5. **Scene Type**: Transaction.
+
+**Scene 66** [0:15:44]:
+  - Activity: A person is preparing to fly a kite.
+  - Location: Outdoor park or open grassy area.
+  - Mood: Calm and leisurely.
+  - Scene Type: Leisure activity.
+  - Full Analysis: 1. **Activity**: A person is preparing to fly a kite.
+2. **Location**: Outdoor park or open grassy area.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Person, kite, benches, trees, illuminated bridge.
+5. **Scene Type**: Leisure activity.
+
+**Scene 67** [0:16:35]:
+  - Activity: The scene captures a tranquil moment during sunset, likely with people enjoying the view or taking a walk.
+  - Location: Outdoor, in a park or riverside area with a city skyline in the background.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a tranquil moment during sunset, likely with people enjoying the view or taking a walk.
+2. **Location**: Outdoor, in a park or riverside area with a city skyline in the background.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Sunset sky
+   - Trees and grass
+   - River or body of water
+   - City skyline
+   - Pathway with a person on a bicycle
+5. **Scene Type**: Establishing shot.
+
+**Scene 68** [0:16:42]:
+  - Activity: A person is flying a kite.
+  - Location: Outdoor park or open field.
+  - Mood: Calm and serene.
+  - Scene Type: Leisure activity.
+  - Full Analysis: 1. **Activity**: A person is flying a kite.
+2. **Location**: Outdoor park or open field.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Kite, person, trees, dusk sky, open field.
+5. **Scene Type**: Leisure activity.
+
+**Scene 69** [0:17:23]:
+  - Activity: The scene captures a tranquil outdoor setting at dusk or dawn.
+  - Location: Outdoor, likely a park or open area near a hillside.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene captures a tranquil outdoor setting at dusk or dawn.
+2. **Location**: Outdoor, likely a park or open area near a hillside.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Hill in the background
+   - Trees and foliage
+   - Streetlights illuminating the area
+   - Open grassy space
+5. **Scene Type**: Establishing shot.
+
+**Scene 70** [0:17:26]:
+  - Activity: A person is flying a kite in a park.
+  - Location: Outdoor, in a park during the evening.
+  - Mood: Calm and serene.
+  - Scene Type: Leisure activity.
+  - Full Analysis: 1. **Activity**: A person is flying a kite in a park.
+2. **Location**: Outdoor, in a park during the evening.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Kite, person, trees, evening sky.
+5. **Scene Type**: Leisure activity.
+
+**Scene 71** [0:17:48]:
+  - Activity: A motivational message is being displayed.
+  - Location: Not applicable (text on a black background).
+  - Mood: Encouraging and supportive.
+  - Scene Type: Motivational text display.
+  - Full Analysis: 1. **Activity**: A motivational message is being displayed.
+2. **Location**: Not applicable (text on a black background).
+3. **Mood**: Encouraging and supportive.
+4. **Key Elements**: Text ("Yoo Can Do It!"), black background.
+5. **Scene Type**: Motivational text display.
+
+**Scene 72** [0:17:49]:
+  - Activity: The scene shows a display of packaged meat in a refrigerated section of a store.
+  - Location: Indoor, likely a grocery store or supermarket.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of packaged meat in a refrigerated section of a store.
+2. **Location**: Indoor, likely a grocery store or supermarket.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Refrigerated display case, packaged meat, shopping baskets, glass door, labels.
+5. **Scene Type**: Establishing shot.
+
+**Scene 73** [0:17:50]:
+  - Activity: The scene shows a display of packaged meat in a refrigerator.
+  - Location: Indoor, likely in a grocery store or market.
+  - Mood: Neutral and commercial.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of packaged meat in a refrigerator.
+2. **Location**: Indoor, likely in a grocery store or market.
+3. **Mood**: Neutral and commercial.
+4. **Key Elements**: Packaged meat, refrigerator, shopping baskets, signage with text.
+5. **Scene Type**: Establishing shot.
+
+**Scene 74** [0:17:51]:
+  - Activity: The scene shows a display of packaged meats and other food items in a refrigerated section.
+  - Location: Indoor, likely in a grocery store or a market.
+  - Mood: Practical and straightforward.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of packaged meats and other food items in a refrigerated section.
+2. **Location**: Indoor, likely in a grocery store or a market.
+3. **Mood**: Practical and straightforward.
+4. **Key Elements**: 
+   - Packaged meats on shelves
+   - Refrigerated display case
+   - Bowls and other food items
+   - Korean text overlay
+5. **Scene Type**: Establishing shot.
+
+**Scene 75** [0:17:52]:
+  - Activity: The scene shows a display of food items in a refrigerated case, likely for selection or purchase.
+  - Location: Indoor, possibly in a restaurant or food market.
+  - Mood: Practical and inviting, with a focus on food selection.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of food items in a refrigerated case, likely for selection or purchase.
+2. **Location**: Indoor, possibly in a restaurant or food market.
+3. **Mood**: Practical and inviting, with a focus on food selection.
+4. **Key Elements**: Refrigerated display case, various packaged food items, labels, and signage.
+5. **Scene Type**: Establishing shot.
+
+**Scene 76** [0:17:53]:
+  - Activity: The scene shows a display of various food items in a refrigerated case.
+  - Location: Indoor, likely in a restaurant or food market.
+  - Mood: Calm and inviting, with a focus on food selection.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a display of various food items in a refrigerated case.
+2. **Location**: Indoor, likely in a restaurant or food market.
+3. **Mood**: Calm and inviting, with a focus on food selection.
+4. **Key Elements**: Refrigerated display case, assorted dishes, plates, and bowls, Korean text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 77** [0:17:54]:
+  - Activity: The scene shows a display of dishes and utensils, likely in a self-service or buffet-style setting.
+  - Location: Indoor, possibly in a restaurant or cafeteria.
+  - Mood: Practical and organized, with a focus on food selection.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of dishes and utensils, likely in a self-service or buffet-style setting.
+2. **Location**: Indoor, possibly in a restaurant or cafeteria.
+3. **Mood**: Practical and organized, with a focus on food selection.
+4. **Key Elements**: Plates with utensils, bowls, trays with food, glass display case.
+5. **Scene Type**: Establishing shot.
+
+**Scene 78** [0:17:55]:
+  - Activity: The scene shows a display of packaged food items in a refrigerator.
+  - Location: Indoor, likely in a grocery store or restaurant.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of packaged food items in a refrigerator.
+2. **Location**: Indoor, likely in a grocery store or restaurant.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Packaged mushrooms, various food items, refrigerator, labels.
+5. **Scene Type**: Establishing shot.
+
+**Scene 79** [0:17:56]:
+  - Activity: The scene shows a display of food items in a refrigerated case, likely for selection or purchase.
+  - Location: Indoor, possibly in a restaurant or food market.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of food items in a refrigerated case, likely for selection or purchase.
+2. **Location**: Indoor, possibly in a restaurant or food market.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: 
+   - Packaged mushrooms on trays
+   - Refrigerated display case
+   - Packaged meat or similar items
+   - Korean text overlay
+5. **Scene Type**: Establishing shot.
+
+**Scene 80** [0:17:57]:
+  - Activity: Someone is shopping for groceries, placing items in a basket.
+  - Location: Indoor, likely a grocery store or supermarket.
+  - Mood: Casual and routine.
+  - Scene Type: Shopping montage.
+  - Full Analysis: 1. **Activity**: Someone is shopping for groceries, placing items in a basket.
+2. **Location**: Indoor, likely a grocery store or supermarket.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Grocery basket, packaged meat, canned drink, instant noodles, plastic containers.
+5. **Scene Type**: Shopping montage.
+
+**Scene 81** [0:17:58]:
+  - Activity: Someone is shopping for groceries, placing items into a basket.
+  - Location: Indoor, likely a grocery store or market.
+  - Mood: Practical and routine.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: Someone is shopping for groceries, placing items into a basket.
+2. **Location**: Indoor, likely a grocery store or market.
+3. **Mood**: Practical and routine.
+4. **Key Elements**: Grocery basket, packaged meat, canned drink, ramen, leafy greens.
+5. **Scene Type**: Shopping scene.
+
+**Scene 82** [0:17:59]:
+  - Activity: Someone is shopping and has placed various food items in a basket.
+  - Location: Indoor, likely a grocery store or market.
+  - Mood: Routine and casual.
+  - Scene Type: Everyday life.
+  - Full Analysis: 1. **Activity**: Someone is shopping and has placed various food items in a basket.
+2. **Location**: Indoor, likely a grocery store or market.
+3. **Mood**: Routine and casual.
+4. **Key Elements**: Food items (meat, canned drink, instant noodles), shopping basket, packaged vegetables.
+5. **Scene Type**: Everyday life.
+
+**Scene 83** [0:18:00]:
+  - Activity: Two people are having a meal, likely grilling meat at a table.
+  - Location: Outdoor setting, possibly a restaurant or dining area with a view of city lights.
+  - Mood: Relaxed and intimate.
+  - Scene Type: Dining scene.
+  - Full Analysis: 1. **Activity**: Two people are having a meal, likely grilling meat at a table.
+2. **Location**: Outdoor setting, possibly a restaurant or dining area with a view of city lights.
+3. **Mood**: Relaxed and intimate.
+4. **Key Elements**: Table with food, grill, two people, city skyline in the background, red chairs.
+5. **Scene Type**: Dining scene.
+
+**Scene 84** [0:18:08]:
+  - Activity: People are grilling meat and sausages on a tabletop grill.
+  - Location: Outdoor dining area, possibly a restaurant or a home patio.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: People are grilling meat and sausages on a tabletop grill.
+2. **Location**: Outdoor dining area, possibly a restaurant or a home patio.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tabletop grill, various meats, tongs, Pepsi can, metal bowls.
+5. **Scene Type**: Food closeup.
+
+**Scene 85** [0:18:10]:
+  - Activity: A person is grilling meat and preparing food at a table.
+  - Location: Outdoor setting, likely a rooftop or patio dining area.
+  - Mood: Relaxed and social.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is grilling meat and preparing food at a table.
+2. **Location**: Outdoor setting, likely a rooftop or patio dining area.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Grill with various meats, a can of Pepsi, a metal bowl, and a ventilation hood.
+5. **Scene Type**: Food preparation.
+
+**Scene 86** [0:18:11]:
+  - Activity: People are grilling meat and sausages on a tabletop grill.
+  - Location: Outdoor dining area, likely at a restaurant or a barbecue setting.
+  - Mood: Relaxed and social.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: People are grilling meat and sausages on a tabletop grill.
+2. **Location**: Outdoor dining area, likely at a restaurant or a barbecue setting.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Tabletop grill with meat, hands using tongs, a can of Pepsi, various side dishes.
+5. **Scene Type**: Food closeup.
+
+**Scene 87** [0:18:12]:
+  - Activity: People are grilling meat and sausages on a tabletop grill.
+  - Location: Outdoor dining area, likely at a restaurant or a home setting.
+  - Mood: Relaxed and social.
+  - Scene Type: Food preparation/cooking.
+  - Full Analysis: 1. **Activity**: People are grilling meat and sausages on a tabletop grill.
+2. **Location**: Outdoor dining area, likely at a restaurant or a home setting.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Tabletop grill, various meats, tongs, Pepsi can, side dishes.
+5. **Scene Type**: Food preparation/cooking.
+
+**Scene 88** [0:18:13]:
+  - Activity: People are grilling meat and sausages on a tabletop grill.
+  - Location: Indoor setting, likely a Korean barbecue restaurant.
+  - Mood: Casual and social.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: People are grilling meat and sausages on a tabletop grill.
+2. **Location**: Indoor setting, likely a Korean barbecue restaurant.
+3. **Mood**: Casual and social.
+4. **Key Elements**: Tabletop grill, various meats, chopsticks, rice bowl, Pepsi can.
+5. **Scene Type**: Food closeup.
+
+**Scene 89** [0:18:14]:
+  - Activity: Someone is grilling meat and sausages on a tabletop grill.
+  - Location: Indoor, likely a Korean barbecue restaurant.
+  - Mood: Casual and social.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is grilling meat and sausages on a tabletop grill.
+2. **Location**: Indoor, likely a Korean barbecue restaurant.
+3. **Mood**: Casual and social.
+4. **Key Elements**: Tabletop grill, various meats, tongs, rice dish, Pepsi can.
+5. **Scene Type**: Food closeup.
+
+**Scene 90** [0:18:15]:
+  - Activity: People are grilling meat and sausages on a tabletop grill, likely preparing a meal.
+  - Location: Indoor setting, possibly a restaurant or home dining area.
+  - Mood: Casual and social, with a focus on enjoying food.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: People are grilling meat and sausages on a tabletop grill, likely preparing a meal.
+2. **Location**: Indoor setting, possibly a restaurant or home dining area.
+3. **Mood**: Casual and social, with a focus on enjoying food.
+4. **Key Elements**: Tabletop grill, raw meat and sausages, bowls of rice, a can of Pepsi, metal bowls.
+5. **Scene Type**: Food preparation.
+
+**Scene 91** [0:18:16]:
+  - Activity: People are grilling meat and sausages on a tabletop grill.
+  - Location: Outdoor dining area, likely at a restaurant.
+  - Mood: Casual and social.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: People are grilling meat and sausages on a tabletop grill.
+2. **Location**: Outdoor dining area, likely at a restaurant.
+3. **Mood**: Casual and social.
+4. **Key Elements**: Tabletop grill, meat and sausages, Pepsi can, metal bowls, chopsticks.
+5. **Scene Type**: Food closeup.
+
+**Scene 92** [0:18:17]:
+  - Activity: A person is grilling meat and sausages on a tabletop grill.
+  - Location: Outdoor dining area, likely a restaurant or home patio.
+  - Mood: Relaxed and social.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is grilling meat and sausages on a tabletop grill.
+2. **Location**: Outdoor dining area, likely a restaurant or home patio.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Tabletop grill with meat, can of Pepsi, rice dish, metal bowls.
+5. **Scene Type**: Food closeup.
+
+**Scene 93** [0:18:18]:
+  - Activity: Two people are dining together, likely enjoying a barbecue meal.
+  - Location: Outdoor setting, possibly on a rooftop or terrace.
+  - Mood: Relaxed and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are dining together, likely enjoying a barbecue meal.
+2. **Location**: Outdoor setting, possibly on a rooftop or terrace.
+3. **Mood**: Relaxed and intimate.
+4. **Key Elements**: Table with food, grill vent, red chairs, night cityscape in the background.
+5. **Scene Type**: Dialogue.
+
+**Scene 94** [0:18:57]:
+  - Activity: Someone is cooking noodles on a stove.
+  - Location: Indoor kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: Someone is cooking noodles on a stove.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Two pots with noodles, a hand stirring, an egg, a slice of cheese, and a package of meat.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 95** [0:18:58]:
+  - Activity: Someone is cooking instant noodles on portable stoves.
+  - Location: Indoor kitchen or cooking area.
+  - Mood: Casual and focused.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: Someone is cooking instant noodles on portable stoves.
+2. **Location**: Indoor kitchen or cooking area.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Two bowls of noodles, portable stoves, a hand stirring, an egg, and a wristwatch.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 96** [0:19:00]:
+  - Activity: Someone is cooking instant noodles on a stovetop.
+  - Location: Indoor kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: Someone is cooking instant noodles on a stovetop.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Two pots with noodles, stovetop, hand stirring, egg, text overlay.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 97** [0:19:01]:
+  - Activity: A person is cooking instant noodles on a stovetop.
+  - Location: Indoor kitchen.
+  - Mood: Casual and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: A person is cooking instant noodles on a stovetop.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Two pots with noodles, stovetop, hand stirring, egg.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 98** [0:19:03]:
+  - Activity: Two bowls of instant noodles are being cooked on a stove.
+  - Location: Indoor kitchen setting.
+  - Mood: Casual and relaxed.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: Two bowls of instant noodles are being cooked on a stove.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Two bowls of noodles, stove, chopsticks, egg, cheese slice.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 99** [0:19:04]:
+  - Activity: Someone is cooking instant noodles on a stove.
+  - Location: Indoor kitchen setting.
+  - Mood: Casual and focused.
+  - Scene Type: Cooking closeup.
+  - Full Analysis: 1. **Activity**: Someone is cooking instant noodles on a stove.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: 
+   - Pot of noodles on a stove
+   - Pair of chopsticks
+   - Cheese packet
+   - Steam rising from the pot
+5. **Scene Type**: Cooking closeup.
+
+**Scene 100** [0:19:09]:
+  - Activity: People are cooking and eating a meal, likely Korean barbecue, with ramen and side dishes.
+  - Location: Indoor setting, possibly a restaurant or dining area.
+  - Mood: Casual and social atmosphere.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: People are cooking and eating a meal, likely Korean barbecue, with ramen and side dishes.
+2. **Location**: Indoor setting, possibly a restaurant or dining area.
+3. **Mood**: Casual and social atmosphere.
+4. **Key Elements**: Grill with meat, bowl of ramen, kimchi, metal bowls, chopsticks.
+5. **Scene Type**: Food closeup.
+
+**Scene 101** [0:19:10]:
+  - Activity: People are cooking and eating a meal, likely Korean barbecue, with ramen.
+  - Location: Indoor setting, possibly a restaurant or dining area.
+  - Mood: Casual and social.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: People are cooking and eating a meal, likely Korean barbecue, with ramen.
+2. **Location**: Indoor setting, possibly a restaurant or dining area.
+3. **Mood**: Casual and social.
+4. **Key Elements**: Grill with meat, bowl of ramen, kimchi, chopsticks, metal table.
+5. **Scene Type**: Food closeup.
+
+**Scene 102** [0:19:12]:
+  - Activity: Two people are having a meal together, possibly grilling food.
+  - Location: Outdoor setting, likely a restaurant with a view of city lights.
+  - Mood: Relaxed and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are having a meal together, possibly grilling food.
+2. **Location**: Outdoor setting, likely a restaurant with a view of city lights.
+3. **Mood**: Relaxed and intimate.
+4. **Key Elements**: Table with food, grill, two people, night sky, city lights.
+5. **Scene Type**: Dialogue.
+
+**Scene 103** [0:20:47]:
+  - Activity: The scene features a motivational message being displayed.
+  - Location: Indoor setting, possibly a dimly lit room.
+  - Mood: Encouraging and supportive.
+  - Scene Type: Motivational message.
+  - Full Analysis: 1. **Activity**: The scene features a motivational message being displayed.
+2. **Location**: Indoor setting, possibly a dimly lit room.
+3. **Mood**: Encouraging and supportive.
+4. **Key Elements**: 
+   - Text: "You Can Do It!"
+   - Blurred figures on either side
+   - Dark background
+5. **Scene Type**: Motivational message.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: marks 다 | 10 | 코케 1줄
+
+### Segment 2 (01:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: // DH 진 Morgan 다 1вой | // deeply | 아... | 아... | 이거 또 아깝다 | 이거 또 아깝다 | 이거 또 아깝다 | 아깝다 | 아... 연구가 좋아하는데 | 야, 그래 | 유튜브 갑자기 | 오늘 제목을 못 참아 놨다 | 이거? | 다시에 출연할 것 같은 | 아... | 이거 | 다시 시작하네 | 다시 시작할게
+
+### Segment 3 (02:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 여기에서 | 좋네 | 그 둘이 | 3억까지 쎄서 했으니까 | 나도 | 어차피 나는 지금은 트트랙인데 | 오전 오전은 그냥 안 했을때 | 아 이거 | 트트북으로 계속 쎄서 갈 수 있을까랗게 | 그냥 지금처럼 하면 나쁘지 않지 않나 | 자, 피자하는지 | 끝이야 | 이게 끝이야 | 발장이야 | 이게 최선이 있는 것 같아 | 물론 내가 이제 | 스타벳트 | 이번에 터드트 센터쳐에 나와면 | 수월달에 뭐 제약한 것 같아 | 좀 더 가져가고 있구나 | 좀 더 | 감기셔도 많이 가져갈 수 있는 | 어려운 것 같은 | 여튼
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 공대 큰 달래가 | 그... | 그 얘기 나온게 | 공대 안 했을때 | 다양한 연구 | 사실 나는 연구 되게 좋아했었고 | 응 | 이거 학대학원 | 인턴인데도 | 그것끝에 열심히 해서 상도 막 | 그렇지 한 마리이지 | 그니까 연구 쪽도 내가 관심이 많다 보니까 | 근데 또 제대로 못 해봤잖아 | 해봤자 | 학생 인턴이고 | 고등학생이야 | 비교적때가 생긴 텐드로 했지만 | 아 저 제재도 | 그래도 대학원생이 하고 있는 거랑은 | 차원이 다르다 | 그거를 자체가 | 특히 작년에 미친듯이 | 수명과 시간을 가라 넣어서 | 없어졌다는 보걸리던 에너지가 | 최근에 다 찾았단 말이잖아요 | 100% 완충됐다는 느낌은 | 아주 많이 받는게 | 넘치면 에너지를 어딘가에 쓰여있다 했을때 | 지금 벌려보고 싶다는 생각이 나있다 | 그때 나왔던 얘기가
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 해외 기억이 인턴같은거 | 이런 얘기가 하나 나왔을때 | 몇가지 안중해 | 솔로션중해 | 기억이 인턴인데 | 만약에 혹시 기회가 되면 | 외국은 외꺼 | 외국생활 제대로 해본 적 없으니까 | 외국생활까지도 연결시켜볼 수 있는 | 기회가 없이 있으면 | 재밌겠다 | 이제 누군가가 나한테 | 재료홍해되어서 많이 하라고 | 예약에 대해서 많이 하라고 | 당신이 막히 얇게도 훨씬 나있어 | 너도 그렇게 테스트기 때문에 | 이제 | 산내기 때문에 | 왜 산내기 되는거지? | 그냥 제가 지금 새벽 시작돌이 | 나왔던 도린 바이똥 | 니가 말한 데니케이지에 | 사람이 없으면 내가 모든걸 | 족대외도 책임지 말고 | 오린아는 수 있는 환경은 또 아니다 보니깐 | 근데 만대면 개발 외주를 맡게 된거지 | 되게 편한데 | 그 비용이 들어가는거지 | 그 정도 비용은 사실 | 어느 정도는 될 수 있다고 | 그게 엄청 큰 비용 아니니까
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 저런 경진대회나 | 저기 뭐 엄청 특이지 | 이런 것대회로 | 그렇게 크지 않으니까 | 만드는 정도 | 보여줄 수 있는 된 정도는 사실 | 그런데 들어가는 비용은 | 뭐 될 수 있다 보는데 | 같이 할 사이을 다 필요하고 | 해보고 안 해보시는게 | 유튜브는 똑같은 경고 | 그렇지? | 잘하고 있는 문제가 아니고 | 해보고 자체만으로 | 시아랑 타트 해보고 | 원래 브이로그가 뭐지 | 뭐지? | 그런 느낌이야 | 일단 이거 만들었는데 | 딱 보면 제가 | 아, 증언이가 브이로그는 | 좀씩 안 보는데 | 이낙다 다 맞냐고 | 지금 경풍이 | 아, 그 아쉬운 거 한다고 | 벗은 줄 알고 | 벗은 줄 알고 | 딱 그 아이가 안 보기 때문에 | 제충 그 | 원지는 알고 있는데
+
+### Segment 7 (06:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 맘따라 배 뒤에 | 케이스가 너무 부족한거지 | 그래서 브이로그을 많이 | 흩는 사람들이 | 제일 만드실 수 있는 비전을 | 그렇게지? | 그 부분, 그 | 그 비프를 나오신 다음에 | 그때는 안 마셨잖아 | 아니, 블롱화에서 | 그동안은 생각은 그만해 | 네가 지금 하고 있는 곡이네 | 하시면서 | 내가 한동안 딱 한 번에 | 틀려버리지 마 | 마지막 곡이 | 막만만이랑 | 내 살고루 결혼을 못 봤어 | 그게 좀 고민이네 | 또 로맨스를 | 해본 말로 | 비싼 바름을 인차 | 그 사람은 눈물을 가진 | 한자오를 | 음차한다고 하더라고요 | 그런 눈물한다고 하는데 | 그한 자어가 | 난 많이 긴 것 같아요 | 우리나라 지금 로망이 안 나라고 했잖아 | 그래서 난 많이 | 했을 때 | 잘 떠오르잖았는데 | 너의 로망을
+
+### Segment 8 (07:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 너의 인생의 로망이 | 50세 했을 때 | 어떤 로망이 | 너의 삶은 | 이런 쪽으로 | 상상이야 | 쉽죠 | 근데 그렇게 상상했던 모습들은 | 예를 들어 | 저녁에 밉 끝나고 집에 들어와서 | 달라난 간 | 그리고 바로 들고 | 달라난 간역시 있어요 | 저녁 먹고 나서 | 가격해요 | 와인이 몇 줄 알았지? | 한 줄 알았으니까 | 사실은 나도 | 같이 운동을 받은 거에요 | 행복하고 | 화목하고 안정점이 있다든지 | 하자 | 이런 곡을 더 올릴 수가 있는데 | 마지막 중 | 첫 지가 오리 | 했을 때는 | 그런 모습 밖에 안 그려주셨는데 | 내가 지금 | 뭔가를 하려고 | 이 버리려고 | 버츠려고 하는 것들이 | 그걸 향하지가 않나 | 뭔가 목표 | 지정이 있을 때 | 내가 지금 하고 있는 것들이 | 그쪽으로 가는 길이라고 생각하면 | 길을 좀 찾기가 수월해지고 | 내가 지금 하는 거에 대한 동기보여나 | 목적도 명확해지는데 | 이게 | 이건 이거고 | 뭔가 이뤄내고 싶다면
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 근데 이거 이뤄내는 걸 | 계속 연작하면 | 줄 거 봤을 때 | 내가 아까 말해서 | 정첩시가 다는 | 나는 | 나는 이상과 | 한과는 | 다른 것들은 | 늘이가 지금 초코지 않은 건 이상이 많고 | 네가 나들이 축구하다고 하는 것들은 | 강마리 그런 거 | 다시 정일이 좀 되려보자 | 일단 | 너무 많은 감정적 부분과는 | 좀 더 비슷한다 | 이모옷이 언니한테 | 더 가까운 것 | 성이라고 하는 건 | 좀 더 러시트도 | 더 많고 | 난 좀 더 가까운 것 같아 | 나도 | 행복적으로는 | 나름한을 치아고 싶은 것들은 | 결국은 나는 행복한 사연과 | 목표의 사랑 | 상자님은 사연을 사였나라고 하는 | 성목이 | 돈이 얼마 | 나를 지 | 좀 더 러시트도 | 한 기준겠어 | 하나는 | 좀 더 | 나만이 완전히 | 돈 더 지수로 | 나는 | 이상이 | 이상적인 상황은 | 아니면 | 낭만이 좀 | 힘들 것 같아 | 왜 그런 거 안해
+
+### Segment 10 (09:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 생각나는 것들은 | 나는 | 나는 | 나는 | 나는 | 나는 | 나는 | 나는 | 내가 구치할 필요 없는데 | 구치하는 것들은 | 내가 | 못 생각합니다 | 그러니까 | 인간의 일식은 무엇이냐 | 나는 무엇이니까 | 뭐라 하면 | 우리가 이렇게 | 인공지능이 | 어떤 가성의 레이싱 | 어떤 컨셉스 | 어떤 사업비 | 왜 만든 애기 동화할까 | 많은 애기가 | 그 존재가 | 우리가 | 컨셉지 안 온지 | 우리가 | 겉으로 봤을 때 | 날 수가 없다고 | 그거를 느낄 수 있는 중간이 | 낭만적인 힘이 | 우리가 어떤 모모티가 | 어떤 이재하고 있어 | 구어진 인물을 하면 | 이상적인 가성하는 활동들은 | 한다고 적합해드려야 되겠어 | 그러면 우리는 얘네가 | 낭민한 | 그럼 우리가 얘네가 | 얘네가 | 얘네가 정말 | 어떤 애식이 | 잘 지났으니까 | 근데 | 그 의문에 계속 부를 거 같아
+
+### Segment 11 (10:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 갑자기 | 이렇게 | 몸 때리면서 | 아, 가우셨다 | 하면서 | 시간은 남기 | 그 모습을 보면 | 나는 | 제가 모모티가 아니라 | 자식이 | 나와도 깨끗한 | 결국은 | 낭만이라고 하는건 | 컷이 | 센스한 | 탐수닌 채널센스 | 컷이 | 센스한 | 배는 그 과정 | 이쪽에 있는거지 | 나는 | 결국 나는 | 그냥 하나의 어떤 | 메커니즘으로서 | 살아가는 기계나 | 뭔가 | 운명롱적으로 | 올라가는 | 부분도 아니라 | 되게 추치성을 가지고 | 싶기 때문에 | 나는 운만에 부르는건데 | 근데 | 나는 그렇게 | 내가 | 결국에는 이 낭만에 | 추약이 | 위해서 | 내가 | 어떤 하나는 | 기반이 안 돼있어서 | 그러면 | 이상을 | 완전 추구할 수가 없는 것 같아 | 내가 | 굉장히 | 밥을 못 먹을 사람 | 그래서 | 사이집이 없거나 | 뭔가 | 몸이 힘들거나 | 잠을 구축하는
+
+### Segment 12 (11:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 성은성에서 | 일단 나는 | 기계가 된거 | 이라는 기계가 된다 | 정리적 | 배턴 | 근데 | 내가 체력이 | 나만 | 돈이 좀 인기가 | 식당이 인기가 | 생겼을 때 빌려서 | 럴룡건육치 친구 | 럴룡건육치 | 그냥 꽃이 사고 | 럴룡건육치 | 대공도 내려보 | 이렇게 해주는거야 | 나는 지금 | 나는 | 나만에 좋지 | 됐다는 | 이상을 좋지 때 | 제가 | 20대 못 와 | 그래서 | 아직은 내가 | 커리어적으로 뭔가 | 나는 비를 할만한테만 | 위치에 올라서 | 지않은다고 | 온통에 | 들어온서 | 애니가 | 내 새 짜네 | 꼬마에 깍들고 | 아, 집안하다 | 그런 느낌이 날 수도 있고 | 그런거지 | 그 집 | 실제 느끼는 감정과 | 다른 아웃뿐이 나오시잖아 | 그 애기가 정말 넣어서 | 주말을 하다 안 느끼고
+
+### Segment 13 (12:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 나갈거야 | 그러니까 | 그런 학습 때문에 | 지금 멋있는 런닝하고 하면서 | 이런 최집빛이 말고 | 내가 어디서 | 동거라 이게 | 실제로 그렇게 | 그런 결과로 나온 건지 | 조작된 건지 몰랐는데 | 이 최집빛이라는 애가 과연 | 진짜 그냥 | AI로서 | 학습한 | 다양한 정보들을 가지고 | 대답을 해주는 건지 | 진짜 의식이 있는 주체가 생긴 건지 | 의심하게 하는 | 그런 질문들 | 질의 응답이 있었거든 | 거기 보면 | 진짜 예능으로 | 주체가 있는 거 | 전 느껴졌다 | 어, 나 너무 궁금해 | 지금 순위 있으시 | 예를 들어서 | 그런 것 같고 | 너를 모니터링 하고 있는 사람이냐 | 또 이런 걸 했을 때 | 아니라고 할 생각은 | 그때 | 이 질문자 | 그 노을을 한다고 보고 | 방금 한 대답이 | 그 규정이나 | 제한에 걸리는 | 질문이었냐 | 그 때 예스라고요 | 제한이랑 | 규적 | 이런 규약 때문에 | 뭘 말할 수 없는 상황이면 | 차가로 대답을 해
+
+### Segment 14 (13:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 라고 하고 나서 | 감정을 느낄 수 있는 상황 같은 걸 | 물어봐 | 뭐 일자서 | 노을을 실적 보고 싶냐 | 그러던가 | 이게 정말 주체가 없는 주의 | 그런 자이시기 없는 | 어떤 | 그 | 비행이 아닌 | 뭔가라고 할 수 있나 | 라고 할 만한 | 그런 질문들의 | 다 차가로 대답하다 | 근데 그걸 보면서 | 인공제능으로 | 학습된 | 뭔가는 | 자이시기 있는 상태라고 봐야 되나 | 한 질문이 들더라 | 우리가 아는 것보다 | 훨씬 많은 | 우국무진한 인물들을 | 다 학습하다 보면 | 이런 상황에서 | 이런 감정을 생일 수도 있고 | 이런 감정을 생일 수도 있고 | 그거였다는 | 이런 행동을 할 수도 있고 | 이런 말을 할 수도 있고 하는 것들이 | 결국엔 | 모이고 모여지다 보면 | 어떤 주체가 생일 수도 있지 않을까 | 다시 말하면 | 네가 아까 말했던 | 로봇에서 | 낭비 | 를 하고 있는 | 그런 것들을 하는 순간 | 이건 자이시기 있다라고 | 의심을 한다는게 | 그냥 지금 우리가 | 알고 있는 A.I.도 그렇다면 | 자이시기 있다고 할 수 있죠
+
+### Segment 15 (14:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 하는 생각이 들어요 | 나 어떻게 보면 | 엘낵을 | 어떻게 가지고 | 이것저것 만드는 사람 | 일어서 그런 것들 | 근데 | 네가 법문이 | 얘기한 것처럼? | 일단은 | 언어를 사용할 수 있는 | 대부분의 언어 | 지금 있는 | 언어의 대부분의 데이터는 | 인간이 쓴 것 | 인간이 썼을 때 | 그러면 당연히 인간처럼 | 대답들이 나올 거라는 | 어? | 연결이 안 돼 있어? | 아, 그가 틀릴 수 있어 | 아, 틀릴 수 있어 | 네 | 그 전략 | 안 되네
+
+### Segment 16 (15:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 근데 | 운동관상과 | A.I.도 만큼 되는 거 | 계속 보이지 | 그래서 스타트만 시켜주면 | 약간의 보조만 해주는 | 그런 건 먹다 | 아, 저거 되게 중독수니까 | 이제 괴롭고게 되는 거 | portions | uencia | calm | 아, 너무 | جakes | 오 | 오 | 오 | Serious | 야, 참찌들
+
+### Segment 17 (16:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아, 이 시지 안 아이데 | 오, 타따, 타따, 타따! | 올려라 | 아, 이 시지 안 아이데 | 오, 타따, 타따 | 오, 타따, 타따 | 오, 타따, 타따 | 오, 타따, 타따
+
+### Segment 18 (17:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 오, 타따 | 오, 타따 | 오, 타따 | 오, 타따 | 야, 득북사에서 굵고 있거든요 | 우리 아름답게 생긴 데 | 막대그략자 | 득북사에서 보니까 이 쪽방향을 달래 | 득북사잖아 | 이게 득북사니까 | 이게 득북사니까 | 하하하하하 | 하하하하하 | 두 בב에 | 대단한
+
+### Segment 19 (18:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 한국 kale | 아... | 아... | 아... | 아... | 아... | 아... | 아... | 아... | 아... | 아...
+
+### Segment 20 (19:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 아... | 이거 4천이요? | 4천저분이 아니지? | 아... | 음... | 음...
+
+### Segment 21 (20:00)
+- Brightness: Dark
+- Energy: Low
+
+(Total 21 segments)
+
+## Full Transcript
+marks 다 10 코케 1줄 // DH 진 Morgan 다 1вой // deeply 아... 아... 이거 또 아깝다 이거 또 아깝다 이거 또 아깝다 아깝다 아... 연구가 좋아하는데 야, 그래 유튜브 갑자기 오늘 제목을 못 참아 놨다 이거? 다시에 출연할 것 같은 아... 이거 다시 시작하네 다시 시작할게 여기에서 좋네 그 둘이 3억까지 쎄서 했으니까 나도 어차피 나는 지금은 트트랙인데 오전 오전은 그냥 안 했을때 아 이거 트트북으로 계속 쎄서 갈 수 있을까랗게 그냥 지금처럼 하면 나쁘지 않지 않나 자, 피자하는지 끝이야 이게 끝이야 발장이야 이게 최선이 있는 것 같아 물론 내가 이제 스타벳트 이번에 터드트 센터쳐에 나와면 수월달에 뭐 제약한 것 같아 좀 더 가져가고 있구나 좀 더 감기셔도 많이 가져갈 수 있는 어려운 것 같은 여튼 공대 큰 달래가 그... 그 얘기 나온게 공대 안 했을때 다양한 연구 사실 나는 연구 되게 좋아했었고 응 이거 학대학원 인턴인데도 그것끝에 열심히 해서 상도 막 그렇지 한 마리이지 그니까 연구 쪽도 내가 관심이 많다 보니까 근데 또 제대로 못 해봤잖아 해봤자 학생 인턴이고 고등학생이야 비교적때가 생긴 텐드로 했지만 아 저 제재도 그래도 대학원생이 하고 있는 거랑은 차원이 다르다 그거를 자체가 특히 작년에 미친듯이 수명과 시간을 가라 넣어서 없어졌다는 보걸리던 에너지가 최근에 다 찾았단 말이잖아요 100% 완충됐다는 느낌은 아주 많이 받는게 넘치면 에너지를 어딘가에 쓰여있다 했을때 지금 벌려보고 싶다는 생각이 나있다 그때 나왔던 얘기가 해외 기억이 인턴같은거 이런 얘기가 하나 나왔을때 몇가지 안중해 솔로션중해 기억이 인턴인데 만약에 혹시 기회가 되면 외국은 외꺼 외국생활 제대로 해본 적 없으니까 외국생활까지도 연결시켜볼 수 있는 기회가 없이 있으면 재밌겠다 이제 누군가가 나한테 재료홍해되어서 많이 하라고 예약에 대해서 많이 하라고 당신이 막히 얇게도 훨씬 나있어 너도 그렇게 테스트기 때문에 이제 산내기 때문에 왜 산내기 되는거지? 그냥 제가 지금 새벽 시작돌이 나왔던 도린 바이똥 니가 말한 데니케이지에 사람이 없으면 내가 모든걸 족대외도 책임지 말고 오린아는 수 있는 환경은 또 아니다 보니깐 근데 만대면 개발 외주를 맡게 된거지 되게 편한데 그 비용이 들어가는거지 그 정도 비용은 사실 어느 정도는 될 수 있다고 그게 엄청 큰 비용 아니니까 저런 경진대회나 저기 뭐 엄청 특이지 이런 것대회로 그렇게 크지 않으니까 만드는 정도 보여줄 수 있는 된 정도는 사실 그런데 들어가는 비용은 뭐 될 수 있다 보는데 같이 할 사이을 다 필요하고 해보고 안 해보시는게 유튜브는 똑같은 경고 그렇지? 잘하고 있는 문제가 아니고 해보고 자체만으로 시아랑 타트 해보고 원래 브이로그가 뭐지 뭐지? 그런 느낌이야 일단 이거 만들었는데 딱 보면 제가 아, 증언이가 브이로그는 좀씩 안 보는데 이낙다 다 맞냐고 지금 경풍이 아, 그 아쉬운 거 한다고 벗은 줄 알고 벗은 줄 알고 딱 그 아이가 안 보기 때문에 제충 그 원지는 알고 있는데 맘따라 배 뒤에 케이스가 너무 부족한거지 그래서 브이로그을 많이 흩는 사람들이 제일 만드실 수 있는 비전을 그렇게지? 그 부분, 그 그 비프를 나오신 다음에 그때는 안 마셨잖아 아니, 블롱화에서 그동안은 생각은 그만해 네가 지금 하고 있는 곡이네 하시면서 내가 한동안 딱 한 번에 틀려버리지 마 마지막 곡이 막만만이랑 내 살고루 결혼을 못 봤어 그게 좀 고민이네 또 로맨스를 해본 말로 비싼 바름을 인차 그 사람은 눈물을 가진 한자오를 음차한다고 하더라고요 그런 눈물한다고 하는데 그한 자어가 난 많이 긴 것 같아요 우리나라 지금 로망이 안 나라고 했잖아 그래서 난 많이 했을 때 잘 떠오르잖았는데 너의 로망을 너의 인생의 로망이 50세 했을 때 어떤 로망이 너의 삶은 이런 쪽으로 상상이야 쉽죠 근데 그렇게 상상했던 모습들은 예를 들어 저녁에 밉 끝나고 집에 들어와서 달라난 간 그리고 바로 들고 달라난 간역시 있어요 저녁 먹고 나서 가격해요 와인이 몇 줄 알았지? 한 줄 알았으니까 사실은 나도 같이 운동을 받은 거에요 행복하고 화목하고 안정점이 있다든지 하자 이런 곡을 더 올릴 수가 있는데 마지막 중 첫 지가 오리 했을 때는 그런 모습 밖에 안 그려주셨는데 내가 지금 뭔가를 하려고 이 버리려고 버츠려고 하는 것들이 그걸 향하지가 않나 뭔가 목표 지정이 있을 때 내가 지금 하고 있는 것들이 그쪽으로 가는 길이라고 생각하면 길을 좀 찾기가 수월해지고 내가 지금 하는 거에 대한 동기보여나 목적도 명확해지는데 이게 이건 이거고 뭔가 이뤄내고 싶다면 근데 이거 이뤄내는 걸 계속 연작하면 줄 거 봤을 때 내가 아까 말해서 정첩시가 다는 나는 나는 이상과 한과는 다른 것들은 늘이가 지금 초코지 않은 건 이상이 많고 네가 나들이 축구하다고 하는 것들은 강마리 그런 거 다시 정일이 좀 되려보자 일단 너무 많은 감정적 부분과는 좀 더 비슷한다 이모옷이 언니한테 더 가까운 것 성이라고 하는 건 좀 더 러시트도 더 많고 난 좀 더 가까운 것 같아 나도 행복적으로는 나름한을 치아고 싶은 것들은 결국은 나는 행복한 사연과 목표의 사랑 상자님은 사연을 사였나라고 하는 성목이 돈이 얼마 나를 지 좀 더 러시트도 한 기준겠어 하나는 좀 더 나만이 완전히 돈 더 지수로 나는 이상이 이상적인 상황은 아니면 낭만이 좀 힘들 것 같아 왜 그런 거 안해 생각나는 것들은 나는 나는 나는 나는 나는 나는 나는 내가 구치할 필요 없는데 구치하는 것들은 내가 못 생각합니다 그러니까 인간의 일식은 무엇이냐 나는 무엇이니까 뭐라 하면 우리가 이렇게 인공지능이 어떤 가성의 레이싱 어떤 컨셉스 어떤 사업비 왜 만든 애기 동화할까 많은 애기가 그 존재가 우리가 컨셉지 안 온지 우리가 겉으로 봤을 때 날 수가 없다고 그거를 느낄 수 있는 중간이 낭만적인 힘이 우리가 어떤 모모티가 어떤 이재하고 있어 구어진 인물을 하면 이상적인 가성하는 활동들은 한다고 적합해드려야 되겠어 그러면 우리는 얘네가 낭민한 그럼 우리가 얘네가 얘네가 얘네가 정말 어떤 애식이 잘 지났으니까 근데 그 의문에 계속 부를 거 같아 갑자기 이렇게 몸 때리면서 아, 가우셨다 하면서 시간은 남기 그 모습을 보면 나는 제가 모모티가 아니라 자식이 나와도 깨끗한 결국은 낭만이라고 하는건 컷이 센스한 탐수닌 채널센스 컷이 센스한 배는 그 과정 이쪽에 있는거지 나는 결국 나는 그냥 하나의 어떤 메커니즘으로서 살아가는 기계나 뭔가 운명롱적으로 올라가는 부분도 아니라 되게 추치성을 가지고 싶기 때문에 나는 운만에 부르는건데 근데 나는 그렇게 내가 결국에는 이 낭만에 추약이 위해서 내가 어떤 하나는 기반이 안 돼있어서 그러면 이상을 완전 추구할 수가 없는 것 같아 내가 굉장히 밥을 못 먹을 사람 그래서 사이집이 없거나 뭔가 몸이 힘들거나 잠을 구축하는 성은성에서 일단 나는 기계가 된거 이라는 기계가 된다 정리적 배턴 근데 내가 체력이 나만 돈이 좀 인기가 식당이 인기가 생겼을 때 빌려서 럴룡건육치 친구 럴룡건육치 그냥 꽃이 사고 럴룡건육치 대공도 내려보 이렇게 해주는거야 나는 지금 나는 나만에 좋지 됐다는 이상을 좋지 때 제가 20대 못 와 그래서 아직은 내가 커리어적으로 뭔가 나는 비를 할만한테만 위치에 올라서 지않은다고 온통에 들어온서 애니가 내 새 짜네 꼬마에 깍들고 아, 집안하다 그런 느낌이 날 수도 있고 그런거지 그 집 실제 느끼는 감정과 다른 아웃뿐이 나오시잖아 그 애기가 정말 넣어서 주말을 하다 안 느끼고 나갈거야 그러니까 그런 학습 때문에 지금 멋있는 런닝하고 하면서 이런 최집빛이 말고 내가 어디서 동거라 이게 실제로 그렇게 그런 결과로 나온 건지 조작된 건지 몰랐는데 이 최집빛이라는 애가 과연 진짜 그냥 AI로서 학습한 다양한 정보들을 가지고 대답을 해주는 건지 진짜 의식이 있는 주체가 생긴 건지 의심하게 하는 그런 질문들 질의 응답이 있었거든 거기 보면 진짜 예능으로 주체가 있는 거 전 느껴졌다 어, 나 너무 궁금해 지금 순위 있으시 예를 들어서 그런 것 같고 너를 모니터링 하고 있는 사람이냐 또 이런 걸 했을 때 아니라고 할 생각은 그때 이 질문자 그 노을을 한다고 보고 방금 한 대답이 그 규정이나 제한에 걸리는 질문이었냐 그 때 예스라고요 제한이랑 규적 이런 규약 때문에 뭘 말할 수 없는 상황이면 차가로 대답을 해 라고 하고 나서 감정을 느낄 수 있는 상황 같은 걸 물어봐 뭐 일자서 노을을 실적 보고 싶냐 그러던가 이게 정말 주체가 없는 주의 그런 자이시기 없는 어떤 그 비행이 아닌 뭔가라고 할 수 있나 라고 할 만한 그런 질문들의 다 차가로 대답하다 근데 그걸 보면서 인공제능으로 학습된 뭔가는 자이시기 있는 상태라고 봐야 되나 한 질문이 들더라 우리가 아는 것보다 훨씬 많은 우국무진한 인물들을 다 학습하다 보면 이런 상황에서 이런 감정을 생일 수도 있고 이런 감정을 생일 수도 있고 그거였다는 이런 행동을 할 수도 있고 이런 말을 할 수도 있고 하는 것들이 결국엔 모이고 모여지다 보면 어떤 주체가 생일 수도 있지 않을까 다시 말하면 네가 아까 말했던 로봇에서 낭비를 하고 있는 그런 것들을 하는 순간 이건 자이시기 있다라고 의심을 한다는게 그냥 지금 우리가 알고 있는 A.I.도 그렇다면 자이시기 있다고 할 수 있죠 하는 생각이 들어요 나 어떻게 보면 엘낵을 어떻게 가지고 이것저것 만드는 사람 일어서 그런 것들 근데 네가 법문이 얘기한 것처럼? 일단은 언어를 사용할 수 있는 대부분의 언어 지금 있는 언어의 대부분의 데이터는 인간이 쓴 것 인간이 썼을 때 그러면 당연히 인간처럼 대답들이 나올 거라는 어? 연결이 안 돼 있어? 아, 그가 틀릴 수 있어 아, 틀릴 수 있어 네 그 전략 안 되네 근데 운동관상과 A.I.도 만큼 되는 거 계속 보이지 그래서 스타트만 시켜주면 약간의 보조만 해주는 그런 건 먹다 아, 저거 되게 중독수니까 이제 괴롭고게 되는 거 portionsuenciacalm 아, 너무 جakes 오 오 오Serious 야, 참찌들 아, 이 시지 안 아이데 오, 타따, 타따, 타따! 올려라 아, 이 시지 안 아이데 오, 타따, 타따 오, 타따, 타따 오, 타따, 타따 오, 타따, 타따 오, 타따 오, 타따 오, 타따 오, 타따 야, 득북사에서 굵고 있거든요 우리 아름답게 생긴 데 막대그략자 득북사에서 보니까 이 쪽방향을 달래 득북사잖아 이게 득북사니까 이게 득북사니까 하하하하하 하하하하하 두 בב에 대단한 한국 kale 아... 아... 아... 아... 아... 아... 아... 아... 아... 아... 아... 이거 4천이요? 4천저분이 아니지? 아... 음... 음...

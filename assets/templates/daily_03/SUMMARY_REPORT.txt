@@ -1,0 +1,60 @@
+============================================================
+VIDEO ANALYSIS SUMMARY
+============================================================
+Generated: 2025-11-01 22:14:04
+
+📊 BASIC INFORMATION
+----------------------------------------
+Duration: 0:12:16
+Resolution: 1920x1080
+FPS: 30.0
+Aspect Ratio: 1.78
+
+🎨 VISUAL FEATURES
+----------------------------------------
+Dominant Colors: #644e45, #dfd6d1, #bda799
+Brightness Trend: Decreasing
+Scene Changes: 512
+Average Shot Length: 1.4s
+
+🔊 AUDIO FEATURES
+----------------------------------------
+Dominant Mood: Conversational
+Music Ratio: 30%
+Speech Ratio: 60%
+Ambient Ratio: 10%
+
+📝 CONTENT
+----------------------------------------
+Language: ko
+Segments: 282
+Text Length: 3162 characters
+
+📁 GENERATED FILES
+----------------------------------------
+  • cleaned_subtitles.json
+  • cleaned_subtitles.txt
+  • color_palette.png
+  • combined_analysis.json
+  • extracted_template.json
+  • llm_prompt.json
+  • llm_prompt.txt
+  • merged_text_content.json
+  • merged_text_content.txt
+  • metadata.json
+  • onscreen_text.json
+  • onscreen_text.txt
+  • scene_contexts.json
+  • scene_contexts.txt
+  • transcript.json
+  • transcript.txt
+  • video_analysis.json
+  • video_analysis_summary.json
+  • viz_audio_composition.png
+  • viz_brightness_timeline.png
+  • viz_energy_dashboard.png
+  • viz_scene_changes.png
+  • viz_summary_infographic.png
+  • viz_volume_timeline.png
+
+============================================================

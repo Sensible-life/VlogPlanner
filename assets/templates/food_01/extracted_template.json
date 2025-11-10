@@ -1,0 +1,120 @@
+{
+  "template_name": "Conversational Korean Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "The vlog begins with a series of conversational scenes introducing the journey, featuring discussions about travel plans and initial impressions.",
+      "key_elements": [
+        "introduction to travel",
+        "initial impressions",
+        "conversational tone"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1275,
+      "description": "The main content showcases various travel experiences, including visiting cafes, trying local food, and exploring new places, all narrated in a conversational style.",
+      "segments": [
+        {
+          "type": "cafe scene",
+          "description": "Visiting a local cafe, ordering coffee, and enjoying the ambiance.",
+          "typical_duration": 300,
+          "scene_activity": "Ordering and drinking coffee",
+          "location": "Local cafe",
+          "mood": "Relaxed"
+        },
+        {
+          "type": "food tasting",
+          "description": "Trying local dishes, expressing delight at the flavors, and discussing the taste.",
+          "typical_duration": 400,
+          "scene_activity": "Eating and reviewing food",
+          "location": "Restaurant",
+          "mood": "Excited"
+        },
+        {
+          "type": "street exploration",
+          "description": "Walking through streets, observing architecture, and interacting with locals.",
+          "typical_duration": 300,
+          "scene_activity": "Exploring streets",
+          "location": "City streets",
+          "mood": "Curious"
+        },
+        {
+          "type": "hotel review",
+          "description": "Checking into a hotel, showing room features, and sharing thoughts on the accommodation.",
+          "typical_duration": 275,
+          "scene_activity": "Hotel check-in and room tour",
+          "location": "Hotel",
+          "mood": "Content"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 300,
+      "description": "The vlog concludes with reflections on the day, expressing satisfaction with the experiences, and a farewell message.",
+      "key_elements": [
+        "reflection on experiences",
+        "farewell message",
+        "expressing satisfaction"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#57463b",
+      "#b2a595",
+      "#1d1714",
+      "#867566",
+      "#d2d4d1"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.41,
+    "scene_changes": 1332,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Explaining experiences and sharing feelings"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional translations and highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Conversational Narration",
+      "description": "The vlogger frequently engages in casual conversation, sharing personal thoughts and experiences.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

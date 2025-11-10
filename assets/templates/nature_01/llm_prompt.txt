@@ -1,0 +1,2174 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:08:22
+- Resolution: 1920x1080
+- FPS: 29.97002997002997
+
+## Visual Features
+- Dominant Colors: #8f8474, #d9d8d4, #100e0d
+- Brightness Trend: Stable
+- Scene Changes: 187
+- Average Shot Length: 2.7s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 33
+- Content Length: 342 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #8f8474, #d9d8d4, #100e0d
+- Brightness: Stable
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 187
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Action.: 43 occurrences
+  - Grooming session.: 23 occurrences
+  - Interaction.: 20 occurrences
+  - Establishing shot.: 16 occurrences
+  - Pet grooming.: 16 occurrences
+
+Dominant Moods:
+  - Calm and focused.: 70 scenes
+  - Calm and intimate.: 14 scenes
+  - Calm and affectionate.: 13 scenes
+  - Calm and caring.: 13 scenes
+  - Calm and soothing.: 5 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:01]:
+  - Activity: A dog is resting on a cushion in a grooming or pet care setting.
+  - Location: Indoor, likely a pet grooming salon or similar space.
+  - Mood: Calm and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is resting on a cushion in a grooming or pet care setting.
+2. **Location**: Indoor, likely a pet grooming salon or similar space.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Dog, cushions, blanket, window view of the street.
+5. **Scene Type**: Establishing shot.
+
+**Scene 2** [0:00:02]:
+  - Activity: A dog is standing indoors, holding a toy in its mouth.
+  - Location: Indoor, likely a home or grooming area.
+  - Mood: Playful and lighthearted.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is standing indoors, holding a toy in its mouth.
+2. **Location**: Indoor, likely a home or grooming area.
+3. **Mood**: Playful and lighthearted.
+4. **Key Elements**: Dog, red toy, tiled floor, slippers.
+5. **Scene Type**: Establishing shot.
+
+**Scene 3** [0:00:04]:
+  - Activity: A person is grooming a small dog.
+  - Location: Indoor, likely in a grooming salon or bathroom.
+  - Mood: Calm and intimate.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog.
+2. **Location**: Indoor, likely in a grooming salon or bathroom.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Small dog, person in a light-colored outfit, tiled wall, grooming supplies.
+5. **Scene Type**: Grooming session.
+
+**Scene 4** [0:00:06]:
+  - Activity: A dog is being bathed and groomed.
+  - Location: Indoor, likely in a grooming salon or home bathroom.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming action.
+  - Full Analysis: 1. **Activity**: A dog is being bathed and groomed.
+2. **Location**: Indoor, likely in a grooming salon or home bathroom.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, person's hands, soap suds, grooming products, sink.
+5. **Scene Type**: Grooming action.
+
+**Scene 5** [0:00:07]:
+  - Activity: A dog is being groomed, with a person gently holding its head.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and soothing.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, with a person gently holding its head.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and soothing.
+4. **Key Elements**: Dog, grooming tools, person’s hands, grooming table, text overlay "GROOMER VLOG".
+5. **Scene Type**: Grooming session.
+
+**Scene 6** [0:00:10]:
+  - Activity: A dog is being groomed, lying on its back while someone gently holds it.
+  - Location: Indoor setting, likely a grooming area or home.
+  - Mood: Calm and soothing.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, lying on its back while someone gently holds it.
+2. **Location**: Indoor setting, likely a grooming area or home.
+3. **Mood**: Calm and soothing.
+4. **Key Elements**: Dog, person's hands, yellow checkered diaper, text overlay "GROOMER VLOG".
+5. **Scene Type**: Grooming session.
+
+**Scene 7** [0:00:12]:
+  - Activity: A dog is being showcased, possibly as part of a grooming session or vlog.
+  - Location: Indoor, likely a grooming salon or similar setting.
+  - Mood: Calm and playful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is being showcased, possibly as part of a grooming session or vlog.
+2. **Location**: Indoor, likely a grooming salon or similar setting.
+3. **Mood**: Calm and playful.
+4. **Key Elements**: Dog, tennis racket, small balls, tiled wall, grooming table.
+5. **Scene Type**: Establishing shot.
+
+**Scene 8** [0:00:14]:
+  - Activity: A dog is being groomed, possibly after a haircut.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and professional.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, possibly after a haircut.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and professional.
+4. **Key Elements**: Dog on a grooming table, grooming tools, chair, trimmed fur.
+5. **Scene Type**: Establishing shot.
+
+**Scene 9** [0:00:15]:
+  - Activity: A dog is being groomed, with its fur trimmed and placed on the table.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, with its fur trimmed and placed on the table.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, trimmed fur, grooming tools, chair.
+5. **Scene Type**: Grooming session.
+
+**Scene 10** [0:00:16]:
+  - Activity: A person is grooming a fluffy white dog.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A person is grooming a fluffy white dog.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in an apron, fluffy white dog, grooming equipment, hairdryer.
+5. **Scene Type**: Grooming session.
+
+**Scene 11** [0:00:19]:
+  - Activity: A person is preparing or organizing equipment in a grooming setting.
+  - Location: Indoor, likely a grooming salon or pet care facility.
+  - Mood: Professional and focused.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is preparing or organizing equipment in a grooming setting.
+2. **Location**: Indoor, likely a grooming salon or pet care facility.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Person in an apron, grooming equipment, shelves with products, large dryer, table.
+5. **Scene Type**: Establishing shot.
+
+**Scene 12** [0:00:26]:
+  - Activity: A person is preparing grooming supplies, possibly for pet grooming.
+  - Location: Indoor, likely a grooming salon or workspace.
+  - Mood: Professional and focused.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is preparing grooming supplies, possibly for pet grooming.
+2. **Location**: Indoor, likely a grooming salon or workspace.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Grooming spray cans, a large dryer, tiled walls, a person in an apron.
+5. **Scene Type**: Establishing shot.
+
+**Scene 13** [0:00:27]:
+  - Activity: A person is preparing or setting up for a grooming session.
+  - Location: Indoor, likely a grooming salon or pet care facility.
+  - Mood: Professional and focused.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is preparing or setting up for a grooming session.
+2. **Location**: Indoor, likely a grooming salon or pet care facility.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Person in an apron, grooming equipment, tiled walls, text overlay "GROOMER VLOG".
+5. **Scene Type**: Establishing shot.
+
+**Scene 14** [0:00:28]:
+  - Activity: A person is preparing or organizing items, possibly related to grooming.
+  - Location: Indoor, likely a grooming salon or similar workspace.
+  - Mood: Practical and focused.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is preparing or organizing items, possibly related to grooming.
+2. **Location**: Indoor, likely a grooming salon or similar workspace.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Shelves with grooming products, a person in a uniform, tiled walls, grooming equipment.
+5. **Scene Type**: Establishing shot.
+
+**Scene 15** [0:00:29]:
+  - Activity: A person is adjusting the camera or preparing for a vlog recording.
+  - Location: Indoor, likely a grooming salon or similar setting.
+  - Mood: Casual and focused.
+  - Scene Type: Introduction or setup for a vlog.
+  - Full Analysis: 1. **Activity**: A person is adjusting the camera or preparing for a vlog recording.
+2. **Location**: Indoor, likely a grooming salon or similar setting.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Person in beige clothing, grooming products, camera equipment, tiled walls.
+5. **Scene Type**: Introduction or setup for a vlog.
+
+**Scene 16** [0:00:30]:
+  - Activity: A person is preparing or organizing grooming equipment.
+  - Location: Indoor, likely a grooming salon or pet care facility.
+  - Mood: Professional and focused.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is preparing or organizing grooming equipment.
+2. **Location**: Indoor, likely a grooming salon or pet care facility.
+3. **Mood**: Professional and focused.
+4. **Key Elements**: Grooming equipment, person in uniform, shelves with products, camera.
+5. **Scene Type**: Establishing shot.
+
+**Scene 17** [0:00:31]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm unable to analyze the content of this video frame as it is too dark to discern any specific details.
+
+**Scene 18** [0:00:32]:
+  - Activity: A dog is moving around in a room.
+  - Location: Indoor, likely a pet care facility or home.
+  - Mood: Calm and cozy.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is moving around in a room.
+2. **Location**: Indoor, likely a pet care facility or home.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Dog beds, a small blue toy, a dog, and a window.
+5. **Scene Type**: Establishing shot.
+
+**Scene 19** [0:00:33]:
+  - Activity: A dog is standing on the floor, possibly looking up at something or someone.
+  - Location: Indoor, likely a pet area or room.
+  - Mood: Calm and cozy.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is standing on the floor, possibly looking up at something or someone.
+2. **Location**: Indoor, likely a pet area or room.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Dog, pet bed, blanket, pee pads, toy.
+5. **Scene Type**: Establishing shot.
+
+**Scene 20** [0:00:34]:
+  - Activity: A dog is playing or interacting with a green toy.
+  - Location: Indoor, likely a living room or pet area.
+  - Mood: Calm and playful.
+  - Scene Type: Pet interaction.
+  - Full Analysis: 1. **Activity**: A dog is playing or interacting with a green toy.
+2. **Location**: Indoor, likely a living room or pet area.
+3. **Mood**: Calm and playful.
+4. **Key Elements**: Dog, green toy, dog bed, floor mat, blanket.
+5. **Scene Type**: Pet interaction.
+
+**Scene 21** [0:00:35]:
+  - Activity: A small dog is interacting with a person, possibly playing or being fed.
+  - Location: Indoor, likely in a home setting.
+  - Mood: Playful and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A small dog is interacting with a person, possibly playing or being fed.
+2. **Location**: Indoor, likely in a home setting.
+3. **Mood**: Playful and intimate.
+4. **Key Elements**: Small dog, person's hand, green toy or object, fabric or blanket.
+5. **Scene Type**: Interaction.
+
+**Scene 22** [0:00:37]:
+  - Activity: A person is playing with a small dog, offering it a toy or treat.
+  - Location: Indoor, likely a living room or similar home setting.
+  - Mood: Playful and affectionate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is playing with a small dog, offering it a toy or treat.
+2. **Location**: Indoor, likely a living room or similar home setting.
+3. **Mood**: Playful and affectionate.
+4. **Key Elements**: Small dog, human hand, green toy or treat, slippers, cushion.
+5. **Scene Type**: Interaction.
+
+**Scene 23** [0:00:38]:
+  - Activity: A person is holding a small dog, possibly preparing to wash or groom it.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and intimate.
+  - Scene Type: Pet care/grooming.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing to wash or groom it.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Small dog, person’s arm, tiled walls, door, sink.
+5. **Scene Type**: Pet care/grooming.
+
+**Scene 24** [0:00:39]:
+  - Activity: A person is holding a fluffy dog, possibly preparing to groom or wash it.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is holding a fluffy dog, possibly preparing to groom or wash it.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person in a white outfit, fluffy dog, tiled walls, door with a handle.
+5. **Scene Type**: Interaction.
+
+**Scene 25** [0:00:41]:
+  - Activity: A person is grooming or interacting with a fluffy dog.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is grooming or interacting with a fluffy dog.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, fluffy dog, tiled walls, grooming tools, text overlay.
+5. **Scene Type**: Interaction.
+
+**Scene 26** [0:00:45]:
+  - Activity: A person is grooming or petting a dog.
+  - Location: Indoor, likely a grooming salon or bathroom.
+  - Mood: Calm and affectionate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is grooming or petting a dog.
+2. **Location**: Indoor, likely a grooming salon or bathroom.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Dog, person, tiled walls, door, text overlay.
+5. **Scene Type**: Interaction.
+
+**Scene 27** [0:00:48]:
+  - Activity: A dog is being groomed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, person grooming, tiled walls, colorful wall decorations.
+5. **Scene Type**: Grooming session.
+
+**Scene 28** [0:00:49]:
+  - Activity: A dog is being groomed by a person.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed by a person.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, person, grooming tools, wall with decorations.
+5. **Scene Type**: Grooming session.
+
+**Scene 29** [0:00:51]:
+  - Activity: A person is grooming or handling a dog on a table.
+  - Location: Indoor, likely a pet grooming salon or veterinary clinic.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming or handling a dog on a table.
+2. **Location**: Indoor, likely a pet grooming salon or veterinary clinic.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, person, grooming table, tiled walls, green decorative background.
+5. **Scene Type**: Action.
+
+**Scene 30** [0:00:52]:
+  - Activity: A person is grooming a large dog.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a large dog.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, person, grooming table, grooming tools, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 31** [0:00:57]:
+  - Activity: A person is grooming a large, fluffy dog.
+  - Location: Indoor, likely a grooming salon or veterinary clinic.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A person is grooming a large, fluffy dog.
+2. **Location**: Indoor, likely a grooming salon or veterinary clinic.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, large fluffy dog, grooming tools, tiled wall.
+5. **Scene Type**: Grooming session.
+
+**Scene 32** [0:01:00]:
+  - Activity: A person is grooming a fluffy animal, likely a rabbit.
+  - Location: Indoor, possibly a grooming or pet care area.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming activity.
+  - Full Analysis: 1. **Activity**: A person is grooming a fluffy animal, likely a rabbit.
+2. **Location**: Indoor, possibly a grooming or pet care area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in light clothing, fluffy rabbit, grooming tools, tiled wall, green decorative background.
+5. **Scene Type**: Grooming activity.
+
+**Scene 33** [0:01:01]:
+  - Activity: A person is grooming or interacting with a large, fluffy dog.
+  - Location: Indoor, likely in a grooming salon or veterinary clinic.
+  - Mood: Calm and focused.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is grooming or interacting with a large, fluffy dog.
+2. **Location**: Indoor, likely in a grooming salon or veterinary clinic.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, large fluffy dog, grooming table, green backdrop with decorations, small appliance.
+5. **Scene Type**: Interaction.
+
+**Scene 34** [0:01:04]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon or a bathroom.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon or a bathroom.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, grooming clippers, tiled walls, grooming table.
+5. **Scene Type**: Action.
+
+**Scene 35** [0:01:05]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon or a bathroom.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon or a bathroom.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clippers, grooming table, tiled walls.
+5. **Scene Type**: Action.
+
+**Scene 36** [0:01:11]:
+  - Activity: A person is interacting with a large, fluffy dog, possibly grooming or comforting it.
+  - Location: Indoor, likely a grooming or veterinary setting.
+  - Mood: Calm and caring.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a large, fluffy dog, possibly grooming or comforting it.
+2. **Location**: Indoor, likely a grooming or veterinary setting.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Person, large fluffy dog, tiled walls, grooming table, colorful wall decorations.
+5. **Scene Type**: Interaction.
+
+**Scene 37** [0:01:12]:
+  - Activity: A person is grooming or comforting a dog.
+  - Location: Indoor, likely a grooming salon or a bathroom.
+  - Mood: Calm and caring.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is grooming or comforting a dog.
+2. **Location**: Indoor, likely a grooming salon or a bathroom.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Person, dog, tiled walls, grooming tools, countertop.
+5. **Scene Type**: Interaction.
+
+**Scene 38** [0:01:13]:
+  - Activity: A person is grooming or comforting a dog.
+  - Location: Indoor, likely a grooming salon or veterinary clinic.
+  - Mood: Calm and caring.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is grooming or comforting a dog.
+2. **Location**: Indoor, likely a grooming salon or veterinary clinic.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Person, dog, grooming tools, tiled walls, text overlay.
+5. **Scene Type**: Interaction.
+
+**Scene 39** [0:01:14]:
+  - Activity: A person is grooming a dog, possibly drying its fur.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog, possibly drying its fur.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, person's hands, grooming tools, bottles of grooming products, washing machine.
+5. **Scene Type**: Action.
+
+**Scene 40** [0:01:17]:
+  - Activity: A dog is being groomed, likely being dried with a hairdryer.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely being dried with a hairdryer.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, hairdryer, grooming products, tiled floor, grooming table.
+5. **Scene Type**: Pet grooming.
+
+**Scene 41** [0:01:18]:
+  - Activity: A dog is being groomed, likely being dried or brushed.
+  - Location: Indoor, possibly a pet grooming salon.
+  - Mood: Calm and soothing.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely being dried or brushed.
+2. **Location**: Indoor, possibly a pet grooming salon.
+3. **Mood**: Calm and soothing.
+4. **Key Elements**: Dog, grooming hand, hairdryer, grooming products, tiled floor.
+5. **Scene Type**: Grooming session.
+
+**Scene 42** [0:01:19]:
+  - Activity: A dog is being groomed, possibly dried with a hairdryer.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and soothing.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, possibly dried with a hairdryer.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and soothing.
+4. **Key Elements**: Dog, hairdryer, grooming products, yellow-tiled floor.
+5. **Scene Type**: Grooming session.
+
+**Scene 43** [0:01:22]:
+  - Activity: A person is playfully placing a headband on a dog's head.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Lighthearted and playful.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is playfully placing a headband on a dog's head.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Lighthearted and playful.
+4. **Key Elements**: Dog, headband, person's hands, grooming products, mirror.
+5. **Scene Type**: Interaction.
+
+**Scene 44** [0:01:23]:
+  - Activity: A person is grooming a dog, possibly preparing it for a bath or drying it off.
+  - Location: Indoor, likely a bathroom or laundry room.
+  - Mood: Intimate and caring.
+  - Scene Type: Pet care/grooming.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog, possibly preparing it for a bath or drying it off.
+2. **Location**: Indoor, likely a bathroom or laundry room.
+3. **Mood**: Intimate and caring.
+4. **Key Elements**: Dog with a yellow headband, person with curly hair, washing machine, grooming products.
+5. **Scene Type**: Pet care/grooming.
+
+**Scene 45** [0:01:24]:
+  - Activity: A dog is sitting on a grooming table, possibly being prepared for grooming or having its photo taken.
+  - Location: Indoor, likely in a pet grooming salon.
+  - Mood: Lighthearted and cute.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A dog is sitting on a grooming table, possibly being prepared for grooming or having its photo taken.
+2. **Location**: Indoor, likely in a pet grooming salon.
+3. **Mood**: Lighthearted and cute.
+4. **Key Elements**: Dog wearing a yellow headband, grooming scissors, grooming table, grooming tools.
+5. **Scene Type**: Pet grooming.
+
+**Scene 46** [0:01:25]:
+  - Activity: A small dog is being groomed or styled, possibly for a photo.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Lighthearted and cute.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A small dog is being groomed or styled, possibly for a photo.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Lighthearted and cute.
+4. **Key Elements**: Small dog with a yellow headband, grooming tools, storage cart, mirror.
+5. **Scene Type**: Pet grooming.
+
+**Scene 47** [0:01:26]:
+  - Activity: A dog is wearing a yellow headband, possibly being groomed or prepared for a bath.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Lighthearted and playful.
+  - Scene Type: Grooming or preparation scene.
+  - Full Analysis: 1. **Activity**: A dog is wearing a yellow headband, possibly being groomed or prepared for a bath.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Lighthearted and playful.
+4. **Key Elements**: Dog with a headband, grooming tools, bathtub, towels.
+5. **Scene Type**: Grooming or preparation scene.
+
+**Scene 48** [0:01:27]:
+  - Activity: A dog is wearing a yellow headband, possibly being groomed or styled.
+  - Location: Indoor, likely a grooming salon or bathroom.
+  - Mood: Lighthearted and playful.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A dog is wearing a yellow headband, possibly being groomed or styled.
+2. **Location**: Indoor, likely a grooming salon or bathroom.
+3. **Mood**: Lighthearted and playful.
+4. **Key Elements**: Dog, yellow headband, grooming tools, countertop.
+5. **Scene Type**: Pet grooming.
+
+**Scene 49** [0:01:28]:
+  - Activity: A fluffy dog is standing on a grooming table, possibly being prepared for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and lighthearted.
+  - Scene Type: Pet grooming setup.
+  - Full Analysis: 1. **Activity**: A fluffy dog is standing on a grooming table, possibly being prepared for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and lighthearted.
+4. **Key Elements**: Fluffy white dog, grooming table, tiled wall, grooming scissors, door.
+5. **Scene Type**: Pet grooming setup.
+
+**Scene 50** [0:01:29]:
+  - Activity: A fluffy white dog is standing on a grooming table, possibly being groomed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and lighthearted.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A fluffy white dog is standing on a grooming table, possibly being groomed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and lighthearted.
+4. **Key Elements**: Fluffy white dog, grooming table, tiled wall, grooming tools, text overlay.
+5. **Scene Type**: Pet grooming.
+
+**Scene 51** [0:01:30]:
+  - Activity: A dog is being groomed on a grooming table.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A dog is being groomed on a grooming table.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White fluffy dog, grooming table, person’s hand, tiled wall, glass door.
+5. **Scene Type**: Pet grooming.
+
+**Scene 52** [0:01:33]:
+  - Activity: A person is grooming a small, fluffy dog on a grooming table.
+  - Location: Indoor, likely a pet grooming salon or a designated grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small, fluffy dog on a grooming table.
+2. **Location**: Indoor, likely a pet grooming salon or a designated grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Grooming table, fluffy dog, grooming tool, person in an apron, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 53** [0:01:49]:
+  - Activity: A person is grooming a fluffy white dog using clippers.
+  - Location: Indoor, likely in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a fluffy white dog using clippers.
+2. **Location**: Indoor, likely in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, clippers, person, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 54** [0:01:53]:
+  - Activity: A person is grooming a small white dog, trimming its fur.
+  - Location: Indoor, likely a pet grooming salon or a designated grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small white dog, trimming its fur.
+2. **Location**: Indoor, likely a pet grooming salon or a designated grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White dog, grooming table, grooming tools, person in an apron.
+5. **Scene Type**: Action.
+
+**Scene 55** [0:01:55]:
+  - Activity: A person is grooming a small white dog on a grooming table.
+  - Location: Indoor, likely a pet grooming salon or a dedicated grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small white dog on a grooming table.
+2. **Location**: Indoor, likely a pet grooming salon or a dedicated grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White dog, grooming table, person in a light-colored apron, grooming tool, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 56** [0:01:56]:
+  - Activity: A person is working with a pottery wheel, likely shaping clay.
+  - Location: Indoor, possibly in a pottery studio or workshop.
+  - Mood: Focused and calm.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is working with a pottery wheel, likely shaping clay.
+2. **Location**: Indoor, possibly in a pottery studio or workshop.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Pottery wheel, person in a white apron, tiled wall, window.
+5. **Scene Type**: Action.
+
+**Scene 57** [0:01:57]:
+  - Activity: A person is grooming a small white dog on a table.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small white dog on a table.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in white clothing, small white dog, grooming table, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 58** [0:01:59]:
+  - Activity: A dog is being bathed in a tub.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and caring.
+  - Scene Type: Pet care/grooming.
+  - Full Analysis: 1. **Activity**: A dog is being bathed in a tub.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Dog wearing a green cap, person’s hands, bathtub, showerhead, towels.
+5. **Scene Type**: Pet care/grooming.
+
+**Scene 59** [0:02:05]:
+  - Activity: A dog is sitting on the floor, possibly resting or observing its surroundings.
+  - Location: Indoor, likely a living room or similar home setting.
+  - Mood: Calm and relaxed.
+  - Scene Type: Pet moment.
+  - Full Analysis: 1. **Activity**: A dog is sitting on the floor, possibly resting or observing its surroundings.
+2. **Location**: Indoor, likely a living room or similar home setting.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Dog wearing a yellow checkered band, dog bed, plush toy, rope toy.
+5. **Scene Type**: Pet moment.
+
+**Scene 60** [0:02:07]:
+  - Activity: A small dog is standing on a carpeted floor, possibly looking at something or someone off-frame.
+  - Location: Indoor, likely a living room or a pet-friendly area.
+  - Mood: Calm and cozy.
+  - Scene Type: Pet-focused moment.
+  - Full Analysis: 1. **Activity**: A small dog is standing on a carpeted floor, possibly looking at something or someone off-frame.
+2. **Location**: Indoor, likely a living room or a pet-friendly area.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: 
+   - Small white dog wearing a yellow checkered outfit
+   - Soft dog bed
+   - Plush toy on the floor
+   - Light-colored carpet
+5. **Scene Type**: Pet-focused moment.
+
+**Scene 61** [0:02:08]:
+  - Activity: A small dog is approaching or interacting with the camera.
+  - Location: Indoor, likely a living room or similar space.
+  - Mood: Calm and playful.
+  - Scene Type: Pet interaction.
+  - Full Analysis: 1. **Activity**: A small dog is approaching or interacting with the camera.
+2. **Location**: Indoor, likely a living room or similar space.
+3. **Mood**: Calm and playful.
+4. **Key Elements**: Small dog with a yellow checkered outfit, rope toy, light-colored flooring, text overlay.
+5. **Scene Type**: Pet interaction.
+
+**Scene 62** [0:02:09]:
+  - Activity: A person is holding a treat or object in front of a small white dog, possibly engaging with it.
+  - Location: Indoor, likely a living room or similar cozy space.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is holding a treat or object in front of a small white dog, possibly engaging with it.
+2. **Location**: Indoor, likely a living room or similar cozy space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Small white dog, hand holding a treat or object, soft furnishings in the background.
+5. **Scene Type**: Interaction.
+
+**Scene 63** [0:02:11]:
+  - Activity: A person is interacting with a small dog, possibly offering a treat or toy.
+  - Location: Indoor setting, likely a home or apartment.
+  - Mood: Calm and playful.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a small dog, possibly offering a treat or toy.
+2. **Location**: Indoor setting, likely a home or apartment.
+3. **Mood**: Calm and playful.
+4. **Key Elements**: Small dog with a yellow checkered outfit, a hand with painted nails, a blurred object in the foreground, light-colored flooring.
+5. **Scene Type**: Interaction.
+
+**Scene 64** [0:02:12]:
+  - Activity: A person is holding a treat or object towards a small dog.
+  - Location: Indoor setting, likely a home.
+  - Mood: Playful and affectionate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is holding a treat or object towards a small dog.
+2. **Location**: Indoor setting, likely a home.
+3. **Mood**: Playful and affectionate.
+4. **Key Elements**: Small white dog, person's hand with painted nails, yellow checkered bandana on the dog, text overlay.
+5. **Scene Type**: Interaction.
+
+**Scene 65** [0:02:14]:
+  - Activity: A dog is lying on its back, being gently petted by a person.
+  - Location: Indoor, likely a home setting.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A dog is lying on its back, being gently petted by a person.
+2. **Location**: Indoor, likely a home setting.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Dog, person's hands, yellow checkered fabric, light-colored floor.
+5. **Scene Type**: Intimate moment.
+
+**Scene 66** [0:02:20]:
+  - Activity: A person is grooming or handling two small fluffy dogs.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and intimate.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A person is grooming or handling two small fluffy dogs.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Two fluffy dogs, a person, grooming tools, tiled wall.
+5. **Scene Type**: Pet grooming.
+
+**Scene 67** [0:02:21]:
+  - Activity: A dog is being groomed or prepared for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed or prepared for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White fluffy dog, grooming tools, person partially visible, tiled wall, grooming table.
+5. **Scene Type**: Grooming session.
+
+**Scene 68** [0:02:22]:
+  - Activity: A dog grooming session is taking place, with a dog on a grooming table.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and professional.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog grooming session is taking place, with a dog on a grooming table.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and professional.
+4. **Key Elements**: Dog, grooming tools, grooming table, hairdryer, person.
+5. **Scene Type**: Grooming session.
+
+**Scene 69** [0:02:25]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a grooming salon or a home grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a grooming salon or a home grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clippers, grooming table, hairdryer.
+5. **Scene Type**: Action.
+
+**Scene 70** [0:02:28]:
+  - Activity: A person is grooming a dog using a clipper.
+  - Location: Indoor, likely a pet grooming salon or a home grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using a clipper.
+2. **Location**: Indoor, likely a pet grooming salon or a home grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clipper, grooming table, hair dryer.
+5. **Scene Type**: Action.
+
+**Scene 71** [0:02:29]:
+  - Activity: A person is grooming a dog, likely brushing its fur.
+  - Location: Indoor, possibly a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog, likely brushing its fur.
+2. **Location**: Indoor, possibly a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, brush, grooming table, hairdryer.
+5. **Scene Type**: Action.
+
+**Scene 72** [0:02:30]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clippers, grooming table, hair dryer.
+5. **Scene Type**: Action.
+
+**Scene 73** [0:02:31]:
+  - Activity: A person is grooming a small dog using clippers.
+  - Location: Indoor, likely in a pet grooming salon or a home grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming activity.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using clippers.
+2. **Location**: Indoor, likely in a pet grooming salon or a home grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, small dog, clippers, grooming table, hair dryer.
+5. **Scene Type**: Grooming activity.
+
+**Scene 74** [0:02:32]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clippers, grooming table, dryer.
+5. **Scene Type**: Action.
+
+**Scene 75** [0:02:33]:
+  - Activity: A person is grooming a small dog using clippers.
+  - Location: Indoor, likely a pet grooming salon or a home grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon or a home grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, small white dog, clippers, grooming table, hair dryer.
+5. **Scene Type**: Action.
+
+**Scene 76** [0:02:34]:
+  - Activity: A person is grooming a dog.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in an apron, white dog, grooming tools, tiled wall, hairdryer.
+5. **Scene Type**: Action.
+
+**Scene 77** [0:02:35]:
+  - Activity: A person is grooming a small dog.
+  - Location: Indoor, likely a pet grooming salon or home grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog.
+2. **Location**: Indoor, likely a pet grooming salon or home grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, small dog, grooming tools, hairdryer, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 78** [0:02:37]:
+  - Activity: A person is grooming a dog, possibly trimming its fur.
+  - Location: Indoor, likely in a grooming salon or a home grooming setup.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog, possibly trimming its fur.
+2. **Location**: Indoor, likely in a grooming salon or a home grooming setup.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, grooming tools, tiled wall, grooming table.
+5. **Scene Type**: Action.
+
+**Scene 79** [0:02:40]:
+  - Activity: A person is grooming a small white dog.
+  - Location: Indoor, likely a grooming salon or veterinary clinic.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small white dog.
+2. **Location**: Indoor, likely a grooming salon or veterinary clinic.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, white dog, grooming equipment, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 80** [0:02:41]:
+  - Activity: A person is grooming a small dog using clippers.
+  - Location: Indoor, likely a grooming salon or a home grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using clippers.
+2. **Location**: Indoor, likely a grooming salon or a home grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, small dog, clippers, grooming table, grooming equipment.
+5. **Scene Type**: Action.
+
+**Scene 81** [0:02:42]:
+  - Activity: A person is grooming a small dog using clippers.
+  - Location: Indoor, likely a grooming salon or a bathroom.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using clippers.
+2. **Location**: Indoor, likely a grooming salon or a bathroom.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, small dog, clippers, grooming table, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 82** [0:02:44]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming clippers, grooming table, person, wall tiles.
+5. **Scene Type**: Action.
+
+**Scene 83** [0:02:45]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clippers, grooming table, hair dryer.
+5. **Scene Type**: Action.
+
+**Scene 84** [0:02:46]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action (grooming).
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming clippers, person, grooming table, hair dryer.
+5. **Scene Type**: Action (grooming).
+
+**Scene 85** [0:02:49]:
+  - Activity: A person is grooming a dog using clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, dog, clippers, grooming tools, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 86** [0:02:50]:
+  - Activity: A person is grooming a small dog using clippers.
+  - Location: Indoor, likely a pet grooming salon or a dedicated grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using clippers.
+2. **Location**: Indoor, likely a pet grooming salon or a dedicated grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, small dog, clippers, grooming table, tiled wall.
+5. **Scene Type**: Action.
+
+**Scene 87** [0:02:51]:
+  - Activity: A dog is being bathed, with someone washing its head.
+  - Location: Indoor, likely in a bathroom or pet grooming area.
+  - Mood: Calm and caring.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A dog is being bathed, with someone washing its head.
+2. **Location**: Indoor, likely in a bathroom or pet grooming area.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Dog, soap suds, sink, grooming products, person's hands.
+5. **Scene Type**: Pet care.
+
+**Scene 88** [0:02:56]:
+  - Activity: A person is grooming a dog, possibly drying it with a hairdryer.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog, possibly drying it with a hairdryer.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, person, hairdryer, grooming table, grooming tools.
+5. **Scene Type**: Action.
+
+**Scene 89** [0:03:02]:
+  - Activity: A dog is being groomed, with someone brushing its fur.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action (grooming activity).
+  - Full Analysis: 1. **Activity**: A dog is being groomed, with someone brushing its fur.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming brush, person's hands, grooming tools, text overlay.
+5. **Scene Type**: Action (grooming activity).
+
+**Scene 90** [0:03:06]:
+  - Activity: A person is grooming a small dog using a brush.
+  - Location: Indoor, likely in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using a brush.
+2. **Location**: Indoor, likely in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming brush, grooming table, grooming tools cart.
+5. **Scene Type**: Action.
+
+**Scene 91** [0:03:10]:
+  - Activity: A dog is being groomed, likely having its fur brushed.
+  - Location: Indoor, possibly a pet grooming salon.
+  - Mood: Calm and soothing.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely having its fur brushed.
+2. **Location**: Indoor, possibly a pet grooming salon.
+3. **Mood**: Calm and soothing.
+4. **Key Elements**: Dog, grooming brush, grooming table, grooming tools cart.
+5. **Scene Type**: Pet grooming.
+
+**Scene 92** [0:03:20]:
+  - Activity: A dog is being groomed, specifically having its fur trimmed with scissors.
+  - Location: Indoor, likely in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, specifically having its fur trimmed with scissors.
+2. **Location**: Indoor, likely in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming scissors, grooming table, comb, grooming tools.
+5. **Scene Type**: Action.
+
+**Scene 93** [0:03:27]:
+  - Activity: A dog is being groomed, likely having its fur trimmed.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and gentle.
+  - Scene Type: Grooming closeup.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely having its fur trimmed.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and gentle.
+4. **Key Elements**: Dog, grooming scissors, comb, grooming table, trash bin.
+5. **Scene Type**: Grooming closeup.
+
+**Scene 94** [0:03:29]:
+  - Activity: A dog is being groomed, likely having its fur trimmed.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely having its fur trimmed.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming scissors, grooming table, comb, tiled floor.
+5. **Scene Type**: Grooming session.
+
+**Scene 95** [0:03:29]:
+  - Activity: The scene shows a meal setup, likely before eating.
+  - Location: Indoor, possibly a cafeteria or casual dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a meal setup, likely before eating.
+2. **Location**: Indoor, possibly a cafeteria or casual dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Two pasta dishes, a drink with a straw, plastic utensils, and a table.
+5. **Scene Type**: Food closeup.
+
+**Scene 96** [0:03:32]:
+  - Activity: The scene shows a meal setup, likely before eating.
+  - Location: Indoor, possibly a casual dining area or cafeteria.
+  - Mood: Calm and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a meal setup, likely before eating.
+2. **Location**: Indoor, possibly a casual dining area or cafeteria.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Two dishes of pasta, a plastic fork, a cold drink in a plastic cup, and a packaged utensil set.
+5. **Scene Type**: Food closeup.
+
+**Scene 97** [0:03:33]:
+  - Activity: The scene shows a meal setup, likely before eating.
+  - Location: Indoor, possibly a casual dining area or cafeteria.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a meal setup, likely before eating.
+2. **Location**: Indoor, possibly a casual dining area or cafeteria.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Two dishes of pasta, a drink with a straw, a smartphone, and disposable cutlery.
+5. **Scene Type**: Food closeup.
+
+**Scene 98** [0:03:35]:
+  - Activity: The scene shows a meal setup, likely before eating.
+  - Location: Indoor, possibly a casual dining area or office break room.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a meal setup, likely before eating.
+2. **Location**: Indoor, possibly a casual dining area or office break room.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Two pasta dishes, iced coffee, smartphone, plastic utensils.
+5. **Scene Type**: Food closeup.
+
+**Scene 99** [0:03:36]:
+  - Activity: A small dog is sitting and looking at the camera.
+  - Location: Indoor, possibly a home or pet area.
+  - Mood: Calm and cute.
+  - Scene Type: Pet closeup.
+  - Full Analysis: 1. **Activity**: A small dog is sitting and looking at the camera.
+2. **Location**: Indoor, possibly a home or pet area.
+3. **Mood**: Calm and cute.
+4. **Key Elements**: Small fluffy dog, white tiled floor, yellow and black patterned area, cable on the floor.
+5. **Scene Type**: Pet closeup.
+
+**Scene 100** [0:03:41]:
+  - Activity: A person is holding a small dog, possibly grooming or showing it.
+  - Location: Indoor, likely a grooming salon or veterinary clinic.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly grooming or showing it.
+2. **Location**: Indoor, likely a grooming salon or veterinary clinic.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog, person holding the dog, grooming products, tiled wall.
+5. **Scene Type**: Intimate moment.
+
+**Scene 101** [0:03:43]:
+  - Activity: A person is holding a small dog, possibly preparing for grooming or play.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing for grooming or play.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog, person in a light-colored shirt, tiled wall, grooming supplies.
+5. **Scene Type**: Intimate moment.
+
+**Scene 102** [0:03:44]:
+  - Activity: A person is holding a fluffy dog, possibly preparing for grooming or showing it to the camera.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Lighthearted and cheerful.
+  - Scene Type: Pet care or grooming.
+  - Full Analysis: 1. **Activity**: A person is holding a fluffy dog, possibly preparing for grooming or showing it to the camera.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Lighthearted and cheerful.
+4. **Key Elements**: Fluffy dog, person in a light-colored outfit, tiled wall, shelves with items.
+5. **Scene Type**: Pet care or grooming.
+
+**Scene 103** [0:03:46]:
+  - Activity: A small dog is being bathed, covered in soap suds.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and slightly humorous.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A small dog is being bathed, covered in soap suds.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and slightly humorous.
+4. **Key Elements**: Small dog, soap suds, bottles of grooming products, shower area.
+5. **Scene Type**: Pet grooming.
+
+**Scene 104** [0:03:50]:
+  - Activity: A person is grooming a small dog using a brush.
+  - Location: Indoor, likely a pet grooming salon or home setting.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using a brush.
+2. **Location**: Indoor, likely a pet grooming salon or home setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Small dog, grooming brush, scissors, person's hands.
+5. **Scene Type**: Grooming session.
+
+**Scene 105** [0:03:51]:
+  - Activity: A person is grooming a small dog using scissors.
+  - Location: Indoor, likely a pet grooming salon or home.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A person is grooming a small dog using scissors.
+2. **Location**: Indoor, likely a pet grooming salon or home.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Scissors, small dog, person's hands, grooming table.
+5. **Scene Type**: Grooming session.
+
+**Scene 106** [0:03:59]:
+  - Activity: A small dog is being groomed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Pet grooming closeup.
+  - Full Analysis: 1. **Activity**: A small dog is being groomed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Small dog, grooming tools, person grooming the dog, text overlay.
+5. **Scene Type**: Pet grooming closeup.
+
+**Scene 107** [0:04:01]:
+  - Activity: A small dog is being groomed or petted.
+  - Location: Indoor, likely a grooming salon or home setting.
+  - Mood: Calm and cheerful.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A small dog is being groomed or petted.
+2. **Location**: Indoor, likely a grooming salon or home setting.
+3. **Mood**: Calm and cheerful.
+4. **Key Elements**: Small fluffy dog, person’s hands, grooming scissors, white surface.
+5. **Scene Type**: Pet care.
+
+**Scene 108** [0:04:02]:
+  - Activity: A small dog is being groomed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A small dog is being groomed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Small dog, grooming scissors, person’s hands, grooming table.
+5. **Scene Type**: Grooming session.
+
+**Scene 109** [0:04:03]:
+  - Activity: A small white dog is approaching a person who is holding something in their hands, possibly a treat.
+  - Location: Indoor setting, likely a home or pet-friendly space.
+  - Mood: Calm and playful.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A small white dog is approaching a person who is holding something in their hands, possibly a treat.
+2. **Location**: Indoor setting, likely a home or pet-friendly space.
+3. **Mood**: Calm and playful.
+4. **Key Elements**: Small white dog, person's hands, yellow and white tiled floor, beige mat.
+5. **Scene Type**: Interaction.
+
+**Scene 110** [0:04:04]:
+  - Activity: A person is interacting with a small white dog, possibly feeding or playing with it.
+  - Location: Indoor setting, likely a home or pet-friendly space.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a small white dog, possibly feeding or playing with it.
+2. **Location**: Indoor setting, likely a home or pet-friendly space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: White fluffy dog, person’s hands, yellow and white tiled floor, text overlay.
+5. **Scene Type**: Interaction.
+
+**Scene 111** [0:04:05]:
+  - Activity: A person is interacting with a small white dog, possibly offering a treat or engaging in training.
+  - Location: Indoor setting, likely a home or pet-friendly space.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a small white dog, possibly offering a treat or engaging in training.
+2. **Location**: Indoor setting, likely a home or pet-friendly space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Small white dog, person, yellow and white tiled floor, light-colored clothing.
+5. **Scene Type**: Interaction.
+
+**Scene 112** [0:04:06]:
+  - Activity: A person is interacting with a small white dog, possibly training or playing with it.
+  - Location: Indoor setting, likely a home or pet-friendly space.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a small white dog, possibly training or playing with it.
+2. **Location**: Indoor setting, likely a home or pet-friendly space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Small white dog, person, yellow and white tiled floor, beige mat.
+5. **Scene Type**: Interaction.
+
+**Scene 113** [0:04:11]:
+  - Activity: A person is interacting with a small white dog, possibly feeding or training it.
+  - Location: Indoor setting, likely a home or pet-friendly space.
+  - Mood: Calm and intimate.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting with a small white dog, possibly feeding or training it.
+2. **Location**: Indoor setting, likely a home or pet-friendly space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Small white dog, person’s hand, container with treats, tiled floor.
+5. **Scene Type**: Interaction.
+
+**Scene 114** [0:04:14]:
+  - Activity: A person is interacting playfully with a small white dog.
+  - Location: Indoor, possibly in a home or pet-friendly space.
+  - Mood: Playful and joyful.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is interacting playfully with a small white dog.
+2. **Location**: Indoor, possibly in a home or pet-friendly space.
+3. **Mood**: Playful and joyful.
+4. **Key Elements**: Small white dog, person with raised finger, yellow and white tiled floor, light-colored clothing.
+5. **Scene Type**: Interaction.
+
+**Scene 115** [0:04:19]:
+  - Activity: A person is grooming or interacting with a small white dog.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and caring.
+  - Scene Type: Interaction.
+  - Full Analysis: 1. **Activity**: A person is grooming or interacting with a small white dog.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: White dog, grooming table, person with a hair accessory, grooming tools.
+5. **Scene Type**: Interaction.
+
+**Scene 116** [0:04:20]:
+  - Activity: A fluffy white dog is sitting on a grooming table, possibly after a grooming session.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and cheerful.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A fluffy white dog is sitting on a grooming table, possibly after a grooming session.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and cheerful.
+4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled wall.
+5. **Scene Type**: Pet grooming.
+
+**Scene 117** [0:04:21]:
+  - Activity: A dog is sitting on a grooming table, possibly about to be groomed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and light-hearted.
+  - Scene Type: Pet grooming setup.
+  - Full Analysis: 1. **Activity**: A dog is sitting on a grooming table, possibly about to be groomed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and light-hearted.
+4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled wall, colorful toys.
+5. **Scene Type**: Pet grooming setup.
+
+**Scene 118** [0:04:22]:
+  - Activity: A fluffy dog is sitting on a grooming table, possibly after a grooming session.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and cheerful.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A fluffy dog is sitting on a grooming table, possibly after a grooming session.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and cheerful.
+4. **Key Elements**: Fluffy dog, grooming table, grooming tools, tiled wall, colorful toys.
+5. **Scene Type**: Pet grooming.
+
+**Scene 119** [0:04:23]:
+  - Activity: A fluffy white dog is sitting on a grooming table, possibly being prepared for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and cheerful.
+  - Scene Type: Pet grooming setup.
+  - Full Analysis: 1. **Activity**: A fluffy white dog is sitting on a grooming table, possibly being prepared for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and cheerful.
+4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled wall, colorful toys.
+5. **Scene Type**: Pet grooming setup.
+
+**Scene 120** [0:04:24]:
+  - Activity: A person is grooming a dog's ear using scissors.
+  - Location: Indoor, likely a pet grooming salon or home setting.
+  - Mood: Calm and focused.
+  - Scene Type: Action (grooming).
+  - Full Analysis: 1. **Activity**: A person is grooming a dog's ear using scissors.
+2. **Location**: Indoor, likely a pet grooming salon or home setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog's ear, scissors, person's hands, grooming tools, textured surface.
+5. **Scene Type**: Action (grooming).
+
+**Scene 121** [0:05:02]:
+  - Activity: A person is washing a fluffy white dog in a sink.
+  - Location: Indoor, likely a bathroom or utility room.
+  - Mood: Calm and caring.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A person is washing a fluffy white dog in a sink.
+2. **Location**: Indoor, likely a bathroom or utility room.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: White dog, sink, hand holding the dog, soap bubbles.
+5. **Scene Type**: Pet care.
+
+**Scene 122** [0:05:03]:
+  - Activity: A person is washing a fluffy white dog in a sink.
+  - Location: Indoor, likely in a bathroom or grooming area.
+  - Mood: Calm and routine.
+  - Scene Type: Pet care/grooming.
+  - Full Analysis: 1. **Activity**: A person is washing a fluffy white dog in a sink.
+2. **Location**: Indoor, likely in a bathroom or grooming area.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Person's hands, fluffy white dog, sink with water, faucet, plush toy.
+5. **Scene Type**: Pet care/grooming.
+
+**Scene 123** [0:05:05]:
+  - Activity: A dog is being bathed in a sink.
+  - Location: Indoor, likely a bathroom or laundry area.
+  - Mood: Calm and intimate.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A dog is being bathed in a sink.
+2. **Location**: Indoor, likely a bathroom or laundry area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: White fluffy dog, sink, person's arm, faucet, soap or cleaning supplies.
+5. **Scene Type**: Pet care.
+
+**Scene 124** [0:05:07]:
+  - Activity: A person is washing a fluffy white dog in a sink.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and routine.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A person is washing a fluffy white dog in a sink.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Person's arm, fluffy white dog, sink, faucet.
+5. **Scene Type**: Pet grooming.
+
+**Scene 125** [0:05:08]:
+  - Activity: The scene appears to focus on a close-up of a fluffy white object, possibly an animal being groomed or petted.
+  - Location: Indoor setting, likely a grooming salon or a home.
+  - Mood: Calm and intimate.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: The scene appears to focus on a close-up of a fluffy white object, possibly an animal being groomed or petted.
+2. **Location**: Indoor setting, likely a grooming salon or a home.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Fluffy white fur, text overlay, neutral background.
+5. **Scene Type**: Close-up.
+
+**Scene 126** [0:05:10]:
+  - Activity: A person is washing a dog in a sink.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is washing a dog in a sink.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, sink, soap suds, person's arm, grooming tools.
+5. **Scene Type**: Action.
+
+**Scene 127** [0:05:14]:
+  - Activity: A person is bathing a small dog in a sink.
+  - Location: Indoor, likely a bathroom or grooming area.
+  - Mood: Calm and caring.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A person is bathing a small dog in a sink.
+2. **Location**: Indoor, likely a bathroom or grooming area.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Small white dog, person’s hands, sink, showerhead, grooming supplies.
+5. **Scene Type**: Pet care.
+
+**Scene 128** [0:05:23]:
+  - Activity: A dog is being groomed, possibly having its fur trimmed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, possibly having its fur trimmed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, scissors, comb, grooming tools.
+5. **Scene Type**: Grooming session.
+
+**Scene 129** [0:05:26]:
+  - Activity: A dog is being groomed on a table.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed on a table.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming tools, grooming table, person grooming.
+5. **Scene Type**: Action.
+
+**Scene 130** [0:05:27]:
+  - Activity: A dog is being groomed, likely after a haircut.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and professional.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely after a haircut.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and professional.
+4. **Key Elements**: Dog with a fluffy coat, grooming table, scissors, grooming tools.
+5. **Scene Type**: Grooming session.
+
+**Scene 131** [0:05:28]:
+  - Activity: A dog is being groomed, with a focus on trimming its fur.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, with a focus on trimming its fur.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming scissors, grooming table, hands of the groomer.
+5. **Scene Type**: Action.
+
+**Scene 132** [0:05:37]:
+  - Activity: A dog is being groomed by two people.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed by two people.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, scissors, comb, grooming tools.
+5. **Scene Type**: Action.
+
+**Scene 133** [0:05:39]:
+  - Activity: A dog is being groomed by two people.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed by two people.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming tools (scissors, comb), two people, grooming table.
+5. **Scene Type**: Action.
+
+**Scene 134** [0:05:45]:
+  - Activity: A dog is being groomed by two people.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed by two people.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, scissors, two people, window with a view outside.
+5. **Scene Type**: Action.
+
+**Scene 135** [0:05:49]:
+  - Activity: A person is grooming a dog, likely trimming its fur.
+  - Location: Indoor, possibly a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is grooming a dog, likely trimming its fur.
+2. **Location**: Indoor, possibly a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, scissors, comb, person grooming.
+5. **Scene Type**: Action.
+
+**Scene 136** [0:05:53]:
+  - Activity: A dog is being groomed by two people using scissors.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed by two people using scissors.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog on grooming table, scissors, two people, grooming tools.
+5. **Scene Type**: Grooming session.
+
+**Scene 137** [0:05:54]:
+  - Activity: Two people are grooming a dog, trimming its fur.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: Two people are grooming a dog, trimming its fur.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, scissors, comb, grooming tools.
+5. **Scene Type**: Action.
+
+**Scene 138** [0:05:55]:
+  - Activity: A dog is sitting on a grooming table, likely having just been groomed.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and tidy.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A dog is sitting on a grooming table, likely having just been groomed.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and tidy.
+4. **Key Elements**: Fluffy white dog, grooming table, grooming tools, tiled walls.
+5. **Scene Type**: Pet grooming.
+
+**Scene 139** [0:06:00]:
+  - Activity: A dog is standing and looking out of a window.
+  - Location: Indoor, likely a pet grooming salon or shop.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is standing and looking out of a window.
+2. **Location**: Indoor, likely a pet grooming salon or shop.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: White fluffy dog, large window, yellow pet bed, tiled floor.
+5. **Scene Type**: Establishing shot.
+
+**Scene 140** [0:06:05]:
+  - Activity: A dog is standing and looking out of a window.
+  - Location: Indoor, likely a pet grooming salon or store.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is standing and looking out of a window.
+2. **Location**: Indoor, likely a pet grooming salon or store.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Fluffy white dog, large window, yellow and white tiled floor, white curtain, dog bed.
+5. **Scene Type**: Establishing shot.
+
+**Scene 141** [0:06:10]:
+  - Activity: A dog is standing on a table, possibly being groomed or examined.
+  - Location: Indoor, likely a pet grooming salon or veterinary clinic.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A dog is standing on a table, possibly being groomed or examined.
+2. **Location**: Indoor, likely a pet grooming salon or veterinary clinic.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: White poodle, grooming table, tennis balls, large grooming brush, yellow and white tiled floor.
+5. **Scene Type**: Establishing shot.
+
+**Scene 142** [0:06:11]:
+  - Activity: A dog is being photographed, possibly for a playful or themed photo shoot.
+  - Location: Indoor setting, likely a makeshift photo studio or grooming area.
+  - Mood: Lighthearted and playful.
+  - Scene Type: Photo shoot.
+  - Full Analysis: 1. **Activity**: A dog is being photographed, possibly for a playful or themed photo shoot.
+2. **Location**: Indoor setting, likely a makeshift photo studio or grooming area.
+3. **Mood**: Lighthearted and playful.
+4. **Key Elements**: Fluffy white dog, blue tennis racket, small colorful balls, tiled wall.
+5. **Scene Type**: Photo shoot.
+
+**Scene 143** [0:06:15]:
+  - Activity: A small dog is posing on a table, likely for a photo or video shoot.
+  - Location: Indoor setting, possibly a bathroom or utility room.
+  - Mood: Cute and playful.
+  - Scene Type: Pet photoshoot.
+  - Full Analysis: 1. **Activity**: A small dog is posing on a table, likely for a photo or video shoot.
+2. **Location**: Indoor setting, possibly a bathroom or utility room.
+3. **Mood**: Cute and playful.
+4. **Key Elements**: Small dog, blue racket, tennis balls, tiled wall, hose.
+5. **Scene Type**: Pet photoshoot.
+
+**Scene 144** [0:06:16]:
+  - Activity: A small dog is being held, possibly for grooming or affection.
+  - Location: Indoor setting, likely a grooming salon or a home.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A small dog is being held, possibly for grooming or affection.
+2. **Location**: Indoor setting, likely a grooming salon or a home.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person's arms, tiled wall, table with objects.
+5. **Scene Type**: Intimate moment.
+
+**Scene 145** [0:06:17]:
+  - Activity: A small dog is being held and appears to be posing or resting.
+  - Location: Indoor setting, likely a grooming salon or home.
+  - Mood: Calm and affectionate.
+  - Scene Type: Pet closeup.
+  - Full Analysis: 1. **Activity**: A small dog is being held and appears to be posing or resting.
+2. **Location**: Indoor setting, likely a grooming salon or home.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, text overlay.
+5. **Scene Type**: Pet closeup.
+
+**Scene 146** [0:06:21]:
+  - Activity: A small dog is being groomed or pampered, possibly at a pet salon.
+  - Location: Indoor, likely a grooming salon or pet care facility.
+  - Mood: Calm and affectionate.
+  - Scene Type: Pet care moment.
+  - Full Analysis: 1. **Activity**: A small dog is being groomed or pampered, possibly at a pet salon.
+2. **Location**: Indoor, likely a grooming salon or pet care facility.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, grooming tools.
+5. **Scene Type**: Pet care moment.
+
+**Scene 147** [0:06:23]:
+  - Activity: A small dog is being held and possibly groomed or styled.
+  - Location: Indoor, likely a grooming salon or similar setting.
+  - Mood: Calm and affectionate.
+  - Scene Type: Pet grooming closeup.
+  - Full Analysis: 1. **Activity**: A small dog is being held and possibly groomed or styled.
+2. **Location**: Indoor, likely a grooming salon or similar setting.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person's arms, tiled wall, text overlay.
+5. **Scene Type**: Pet grooming closeup.
+
+**Scene 148** [0:06:25]:
+  - Activity: A small dog is being held and possibly groomed or comforted.
+  - Location: Indoor, likely a pet grooming salon or a home setting.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A small dog is being held and possibly groomed or comforted.
+2. **Location**: Indoor, likely a pet grooming salon or a home setting.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person's arms, light-colored clothing, Korean text at the bottom.
+5. **Scene Type**: Intimate moment.
+
+**Scene 149** [0:06:26]:
+  - Activity: A small dog is being held and groomed, possibly at a pet salon.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A small dog is being held and groomed, possibly at a pet salon.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, grooming apron.
+5. **Scene Type**: Intimate moment.
+
+**Scene 150** [0:06:27]:
+  - Activity: A small dog is being held and groomed, possibly at a pet salon.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and affectionate.
+  - Scene Type: Pet grooming closeup.
+  - Full Analysis: 1. **Activity**: A small dog is being held and groomed, possibly at a pet salon.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog with a pink bow, person holding the dog, tiled wall, grooming apron.
+5. **Scene Type**: Pet grooming closeup.
+
+**Scene 151** [0:06:28]:
+  - Activity: A small dog is being held and possibly groomed or dressed.
+  - Location: Indoor, possibly a grooming salon or home.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate close-up.
+  - Full Analysis: 1. **Activity**: A small dog is being held and possibly groomed or dressed.
+2. **Location**: Indoor, possibly a grooming salon or home.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog, pink bow, human arms, light-colored background.
+5. **Scene Type**: Intimate close-up.
+
+**Scene 152** [0:06:29]:
+  - Activity: A small dog is being gently held and possibly groomed or dressed.
+  - Location: Indoor setting, likely a home or pet grooming area.
+  - Mood: Calm and affectionate.
+  - Scene Type: Pet closeup.
+  - Full Analysis: 1. **Activity**: A small dog is being gently held and possibly groomed or dressed.
+2. **Location**: Indoor setting, likely a home or pet grooming area.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Small dog, pink sunglasses, human hands, text overlay.
+5. **Scene Type**: Pet closeup.
+
+**Scene 153** [0:06:30]:
+  - Activity: A close-up of a dog, possibly resting or being affectionate.
+  - Location: Indoor setting.
+  - Mood: Calm and intimate.
+  - Scene Type: Pet closeup.
+  - Full Analysis: 1. **Activity**: A close-up of a dog, possibly resting or being affectionate.
+2. **Location**: Indoor setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Dog, pink accessory, text overlay.
+5. **Scene Type**: Pet closeup.
+
+**Scene 154** [0:06:31]:
+  - Activity: A close-up of a dog's face, possibly focusing on its expression.
+  - Location: Indoor setting.
+  - Mood: Calm and intimate.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A close-up of a dog's face, possibly focusing on its expression.
+2. **Location**: Indoor setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Dog's face, eyes, nose, fur, Korean text with a heart symbol.
+5. **Scene Type**: Close-up.
+
+**Scene 155** [0:06:32]:
+  - Activity: A close-up view of a dog's face, likely focusing on its eyes and nose.
+  - Location: Indoor setting.
+  - Mood: Intimate and curious.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A close-up view of a dog's face, likely focusing on its eyes and nose.
+2. **Location**: Indoor setting.
+3. **Mood**: Intimate and curious.
+4. **Key Elements**: Dog's eyes, nose, fur.
+5. **Scene Type**: Close-up.
+
+**Scene 156** [0:06:33]:
+  - Activity: The scene appears to be set in a grooming or salon environment, possibly preparing for a grooming session.
+  - Location: Indoor, likely a pet grooming salon or similar facility.
+  - Mood: The atmosphere is clinical and organized.
+  - Scene Type: Establishing shot
+  - Full Analysis: 1. **Activity**: The scene appears to be set in a grooming or salon environment, possibly preparing for a grooming session.
+2. **Location**: Indoor, likely a pet grooming salon or similar facility.
+3. **Mood**: The atmosphere is clinical and organized.
+4. **Key Elements**: 
+   - Grooming equipment (dryers)
+   - Shelves with bottles and grooming products
+   - Tiled walls
+   - Salon chair
+5. **Scene Type**: Establishing shot
+
+**Scene 157** [0:06:34]:
+  - Activity: A person is holding a dog, possibly preparing for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming preparation.
+  - Full Analysis: 1. **Activity**: A person is holding a dog, possibly preparing for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person holding a dog, grooming equipment, tiled walls, grooming table.
+5. **Scene Type**: Grooming preparation.
+
+**Scene 158** [0:06:35]:
+  - Activity: A person is holding a small dog, possibly preparing for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and caring.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Person, small dog, grooming equipment, tiled walls.
+5. **Scene Type**: Pet grooming.
+
+**Scene 159** [0:06:40]:
+  - Activity: A person is holding a dog, possibly preparing for grooming or drying.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and caring.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A person is holding a dog, possibly preparing for grooming or drying.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Person holding a dog, fluffy gray dog, grooming equipment, tiled walls.
+5. **Scene Type**: Pet care.
+
+**Scene 160** [0:06:41]:
+  - Activity: A person is preparing or organizing items in a room, possibly related to a salon or medical setting.
+  - Location: Indoor, likely a salon or clinic with tiled walls.
+  - Mood: Functional and clinical.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is preparing or organizing items in a room, possibly related to a salon or medical setting.
+2. **Location**: Indoor, likely a salon or clinic with tiled walls.
+3. **Mood**: Functional and clinical.
+4. **Key Elements**: Hairdryer or medical device, person in uniform, sink with bottles, tiled walls.
+5. **Scene Type**: Establishing shot.
+
+**Scene 161** [0:06:46]:
+  - Activity: A person is holding a small dog, possibly preparing for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person holding a dog, grooming dryer, tiled walls, grooming table.
+5. **Scene Type**: Pet grooming.
+
+**Scene 162** [0:06:47]:
+  - Activity: A person is holding a small dog, possibly preparing for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and caring.
+  - Scene Type: Preparation.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Small dog, person holding the dog, grooming equipment, tiled walls.
+5. **Scene Type**: Preparation.
+
+**Scene 163** [0:06:49]:
+  - Activity: A person is holding a small dog, possibly preparing it for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and caring.
+  - Scene Type: Pet care/grooming.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing it for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Person holding a dog, small dog, grooming equipment, tiled wall.
+5. **Scene Type**: Pet care/grooming.
+
+**Scene 164** [0:06:50]:
+  - Activity: A person is holding a dog, possibly preparing it for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and caring.
+  - Scene Type: Pet grooming preparation.
+  - Full Analysis: 1. **Activity**: A person is holding a dog, possibly preparing it for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and caring.
+4. **Key Elements**: Dog, person holding the dog, grooming equipment, tiled wall.
+5. **Scene Type**: Pet grooming preparation.
+
+**Scene 165** [0:06:51]:
+  - Activity: A dog is being held, possibly after grooming or during drying.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and gentle.
+  - Scene Type: Pet care.
+  - Full Analysis: 1. **Activity**: A dog is being held, possibly after grooming or during drying.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and gentle.
+4. **Key Elements**: Dog, person holding the dog, pet dryer, tiled wall.
+5. **Scene Type**: Pet care.
+
+**Scene 166** [0:06:54]:
+  - Activity: A person is holding a small dog, possibly preparing for grooming.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and gentle.
+  - Scene Type: Pet grooming.
+  - Full Analysis: 1. **Activity**: A person is holding a small dog, possibly preparing for grooming.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and gentle.
+4. **Key Elements**: Small dog, person holding the dog, grooming equipment, tiled walls.
+5. **Scene Type**: Pet grooming.
+
+**Scene 167** [0:06:55]:
+  - Activity: A dog is being groomed, specifically having its fur trimmed with clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, specifically having its fur trimmed with clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming clippers, grooming table, scissors, fur clippings.
+5. **Scene Type**: Action.
+
+**Scene 168** [0:06:56]:
+  - Activity: A dog is being groomed, likely having its fur trimmed.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely having its fur trimmed.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming tools, grooming table, person grooming the dog, fur clippings.
+5. **Scene Type**: Action.
+
+**Scene 169** [0:06:58]:
+  - Activity: A dog is being groomed, specifically having its fur trimmed with clippers.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, specifically having its fur trimmed with clippers.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming clippers, grooming table, scissors, window with view outside.
+5. **Scene Type**: Action.
+
+**Scene 170** [0:06:58]:
+  - Activity: A dog is being groomed, with its fur being trimmed.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, with its fur being trimmed.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming clippers, grooming table, fur trimmings, person grooming.
+5. **Scene Type**: Action.
+
+**Scene 171** [0:07:00]:
+  - Activity: A dog is being groomed, likely having its fur trimmed.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely having its fur trimmed.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, grooming tools, trimmed fur, chair.
+5. **Scene Type**: Grooming session.
+
+**Scene 172** [0:07:01]:
+  - Activity: A dog is being groomed, likely having its fur trimmed.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely having its fur trimmed.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog on a grooming table, grooming tools, trimmed fur, grooming chair.
+5. **Scene Type**: Grooming session.
+
+**Scene 173** [0:07:02]:
+  - Activity: A dog is being groomed, likely after a haircut.
+  - Location: Indoor, in a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, likely after a haircut.
+2. **Location**: Indoor, in a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, clumps of fur, grooming tools, chair.
+5. **Scene Type**: Grooming session.
+
+**Scene 174** [0:07:03]:
+  - Activity: A dog is being groomed, with trimmed fur visible on the table.
+  - Location: Indoor, likely a pet grooming salon.
+  - Mood: Calm and focused.
+  - Scene Type: Grooming session.
+  - Full Analysis: 1. **Activity**: A dog is being groomed, with trimmed fur visible on the table.
+2. **Location**: Indoor, likely a pet grooming salon.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, grooming table, trimmed fur, grooming tools, chair.
+5. **Scene Type**: Grooming session.
+
+**Scene 175** [0:07:05]:
+  - Activity: A dog is being bathed, possibly with shampoo applied to its back.
+  - Location: Indoor, likely in a pet grooming facility or bathroom.
+  - Mood: Calm and routine.
+  - Scene Type: Pet care/grooming.
+  - Full Analysis: 1. **Activity**: A dog is being bathed, possibly with shampoo applied to its back.
+2. **Location**: Indoor, likely in a pet grooming facility or bathroom.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Dog, shampoo, bathing area, showerhead, tiled floor.
+5. **Scene Type**: Pet care/grooming.
+
+**Scene 176** [0:07:08]:
+  - Activity: A dog is being bathed, with water being sprayed on its body.
+  - Location: Indoor, likely a bathroom or pet grooming area.
+  - Mood: Calm and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A dog is being bathed, with water being sprayed on its body.
+2. **Location**: Indoor, likely a bathroom or pet grooming area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Dog, shower hose, soap dispensers, tiled wall, rubber duck.
+5. **Scene Type**: Action.
+
+**Scene 177** [0:07:12]:
+  - Activity: A person appears to be moving quickly, possibly engaged in a task or preparing something.
+  - Location: Indoor, likely a salon or grooming area.
+  - Mood: Busy and functional.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person appears to be moving quickly, possibly engaged in a task or preparing something.
+2. **Location**: Indoor, likely a salon or grooming area.
+3. **Mood**: Busy and functional.
+4. **Key Elements**: Shelves with bottles, a washing station, a person in motion, tiled walls, and a camera on a table.
+5. **Scene Type**: Transition.
+
+**Scene 178** [0:07:13]:
+  - Activity: The scene appears to involve cleaning or organizing in a salon or grooming area.
+  - Location: Indoor, likely a salon or grooming station.
+  - Mood: Functional and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to involve cleaning or organizing in a salon or grooming area.
+2. **Location**: Indoor, likely a salon or grooming station.
+3. **Mood**: Functional and organized.
+4. **Key Elements**: Hairdryer, shelves with bottles, washing station, cleaning supplies.
+5. **Scene Type**: Establishing shot.
+
+**Scene 179** [0:08:06]:
+  - Activity: A person is turning off a light switch.
+  - Location: Indoor, likely in a tiled room such as a bathroom or kitchen.
+  - Mood: Conclusive and calm.
+  - Scene Type: Transition/ending.
+  - Full Analysis: 1. **Activity**: A person is turning off a light switch.
+2. **Location**: Indoor, likely in a tiled room such as a bathroom or kitchen.
+3. **Mood**: Conclusive and calm.
+4. **Key Elements**: Hand, light switch, tiled wall, text overlay ("Thanks for watching").
+5. **Scene Type**: Transition/ending.
+
+**Scene 180** [0:08:07]:
+  - Activity: A person is turning off a light switch.
+  - Location: Indoor, likely in a kitchen or bathroom with tiled walls.
+  - Mood: Calm and concluding.
+  - Scene Type: Transition/ending.
+  - Full Analysis: 1. **Activity**: A person is turning off a light switch.
+2. **Location**: Indoor, likely in a kitchen or bathroom with tiled walls.
+3. **Mood**: Calm and concluding.
+4. **Key Elements**: Light switch, tiled wall, hand, text overlay.
+5. **Scene Type**: Transition/ending.
+
+**Scene 181** [0:08:08]:
+  - Activity: The scene is concluding with a "Thanks for watching" message.
+  - Location: Indoor, likely a tiled room such as a bathroom or kitchen.
+  - Mood: Conclusive and appreciative.
+  - Scene Type: Closing scene.
+  - Full Analysis: 1. **Activity**: The scene is concluding with a "Thanks for watching" message.
+2. **Location**: Indoor, likely a tiled room such as a bathroom or kitchen.
+3. **Mood**: Conclusive and appreciative.
+4. **Key Elements**: Tiled wall, light switch, text overlay.
+5. **Scene Type**: Closing scene.
+
+**Scene 182** [0:08:09]:
+  - Activity: A person is opening the door to a pet grooming salon.
+  - Location: Indoor, at the entrance of a pet grooming salon.
+  - Mood: Calm and welcoming.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is opening the door to a pet grooming salon.
+2. **Location**: Indoor, at the entrance of a pet grooming salon.
+3. **Mood**: Calm and welcoming.
+4. **Key Elements**: Door with a pull sign, pet grooming salon logo, hand opening the door, business hours, and contact information.
+5. **Scene Type**: Transition.
+
+**Scene 183** [0:08:10]:
+  - Activity: Someone is opening a glass door.
+  - Location: Indoor, likely at a pet grooming shop.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is opening a glass door.
+2. **Location**: Indoor, likely at a pet grooming shop.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass door with signage, wooden door handle, text overlay saying "Thanks for watching," cartoon dog graphic.
+5. **Scene Type**: Transition.
+
+**Scene 184** [0:08:11]:
+  - Activity: Someone is about to open a door.
+  - Location: Indoor, possibly a pet grooming salon.
+  - Mood: Casual and inviting.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is about to open a door.
+2. **Location**: Indoor, possibly a pet grooming salon.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Glass door with a pull sign, cartoon animal graphic, text overlay saying "Thanks for watching."
+5. **Scene Type**: Transition.
+
+**Scene 185** [0:08:12]:
+  - Activity: The scene shows the closing frame of a video, likely thanking viewers for watching.
+  - Location: Indoor, at the entrance of a grooming shop.
+  - Mood: Calm and concluding.
+  - Scene Type: Transition/closing shot.
+  - Full Analysis: 1. **Activity**: The scene shows the closing frame of a video, likely thanking viewers for watching.
+2. **Location**: Indoor, at the entrance of a grooming shop.
+3. **Mood**: Calm and concluding.
+4. **Key Elements**: Glass door with business hours, contact information, a logo with a dog and scissors, and the text "Thanks for watching."
+5. **Scene Type**: Transition/closing shot.
+
+**Scene 186** [0:08:13]:
+  - Activity: The scene is concluding with a "Thanks for watching" message, indicating the end of a video.
+  - Location: Outdoor urban setting, likely a city street.
+  - Mood: Calm and reflective, typical of an ending scene.
+  - Scene Type: Transition/Ending scene
+  - Full Analysis: 1. **Activity**: The scene is concluding with a "Thanks for watching" message, indicating the end of a video.
+2. **Location**: Outdoor urban setting, likely a city street.
+3. **Mood**: Calm and reflective, typical of an ending scene.
+4. **Key Elements**: 
+   - "Thanks for watching" text overlay
+   - City buildings
+   - Street with traffic lights
+   - Trees lining the street
+5. **Scene Type**: Transition/Ending scene
+
+**Scene 187** [0:08:19]:
+  - Activity: The scene is concluding with a "Thanks for watching" message.
+  - Location: Not applicable (text overlay).
+  - Mood: Appreciative and conclusive.
+  - Scene Type: End screen/closing credits.
+  - Full Analysis: 1. **Activity**: The scene is concluding with a "Thanks for watching" message.
+2. **Location**: Not applicable (text overlay).
+3. **Mood**: Appreciative and conclusive.
+4. **Key Elements**: 
+   - Text: "Thanks for watching"
+   - Text handle: "@groomer_ena"
+   - Black background
+5. **Scene Type**: End screen/closing credits.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 수고하셨습니다 minutes
+
+### Segment 2 (01:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: hace 되게 쉽게 | Mike마气하고 | 마당에서 Siegomiast이 | story | worrying about the room
+
+### Segment 3 (02:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 오늘은 | 먹돌이 | 시작
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: qué에 | 저기에
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 이렇게? | 안 BM到 Здесь | remar | gasping... | 하별 δεν가 börksenurun | 엉캉 | gotta be careful
+
+### Segment 6 (05:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 와 loool | 아 so 바삭한 rank | 안 1984년 꽃이야 | 연습 prompted | off | 송
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Low
+
+### Segment 8 (07:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 가다를 건너 내게 가는 중이야 | 조금만 더 기다려줘 | 주는 일은 없어 | 내게 닦기 전까지 | 나는 새벽한 해 주인으로
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 너를 향해 가는 중 | 어디서부터 멀어진 난 | 가는 도안과 여긴 내가 온고 | 근데 여긴 나 혼자 뿐이라도
+
+(Total 9 segments)
+
+## Full Transcript
+수고하셨습니다 minutes hace 되게 쉽게 Mike마气하고 마당에서 Siegomiast이 story worrying about the room 오늘은 먹돌이 시작qué에 저기에 이렇게? 안 BM到 Здесь remargasping... 하별 δεν가 börksenurun 엉캉 gotta be careful 와 loool 아 so 바삭한 rank 안 1984년 꽃이야 연습 prompted off 송 가다를 건너 내게 가는 중이야 조금만 더 기다려줘 주는 일은 없어 내게 닦기 전까지 나는 새벽한 해 주인으로 너를 향해 가는 중 어디서부터 멀어진 난 가는 도안과 여긴 내가 온고 근데 여긴 나 혼자 뿐이라도

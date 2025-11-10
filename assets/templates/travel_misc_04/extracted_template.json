@@ -1,0 +1,119 @@
+{
+  "template_name": "Conversational Korean Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 300,
+      "description": "The vlog begins with a series of conversational scenes, setting a casual and friendly tone.",
+      "key_elements": [
+        "introduction",
+        "casual conversation",
+        "setting the mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 900,
+      "description": "The main content includes various scenes of daily activities, interactions, and personal reflections.",
+      "segments": [
+        {
+          "type": "casual conversation",
+          "description": "Conversational exchanges with friends or family, often humorous or light-hearted.",
+          "typical_duration": 200,
+          "scene_activity": "Talking and laughing with others",
+          "location": "Indoors, possibly at home or a cafe",
+          "mood": "Friendly and relaxed"
+        },
+        {
+          "type": "personal reflection",
+          "description": "The vlogger shares personal thoughts or experiences, often introspective.",
+          "typical_duration": 150,
+          "scene_activity": "Reflecting on personal experiences",
+          "location": "Indoors, in a quiet setting",
+          "mood": "Thoughtful and calm"
+        },
+        {
+          "type": "activity showcase",
+          "description": "Demonstrating or participating in a specific activity, such as cooking or crafting.",
+          "typical_duration": 250,
+          "scene_activity": "Engaging in a hobby or task",
+          "location": "Kitchen or workspace",
+          "mood": "Focused and engaging"
+        },
+        {
+          "type": "outdoor exploration",
+          "description": "Walking or traveling through outdoor spaces, observing surroundings.",
+          "typical_duration": 300,
+          "scene_activity": "Exploring and observing",
+          "location": "Outdoor locations, such as parks or streets",
+          "mood": "Curious and lively"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 296,
+      "description": "The vlog concludes with repeated phrases, creating a humorous and memorable ending.",
+      "key_elements": [
+        "repeated catchphrase",
+        "light-hearted farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#c8c8c4",
+      "#4c463e",
+      "#938168",
+      "#130e0c",
+      "#6e97c3"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.6875234874107479,
+    "scene_changes": 887,
+    "camera_work": [
+      "handheld shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and humorous",
+      "content_type": "Casual chat and personal stories"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional emphasis or clarification"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Repetitive Humor",
+      "description": "Use of repeated phrases or actions for comedic effect.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "daily vlogging",
+    "personal storytelling"
+  ]
+}
