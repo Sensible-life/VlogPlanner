@@ -1,0 +1,157 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:23:16
+- Resolution: 1920x1080
+- FPS: 60.0
+
+## Visual Features
+- Dominant Colors: #1f1615, #a7a19b, #544037
+- Brightness Trend: Stable
+- Scene Changes: 1028
+- Average Shot Length: 1.4s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 78
+- Content Length: 600 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #1f1615, #a7a19b, #544037
+- Brightness: Stable
+- Pacing: Fast
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: ihren | decided | 공기őifies | 감사합니다. | second stroke | 먹어� ranges | 한달에 | 哈... | 맛보기 | 두고 | 굿� Especially | 함께 | 먹어서
+
+### Segment 2 (01:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 단중! | 나 지금
+
+### Segment 3 (02:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: akkor | 간식의 신늼 | 이렇게 | 대 space | 기름에
+
+### Segment 4 (03:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 깨 б앙 | Ottoman Parti | Alox>< | STRAM | raszam | 박수 | 눈촡 | 뱅
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 비공갈색으로 | очки | 멸치
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: Oh | 그리고 오늘 CIA에 | ứ
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Low
+
+### Segment 8 (07:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: Timeline | avnd | 쥐
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+
+### Segment 10 (09:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: dann 오르프 팬들에게 | 자막
+
+### Segment 11 (10:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 다닌걸ying | 매일까지
+
+### Segment 12 (11:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 하나 더 | 뭐 Hahaha | 토요일 | 라시
+
+### Segment 13 (12:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 폴라드리 | 술 찍기ént | 그때는 | approximaten | hovering
+
+### Segment 14 (13:00)
+- Brightness: Medium
+- Energy: Low
+
+### Segment 15 (14:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 목주소리 | 피
+
+### Segment 16 (15:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: cima, 여기 어디가? | spill summer Govern | zig airport | 아 poi
+
+### Segment 17 (16:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 남자 큰 소원이 | 이야기가 potatoes | AUDIO
+
+### Segment 18 (17:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: �도
+
+### Segment 19 (18:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: وم이랑 | 조 | 오늘 제일 맛있게 Mexicking PANDA 탕 priorit소 | pesome Wirging | stripe pecan | 시 Rev butterfly | 오자마자
+
+### Segment 20 (19:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: ל
+
+### Segment 21 (20:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: Pyoachy | งles 견제가 | 맛보기 | moves
+
+### Segment 22 (21:00)
+- Brightness: Medium
+- Energy: Low
+
+### Segment 23 (22:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 다� Each Wings | 그� They resum する | ispers | Owner vierário
+
+### Segment 24 (23:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 전교 agua | 넌 왜 Forever One 누� loosen
+
+(Total 24 segments)
+
+## Full Transcript
+ihren decided 공기őifies 감사합니다. second stroke 먹어� ranges 한달에哈... 맛보기 두고 굿� Especially 함께 먹어서 단중! 나 지금 akkor 간식의 신늼 이렇게 대 space 기름에 깨 б앙 Ottoman Parti Alox><STRAMraszam 박수 눈촡 뱅 비공갈색으로очки 멸치 Oh 그리고 오늘 CIA에ứ Timelineavnd 쥐 dann 오르프 팬들에게 자막 다닌걸ying 매일까지 하나 더 뭐 Hahaha 토요일 라시 폴라드리 술 찍기ént 그때는 approximaten hovering 목주소리 피 cima, 여기 어디가? spill summer Governzig airport 아 poi 남자 큰 소원이 이야기가 potatoesAUDIO�도وم이랑 조 오늘 제일 맛있게 Mexicking PANDA 탕 priorit소pesome Wirging stripe pecan 시 Rev butterfly 오자마자ל Pyoachyงles 견제가 맛보기 moves 다� Each Wings 그� They resum するispers Owner vierário 전교 agua 넌 왜 Forever One 누� loosen

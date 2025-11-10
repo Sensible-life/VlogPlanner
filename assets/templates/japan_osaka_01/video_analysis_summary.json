@@ -1,0 +1,16 @@
+{
+  "duration": "0:52:28",
+  "resolution": "1920x1080",
+  "dominant_colors": [
+    "#b5a292",
+    "#58413a",
+    "#dad5cd",
+    "#8c7060",
+    "#191111"
+  ],
+  "brightness_trend": "Stable",
+  "audio_mood": "Conversational",
+  "scene_changes": 1671,
+  "music_ratio": 0.3,
+  "speech_ratio": 0.6
+}

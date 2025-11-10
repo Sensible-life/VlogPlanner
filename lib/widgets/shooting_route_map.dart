@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import '../constants/app_colors.dart';
 import '../constants/app_styles.dart';
+import '../services/vlog_data_service.dart';
 
 class ShootingRouteMap extends StatefulWidget {
   const ShootingRouteMap({super.key});
@@ -15,26 +16,7 @@ class ShootingRouteMap extends StatefulWidget {
 class _ShootingRouteMapState extends State<ShootingRouteMap> {
   GoogleMapController? _mapController;
   bool _isMapLoading = true;
-
-  // 촬영 장소 예시 (카페 근처 위치 - 서울 시청 근처)
-  final List<Map<String, dynamic>> _locations = [
-    {
-      'title': '1. 카페 입구',
-      'position': const LatLng(37.5665, 126.9780),
-    },
-    {
-      'title': '2. 테이블 자리',
-      'position': const LatLng(37.5667, 126.9782),
-    },
-    {
-      'title': '3. 주문 카운터',
-      'position': const LatLng(37.5668, 126.9783),
-    },
-    {
-      'title': '4. 창가 좌석',
-      'position': const LatLng(37.5669, 126.9785),
-    },
-  ];
+  final VlogDataService _dataService = VlogDataService();
 
   Set<Marker> _markers = {};
   Set<Polyline> _polylines = {};
@@ -47,26 +29,39 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
   }
 
   void _createMarkers() {
-    _markers = _locations.asMap().entries.map((entry) {
+    final locations = _dataService.getShootingLocations();
+    
+    if (locations.isEmpty) return;
+    
+    _markers = locations.asMap().entries.map((entry) {
       int index = entry.key;
-      Map<String, dynamic> location = entry.value;
+      final location = entry.value;
       
       return Marker(
-        markerId: MarkerId('marker_$index'),
-        position: location['position'],
+        markerId: MarkerId('marker_${location.order}'),
+        position: LatLng(location.latitude, location.longitude),
         infoWindow: InfoWindow(
-          title: location['title'],
+          title: '${location.order}. ${location.name}',
+          snippet: location.description,
         ),
         icon: BitmapDescriptor.defaultMarkerWithHue(
-          index == 0 ? BitmapDescriptor.hueBlue : BitmapDescriptor.hueRed,
+          index == 0 
+              ? BitmapDescriptor.hueGreen  // 시작점은 초록색
+              : index == locations.length - 1
+                  ? BitmapDescriptor.hueBlue  // 끝점은 파란색
+                  : BitmapDescriptor.hueRed,  // 중간은 빨간색
         ),
       );
     }).toSet();
   }
 
   void _createPolylines() {
-    final polylineCoordinates = _locations
-        .map((location) => location['position'] as LatLng)
+    final locations = _dataService.getShootingLocations();
+    
+    if (locations.isEmpty) return;
+    
+    final polylineCoordinates = locations
+        .map((location) => LatLng(location.latitude, location.longitude))
         .toList();
 
     _polylines = {
@@ -79,8 +74,20 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
     };
   }
 
+  LatLng _getCameraPosition() {
+    final locations = _dataService.getShootingLocations();
+    if (locations.isEmpty) {
+      return const LatLng(36.8109, 127.1498); // 기본값 (오월드)
+    }
+    // 첫 번째 위치를 중심으로
+    return LatLng(locations.first.latitude, locations.first.longitude);
+  }
+
   @override
   Widget build(BuildContext context) {
+    final locations = _dataService.getShootingLocations();
+    final routeDescription = _dataService.getRouteDescription();
+    
     return Column(
       children: [
         // 구글 지도
@@ -98,8 +105,8 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
             children: [
               GoogleMap(
                 initialCameraPosition: CameraPosition(
-                  target: const LatLng(37.5666, 126.9782),
-                  zoom: 17,
+                  target: _getCameraPosition(),
+                  zoom: 16,
                 ),
                 markers: _markers,
                 polylines: _polylines,
@@ -140,31 +147,86 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
         
         const SizedBox(height: 24),
         
+        // 동선 요약
+        if (routeDescription.isNotEmpty) ...[
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.all(16),
+            decoration: BoxDecoration(
+              color: AppColors.primary.withOpacity(0.1),
+              borderRadius: BorderRadius.circular(12),
+              border: Border.all(
+                color: AppColors.primary.withOpacity(0.3),
+                width: 1,
+              ),
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Icon(Icons.route, color: AppColors.primary, size: 20),
+                    const SizedBox(width: 8),
+                    Text(
+                      '촬영 동선',
+                      style: AppTextStyles.bodyLarge.copyWith(
+                        color: AppColors.primary,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  routeDescription,
+                  style: AppTextStyles.bodyMedium.copyWith(
+                    color: AppColors.textPrimary,
+                  ),
+                ),
+                if (_dataService.getEstimatedWalkingMinutes() > 0) ...[
+                  const SizedBox(height: 8),
+                  Row(
+                    children: [
+                      Icon(Icons.access_time, color: AppColors.textSecondary, size: 16),
+                      const SizedBox(width: 4),
+                      Text(
+                        '예상 이동 시간: ${_dataService.getEstimatedWalkingMinutes()}분',
+                        style: AppTextStyles.bodySmall.copyWith(
+                          color: AppColors.textSecondary,
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ],
+            ),
+          ),
+          const SizedBox(height: 24),
+        ],
+        
         // 동선 설명
-        Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            _buildRouteItem(
-              '1. 카페 입구',
-              '친구들과 만나는 첫 장면을 촬영합니다. 밝은 표정으로 인사하는 모습을 담습니다.',
+        if (locations.isNotEmpty)
+          Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: locations.asMap().entries.map((entry) {
+              final index = entry.key;
+              final location = entry.value;
+              return Padding(
+                padding: EdgeInsets.only(bottom: index < locations.length - 1 ? 16.0 : 0),
+                child: _buildRouteItem(
+                  '${location.order}. ${location.name}',
+                  location.description,
+                ),
+              );
+            }).toList(),
+          )
+        else
+          Text(
+            '촬영 동선 정보가 없습니다.',
+            style: AppTextStyles.bodyMedium.copyWith(
+              color: AppColors.textSecondary,
             ),
-            const SizedBox(height: 16),
-            _buildRouteItem(
-              '2. 테이블 자리',
-              '자리에 앉아 메뉴를 고르는 장면입니다. 메뉴판을 보며 대화하는 모습을 촬영합니다.',
-            ),
-            const SizedBox(height: 16),
-            _buildRouteItem(
-              '3. 주문 카운터',
-              '음료를 주문하는 장면입니다. 카운터에서 주문하고 결제하는 과정을 담습니다.',
-            ),
-            const SizedBox(height: 16),
-            _buildRouteItem(
-              '4. 창가 좌석',
-              '음료가 나온 후 본격적인 토크 타임입니다. 창밖 풍경과 함께 대화하는 모습을 촬영합니다.',
-            ),
-          ],
-        ),
+          ),
       ],
     );
   }

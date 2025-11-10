@@ -1,0 +1,131 @@
+{
+  "template_name": "Conversational Travel Vlog in Japan",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "Introduction to the travel vlog, mentioning the purpose of the trip and initial thoughts.",
+      "key_elements": [
+        "introduction",
+        "purpose of trip",
+        "initial thoughts"
+      ]
+    },
+    "body": {
+      "duration_seconds": 998,
+      "description": "Main content featuring various experiences and observations during the trip to Japan.",
+      "segments": [
+        {
+          "type": "travel logistics",
+          "description": "Discussing travel arrangements and logistics.",
+          "typical_duration": 60
+        },
+        {
+          "type": "cultural observations",
+          "description": "Observations and experiences related to Japanese culture.",
+          "typical_duration": 120
+        },
+        {
+          "type": "food experiences",
+          "description": "Trying and describing different Japanese foods.",
+          "typical_duration": 180
+        },
+        {
+          "type": "personal reflections",
+          "description": "Personal thoughts and reflections on the travel experiences.",
+          "typical_duration": 120
+        },
+        {
+          "type": "interaction with locals",
+          "description": "Conversations and interactions with local people.",
+          "typical_duration": 120
+        },
+        {
+          "type": "sightseeing",
+          "description": "Visiting and describing tourist attractions.",
+          "typical_duration": 180
+        },
+        {
+          "type": "shopping and souvenirs",
+          "description": "Shopping experiences and discussing souvenirs.",
+          "typical_duration": 120
+        },
+        {
+          "type": "unexpected events",
+          "description": "Describing any unexpected events or challenges faced.",
+          "typical_duration": 96
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "Conclusion of the vlog with final thoughts and farewells.",
+      "key_elements": [
+        "conclusion",
+        "final thoughts",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#2c2726",
+      "#b3b4b5",
+      "#9d8772"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.0,
+    "scene_changes": 554,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining travel experiences and observations"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Cultural Immersion",
+      "description": "Frequent engagement with local culture and customs.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food Exploration",
+      "description": "Detailed exploration and description of local foods.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

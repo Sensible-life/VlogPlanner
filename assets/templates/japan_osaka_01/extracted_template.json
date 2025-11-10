@@ -1,0 +1,104 @@
+{
+  "template_name": "Conversational Food Exploration",
+  "category": "food",
+  "structure": {
+    "opening": {
+      "duration_seconds": 120,
+      "description": "Introduction to the day's food exploration plan",
+      "key_elements": [
+        "greeting",
+        "overview of food spots"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2908,
+      "description": "Exploring various food locations and tasting different dishes",
+      "segments": [
+        {
+          "type": "food tasting",
+          "description": "Tasting and reviewing different foods",
+          "typical_duration": 1800
+        },
+        {
+          "type": "travel between locations",
+          "description": "Traveling to different food spots",
+          "typical_duration": 600
+        },
+        {
+          "type": "interactions",
+          "description": "Conversational interactions with companions or locals",
+          "typical_duration": 508
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 120,
+      "description": "Summary of the day's food experiences and farewell",
+      "key_elements": [
+        "summary",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#b5a292",
+      "#58413a",
+      "#dad5cd"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.9,
+    "scene_changes": 1671,
+    "camera_work": [
+      "handheld",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and food reviews"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional food descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Food Tasting Repetitions",
+      "description": "Frequent tasting and reviewing of different foods",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Conversational Interactions",
+      "description": "Casual conversations with companions",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Food review channels",
+    "Culinary travel vlogs"
+  ]
+}

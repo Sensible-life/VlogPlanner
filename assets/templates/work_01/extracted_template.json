@@ -1,0 +1,155 @@
+{
+  "template_name": "Urban Life and Work Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 5,
+      "description": "The vlog opens with a cityscape view featuring a prominent tower, setting a calm and serene mood.",
+      "key_elements": [
+        "cityscape",
+        "tower",
+        "calm mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 673,
+      "description": "The main content includes personal reflections, work scenes, city explorations, and casual interactions.",
+      "segments": [
+        {
+          "type": "personal preparation",
+          "description": "A person is adjusting their hair and preparing for the day in a relaxed indoor setting.",
+          "typical_duration": 10,
+          "scene_activity": "Adjusting hair, preparing",
+          "location": "Indoor, living room",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "work/study scene",
+          "description": "A person is working on a laptop, possibly editing a video, in a cozy indoor setting.",
+          "typical_duration": 60,
+          "scene_activity": "Working on a laptop",
+          "location": "Indoor, home office",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "city exploration",
+          "description": "Scenes of walking through quiet streets and residential neighborhoods, capturing the calm and serene urban environment.",
+          "typical_duration": 120,
+          "scene_activity": "Walking, observing",
+          "location": "Outdoor, residential streets",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "cafe scene",
+          "description": "A person is sitting at a table in a cafe, engaging in dialogue or working on a laptop.",
+          "typical_duration": 60,
+          "scene_activity": "Sitting, working",
+          "location": "Indoor, cafe",
+          "mood": "Calm and intimate"
+        },
+        {
+          "type": "food closeup",
+          "description": "Close-up shots of beautifully arranged dishes, emphasizing culinary aesthetics.",
+          "typical_duration": 30,
+          "scene_activity": "Food presentation",
+          "location": "Indoor, dining setting",
+          "mood": "Calm and artistic"
+        },
+        {
+          "type": "dialogue",
+          "description": "A person is speaking directly to the camera, sharing thoughts or experiences.",
+          "typical_duration": 60,
+          "scene_activity": "Speaking to camera",
+          "location": "Outdoor, patio",
+          "mood": "Calm and casual"
+        },
+        {
+          "type": "home setup",
+          "description": "Scenes showing cozy and organized home setups, including workspaces and relaxation areas.",
+          "typical_duration": 120,
+          "scene_activity": "Showing home setup",
+          "location": "Indoor, home",
+          "mood": "Calm and organized"
+        },
+        {
+          "type": "evening walk",
+          "description": "A person is walking down a dimly lit street at night, capturing a calm and slightly mysterious atmosphere.",
+          "typical_duration": 60,
+          "scene_activity": "Walking",
+          "location": "Outdoor, residential street",
+          "mood": "Calm and mysterious"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 15,
+      "description": "The vlog closes with a view of the cityscape, returning to the calm and serene mood established at the beginning.",
+      "key_elements": [
+        "cityscape",
+        "tower",
+        "calm mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#b9b0b2",
+      "#2a191b",
+      "#967976"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Increasing",
+    "pacing": "Medium",
+    "average_shot_length": 3.3,
+    "scene_changes": 208,
+    "camera_work": [
+      "static shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Sharing experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Subtitles and location details"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Cityscape Establishing Shots",
+      "description": "Frequent use of cityscape views to establish location and mood.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Casual Dialogue",
+      "description": "Frequent direct-to-camera dialogue segments sharing personal insights.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine vlogs",
+    "Personal storytelling"
+  ]
+}

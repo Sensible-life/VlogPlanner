@@ -1,0 +1,120 @@
+{
+  "template_name": "Spontaneous Mountain Adventure",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 120,
+      "description": "The vlogger wakes up spontaneously at 3 AM and decides to go on a mountain adventure to Min-dong Mountain instead of the original plan to visit Bukhan Mountain.",
+      "key_elements": [
+        "spontaneous decision",
+        "early morning wake-up",
+        "change of plans"
+      ]
+    },
+    "body": {
+      "duration_seconds": 836,
+      "description": "The main content follows the vlogger's journey from preparing for the trip, traveling by bus and train, hiking the mountain, and interacting with fellow hikers. The journey includes purchasing snacks, enjoying the scenery, and reflecting on personal thoughts and experiences.",
+      "segments": [
+        {
+          "type": "preparation and travel",
+          "description": "The vlogger prepares for the trip, buys snacks, and travels to the mountain via bus and train.",
+          "typical_duration": 180,
+          "scene_activity": "Buying snacks, traveling by bus and train",
+          "location": "Seoul, bus station, train station",
+          "mood": "Excited, anticipatory"
+        },
+        {
+          "type": "hiking and exploration",
+          "description": "The vlogger hikes up Min-dong Mountain, enjoys the scenic views, and reflects on personal thoughts.",
+          "typical_duration": 300,
+          "scene_activity": "Hiking, taking photos, reflecting",
+          "location": "Min-dong Mountain",
+          "mood": "Peaceful, reflective"
+        },
+        {
+          "type": "interaction with fellow hikers",
+          "description": "The vlogger meets and interacts with fellow hikers, sharing experiences and enjoying the company.",
+          "typical_duration": 120,
+          "scene_activity": "Conversing with hikers, sharing snacks",
+          "location": "Mountain trail",
+          "mood": "Friendly, social"
+        },
+        {
+          "type": "post-hike relaxation",
+          "description": "After the hike, the vlogger visits a local cafe to relax and reflect on the day's experiences.",
+          "typical_duration": 236,
+          "scene_activity": "Relaxing in a cafe, writing in a journal",
+          "location": "Local cafe",
+          "mood": "Relaxed, introspective"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 120,
+      "description": "The vlogger wraps up the day by reflecting on the journey, expressing gratitude, and preparing to return home.",
+      "key_elements": [
+        "reflection",
+        "gratitude",
+        "journey home"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#5d523d",
+      "#dbd6db",
+      "#beaf9a",
+      "#1d1817",
+      "#8c876a"
+    ],
+    "brightness": "Stable",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.35,
+    "scene_changes": 797,
+    "camera_work": [
+      "handheld",
+      "first-person perspective"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "High",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 4,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Sharing experiences and reflections"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Supplementary information"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Spontaneous Travel",
+      "description": "The vlogger makes spontaneous travel decisions and shares the journey in a detailed, personal manner.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Personal growth reflection"
+  ]
+}

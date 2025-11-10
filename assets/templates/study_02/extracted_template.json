@@ -1,0 +1,150 @@
+{
+  "template_name": "Daily Routine and Fitness Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 5,
+      "description": "The vlog opens with a person walking or jogging outdoors, setting a calm and focused mood.",
+      "key_elements": [
+        "walking",
+        "outdoor",
+        "calm mood",
+        "text overlay 'Day1'"
+      ]
+    },
+    "body": {
+      "duration_seconds": 707,
+      "description": "The main content includes various daily activities such as fitness routines, cooking, work, and relaxation moments.",
+      "segments": [
+        {
+          "type": "fitness routine",
+          "description": "Scenes of exercising in a gym, including treadmill and stair stepper workouts.",
+          "typical_duration": 120,
+          "scene_activity": "Using gym equipment like treadmill and stair stepper.",
+          "location": "Indoor gym or fitness center",
+          "mood": "Focused and energetic"
+        },
+        {
+          "type": "cooking and food preparation",
+          "description": "Scenes of preparing meals, including washing vegetables and cooking on a stovetop.",
+          "typical_duration": 90,
+          "scene_activity": "Cooking and preparing food in the kitchen.",
+          "location": "Indoor kitchen",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "work and study",
+          "description": "Scenes of working at a desk, typing on a keyboard, and reading or writing in a notebook.",
+          "typical_duration": 150,
+          "scene_activity": "Working on a computer and writing in a notebook.",
+          "location": "Indoor office or study area",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "relaxation and intimate moments",
+          "description": "Scenes of reading a book in bed or on a couch, creating a cozy atmosphere.",
+          "typical_duration": 100,
+          "scene_activity": "Reading and relaxing in a personal space.",
+          "location": "Indoor, likely a bedroom or living room",
+          "mood": "Calm and cozy"
+        },
+        {
+          "type": "transitions and outdoor activities",
+          "description": "Scenes of walking on sidewalks or streets, often used as transitions.",
+          "typical_duration": 80,
+          "scene_activity": "Walking outdoors, capturing city life.",
+          "location": "Outdoor, on city streets or sidewalks",
+          "mood": "Casual and routine"
+        },
+        {
+          "type": "casual dining",
+          "description": "Scenes of eating meals, often in an office or casual setting.",
+          "typical_duration": 50,
+          "scene_activity": "Eating meals using chopsticks or a fork.",
+          "location": "Indoor, likely an office or dining area",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "intimate moments",
+          "description": "Close-up scenes of reading or writing, focusing on personal and quiet moments.",
+          "typical_duration": 117,
+          "scene_activity": "Reading books and taking notes.",
+          "location": "Indoor, likely a personal space",
+          "mood": "Calm and focused"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 10,
+      "description": "The vlog concludes with a person typing on a keyboard, possibly summarizing the day.",
+      "key_elements": [
+        "typing",
+        "keyboard",
+        "calm mood",
+        "text overlay 'Thank you'"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#7c695e",
+      "#150f10",
+      "#d0c6bd"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 4.7,
+    "scene_changes": 153,
+    "camera_work": [
+      "steady shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 2,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Moderate",
+      "style": "Conversational and casual",
+      "content_type": "Sharing daily activities and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Time stamps and brief descriptions"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Daily routine transitions",
+      "description": "Frequent transitions between different daily activities, often marked by walking scenes.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Fitness and relaxation balance",
+      "description": "Alternating between active fitness scenes and calm relaxation moments.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine inspiration",
+    "Fitness motivation",
+    "Relaxation and mindfulness"
+  ]
+}

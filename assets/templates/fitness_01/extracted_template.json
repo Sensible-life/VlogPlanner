@@ -1,0 +1,117 @@
+{
+  "template_name": "Fitness and Casual Dining Vlog",
+  "category": "fitness_health",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "The vlog opens with the host introducing their daily routine focused on fitness and casual dining.",
+      "key_elements": [
+        "introduction",
+        "fitness focus",
+        "casual tone"
+      ]
+    },
+    "body": {
+      "duration_seconds": 880,
+      "description": "The main content includes various segments of fitness activities, casual dining experiences, and personal reflections.",
+      "segments": [
+        {
+          "type": "fitness routine",
+          "description": "People engaging in workout sessions, including weightlifting and handstands, in a gym setting.",
+          "typical_duration": 300,
+          "scene_activity": "Performing exercises, weightlifting, handstands",
+          "location": "Indoor gym or fitness center",
+          "mood": "Energetic and focused"
+        },
+        {
+          "type": "casual dining",
+          "description": "Scenes of the host eating fried chicken and discussing food preferences in a relaxed living room setting.",
+          "typical_duration": 250,
+          "scene_activity": "Eating fried chicken, discussing food",
+          "location": "Indoor, likely a living room",
+          "mood": "Relaxed and casual"
+        },
+        {
+          "type": "personal reflection",
+          "description": "The host shares personal thoughts and experiences, often while sitting on a couch.",
+          "typical_duration": 150,
+          "scene_activity": "Talking to the camera, sharing thoughts",
+          "location": "Indoor, likely a living room",
+          "mood": "Casual and introspective"
+        },
+        {
+          "type": "social interaction",
+          "description": "Group interactions in a gym setting, with people posing and engaging in playful activities.",
+          "typical_duration": 180,
+          "scene_activity": "Posing, playful interactions",
+          "location": "Indoor gym or fitness center",
+          "mood": "Energetic and cheerful"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "The vlog concludes with a closing message and a thank you note to viewers.",
+      "key_elements": [
+        "closing message",
+        "thank you note"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#8c7e76",
+      "#554d4c",
+      "#b6aca3"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.9,
+    "scene_changes": 524,
+    "camera_work": [
+      "handheld",
+      "static"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Explaining fitness routines, sharing personal thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Korean subtitles",
+      "content_type": "Emotional descriptions, instructions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Fitness and Dining Alternation",
+      "description": "Alternating between fitness activities and dining experiences",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Fitness inspiration",
+    "Casual dining experience"
+  ]
+}

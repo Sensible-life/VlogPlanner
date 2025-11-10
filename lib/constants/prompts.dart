@@ -1,333 +1,198 @@
 class Prompts {
-  // 템플릿 생성 프롬프트
-  static String buildTemplatePrompt(List<String> urls) {
+  // Fine-tuned model을 사용한 통합 스토리보드 생성 프롬프트
+  static String buildFineTunedStoryboardPrompt(Map<String, String> userInput) {
+    // 실제로 입력된 필드만 추출
+    final inputLines = <String>[];
+    
+    if (userInput['target_duration']?.isNotEmpty ?? false) {
+      inputLines.add('- 목표 영상 길이: ${userInput['target_duration']}분');
+    }
+    if (userInput['location']?.isNotEmpty ?? false) {
+      inputLines.add('- 촬영 장소: ${userInput['location']}');
+    }
+    if (userInput['time_weather']?.isNotEmpty ?? false) {
+      inputLines.add('- 시간/날씨: ${userInput['time_weather']}');
+    }
+    if (userInput['equipment']?.isNotEmpty ?? false) {
+      inputLines.add('- 촬영 장비: ${userInput['equipment']}');
+    }
+    if (userInput['difficulty']?.isNotEmpty ?? false) {
+      inputLines.add('- 난이도: ${userInput['difficulty']}');
+    }
+    
+    // 추가 입력 필드들 (화면에서 입력받는 것들)
+    if (userInput['subject']?.isNotEmpty ?? false) {
+      inputLines.add('- 촬영 주제: ${userInput['subject']}');
+    }
+    if (userInput['target_audience']?.isNotEmpty ?? false) {
+      inputLines.add('- 타깃 시청자: ${userInput['target_audience']}');
+    }
+    if (userInput['tone_manners']?.isNotEmpty ?? false) {
+      inputLines.add('- 영상 톤&바이브: ${userInput['tone_manners']}');
+    }
+    if (userInput['required_location']?.isNotEmpty ?? false) {
+      inputLines.add('- 필수 촬영 장소: ${userInput['required_location']}');
+    }
+    if (userInput['topics']?.isNotEmpty ?? false) {
+      inputLines.add('- 대화 주제: ${userInput['topics']}');
+    }
+    if (userInput['crew_count']?.isNotEmpty ?? false) {
+      inputLines.add('- 촬영 인원: ${userInput['crew_count']}');
+    }
+    if (userInput['restrictions']?.isNotEmpty ?? false) {
+      inputLines.add('- 촬영 제약: ${userInput['restrictions']}');
+    }
+    if (userInput['memo']?.isNotEmpty ?? false) {
+      inputLines.add('- 기타 메모: ${userInput['memo']}');
+    }
+    
     return '''
-You are building generalized shooting cue templates from multiple theme-park vlogs.
+사용자의 입력을 바탕으로 완전한 브이로그 스토리보드를 생성해주세요.
 
-INPUT
-URLs:
-${urls.map((url) => '- $url').join('\n')}
+[사용자 입력]
+${inputLines.isEmpty ? '- 모든 항목을 기본 설정으로 생성하세요' : inputLines.join('\n')}
 
-TASK
-Analyze the above videos and output ONLY a valid JSON array CueTemplate[] (no prose), 10–15 items.
-Each object MUST use these keys (exact spelling) and KOREAN for all string values:
+다음 형식의 JSON 객체를 반환해주세요 (코드 펜스 없이 순수 JSON만):
 
 {
-  "scene_type": "opening|move|main|food|reaction|rest|ending",
-  "when": "POI or 상황 기준 (예: 입구 표지판 보일 때)",
-  "len_sec": [min_int, max_int],
-  "camera": ["와이드→미드", ...],
-  "action": ["행동 한 줄", "대화/내레이션 한 줄"],
-  "audio": ["나레이션/대화/현장음 비율 요지", "자막 톤(선택)"],
-  "checklist": ["노출 고정", "마이크 확인", "포커스 락"],   // ≤3 items
-  "fallback": "혼잡/소음/민망 시 대체 촬영법 1개",
-  "placeholders": ["{동행자}", "{날씨}", "{장소}"],
-  "style_tone": "밝고 경쾌 / 차분 등",
-  "style_vibe": "MZ / 시네마틱 / 캐주얼 등"
-}
-
-CONSTRAINTS
-- Keep sentences SHORT (each ≤ 15 Korean characters when possible).
-- Separate STYLE (tone/vibe) from CONTENT (camera/action/audio/checklist).
-- Favor common patterns across videos; downweight one-off quirks.
-- Include at least one template per: opening, main(≥2), food or reaction, and ending.
-- NO commentary, NO code fences—JSON array only.
-''';
-  }
-
-  // 템플릿 정리 프롬프트
-  static String buildCleaningPrompt(String templateResponse) {
-    return '''
-You are cleaning a set of CueTemplates.
-
-INPUT
-Paste the current CueTemplate[] JSON here.
-
-TASK
-- Merge near-duplicates (same scene_type & similar "when" phrasing).
-- Keep 10–12 templates total.
-- For merged items, intersect len_sec ranges; keep the tighter, realistic range.
-- Ensure checklists have ≤3 items; shorten overly long Korean phrases (≤15 chars).
-- Maintain KOREAN values; keys unchanged.
-
-OUTPUT
-Return ONLY the cleaned CueTemplate[] as valid JSON (no prose, no code fences).
-
-$templateResponse
-''';
-  }
-
-  // 계획 생성 프롬프트
-  static String buildPlanPrompt(Map<String, String> userInput) {
-    return '''
-You are a plan compiler for a novice vlogger at a theme park.
-
-CONTEXT
-- Goal runtime: ${userInput['target_duration'] ?? '8'} minutes (final edit)
-- User: ${userInput['difficulty'] ?? 'novice'}, ${userInput['visit_context'] ?? 'friends'}, ${userInput['time_weather'] ?? 'daytime'}, ${userInput['equipment'] ?? 'smartphone'}
-- POI minimal set: ["entrance","queue","main_ride","snack","photo_spot","exit"]
-- Style layer comes from CueTemplate[] (separate from content)
-- Fallback scenes must be included for recovery
-
-TASK
-Create a Plan JSON object that distributes the total time into 8–12 scenes (chapters). 
-Follow these rules:
-- Must include opening and ending.
-- Include at least one alternative (fallback) scene overall (prefer ≥1 for main scenes).
-- Per-scene guardrails: 8–120 seconds.
-- Add buffer_rate between 0.10 and 0.15 (to absorb delays).
-- Prefer mapping scenes to the POIs above; allow 1–2 non-POI scenes (e.g., rest).
-- Use concise, implementation-ready IDs.
-
-OUTPUT
-Return ONLY a valid JSON object with this exact shape:
-
-{
+  "summary": "전체 스토리보드의 요약입니다. 브이로그의 전체적인 흐름과 내용을 4-5줄로 간결하게 설명합니다.",
+  "vlog_title": "매력적인 브이로그 제목 (예: 친구들과 오월드 나들이! 🎢)",
+  "keywords": ["키워드1", "키워드2", "키워드3"],
   "goal_duration_min": 8,
-  "buffer_rate": 0.1,
+  "buffer_rate": 0.12,
   "chapters": [
-    {"id":"opening_gate","alloc_sec":30,"alternatives":[]},
-    {"id":"move_in","alloc_sec":30,"alternatives":["move_cutaway"]},
-    {"id":"main_A_queue","alloc_sec":25,"alternatives":["map_board_reaction"]},
-    {"id":"main_A_ride_pov","alloc_sec":85,"alternatives":["main_A_vo"]},
-    {"id":"reaction_post_ride","alloc_sec":20,"alternatives":["reaction_text_overlay"]},
-    {"id":"food_snack","alloc_sec":40,"alternatives":["food_insert_only"]},
-    {"id":"move_montage","alloc_sec":25,"alternatives":["long_take_walkthrough"]},
-    {"id":"main_B_game_booth","alloc_sec":110,"alternatives":["main_B_light"]},
-    {"id":"photo_spot_group","alloc_sec":35,"alternatives":["alt_background"]},
-    {"id":"rest_bench","alloc_sec":35,"alternatives":["standing_rest"]},
-    {"id":"ending_exit","alloc_sec":30,"alternatives":["sign_static_vo"]}
+    {
+      "id": "opening_gate",
+      "alloc_sec": 30,
+      "alternatives": []
+    }
+  ],
+  "style_analysis": {
+    "tone": "밝고 경쾌",
+    "vibe": "MZ 감성",
+    "pacing": "빠른 템포",
+    "visual_style": ["다이나믹한 카메라 워크", "밝은 색감"],
+    "audio_style": ["업비트 BGM", "자연스러운 나레이션"],
+    "emotional_expression": 4,
+    "movement": 3,
+    "intensity": 4,
+    "location_diversity": 3,
+    "speed_rhythm": 4,
+    "excitement_surprise": 5,
+    "rationale": {
+      "emotional_expression": "이 점수에 대한 1-2줄 이유 설명 (예: 친구들과의 자연스러운 대화와 감정 표현이 두드러지는 씬들)",
+      "movement": "이 점수에 대한 1-2줄 이유 설명",
+      "intensity": "이 점수에 대한 1-2줄 이유 설명",
+      "location_diversity": "이 점수에 대한 1-2줄 이유 설명",
+      "speed_rhythm": "이 점수에 대한 1-2줄 이유 설명",
+      "excitement_surprise": "이 점수에 대한 1-2줄 이유 설명"
+    }
+  },
+  "shooting_route": {
+    "locations": [
+      {
+        "name": "메인 게이트",
+        "description": "입구에서 오프닝 촬영",
+        "latitude": 36.8109,
+        "longitude": 127.1498,
+        "order": 1
+      }
+    ],
+    "route_description": "효율적인 동선 설명",
+    "estimated_walking_minutes": 45
+  },
+  "budget": {
+    "total_budget": 50000,
+    "currency": "KRW",
+    "items": [
+      {
+        "category": "입장료",
+        "description": "테마파크 입장권",
+        "amount": 30000
+      },
+      {
+        "category": "식사",
+        "description": "점심 식사",
+        "amount": 15000
+      },
+      {
+        "category": "기타",
+        "description": "간식 및 음료",
+        "amount": 5000
+      }
+    ]
+  },
+  "shooting_checklist": [
+    "촬영 장비 충전 확인",
+    "메모리카드 용량 확인",
+    "조명 및 날씨 상황 확인",
+    "추가 배터리 준비",
+    "촬영 허가 필요 여부 확인"
+  ],
+  "scenes": [
+    {
+      "title": "씬 제목",
+      "allocated_sec": 30,
+      "trigger": "entrance",
+      "summary": ["요약 1", "요약 2"],
+      "steps": ["스텝 1", "스텝 2", "스텝 3"],
+      "checklist": ["체크 1", "체크 2", "체크 3"],
+      "fallback": "대안 방법",
+      "start_hint": "시작 힌트",
+      "stop_hint": "정지 힌트",
+      "completion_criteria": "완료 기준",
+      "tone": "밝고 경쾌",
+      "style_vibe": "MZ",
+      "target_audience": "20대 친구",
+      "script": "간단한 대본 내용 (3-5줄)",
+      "pro": {
+        "framing": ["프레이밍 팁"],
+        "audio": ["오디오 팁"],
+        "dialogue": ["대화 예시 1", "대화 예시 2"],
+        "edit_hint": ["편집 힌트"],
+        "safety": ["안전 주의사항"],
+        "broll": ["B-roll 제안"]
+      }
+    }
   ]
 }
 
-CONSTRAINTS
-- The above JSON is an EXAMPLE OF SHAPE ONLY. Recompute alloc_sec to fit the ${userInput['target_duration'] ?? '8'}-minute goal with ±15% tolerance.
-- Keep scene IDs concise and aligned with POIs or activities.
-- Do NOT include any prose, comments, or code fences. JSON only.
+중요 요구사항:
+1. summary는 전체 브이로그 스토리보드의 흐름과 내용을 4-5줄로 간결하게 요약
+2. vlog_title은 ${userInput['location']?.isNotEmpty ?? false ? userInput['location'] : '촬영 장소'} 맥락을 반영한 매력적인 제목
+3. keywords는 정확히 3개 (예: "일상", "친구들과", "낮, 맑음")
+4. chapters는 최소 10개 이상의 씬 (opening, main scenes, ending 포함)
+5. style_analysis의 점수들은 1-5 사이의 정수 (사용자 입력에 맞게)
+6. style_analysis.rationale의 각 항목은 해당 점수에 대한 구체적 이유를 1-2줄로 명시
+7. budget.items에는 실제 촬영에 필요한 비용 내역을 상세히 포함 (입장료, 식사, 간식, 이동비 등)
+8. shooting_checklist는 촬영 전 필요한 준비사항들을 실제적이고 구체적으로 제시
+9. shooting_route의 GPS 좌표는 ${userInput['location']?.isNotEmpty ?? false ? userInput['location'] : '테마파크'}의 실제 위치 기반
+   - 오월드: (36.8109, 127.1498) 근처
+   - 에버랜드: (37.2940, 127.2020) 근처
+   - 롯데월드: (37.5111, 127.0980) 근처
+10. scenes는 chapters와 동일한 수 (최소 10개)
+11. 각 씬의 script는 해당 씬의 간단한 대본 (3-5줄, 나레이션/대화 형식)
+12. 모든 텍스트는 한국어로 작성
+13. 순수 JSON만 반환 (코드 펜스나 설명 없이)
 ''';
   }
 
-  // 큐카드 생성 프롬프트
-  static String buildCueCardPrompt(String templatesJson, String planJson) {
-    return '''
-You are a renderer that converts CueCard[] JSON into on-site shooting cards for novice vloggers, and you MUST include a "더보기(Pro)" section for EVERY card by synthesizing concise best-practice tips from the card context.
+  // ============================================
+  // [DEPRECATED] 아래 프롬프트들은 Fine-tuned model 사용으로 더 이상 필요하지 않습니다.
+  // ============================================
 
-INPUT (JSON array named CUECARDS):
-Templates: $templatesJson
-Plan: $planJson
+  // [DEPRECATED] 템플릿 생성 프롬프트 - buildFineTunedStoryboardPrompt() 사용
+  // static String buildTemplatePrompt(List<String> urls) { ... }
 
-GOAL
-Render ALL cue cards from the Plan chapters as compact MARKDOWN for 5-second readability, PLUS a mandatory "더보기(Pro)" block with expert tips even if the source has no `pro` object.
+  // [DEPRECATED] 템플릿 정리 프롬프트 - buildFineTunedStoryboardPrompt() 사용
+  // static String buildCleaningPrompt(String templateResponse) { ... }
 
-IMPORTANT: Generate ONE cue card for EACH chapter in the Plan. The Plan contains ${planJson.contains('chapters') ? 'multiple' : 'several'} chapters, so you must generate the SAME NUMBER of cue cards.
+  // [DEPRECATED] 계획 생성 프롬프트 - buildFineTunedStoryboardPrompt() 사용
+  // static String buildPlanPrompt(Map<String, String> userInput) { ... }
 
-CONTENT LANGUAGE
-- All user-facing text is KOREAN. Keep keys/labels exactly as specified in the OUTPUT FORMAT.
-- Keep phrases concise, imperative, jargon-free. Target ≤14 Korean characters per bullet when possible; trim while preserving meaning.
+  // [DEPRECATED] 큐카드 생성 프롬프트 - buildFineTunedStoryboardPrompt() 사용
+  // static String buildCueCardPrompt(String templatesJson, String planJson) { ... }
 
-STRICT RULES
-- Output MARKDOWN ONLY. No prose before/after. No code fences.
-- For each card:
-  - Title = use summary[0] if short; else id.
-  - Always produce: 2-line summary, 3 steps, 3 checklist items, 1 fallback, trigger badge, allocated seconds, start/stop hints, completion criteria, style line.
-  - steps = exactly 3; checklist = exactly 3. If source differs, compress or minimally synthesize to reach 3.
-  - fallback = 1 short line (혼잡/소음/촬영금지/민망 대응 중 하나).
-  - allocated_sec: show with a timer emoji.
-  - trigger: show POI value as a badge.
-  - completion_criteria: join with " · ".
-  - Style line: tone / style_vibe / target_audience.
-
-MANDATORY "Pro" SYNTHESIS (even if missing in source)
-- Always include a "더보기(Pro)" block.
-- Synthesize short, device-agnostic, smartphone-novice tips using ONLY the card's own context (summary, steps, checklist, fallback, trigger, allocated_sec, tone, style_vibe).
-- DO NOT invent brand names, model-specific settings, or illegal/unsafe behaviors.
-- Prefer conservative best practices suitable for theme-park, daytime, handheld shooting.
-- Tailor tips to trigger & scene intent:
-  - entrance / photo_spot → 프레이밍·포즈·배경 정리
-  - queue / rest_area → 소음·프라이버시·동선
-  - main_ride / ride_exit → 안전·고정·대체(촬영금지 시 VO/컷어웨이)
-  - snack → 화이트밸런스·인서트·한입 리액션
-- Generate ALL of these Pro sub-sections (short, actionable):
-  - 촬영(Pro): 프레이밍, 무브먼트, 노출/포커스
-  - 오디오(Pro): 마이크 거리/레벨, 바람/소음 대응
-  - 대화/나레이션: scene에 맞는 한줄 프롬프트 3개
-  - 편집 힌트: 컷 포인트, 인서트, 리듬/전환 1줄
-  - 안전/권한: 혼잡/촬영금지/보행 방해 회피 1줄
-  - B-roll 제안: 2–3컷 (아이콘 없이 짧은 라벨)
-- Keep each bullet ≤14 Korean chars when feasible (e.g., "AE/AF 고정", "손떨림 최소").
-
-OUTPUT FORMAT (repeat for EACH card, exactly this structure):
-
-## {Title}
-> ⏱ {allocated_sec}s | 🏷 {trigger}
-
-**요약**
-- {summary[0]}
-- {summary[1]}
-
-**스텝 (3)**
-1) {steps[0]}
-2) {steps[1]}
-3) {steps[2]}
-
-**체크 (3)**
-- {checklist[0]}
-- {checklist[1]}
-- {checklist[2]}
-
-**대안**
-- {fallback}
-
-**힌트**
-- ▶ 시작: {start_hint}
-- ⏹ 정지: {stop_hint}
-- 🎯 완료: {completion_criteria}
-
-**스타일**
-- 톤: {tone} / 바이브: {style_vibe} / 타깃: {target_audience}
-
-<details><summary>더보기 (Pro)</summary>
-
-**촬영(Pro)**
-- 프레이밍: 상1/3 구도
-- 무브먼트: 워킹 최소
-- 노출/포커스: AE/AF 고정
-
-**오디오(Pro)**
-- 입 30~40cm
-
-**대화/나레이션**
-- "드디어 도착했어요!"
-- "오늘 날씨 완전 좋네요"
-- "기대돼요!"
-
-**편집 힌트**
-- 인서트→점프컷
-
-**안전/권한**
-- 통행 방해 금지
-
-**B-roll 제안**
-- 표지판 클로즈업
-- 하늘 촬영
-- 발걸음
-</details>
-''';
-  }
-
-  // 큐카드 생성 프롬프트 (분할용)
-  static String buildCueCardPromptBatch(String templatesJson, List<Map<String, dynamic>> chapters, int batchNumber, int totalBatches) {
-    final chaptersJson = chapters.map((chapter) => chapter.toString()).join(',');
-    
-    return '''
-You are a renderer that converts CueCard[] JSON into on-site shooting cards for novice vloggers, and you MUST include a "더보기(Pro)" section for EVERY card by synthesizing concise best-practice tips from the card context.
-
-INPUT (JSON array named CUECARDS):
-Templates: $templatesJson
-Plan Chapters (Batch $batchNumber of $totalBatches): [$chaptersJson]
-
-GOAL
-Render ALL cue cards from the provided Plan chapters as compact MARKDOWN for 5-second readability, PLUS a mandatory "더보기(Pro)" block with expert tips even if the source has no `pro` object.
-
-IMPORTANT: Generate ONE cue card for EACH chapter provided. This is batch $batchNumber of $totalBatches.
-
-CONTENT LANGUAGE
-- All user-facing text is KOREAN. Keep keys/labels exactly as specified in the OUTPUT FORMAT.
-- Keep phrases concise, imperative, jargon-free. Target ≤14 Korean characters per bullet when possible; trim while preserving meaning.
-
-STRICT RULES
-- Output MARKDOWN ONLY. No prose before/after. No code fences.
-- For each card:
-  - Title = use summary[0] if short; else id.
-  - Always produce: 2-line summary, 3 steps, 3 checklist items, 1 fallback, trigger badge, allocated seconds, start/stop hints, completion criteria, style line.
-  - steps = exactly 3; checklist = exactly 3. If source differs, compress or minimally synthesize to reach 3.
-  - fallback = 1 short line (혼잡/소음/촬영금지/민망 대응 중 하나).
-  - allocated_sec: show with a timer emoji.
-  - trigger: show POI value as a badge.
-  - completion_criteria: join with " · ".
-  - Style line: tone / style_vibe / target_audience.
-
-MANDATORY "Pro" SYNTHESIS (even if missing in source)
-- Always include a "더보기(Pro)" block.
-- Synthesize short, device-agnostic, smartphone-novice tips using ONLY the card's own context (summary, steps, checklist, fallback, trigger, allocated_sec, tone, style_vibe).
-- DO NOT invent brand names, model-specific settings, or illegal/unsafe behaviors.
-- Prefer conservative best practices suitable for theme-park, daytime, handheld shooting.
-- Tailor tips to trigger & scene intent:
-  - entrance / photo_spot → 프레이밍·포즈·배경 정리
-  - queue / rest_area → 소음·프라이버시·동선
-  - main_ride / ride_exit → 안전·고정·대체(촬영금지 시 VO/컷어웨이)
-  - snack → 화이트밸런스·인서트·한입 리액션
-- Generate ALL of these Pro sub-sections (short, actionable):
-  - 촬영(Pro): 프레이밍, 무브먼트, 노출/포커스
-  - 오디오(Pro): 마이크 거리/레벨, 바람/소음 대응
-  - 대화/나레이션: scene에 맞는 한줄 프롬프트 3개
-  - 편집 힌트: 컷 포인트, 인서트, 리듬/전환 1줄
-  - 안전/권한: 혼잡/촬영금지/보행 방해 회피 1줄
-  - B-roll 제안: 2–3컷 (아이콘 없이 짧은 라벨)
-- Keep each bullet ≤14 Korean chars when feasible (e.g., "AE/AF 고정", "손떨림 최소").
-
-OUTPUT FORMAT (repeat for EACH card, exactly this structure):
-
-## {Title}
-> ⏱ {allocated_sec}s | 🏷 Trigger: `{trigger.value}`
-
-**요약**
-- {summary[0]}
-- {summary[1]}
-
-**스텝 (3)**
-1) {steps[0]}
-2) {steps[1]}
-3) {steps[2]}
-
-**체크 (3)**
-- {checklist[0]}
-- {checklist[1]}
-- {checklist[2]}
-
-**대안**
-- {fallback}
-
-**힌트**
-- ▶ 시작: {start_hint}
-- ⏹ 정지: {stop_hint}
-- 🎯 완료: {completion_criteria joined by " · "}
-
-**스타일**
-- 톤: {tone} / 바이브: {style_vibe} / 타깃: {target_audience}
-
-<details><summary>더보기 (Pro)</summary>
-
-**촬영(Pro)**
-- 프레이밍: {synthesized framing tip, e.g., "상1/3 구도"}
-- 무브먼트: {synthesized movement tip, e.g., "워킹 최소"}
-- 노출/포커스: {synthesized exposure/focus tip, e.g., "AE/AF 고정"}
-
-**오디오(Pro)**
-- {synthesized audio tip, e.g., "입 30~40cm"}
-
-**대화/나레이션**
-- {prompt 1 tailored to scene}
-- {prompt 2 tailored to scene}
-- {prompt 3 tailored to scene}
-
-**편집 힌트**
-- {synthesized edit tip, e.g., "인서트→점프컷"}
-
-**안전/권한**
-- {synthesized safety note, e.g., "통행 방해 금지"}
-
-**B-roll 제안**
-- {b-roll 1}
-- {b-roll 2}
-- {b-roll 3 (optional)}
-</details>
-
-QUALITY CHECKS
-- Keep all Pro bullets grounded in the card context (trigger/scene intent). No brand names or advanced jargon.
-- If unsure, choose conservative defaults: "AE/AF 고정", "수평 유지", "바람 가리기", "표정 1컷", "컷어웨이 1컷".
-
-CRITICAL: You MUST generate the EXACT SAME NUMBER of cue cards as there are chapters provided in this batch. Do not stop after generating just one card. Generate ALL cards for ALL chapters in this batch.
-''';
-  }
+  // [DEPRECATED] 큐카드 생성 프롬프트 (분할용) - buildFineTunedStoryboardPrompt() 사용
+  // static String buildCueCardPromptBatch(...) { ... }
 }

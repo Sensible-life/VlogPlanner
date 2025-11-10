@@ -1,0 +1,173 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:26:48
+- Resolution: 3840x2160
+- FPS: 30.0
+
+## Visual Features
+- Dominant Colors: #7e6c66, #160f11, #e1dad8
+- Brightness Trend: Stable
+- Scene Changes: 1148
+- Average Shot Length: 1.4s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 219
+- Content Length: 1675 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #7e6c66, #160f11, #e1dad8
+- Brightness: Stable
+- Pacing: Fast
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: ---- | Why did you say that something like that... | etti | atori | 260% | aha | 먹.. | 그럼요 | buffalo | 소파 | 일단 | 이제 | 만연ilo | això | 재밌지 | 이 시간도 처음이가 없네요. | 호주가 10시간이었어서 | 호주는 그래도 나름 버틸만 했는데 | 아무튼 잘 할 수 있을지는 모르겠지만 | 일단 | 이러도 | 그쵸?
+
+### Segment 2 (01:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 굉장히 좋아... | 꽃 Lastly wore kn All for the day | 좋아하는 | 湿 When itbernated
+
+### Segment 3 (02:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 제가
+
+### Segment 4 (03:00)
+- Brightness: Dark
+- Energy: Low
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 너무 � Vanessa도 | 여유들은 | Already lunch plervice | induction | Pressure | 뒤의
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 예상 무스 | ыеельзя | 그러나 | 관정 | 잡고 | 잡고 | last Pretty | それでは 울어레� wäre | 여깄다 | metre 및
+
+### Segment 7 (06:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: fierce | 축하합니다 | 고마 Kam stable | somin | 입니다 | schon 뽀로로 | 등장 | Wandering
+
+### Segment 8 (07:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 아.. | 패디가 안 가졌으면 그대 날 뻔했다 | 와.. 좋다 | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아.. | 아 | 아 | 아 | 아 | 아.. | 아.. | 아.. | 아... | 아.. | 아.. | 안 가질거야 | 아.. | 아, | 아, | 아.. | 아, | 아, | 아, | 아,
+
+### Segment 9 (08:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 아, | 물을 rotor
+
+### Segment 10 (09:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 여기 보고를 | 하나 더 |  | 먹여두도 | 그럼這樣子 하는데 | 오늘은
+
+### Segment 11 (10:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 안녕 | Niye 뒤집다? | テーchi | 이elspell reindeer | Come on dear. | 오늘은 | 시원하고 | maison | 간식 | 통묵듣물에 배불�
+
+### Segment 12 (11:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아이쿠 | 어디서는 연색 봐 | 향은 라인 바를만 달인입니다 | 향을 해보고 구매를 한 건데 | 그 색을 제 스타일이라서 | 약간 시드로스 계열의 상큼한 느낌 | 솔직히 매번 알아봤습니다
+
+### Segment 13 (12:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 소프라 baik | vigil sleeping | singers who sleep after | 감사합니다 | 맛있어요
+
+### Segment 14 (13:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 누리가 오 Rex | 저기가 어제 갔던 퍽이에요 | 너can | あ excessive | ouch | BOB | 주문하고 | Sunwoo | 이�stick | 뭐냐
+
+### Segment 15 (14:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 다áfic | 놀라는데 | 심해�usta | 비가 Apparently | 8월 만일ения | 다시 cozy | 뭔가 길지도't given me therapy | roses Stück씩 | 이번에는
+
+### Segment 16 (15:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 매정대전ения | 지면에 | quier내�polique | 자, 찍어
+
+### Segment 17 (16:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 차가운 aux | strings | 가 | 와 | 파워 위치야 | 여기 런니가 사진 찍어주셨어요 | 혼자 이러고 사진 찍고 있었는데 | 여기 사진 찍어주셨어요 | 어, 어떡해 | 감사하다 | 이러해서 이렇게 올라와서 건너가 볼게요
+
+### Segment 18 (17:00)
+- Brightness: Medium
+- Energy: Low
+
+### Segment 19 (18:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 兩個 눈치 | 여기 앉아 | contrôle | 하아ough
+
+### Segment 20 (19:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 달라� wir Flash | 새벽 abduct기 | 개념 수 csak | 어簡정 | 달로 sheette | 무거ğan | 양념 조절 | 陈OUP | 표정을 몰아� trait bear
+
+### Segment 21 (20:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아, 진짜? | 아, 진짜? | 아, 진짜? | 아, 진짜? | 왜 이렇게 웃긴거지? | 아, 진짜? | 아, 진짜? | 아, 진짜? | 아, 진짜? | 데이트 보다. | 가만히 줬어. | 아, 진짜? | 아, 진짜? | 아, 진짜? | 이거 어떻게 쓰지? | 이게 무슨 일이야?
+
+### Segment 22 (21:00)
+- Brightness: Medium
+- Energy: Medium
+- Speech: 이 시그마스. | 네. | 네. | 이 시그마스. | 네. | 네. | 네. | 네. | 네. | 네. | 네. | 네. | 잔디 말을 head up
+
+### Segment 23 (22:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: lipstick | 먼저 кос합자 | 머리가�ει 여러분! | 노래도 너무 mitigating
+
+### Segment 24 (23:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: commander | 이렇게 이렇게 되게 옵파운드 | 이쪽에 옵파운드 | 옵파운드 | 15파운드 | 15파운드는 | 대전 | 제가
+
+### Segment 25 (24:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 달러기 | 그리법, | ax | Jackie | 아이스크림은 | 아이스크림은 | 아이스크림은 | 귀엽다
+
+### Segment 26 (25:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 아 여러분 이 아이스크림 진짜 진짜 너무 맛있어요 | sowov | 이번엔 | ım
+
+### Segment 27 (26:00)
+- Brightness: Dark
+- Energy: Low
+
+(Total 27 segments)
+
+## Full Transcript
+----Why did you say that something like that...ettiatori 260% aha 먹.. 그럼요 buffalo 소파 일단 이제 만연ilo això 재밌지 이 시간도 처음이가 없네요. 호주가 10시간이었어서 호주는 그래도 나름 버틸만 했는데 아무튼 잘 할 수 있을지는 모르겠지만 일단 이러도 그쵸? 굉장히 좋아... 꽃 Lastly wore kn All for the day 좋아하는湿 When itbernated 제가 너무 � Vanessa도 여유들은 Already lunch plervice induction Pressure 뒤의 예상 무스ыеельзя 그러나 관정 잡고 잡고 last Prettyそれでは 울어레� wäre 여깄다 metre 및 fierce 축하합니다 고마 Kam stablesomin 입니다 schon 뽀로로 등장 Wandering 아.. 패디가 안 가졌으면 그대 날 뻔했다 와.. 좋다 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아.. 아 아 아 아 아.. 아.. 아.. 아... 아.. 아.. 안 가질거야 아.. 아, 아, 아.. 아, 아, 아, 아, 아, 물을 rotor 여기 보고를 하나 더 먹여두도 그럼這樣子 하는데 오늘은 안녕 Niye 뒤집다?テーchi 이elspell reindeer Come on dear. 오늘은 시원하고 maison 간식 통묵듣물에 배불� 아이쿠 어디서는 연색 봐 향은 라인 바를만 달인입니다 향을 해보고 구매를 한 건데 그 색을 제 스타일이라서 약간 시드로스 계열의 상큼한 느낌 솔직히 매번 알아봤습니다 소프라 baik vigil sleeping singers who sleep after 감사합니다 맛있어요 누리가 오 Rex 저기가 어제 갔던 퍽이에요 너can あ excessive ouch BOB 주문하고Sunwoo 이�stick 뭐냐 다áfic 놀라는데 심해�usta 비가 Apparently 8월 만일ения 다시 cozy 뭔가 길지도't given me therapy roses Stück씩 이번에는 매정대전ения지면에 quier내�polique 자, 찍어 차가운 aux strings 가 와 파워 위치야 여기 런니가 사진 찍어주셨어요 혼자 이러고 사진 찍고 있었는데 여기 사진 찍어주셨어요 어, 어떡해 감사하다 이러해서 이렇게 올라와서 건너가 볼게요兩個 눈치 여기 앉아 contrôle 하아ough 달라� wir Flash 새벽 abduct기 개념 수 csak 어簡정 달로 sheette 무거ğan 양념 조절陈OUP 표정을 몰아� trait bear 아, 진짜? 아, 진짜? 아, 진짜? 아, 진짜? 왜 이렇게 웃긴거지? 아, 진짜? 아, 진짜? 아, 진짜? 아, 진짜? 데이트 보다. 가만히 줬어. 아, 진짜? 아, 진짜? 아, 진짜? 이거 어떻게 쓰지? 이게 무슨 일이야? 이 시그마스. 네. 네. 이 시그마스. 네. 네. 네. 네. 네. 네. 네. 네. 잔디 말을 head up lipstick 먼저 кос합자 머리가�ει 여러분! 노래도 너무 mitigating commander 이렇게 이렇게 되게 옵파운드 이쪽에 옵파운드 옵파운드 15파운드 15파운드는 대전 제가 달러기 그리법, ax Jackie 아이스크림은 아이스크림은 아이스크림은 귀엽다 아 여러분 이 아이스크림 진짜 진짜 너무 맛있어요 sowov 이번엔ım

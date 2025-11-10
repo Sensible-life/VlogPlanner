@@ -80,16 +80,62 @@ cd graduationdesign
 flutter pub get
 ```
 
-### OpenAI API 설정 (선택사항)
-`lib/services/openai_service.dart` 파일에서 API 키를 설정하세요:
-```dart
-static const String _apiKey = 'YOUR_OPENAI_API_KEY';
+### OpenAI API 설정 (필수)
+
+앱 사용을 위해 OpenAI API 키 설정이 필요합니다:
+
+#### 1. API 키 발급
+1. [OpenAI Platform](https://platform.openai.com/api-keys) 접속
+2. "Create new secret key" 클릭하여 API 키 생성
+3. 생성된 키 복사 (한 번만 표시됨!)
+
+#### 2. 환경 파일 설정
+```bash
+# assets 폴더로 이동
+cd assets
+
+# env.example을 .env로 복사
+cp env.example .env
+
+# .env 파일을 열고 API 키 입력
+# OPENAI_API_KEY=sk-proj-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+⚠️ **중요**: 
+- `.env` 파일은 절대 GitHub에 커밋하지 마세요
+- API 키는 비용이 발생하므로 안전하게 관리하세요
+- 자세한 설정 방법은 [API_KEY_SETUP.md](API_KEY_SETUP.md) 참고
 
 ### 실행
 ```bash
 flutter run
 ```
+
+## 🔄 로딩 화면
+
+API 호출 중 단계별 로딩 화면이 표시됩니다:
+
+1. **촬영 템플릿 생성 중** (25%)
+   - 참고 영상 분석 및 템플릿 생성
+
+2. **촬영 계획 수립 중** (50%)
+   - 사용자 입력 기반 최적 계획 생성
+
+3. **촬영 가이드 생성 중** (75%)
+   - 씬별 상세 가이드 작성
+
+4. **완료!** (100%)
+   - 브이로그 계획 준비 완료
+
+## 💰 API 사용 비용
+
+- **GPT-3.5 Turbo** 사용 (빠르고 저렴)
+- 예상 비용: 약 $0.01~$0.05 / 1회 생성
+- [사용량 확인](https://platform.openai.com/usage)
+
+💡 **비용 비교**:
+- GPT-3.5 Turbo: $0.0005 / 1K tokens (입력), $0.0015 / 1K tokens (출력)
+- GPT-4 대비 **약 20배 저렴**하고 **더 빠름**
 
 ## 📁 파일 저장
 

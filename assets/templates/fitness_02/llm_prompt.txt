@@ -1,0 +1,3620 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:15:21
+- Resolution: 1920x1080
+- FPS: 24.0
+
+## Visual Features
+- Dominant Colors: #a08e82, #1b110e, #c0bab6
+- Brightness Trend: Stable
+- Scene Changes: 297
+- Average Shot Length: 3.1s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 105
+- Content Length: 3050 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #a08e82, #1b110e, #c0bab6
+- Brightness: Stable
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 297
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Establishing shot.: 75 occurrences
+  - Transition.: 27 occurrences
+  - Travel montage.: 26 occurrences
+  - Product closeup.: 13 occurrences
+  - Dialogue.: 13 occurrences
+
+Dominant Moods:
+  - Calm and casual.: 48 scenes
+  - Casual and relaxed.: 25 scenes
+  - Calm and focused.: 24 scenes
+  - Calm and routine.: 15 scenes
+  - Calm and inviting.: 14 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:18]:
+  - Activity: A person is preparing for a yoga or exercise session.
+  - Location: Indoor, likely a home or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Preparation/setup.
+  - Full Analysis: 1. **Activity**: A person is preparing for a yoga or exercise session.
+2. **Location**: Indoor, likely a home or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Yoga mat, cork yoga block, textured pad, bare feet.
+5. **Scene Type**: Preparation/setup.
+
+**Scene 2** [0:00:21]:
+  - Activity: The scene shows a quiet outdoor terrace, likely set up for relaxation or dining.
+  - Location: Outdoor terrace or balcony in an urban setting.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet outdoor terrace, likely set up for relaxation or dining.
+2. **Location**: Outdoor terrace or balcony in an urban setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Wooden table and chairs, potted plants, building in the background, hanging baskets.
+5. **Scene Type**: Establishing shot.
+
+**Scene 3** [0:00:22]:
+  - Activity: The scene appears to be a quiet moment in a retail or display area.
+  - Location: Indoor, possibly a boutique or showroom.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to be a quiet moment in a retail or display area.
+2. **Location**: Indoor, possibly a boutique or showroom.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Glass sliding door
+   - Clothing rack with garments and bags
+   - Potted plants
+   - Hanging light fixture
+5. **Scene Type**: Establishing shot.
+
+**Scene 4** [0:00:23]:
+  - Activity: The scene shows a quiet indoor space, possibly a shop or studio, with clothing and items on display.
+  - Location: Indoor, likely a boutique or studio.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet indoor space, possibly a shop or studio, with clothing and items on display.
+2. **Location**: Indoor, likely a boutique or studio.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: 
+   - Clothing rack with garments and bags
+   - Glass sliding door
+   - Potted plants
+   - Tiled floor
+5. **Scene Type**: Establishing shot.
+
+**Scene 5** [0:00:24]:
+  - Activity: A person is taking a selfie in front of a mirror.
+  - Location: Indoor, likely in a home or apartment with large windows and plants.
+  - Mood: Casual and relaxed.
+  - Scene Type: Selfie moment.
+  - Full Analysis: 1. **Activity**: A person is taking a selfie in front of a mirror.
+2. **Location**: Indoor, likely in a home or apartment with large windows and plants.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Mirror, smartphone, potted plants, large windows, person wearing a cap.
+5. **Scene Type**: Selfie moment.
+
+**Scene 6** [0:00:26]:
+  - Activity: The scene shows a calm, relaxing setting, possibly a waiting area or lounge.
+  - Location: Indoor, likely a wellness center or yoga studio.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a calm, relaxing setting, possibly a waiting area or lounge.
+2. **Location**: Indoor, likely a wellness center or yoga studio.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Cushioned benches, decorative pillows, potted plants, rolled yoga mats, glass jar with a plant.
+5. **Scene Type**: Establishing shot.
+
+**Scene 7** [0:00:29]:
+  - Activity: A person is walking, possibly filming themselves from a first-person perspective.
+  - Location: Outdoor, likely on a sidewalk or pathway next to a garden.
+  - Mood: Calm and casual.
+  - Scene Type: Transition or casual walking shot.
+  - Full Analysis: 1. **Activity**: A person is walking, possibly filming themselves from a first-person perspective.
+2. **Location**: Outdoor, likely on a sidewalk or pathway next to a garden.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Person wearing a black top and gray shorts
+   - Black boots
+   - Green and yellow flowering plants
+   - Stone pavement
+5. **Scene Type**: Transition or casual walking shot.
+
+**Scene 8** [0:00:30]:
+  - Activity: A person is walking, possibly filming themselves from a high angle.
+  - Location: Outdoor, on a paved walkway with plants nearby.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking, possibly filming themselves from a high angle.
+2. **Location**: Outdoor, on a paved walkway with plants nearby.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person in athletic wear, paved path, green plants, handbag.
+5. **Scene Type**: Transition.
+
+**Scene 9** [0:00:31]:
+  - Activity: A person is walking outdoors, possibly documenting their walk.
+  - Location: Outdoor, on a paved pathway with plants.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking outdoors, possibly documenting their walk.
+2. **Location**: Outdoor, on a paved pathway with plants.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Paved walkway, potted plants, person in athletic wear, outdoor lighting fixture.
+5. **Scene Type**: Transition.
+
+**Scene 10** [0:00:32]:
+  - Activity: The scene shows a quiet street with food stalls set up, likely part of a market or street fair.
+  - Location: Outdoor urban setting, possibly a street in a city with high-rise buildings in the background.
+  - Mood: Calm and relaxed atmosphere.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet street with food stalls set up, likely part of a market or street fair.
+2. **Location**: Outdoor urban setting, possibly a street in a city with high-rise buildings in the background.
+3. **Mood**: Calm and relaxed atmosphere.
+4. **Key Elements**: Food stalls with red canopies, trees, traffic cones, high-rise buildings, a person sitting on a bench.
+5. **Scene Type**: Establishing shot.
+
+**Scene 11** [0:00:33]:
+  - Activity: The scene shows a quiet street with market stalls set up under tents.
+  - Location: Outdoor, likely a street market area in a city.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet street with market stalls set up under tents.
+2. **Location**: Outdoor, likely a street market area in a city.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Market stalls, tents, trees, traffic cones, parked vehicles.
+5. **Scene Type**: Establishing shot.
+
+**Scene 12** [0:00:34]:
+  - Activity: The scene shows a quiet street with market stalls set up, possibly preparing for or winding down from a market day.
+  - Location: Outdoor, likely in an urban area with a market setting.
+  - Mood: Calm and peaceful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet street with market stalls set up, possibly preparing for or winding down from a market day.
+2. **Location**: Outdoor, likely in an urban area with a market setting.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Market stalls, trees, traffic cones, a paved street, and a few vehicles in the background.
+5. **Scene Type**: Establishing shot.
+
+**Scene 13** [0:00:35]:
+  - Activity: A person is holding a glass, possibly preparing to pour or drink something.
+  - Location: Indoor, likely in a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is holding a glass, possibly preparing to pour or drink something.
+2. **Location**: Indoor, likely in a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass, book, person's midsection, drawstring shorts, text overlay.
+5. **Scene Type**: Transition.
+
+**Scene 14** [0:00:36]:
+  - Activity: A person is placing a glass vase on a table.
+  - Location: Indoor, likely a home or personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is placing a glass vase on a table.
+2. **Location**: Indoor, likely a home or personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass vase, book, smartphone, person in casual attire.
+5. **Scene Type**: Transition.
+
+**Scene 15** [0:00:37]:
+  - Activity: A person is preparing a drink, possibly a vitamin water, using a bottle.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing a drink, possibly a vitamin water, using a bottle.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass bottle, book, countertop, person in casual attire.
+5. **Scene Type**: Everyday activity.
+
+**Scene 16** [0:00:38]:
+  - Activity: A person is preparing or handling something, possibly related to fitness or health.
+  - Location: Indoor, likely a kitchen or living area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing or handling something, possibly related to fitness or health.
+2. **Location**: Indoor, likely a kitchen or living area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Large book, smartphone, person in athletic wear, countertop.
+5. **Scene Type**: Everyday activity.
+
+**Scene 17** [0:00:40]:
+  - Activity: A person is preparing a drink by pouring water into a container.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: "Preparation" scene.
+  - Full Analysis: 1. **Activity**: A person is preparing a drink by pouring water into a container.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Water bottle, glass container, book, electronic device.
+5. **Scene Type**: "Preparation" scene.
+
+**Scene 18** [0:00:54]:
+  - Activity: Someone is relaxing by a poolside deck, possibly preparing to read or enjoy a drink.
+  - Location: Outdoor pool deck area.
+  - Mood: Calm and leisurely.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Someone is relaxing by a poolside deck, possibly preparing to read or enjoy a drink.
+2. **Location**: Outdoor pool deck area.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Book titled "The Practice," a bottle with a drink, poolside deck chairs, a life preserver.
+5. **Scene Type**: Establishing shot.
+
+**Scene 19** [0:00:59]:
+  - Activity: The scene shows a quiet moment with a book and a drink on a table.
+  - Location: Outdoor setting, likely a rooftop or terrace with a wooden deck.
+  - Mood: Calm and relaxed atmosphere.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet moment with a book and a drink on a table.
+2. **Location**: Outdoor setting, likely a rooftop or terrace with a wooden deck.
+3. **Mood**: Calm and relaxed atmosphere.
+4. **Key Elements**: Book titled "The Practice", a bottle with a drink, wooden table, deck chairs, and a life preserver.
+5. **Scene Type**: Establishing shot.
+
+**Scene 20** [0:01:00]:
+  - Activity: The scene shows a quiet moment with personal items on a table, suggesting someone is taking a break or preparing for an activity.
+  - Location: This is taking place in an outdoor setting, likely a deck or patio area near a pool.
+  - Mood: The atmosphere is calm and relaxed.
+  - Scene Type: Establishing shot
+  - Full Analysis: 1. **Activity**: The scene shows a quiet moment with personal items on a table, suggesting someone is taking a break or preparing for an activity.
+2. **Location**: This is taking place in an outdoor setting, likely a deck or patio area near a pool.
+3. **Mood**: The atmosphere is calm and relaxed.
+4. **Key Elements**: 
+   - A book titled "The Practice"
+   - A partially filled water bottle
+   - A towel or clothing draped over a chair
+   - A sign prohibiting food or drink
+   - A lifebuoy on the wall
+5. **Scene Type**: Establishing shot
+
+**Scene 21** [0:01:01]:
+  - Activity: The scene shows a quiet moment with a table set up for relaxation or reading.
+  - Location: Outdoor deck area, possibly near a pool.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet moment with a table set up for relaxation or reading.
+2. **Location**: Outdoor deck area, possibly near a pool.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Wooden table with a book and a drink bottle
+   - Towel draped over a chair
+   - Lifebuoy on the wall
+   - Wooden deck flooring
+5. **Scene Type**: Establishing shot.
+
+**Scene 22** [0:01:02]:
+  - Activity: The scene shows a table setup, possibly indicating someone was recently sitting there or is about to.
+  - Location: Indoor setting with natural light, possibly a café or a lounge area.
+  - Mood: Calm and relaxed atmosphere.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a table setup, possibly indicating someone was recently sitting there or is about to.
+2. **Location**: Indoor setting with natural light, possibly a café or a lounge area.
+3. **Mood**: Calm and relaxed atmosphere.
+4. **Key Elements**: 
+   - A book titled "The Practice"
+   - A partially filled glass bottle
+   - A sign prohibiting outside food or drink
+   - A chair with a draped cloth
+5. **Scene Type**: Establishing shot.
+
+**Scene 23** [0:01:03]:
+  - Activity: The scene shows a casual setup with items placed on a table, possibly indicating a moment of relaxation or preparation.
+  - Location: This is taking place indoors, near a window or door leading to a wooden deck.
+  - Mood: The atmosphere is calm and relaxed, with natural light creating a warm ambiance.
+  - Scene Type: Establishing shot
+  - Full Analysis: 1. **Activity**: The scene shows a casual setup with items placed on a table, possibly indicating a moment of relaxation or preparation.
+2. **Location**: This is taking place indoors, near a window or door leading to a wooden deck.
+3. **Mood**: The atmosphere is calm and relaxed, with natural light creating a warm ambiance.
+4. **Key Elements**: 
+   - A book titled "The Practice" by Seth Godin
+   - A half-filled water bottle
+   - A basket with clothes or fabric
+   - Wooden table and deck
+5. **Scene Type**: Establishing shot
+
+**Scene 24** [0:01:04]:
+  - Activity: A person is reaching for a book on a table.
+  - Location: Indoor, possibly a home or office setting.
+  - Mood: Calm and relaxed.
+  - Scene Type: Transition or setup shot.
+  - Full Analysis: 1. **Activity**: A person is reaching for a book on a table.
+2. **Location**: Indoor, possibly a home or office setting.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Book titled "The Practice"
+   - Glass bottle with a yellow liquid
+   - Wooden table
+   - Folded clothes
+5. **Scene Type**: Transition or setup shot.
+
+**Scene 25** [0:01:05]:
+  - Activity: A person is holding a bottle with a light-colored liquid.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Calm and casual.
+  - Scene Type: Transition or everyday moment.
+  - Full Analysis: 1. **Activity**: A person is holding a bottle with a light-colored liquid.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Hand holding a bottle
+   - Light-colored liquid in the bottle
+   - Blue book on the table
+   - Folded clothes
+5. **Scene Type**: Transition or everyday moment.
+
+**Scene 26** [0:01:07]:
+  - Activity: A person is reaching for a water bottle on a table.
+  - Location: Indoor, likely a living room or casual setting.
+  - Mood: Calm and relaxed.
+  - Scene Type: Everyday moment.
+  - Full Analysis: 1. **Activity**: A person is reaching for a water bottle on a table.
+2. **Location**: Indoor, likely a living room or casual setting.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Water bottle, hand, book titled "Practice", folded clothes.
+5. **Scene Type**: Everyday moment.
+
+**Scene 27** [0:01:08]:
+  - Activity: A person is picking up or organizing a fabric bag.
+  - Location: Indoor, possibly a living room or bedroom.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is picking up or organizing a fabric bag.
+2. **Location**: Indoor, possibly a living room or bedroom.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Fabric bag with a design, hand, striped fabric, wooden floor.
+5. **Scene Type**: Transition.
+
+**Scene 28** [0:01:09]:
+  - Activity: Someone is reaching into a bag, possibly to retrieve or place an item.
+  - Location: Indoor, likely on a piece of furniture like a couch or bed.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is reaching into a bag, possibly to retrieve or place an item.
+2. **Location**: Indoor, likely on a piece of furniture like a couch or bed.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, fabric bag, striped towel or blanket, soft surface.
+5. **Scene Type**: Transition.
+
+**Scene 29** [0:01:10]:
+  - Activity: A person is reaching into a bag, possibly to retrieve or place an item.
+  - Location: Indoor setting, likely on a couch or bed.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is reaching into a bag, possibly to retrieve or place an item.
+2. **Location**: Indoor setting, likely on a couch or bed.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, fabric bag, striped blanket, couch or bed surface.
+5. **Scene Type**: Transition.
+
+**Scene 30** [0:01:11]:
+  - Activity: A person is reaching into a bag, possibly searching for or retrieving an item.
+  - Location: Indoor setting, likely a home or personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Transition or everyday activity.
+  - Full Analysis: 1. **Activity**: A person is reaching into a bag, possibly searching for or retrieving an item.
+2. **Location**: Indoor setting, likely a home or personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Hand reaching into a bag
+   - Blue fabric bag
+   - Striped towel or fabric
+   - Couch or soft surface
+5. **Scene Type**: Transition or everyday activity.
+
+**Scene 31** [0:01:12]:
+  - Activity: A person is placing or retrieving an item from a bag.
+  - Location: Indoor setting, possibly a home or casual environment.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is placing or retrieving an item from a bag.
+2. **Location**: Indoor setting, possibly a home or casual environment.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, blue container, fabric bag, striped towel.
+5. **Scene Type**: Transition.
+
+**Scene 32** [0:01:13]:
+  - Activity: A person is reaching into a bag, possibly to retrieve or place an item.
+  - Location: Indoor setting, likely a casual or home environment.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is reaching into a bag, possibly to retrieve or place an item.
+2. **Location**: Indoor setting, likely a casual or home environment.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, blue tote bag, striped fabric, water bottle.
+5. **Scene Type**: Transition.
+
+**Scene 33** [0:01:14]:
+  - Activity: The scene shows a bag placed on a surface, possibly being packed or unpacked.
+  - Location: Indoor setting, likely on a couch or bed.
+  - Mood: Calm and casual.
+  - Scene Type: Transition or setup shot.
+  - Full Analysis: 1. **Activity**: The scene shows a bag placed on a surface, possibly being packed or unpacked.
+2. **Location**: Indoor setting, likely on a couch or bed.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Gray fabric bag
+   - Striped towel or blanket
+   - Soft lighting
+5. **Scene Type**: Transition or setup shot.
+
+**Scene 34** [0:01:15]:
+  - Activity: Someone is packing or organizing items in a bag.
+  - Location: Indoor, possibly on a table or bed.
+  - Mood: Calm and organized.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is packing or organizing items in a bag.
+2. **Location**: Indoor, possibly on a table or bed.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Hand, blue bottle, striped towel, gray bag.
+5. **Scene Type**: Transition.
+
+**Scene 35** [0:01:16]:
+  - Activity: A person is placing a bottle of sunscreen into a bag.
+  - Location: Outdoor setting, possibly near a beach or poolside.
+  - Mood: Relaxed and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is placing a bottle of sunscreen into a bag.
+2. **Location**: Outdoor setting, possibly near a beach or poolside.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Sunscreen bottle, tote bag, striped towel, hand.
+5. **Scene Type**: Transition.
+
+**Scene 36** [0:01:17]:
+  - Activity: A person is holding a bottle of sunscreen, possibly preparing for outdoor activities.
+  - Location: Indoor, likely in a home or personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a bottle of sunscreen, possibly preparing for outdoor activities.
+2. **Location**: Indoor, likely in a home or personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand holding a sunscreen bottle, sunscreen bottle labeled "NIVEA Sun", a bag in the background, striped fabric.
+5. **Scene Type**: Product closeup.
+
+**Scene 37** [0:01:18]:
+  - Activity: A person is holding a bottle of sunscreen, possibly preparing for an outing.
+  - Location: Indoor, likely in a bedroom or living area.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a bottle of sunscreen, possibly preparing for an outing.
+2. **Location**: Indoor, likely in a bedroom or living area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Sunscreen bottle, hand, open bag, striped fabric.
+5. **Scene Type**: Product closeup.
+
+**Scene 38** [0:01:21]:
+  - Activity: The scene shows a close-up of a bag with items inside, possibly preparing for an outing.
+  - Location: Indoor, likely a home or casual setting.
+  - Mood: Calm and casual.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a bag with items inside, possibly preparing for an outing.
+2. **Location**: Indoor, likely a home or casual setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Gray bag, striped towels, sunlight, text overlay.
+5. **Scene Type**: Establishing shot.
+
+**Scene 39** [0:01:22]:
+  - Activity: Someone is packing or unpacking a bag.
+  - Location: Indoor, possibly in a bedroom or living area.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is packing or unpacking a bag.
+2. **Location**: Indoor, possibly in a bedroom or living area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, bag, striped towel, text overlay.
+5. **Scene Type**: Transition.
+
+**Scene 40** [0:01:23]:
+  - Activity: A person is holding a bottle of coconut oil spray, possibly preparing for an activity like tanning.
+  - Location: Indoor, possibly near a window or a well-lit area.
+  - Mood: Calm and casual.
+  - Scene Type: Preparation.
+  - Full Analysis: 1. **Activity**: A person is holding a bottle of coconut oil spray, possibly preparing for an activity like tanning.
+2. **Location**: Indoor, possibly near a window or a well-lit area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Coconut oil spray bottle, striped towel, gray bag, sunlight.
+5. **Scene Type**: Preparation.
+
+**Scene 41** [0:01:24]:
+  - Activity: A person is holding a spray bottle, possibly preparing to use it.
+  - Location: Outdoor setting, likely on a patio or balcony.
+  - Mood: Calm and relaxed.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a spray bottle, possibly preparing to use it.
+2. **Location**: Outdoor setting, likely on a patio or balcony.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Spray bottle, hand, sunlight, text overlay.
+5. **Scene Type**: Product closeup.
+
+**Scene 42** [0:01:25]:
+  - Activity: A person is holding a bottle of virgin coconut oil.
+  - Location: Indoor, possibly in a living room or similar space.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a bottle of virgin coconut oil.
+2. **Location**: Indoor, possibly in a living room or similar space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, bottle of virgin coconut oil, sofa, text overlay in Korean.
+5. **Scene Type**: Product closeup.
+
+**Scene 43** [0:01:28]:
+  - Activity: A relaxing setup is prepared, likely for reading and sunbathing.
+  - Location: Outdoor, possibly on a deck or patio.
+  - Mood: Calm and leisurely.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A relaxing setup is prepared, likely for reading and sunbathing.
+2. **Location**: Outdoor, possibly on a deck or patio.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Book titled "The Practice" by Seth Godin, a striped towel, a bottle of liquid, and a small spray bottle.
+5. **Scene Type**: Establishing shot.
+
+**Scene 44** [0:01:31]:
+  - Activity: A person is holding a glass jar filled with a light-colored liquid, possibly shaking or examining it.
+  - Location: Outdoor setting, likely on a deck or patio.
+  - Mood: Calm and relaxed.
+  - Scene Type: Close-up examination.
+  - Full Analysis: 1. **Activity**: A person is holding a glass jar filled with a light-colored liquid, possibly shaking or examining it.
+2. **Location**: Outdoor setting, likely on a deck or patio.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Glass jar with liquid
+   - Striped fabric or towel
+   - Wooden deck surface
+5. **Scene Type**: Close-up examination.
+
+**Scene 45** [0:01:34]:
+  - Activity: The scene shows people sitting and possibly conversing at a table in a café or restaurant.
+  - Location: Indoor setting, likely a café or restaurant with large windows.
+  - Mood: Calm and relaxed atmosphere.
+  - Scene Type: Dialogue or social interaction.
+  - Full Analysis: 1. **Activity**: The scene shows people sitting and possibly conversing at a table in a café or restaurant.
+2. **Location**: Indoor setting, likely a café or restaurant with large windows.
+3. **Mood**: Calm and relaxed atmosphere.
+4. **Key Elements**: 
+   - Large windows with natural light
+   - People sitting at a table
+   - Hanging light fixture
+   - Plants
+5. **Scene Type**: Dialogue or social interaction.
+
+**Scene 46** [0:01:35]:
+  - Activity: People are sitting at tables, likely having a conversation or dining.
+  - Location: Indoor setting, likely a café or restaurant.
+  - Mood: Calm and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are sitting at tables, likely having a conversation or dining.
+2. **Location**: Indoor setting, likely a café or restaurant.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Large windows, tables with chairs, hanging light fixture, plants.
+5. **Scene Type**: Establishing shot.
+
+**Scene 47** [0:01:41]:
+  - Activity: Two people are ordering or interacting with a barista at a coffee shop counter.
+  - Location: Indoor, in a cozy coffee shop.
+  - Mood: Calm and inviting.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are ordering or interacting with a barista at a coffee shop counter.
+2. **Location**: Indoor, in a cozy coffee shop.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Coffee counter, barista, hanging plants, neon sign, wooden furniture.
+5. **Scene Type**: Dialogue.
+
+**Scene 48** [0:01:48]:
+  - Activity: A person is pouring a liquid, likely Thai tea, over ice cream in a bowl.
+  - Location: Indoor, likely in a cafe or restaurant.
+  - Mood: Calm and inviting.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is pouring a liquid, likely Thai tea, over ice cream in a bowl.
+2. **Location**: Indoor, likely in a cafe or restaurant.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Ice cream, small pitcher with liquid, wooden bowl, spoon, wooden tray.
+5. **Scene Type**: Food closeup.
+
+**Scene 49** [0:01:56]:
+  - Activity: A person is taking a mirror selfie.
+  - Location: Indoor, likely a fitting room or dressing area.
+  - Mood: Calm and casual.
+  - Scene Type: Personal moment.
+  - Full Analysis: 1. **Activity**: A person is taking a mirror selfie.
+2. **Location**: Indoor, likely a fitting room or dressing area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Mirror, person with a phone, wooden walls, clothing hanger.
+5. **Scene Type**: Personal moment.
+
+**Scene 50** [0:02:06]:
+  - Activity: A person is taking a mirror selfie in a fitting room.
+  - Location: Indoor, in a clothing store's fitting room.
+  - Mood: Calm and introspective.
+  - Scene Type: Fashion try-on.
+  - Full Analysis: 1. **Activity**: A person is taking a mirror selfie in a fitting room.
+2. **Location**: Indoor, in a clothing store's fitting room.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Mirror, person, clothing, fitting room walls, hanger.
+5. **Scene Type**: Fashion try-on.
+
+**Scene 51** [0:02:07]:
+  - Activity: The scene shows clothing items displayed on hangers, likely for selection or purchase.
+  - Location: Indoor, possibly in a clothing store or fitting room.
+  - Mood: Calm and focused, typical of a shopping or browsing experience.
+  - Scene Type: Shopping or fashion showcase.
+  - Full Analysis: 1. **Activity**: The scene shows clothing items displayed on hangers, likely for selection or purchase.
+2. **Location**: Indoor, possibly in a clothing store or fitting room.
+3. **Mood**: Calm and focused, typical of a shopping or browsing experience.
+4. **Key Elements**: 
+   - Two clothing hangers
+   - Black dress
+   - Gray ribbed top
+   - Wooden background
+   - Korean text overlay
+5. **Scene Type**: Shopping or fashion showcase.
+
+**Scene 52** [0:02:08]:
+  - Activity: The scene shows clothing items on display, likely for selection or purchase.
+  - Location: Indoor, in a fitting room or clothing store.
+  - Mood: Calm and focused on shopping.
+  - Scene Type: Shopping or fashion display.
+  - Full Analysis: 1. **Activity**: The scene shows clothing items on display, likely for selection or purchase.
+2. **Location**: Indoor, in a fitting room or clothing store.
+3. **Mood**: Calm and focused on shopping.
+4. **Key Elements**: Two hangers with clothing, wooden walls, a small rug, and a visible brand tag.
+5. **Scene Type**: Shopping or fashion display.
+
+**Scene 53** [0:02:14]:
+  - Activity: A person is walking and filming themselves from a high angle.
+  - Location: Outdoor, on a sidewalk next to a street.
+  - Mood: Casual and energetic.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking and filming themselves from a high angle.
+2. **Location**: Outdoor, on a sidewalk next to a street.
+3. **Mood**: Casual and energetic.
+4. **Key Elements**: Person in athletic wear, sidewalk, street, metal railing.
+5. **Scene Type**: Transition.
+
+**Scene 54** [0:02:16]:
+  - Activity: A person is taking a selfie or recording themselves while walking.
+  - Location: Outdoor, likely on a street or alley.
+  - Mood: Energetic and casual.
+  - Scene Type: Vlog or travel montage.
+  - Full Analysis: 1. **Activity**: A person is taking a selfie or recording themselves while walking.
+2. **Location**: Outdoor, likely on a street or alley.
+3. **Mood**: Energetic and casual.
+4. **Key Elements**: Person with sunglasses, smartphone, scooter, plastic chairs, subtitles in Korean.
+5. **Scene Type**: Vlog or travel montage.
+
+**Scene 55** [0:02:18]:
+  - Activity: The scene appears to be set up for a yoga or meditation session.
+  - Location: Indoor, likely a yoga studio or wellness space.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to be set up for a yoga or meditation session.
+2. **Location**: Indoor, likely a yoga studio or wellness space.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Yoga mats, a large gong, potted plants, soft lighting, and meditation bowls.
+5. **Scene Type**: Establishing shot.
+
+**Scene 56** [0:02:21]:
+  - Activity: The scene appears to be a still life setup, possibly showcasing interior decor.
+  - Location: Indoor, likely a living room or a cozy lounge area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to be a still life setup, possibly showcasing interior decor.
+2. **Location**: Indoor, likely a living room or a cozy lounge area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Himalayan salt lamp, potted plants, wicker baskets, clay pots, and a spray bottle.
+5. **Scene Type**: Establishing shot.
+
+**Scene 57** [0:02:25]:
+  - Activity: The scene shows a view from inside a moving vehicle, looking out at a street.
+  - Location: Outdoor, on a tree-lined urban street.
+  - Mood: Calm and leisurely.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a view from inside a moving vehicle, looking out at a street.
+2. **Location**: Outdoor, on a tree-lined urban street.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Vehicle interior, street, trees, buildings, road signs.
+5. **Scene Type**: Travel montage.
+
+**Scene 58** [0:02:26]:
+  - Activity: The scene shows a view from a moving vehicle passing by a hotel entrance sign.
+  - Location: Outdoor, likely on a street near a hotel.
+  - Mood: The atmosphere is transient and observational.
+  - Scene Type: Transition or travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a view from a moving vehicle passing by a hotel entrance sign.
+2. **Location**: Outdoor, likely on a street near a hotel.
+3. **Mood**: The atmosphere is transient and observational.
+4. **Key Elements**: 
+   - Hotel entrance sign
+   - Blue pedestrian crossing sign
+   - Greenery and trees
+   - Part of a vehicle interior
+5. **Scene Type**: Transition or travel montage.
+
+**Scene 59** [0:02:27]:
+  - Activity: The scene shows a view of a hotel sign from a moving vehicle.
+  - Location: Outdoor, near a hotel entrance.
+  - Mood: Calm and observational.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a view of a hotel sign from a moving vehicle.
+2. **Location**: Outdoor, near a hotel entrance.
+3. **Mood**: Calm and observational.
+4. **Key Elements**: Hotel sign, greenery, building facade, traffic sign.
+5. **Scene Type**: Establishing shot.
+
+**Scene 60** [0:02:28]:
+  - Activity: The scene shows a view from a moving vehicle, capturing the surroundings as it passes by.
+  - Location: Outdoor, likely a residential or urban area with buildings and greenery.
+  - Mood: Calm and observational.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a view from a moving vehicle, capturing the surroundings as it passes by.
+2. **Location**: Outdoor, likely a residential or urban area with buildings and greenery.
+3. **Mood**: Calm and observational.
+4. **Key Elements**: 
+   - Road sign
+   - Building with balconies
+   - Greenery and trees
+   - Red vehicle interior
+   - Stone wall with flowers
+5. **Scene Type**: Travel montage.
+
+**Scene 61** [0:02:29]:
+  - Activity: A person is speaking or reacting, possibly in conversation.
+  - Location: Inside a vehicle, with a view of trees outside.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking or reacting, possibly in conversation.
+2. **Location**: Inside a vehicle, with a view of trees outside.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person, car interior, window, trees, subtitles.
+5. **Scene Type**: Dialogue.
+
+**Scene 62** [0:02:30]:
+  - Activity: A person is speaking or reacting, possibly in conversation.
+  - Location: Inside a vehicle.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking or reacting, possibly in conversation.
+2. **Location**: Inside a vehicle.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person, car interior, window, trees visible outside.
+5. **Scene Type**: Dialogue.
+
+**Scene 63** [0:02:31]:
+  - Activity: A person is sitting inside a car, possibly speaking or listening.
+  - Location: Inside a car, with a view of trees outside, indicating an outdoor setting.
+  - Mood: Calm and relaxed.
+  - Scene Type: Dialogue or personal reflection.
+  - Full Analysis: 1. **Activity**: A person is sitting inside a car, possibly speaking or listening.
+2. **Location**: Inside a car, with a view of trees outside, indicating an outdoor setting.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person sitting in the car
+   - Car interior
+   - Trees visible through the window
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue or personal reflection.
+
+**Scene 64** [0:02:32]:
+  - Activity: The scene appears to capture a close-up, possibly accidental, of a person or object.
+  - Location: Outdoor, likely in a natural setting with visible greenery.
+  - Mood: Casual and unintentional.
+  - Scene Type: Transition or accidental close-up.
+  - Full Analysis: 1. **Activity**: The scene appears to capture a close-up, possibly accidental, of a person or object.
+2. **Location**: Outdoor, likely in a natural setting with visible greenery.
+3. **Mood**: Casual and unintentional.
+4. **Key Elements**: Hair, greenery, part of a face, blurred background.
+5. **Scene Type**: Transition or accidental close-up.
+
+**Scene 65** [0:02:33]:
+  - Activity: A person is walking outdoors, possibly recording themselves or being recorded.
+  - Location: Outdoor urban setting, likely near a residential or office building.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking outdoors, possibly recording themselves or being recorded.
+2. **Location**: Outdoor urban setting, likely near a residential or office building.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person, trees, tall buildings, greenery.
+5. **Scene Type**: Transition.
+
+**Scene 66** [0:02:34]:
+  - Activity: A person is walking outdoors, possibly exploring or commuting.
+  - Location: Outdoor urban setting, likely near tall buildings and greenery.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking outdoors, possibly exploring or commuting.
+2. **Location**: Outdoor urban setting, likely near tall buildings and greenery.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person in a black top, tall buildings, trees, skybridge.
+5. **Scene Type**: Transition.
+
+**Scene 67** [0:02:35]:
+  - Activity: A person is walking or standing outdoors, possibly talking or observing their surroundings.
+  - Location: Outdoor, in an urban park or garden area with buildings in the background.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking or standing outdoors, possibly talking or observing their surroundings.
+2. **Location**: Outdoor, in an urban park or garden area with buildings in the background.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Trees, tall buildings, a person in a black top, greenery.
+5. **Scene Type**: Transition.
+
+**Scene 68** [0:02:36]:
+  - Activity: A social gathering or party is taking place, with people mingling and conversing.
+  - Location: Indoor setting, likely a hotel or event space with large windows and greenery visible outside.
+  - Mood: Energetic and lively, with a bustling atmosphere.
+  - Scene Type: Social gathering or event scene.
+  - Full Analysis: 1. **Activity**: A social gathering or party is taking place, with people mingling and conversing.
+2. **Location**: Indoor setting, likely a hotel or event space with large windows and greenery visible outside.
+3. **Mood**: Energetic and lively, with a bustling atmosphere.
+4. **Key Elements**: 
+   - Large windows with a view of trees
+   - People dressed in casual to semi-formal attire
+   - Speaker or sound system
+   - Plants and decorative elements
+5. **Scene Type**: Social gathering or event scene.
+
+**Scene 69** [0:02:37]:
+  - Activity: A social gathering or event is taking place, with people mingling and conversing.
+  - Location: Indoor setting, likely a hotel or event space with large windows and greenery visible outside.
+  - Mood: Energetic and lively, with a sense of social interaction.
+  - Scene Type: Social gathering or event scene.
+  - Full Analysis: 1. **Activity**: A social gathering or event is taking place, with people mingling and conversing.
+2. **Location**: Indoor setting, likely a hotel or event space with large windows and greenery visible outside.
+3. **Mood**: Energetic and lively, with a sense of social interaction.
+4. **Key Elements**: 
+   - Large windows with outdoor view
+   - People in casual to semi-formal attire
+   - Indoor plants
+   - Speaker or sound system
+5. **Scene Type**: Social gathering or event scene.
+
+**Scene 70** [0:02:39]:
+  - Activity: A social gathering or party is taking place with people mingling and conversing.
+  - Location: Indoor setting, likely a hotel or event space.
+  - Mood: Energetic and lively.
+  - Scene Type: Social event.
+  - Full Analysis: 1. **Activity**: A social gathering or party is taking place with people mingling and conversing.
+2. **Location**: Indoor setting, likely a hotel or event space.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: Large windows, indoor plants, people dressed in casual to semi-formal attire, a speaker or microphone setup.
+5. **Scene Type**: Social event.
+
+**Scene 71** [0:02:43]:
+  - Activity: A person is holding complimentary drink tickets.
+  - Location: Indoor, likely at an event or café.
+  - Mood: Casual and inviting.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is holding complimentary drink tickets.
+2. **Location**: Indoor, likely at an event or café.
+3. **Mood**: Casual and inviting.
+4. **Key Elements**: Complimentary drink tickets, hand holding tickets, floor, people in the background.
+5. **Scene Type**: Transition.
+
+**Scene 72** [0:02:45]:
+  - Activity: People are ordering and picking up drinks at a coffee counter.
+  - Location: Indoor café or coffee shop.
+  - Mood: Casual and social.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are ordering and picking up drinks at a coffee counter.
+2. **Location**: Indoor café or coffee shop.
+3. **Mood**: Casual and social.
+4. **Key Elements**: Coffee counter, people holding drinks, "CRAFT" sign, bags of coffee, glass windows.
+5. **Scene Type**: Establishing shot.
+
+**Scene 73** [0:02:46]:
+  - Activity: People are waiting in line and picking up orders at a coffee shop.
+  - Location: Indoor, in a coffee shop.
+  - Mood: Busy and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: People are waiting in line and picking up orders at a coffee shop.
+2. **Location**: Indoor, in a coffee shop.
+3. **Mood**: Busy and casual.
+4. **Key Elements**: People standing in line, coffee cups, "Pick Up Here" sign, counter with items.
+5. **Scene Type**: Everyday activity.
+
+**Scene 74** [0:02:47]:
+  - Activity: People are ordering or picking up drinks at a counter.
+  - Location: Indoor, likely a café or coffee shop.
+  - Mood: Busy and social.
+  - Scene Type: Everyday interaction.
+  - Full Analysis: 1. **Activity**: People are ordering or picking up drinks at a counter.
+2. **Location**: Indoor, likely a café or coffee shop.
+3. **Mood**: Busy and social.
+4. **Key Elements**: Counter with drinks, people holding beverages, menu signs, barista.
+5. **Scene Type**: Everyday interaction.
+
+**Scene 75** [0:02:48]:
+  - Activity: People are gathered in a cafe or coffee shop, likely ordering or waiting for drinks.
+  - Location: Indoor, in a cafe or coffee shop.
+  - Mood: Busy and social.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are gathered in a cafe or coffee shop, likely ordering or waiting for drinks.
+2. **Location**: Indoor, in a cafe or coffee shop.
+3. **Mood**: Busy and social.
+4. **Key Elements**: Large windows, counter with food items, people standing, coffee cups.
+5. **Scene Type**: Establishing shot.
+
+**Scene 76** [0:02:49]:
+  - Activity: People are queuing and ordering at a coffee shop counter.
+  - Location: Indoor, in a modern coffee shop with large windows.
+  - Mood: Busy and social.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are queuing and ordering at a coffee shop counter.
+2. **Location**: Indoor, in a modern coffee shop with large windows.
+3. **Mood**: Busy and social.
+4. **Key Elements**: People in line, coffee counter, large windows, overhead lighting, menu displays.
+5. **Scene Type**: Establishing shot.
+
+**Scene 77** [0:02:51]:
+  - Activity: People are ordering and paying for items at a cafe counter.
+  - Location: Indoor, in a cafe or coffee shop.
+  - Mood: Busy and social atmosphere.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are ordering and paying for items at a cafe counter.
+2. **Location**: Indoor, in a cafe or coffee shop.
+3. **Mood**: Busy and social atmosphere.
+4. **Key Elements**: 
+   - Cafe counter with food and drinks
+   - Customers and staff interacting
+   - Sign reading "Order & Pay Here"
+   - Decor with wooden and dark tones
+5. **Scene Type**: Establishing shot.
+
+**Scene 78** [0:02:52]:
+  - Activity: People are ordering or picking up food and drinks at a counter.
+  - Location: Indoor café or coffee shop.
+  - Mood: Busy and lively.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are ordering or picking up food and drinks at a counter.
+2. **Location**: Indoor café or coffee shop.
+3. **Mood**: Busy and lively.
+4. **Key Elements**: 
+   - People standing at the counter
+   - Food and drink items on display
+   - Cash register
+   - Menu board
+5. **Scene Type**: Establishing shot.
+
+**Scene 79** [0:02:53]:
+  - Activity: A person is standing near a counter, possibly waiting to order or pay.
+  - Location: Indoor, likely a café or restaurant.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person is standing near a counter, possibly waiting to order or pay.
+2. **Location**: Indoor, likely a café or restaurant.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Person in a white shirt
+   - Order & Pay sign
+   - Staff member behind the counter
+   - Food items on the counter
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 80** [0:02:54]:
+  - Activity: A person is adjusting their hair while standing in a busy indoor setting.
+  - Location: Indoor, likely a café or restaurant.
+  - Mood: Casual and lively.
+  - Scene Type: Everyday interaction.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair while standing in a busy indoor setting.
+2. **Location**: Indoor, likely a café or restaurant.
+3. **Mood**: Casual and lively.
+4. **Key Elements**: 
+   - Person adjusting hair
+   - Order and pay sign
+   - People in the background
+   - Wooden ceiling
+   - Counter area
+5. **Scene Type**: Everyday interaction.
+
+**Scene 81** [0:02:55]:
+  - Activity: A person is standing in a cafe or restaurant, possibly waiting or interacting with staff.
+  - Location: Indoor, in a cafe or restaurant setting.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue or interaction.
+  - Full Analysis: 1. **Activity**: A person is standing in a cafe or restaurant, possibly waiting or interacting with staff.
+2. **Location**: Indoor, in a cafe or restaurant setting.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person adjusting hair
+   - "CRAFT" sign on the wall
+   - Order and pay sign
+   - Staff behind the counter
+5. **Scene Type**: Dialogue or interaction.
+
+**Scene 82** [0:02:56]:
+  - Activity: A person is speaking or interacting with the camera in a casual manner.
+  - Location: Indoor, likely a café or restaurant.
+  - Mood: Relaxed and informal.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person is speaking or interacting with the camera in a casual manner.
+2. **Location**: Indoor, likely a café or restaurant.
+3. **Mood**: Relaxed and informal.
+4. **Key Elements**: 
+   - Person in the foreground
+   - "CRAFT" sign on the wall
+   - People in the background
+   - Wooden ceiling design
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 83** [0:02:57]:
+  - Activity: Two people are preparing a drink at a coffee shop counter.
+  - Location: Indoor, at a coffee shop or café.
+  - Mood: Casual and relaxed.
+  - Scene Type: Everyday interaction.
+  - Full Analysis: 1. **Activity**: Two people are preparing a drink at a coffee shop counter.
+2. **Location**: Indoor, at a coffee shop or café.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Coffee cup, "Pick Up Here" sign, sunglasses, napkins, drink stirrer.
+5. **Scene Type**: Everyday interaction.
+
+**Scene 84** [0:02:58]:
+  - Activity: A person is picking up a drink at a café or coffee shop.
+  - Location: Indoor café or coffee shop.
+  - Mood: Busy and casual.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is picking up a drink at a café or coffee shop.
+2. **Location**: Indoor café or coffee shop.
+3. **Mood**: Busy and casual.
+4. **Key Elements**: Iced coffee, "Pick Up Here" sign, people in the background, coffee cups, counter with various items.
+5. **Scene Type**: Action.
+
+**Scene 85** [0:02:59]:
+  - Activity: A person is holding a cup of iced coffee in a cafe or restaurant setting.
+  - Location: Indoor, likely a cafe or coffee shop.
+  - Mood: Casual and bustling.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is holding a cup of iced coffee in a cafe or restaurant setting.
+2. **Location**: Indoor, likely a cafe or coffee shop.
+3. **Mood**: Casual and bustling.
+4. **Key Elements**: Iced coffee cup, people in the background, display of pastries, coffee cups, and a menu sign.
+5. **Scene Type**: Establishing shot.
+
+**Scene 86** [0:03:00]:
+  - Activity: People are socializing and enjoying drinks at a bar or café.
+  - Location: Indoor, likely in a modern café or bar setting.
+  - Mood: Energetic and lively.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: People are socializing and enjoying drinks at a bar or café.
+2. **Location**: Indoor, likely in a modern café or bar setting.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: Bar counter, people, drinks, large windows, wooden ceiling.
+5. **Scene Type**: Social gathering.
+
+**Scene 87** [0:03:01]:
+  - Activity: People are sitting and relaxing, with one person drinking from a cup and another using a phone.
+  - Location: Indoor, possibly a cafe or lounge area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Social interaction.
+  - Full Analysis: 1. **Activity**: People are sitting and relaxing, with one person drinking from a cup and another using a phone.
+2. **Location**: Indoor, possibly a cafe or lounge area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - People sitting on a bench
+   - Drinks with straws
+   - Decorative stone or textured floor
+   - Dim lighting
+5. **Scene Type**: Social interaction.
+
+**Scene 88** [0:03:02]:
+  - Activity: Two people are sitting on the floor, possibly taking a break or engaging in conversation.
+  - Location: Indoor setting, likely a modern or artistic space.
+  - Mood: Relaxed and casual.
+  - Scene Type: Dialogue or casual interaction.
+  - Full Analysis: 1. **Activity**: Two people are sitting on the floor, possibly taking a break or engaging in conversation.
+2. **Location**: Indoor setting, likely a modern or artistic space.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Two people, drinks in plastic cups, textured floor, and a patterned wall or art installation.
+5. **Scene Type**: Dialogue or casual interaction.
+
+**Scene 89** [0:03:03]:
+  - Activity: People are gathered around a table, possibly observing or discussing something.
+  - Location: Indoor setting, likely in a gallery or exhibition space.
+  - Mood: Curious and engaged atmosphere.
+  - Scene Type: Exhibition or observation scene.
+  - Full Analysis: 1. **Activity**: People are gathered around a table, possibly observing or discussing something.
+2. **Location**: Indoor setting, likely in a gallery or exhibition space.
+3. **Mood**: Curious and engaged atmosphere.
+4. **Key Elements**: 
+   - A detailed model or sculpture on the table.
+   - A group of people standing and observing.
+   - Drinks and personal items on the side table.
+   - Large window with greenery outside.
+5. **Scene Type**: Exhibition or observation scene.
+
+**Scene 90** [0:03:04]:
+  - Activity: A group of people is socializing and mingling at a gathering or event.
+  - Location: Indoor setting, likely a lounge or event space with large windows.
+  - Mood: Energetic and lively.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: A group of people is socializing and mingling at a gathering or event.
+2. **Location**: Indoor setting, likely a lounge or event space with large windows.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: 
+   - Large group of people
+   - Glass windows with a view of greenery
+   - Lounge seating
+   - Overhead lighting
+5. **Scene Type**: Social gathering.
+
+**Scene 91** [0:03:05]:
+  - Activity: A group of people is gathered, possibly for a social event or party.
+  - Location: Indoor setting, likely a lounge or event space with large windows.
+  - Mood: Energetic and lively.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: A group of people is gathered, possibly for a social event or party.
+2. **Location**: Indoor setting, likely a lounge or event space with large windows.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: Large windows, people socializing, plants, speaker, text overlay.
+5. **Scene Type**: Social gathering.
+
+**Scene 92** [0:03:06]:
+  - Activity: People are gathered at a social event, possibly enjoying music.
+  - Location: Indoor setting, likely a lounge or event space with large windows.
+  - Mood: Energetic and lively.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: People are gathered at a social event, possibly enjoying music.
+2. **Location**: Indoor setting, likely a lounge or event space with large windows.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: 
+   - Large windows with a view of greenery
+   - DJ setup with speakers
+   - Crowd of people socializing
+   - Text overlay in Korean
+5. **Scene Type**: Social gathering.
+
+**Scene 93** [0:03:07]:
+  - Activity: People are socializing and possibly dancing or moving energetically.
+  - Location: Indoor setting, likely a bar or club.
+  - Mood: Energetic and lively.
+  - Scene Type: Social gathering or party scene.
+  - Full Analysis: 1. **Activity**: People are socializing and possibly dancing or moving energetically.
+2. **Location**: Indoor setting, likely a bar or club.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: 
+   - People holding drinks
+   - Table with drinks
+   - Casual clothing
+   - Dim lighting
+5. **Scene Type**: Social gathering or party scene.
+
+**Scene 94** [0:03:08]:
+  - Activity: People are socializing and enjoying drinks.
+  - Location: Outdoor setting, likely at a bar or café.
+  - Mood: Energetic and lively.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: People are socializing and enjoying drinks.
+2. **Location**: Outdoor setting, likely at a bar or café.
+3. **Mood**: Energetic and lively.
+4. **Key Elements**: Drinks, round table, people standing, casual attire.
+5. **Scene Type**: Social gathering.
+
+**Scene 95** [0:03:09]:
+  - Activity: People appear to be gathered or conversing in an outdoor setting.
+  - Location: Outdoor, likely a park or garden area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People appear to be gathered or conversing in an outdoor setting.
+2. **Location**: Outdoor, likely a park or garden area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Greenery and trees, a pathway, a trash can, people in the foreground.
+5. **Scene Type**: Establishing shot.
+
+**Scene 96** [0:03:10]:
+  - Activity: People are gathered in an outdoor setting, possibly relaxing or having a conversation.
+  - Location: Outdoor, likely a park or garden area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are gathered in an outdoor setting, possibly relaxing or having a conversation.
+2. **Location**: Outdoor, likely a park or garden area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Greenery and trees, a person in the distance, a trash bin, people partially visible in the foreground.
+5. **Scene Type**: Establishing shot.
+
+**Scene 97** [0:03:11]:
+  - Activity: People are socializing and dining at an outdoor café or restaurant.
+  - Location: Outdoor setting, likely a café or restaurant terrace near a pond or garden.
+  - Mood: Relaxed and social atmosphere.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: People are socializing and dining at an outdoor café or restaurant.
+2. **Location**: Outdoor setting, likely a café or restaurant terrace near a pond or garden.
+3. **Mood**: Relaxed and social atmosphere.
+4. **Key Elements**: Outdoor seating, people conversing, trees and greenery, pond, drinks on tables.
+5. **Scene Type**: Social gathering.
+
+**Scene 98** [0:03:13]:
+  - Activity: People are socializing and dining at an outdoor café or restaurant.
+  - Location: Outdoor setting, likely a café or restaurant patio near a pond or garden.
+  - Mood: Relaxed and social.
+  - Scene Type: Social gathering.
+  - Full Analysis: 1. **Activity**: People are socializing and dining at an outdoor café or restaurant.
+2. **Location**: Outdoor setting, likely a café or restaurant patio near a pond or garden.
+3. **Mood**: Relaxed and social.
+4. **Key Elements**: Outdoor seating area, people sitting and standing, drinks and food on tables, greenery and pond in the background.
+5. **Scene Type**: Social gathering.
+
+**Scene 99** [0:03:14]:
+  - Activity: People are waiting or moving around near a taxi stand.
+  - Location: Outdoor, urban setting near a transportation hub or shopping area.
+  - Mood: Busy and bustling.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are waiting or moving around near a taxi stand.
+2. **Location**: Outdoor, urban setting near a transportation hub or shopping area.
+3. **Mood**: Busy and bustling.
+4. **Key Elements**: Taxis, elevated train tracks, high-rise buildings, people.
+5. **Scene Type**: Establishing shot.
+
+**Scene 100** [0:03:16]:
+  - Activity: A car is driving on a wet road during rainfall.
+  - Location: Outdoor, likely a street or parking area.
+  - Mood: Calm and reflective.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A car is driving on a wet road during rainfall.
+2. **Location**: Outdoor, likely a street or parking area.
+3. **Mood**: Calm and reflective.
+4. **Key Elements**: Car, wet road, rain, traffic cone, chain.
+5. **Scene Type**: Transition.
+
+**Scene 101** [0:03:17]:
+  - Activity: Rain is falling heavily on a street, creating splashes on the wet surface.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and reflective.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Rain is falling heavily on a street, creating splashes on the wet surface.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and reflective.
+4. **Key Elements**: Wet pavement, rain splashes, traffic cone, chain, vehicle in the background.
+5. **Scene Type**: Establishing shot.
+
+**Scene 102** [0:03:18]:
+  - Activity: Rain is falling heavily on a street, creating splashes on the wet surface.
+  - Location: Outdoor, likely a city street or parking area.
+  - Mood: Calm and reflective.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Rain is falling heavily on a street, creating splashes on the wet surface.
+2. **Location**: Outdoor, likely a city street or parking area.
+3. **Mood**: Calm and reflective.
+4. **Key Elements**: Rain, wet pavement, traffic cones, parked car, reflective surfaces.
+5. **Scene Type**: Establishing shot.
+
+**Scene 103** [0:03:21]:
+  - Activity: A vehicle is driving on a wet road during rainfall.
+  - Location: Outdoor, likely a street or parking area.
+  - Mood: Calm and reflective due to the rain.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A vehicle is driving on a wet road during rainfall.
+2. **Location**: Outdoor, likely a street or parking area.
+3. **Mood**: Calm and reflective due to the rain.
+4. **Key Elements**: Truck with bright lights, wet pavement, rain, traffic cone.
+5. **Scene Type**: Transition.
+
+**Scene 104** [0:03:22]:
+  - Activity: A person is stirring a drink in a mug.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and routine.
+  - Scene Type: Food preparation closeup.
+  - Full Analysis: 1. **Activity**: A person is stirring a drink in a mug.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Mug, spoon, container of sweetener, countertop.
+5. **Scene Type**: Food preparation closeup.
+
+**Scene 105** [0:03:30]:
+  - Activity: A person is walking through a living space, holding a mug and a book.
+  - Location: Indoor, in a modern apartment or home.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday life moment.
+  - Full Analysis: 1. **Activity**: A person is walking through a living space, holding a mug and a book.
+2. **Location**: Indoor, in a modern apartment or home.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Sofa with pillows, kitchen area, a person holding a mug and book, boxes on the floor, small table with items.
+5. **Scene Type**: Everyday life moment.
+
+**Scene 106** [0:03:31]:
+  - Activity: A person is speaking directly to the camera, possibly in a vlog or video call.
+  - Location: Indoor, likely in a living room or kitchen area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly in a vlog or video call.
+2. **Location**: Indoor, likely in a living room or kitchen area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person wearing glasses
+   - Sofa
+   - Kitchen counter
+   - Doorway
+   - Light-colored walls
+5. **Scene Type**: Dialogue.
+
+**Scene 107** [0:03:36]:
+  - Activity: A person is drinking from a mug.
+  - Location: Indoor, likely a living room or kitchen area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Casual moment.
+  - Full Analysis: 1. **Activity**: A person is drinking from a mug.
+2. **Location**: Indoor, likely a living room or kitchen area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Person with glasses, white mug, sofa, door, kitchen counter.
+5. **Scene Type**: Casual moment.
+
+**Scene 108** [0:03:37]:
+  - Activity: A person is drinking from a mug.
+  - Location: Indoor, likely a hotel room or apartment.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is drinking from a mug.
+2. **Location**: Indoor, likely a hotel room or apartment.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Person with glasses, white mug, door in the background, white wall.
+5. **Scene Type**: Intimate moment.
+
+**Scene 109** [0:03:38]:
+  - Activity: A person is applying a product, possibly skincare or makeup, while speaking to the camera.
+  - Location: Indoor, likely in a living room or a personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Personal vlog or tutorial.
+  - Full Analysis: 1. **Activity**: A person is applying a product, possibly skincare or makeup, while speaking to the camera.
+2. **Location**: Indoor, likely in a living room or a personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person with glasses, sofa, kitchen area, door, product container.
+5. **Scene Type**: Personal vlog or tutorial.
+
+**Scene 110** [0:04:12]:
+  - Activity: A person is holding up a tube of skincare product towards the camera, likely discussing or reviewing it.
+  - Location: Indoor, in a living room or similar home setting.
+  - Mood: Informal and relaxed.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is holding up a tube of skincare product towards the camera, likely discussing or reviewing it.
+2. **Location**: Indoor, in a living room or similar home setting.
+3. **Mood**: Informal and relaxed.
+4. **Key Elements**: Skincare product tube, person, sofa, kitchen area, text on screen.
+5. **Scene Type**: Product demonstration.
+
+**Scene 111** [0:04:14]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+  - Location: Indoor, likely in a living room or apartment setting.
+  - Mood: Calm and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing a topic.
+2. **Location**: Indoor, likely in a living room or apartment setting.
+3. **Mood**: Calm and conversational.
+4. **Key Elements**: 
+   - Person wearing glasses
+   - Couch with cushions
+   - Kitchen area in the background
+   - Doorway
+5. **Scene Type**: Dialogue.
+
+**Scene 112** [0:05:28]:
+  - Activity: A bowl with a spoon is placed on a kitchen countertop, possibly preparing or mixing ingredients.
+  - Location: Indoor, in a kitchen.
+  - Mood: Calm and domestic.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A bowl with a spoon is placed on a kitchen countertop, possibly preparing or mixing ingredients.
+2. **Location**: Indoor, in a kitchen.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Bowl with a spoon, frying pan, countertop, towel, glass cups.
+5. **Scene Type**: Food preparation.
+
+**Scene 113** [0:05:35]:
+  - Activity: Someone is cooking or preparing food in a frying pan.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking/food preparation.
+  - Full Analysis: 1. **Activity**: Someone is cooking or preparing food in a frying pan.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Frying pan with food, countertop, glass of water, kettle, olive oil bottle.
+5. **Scene Type**: Cooking/food preparation.
+
+**Scene 114** [0:05:44]:
+  - Activity: A person is eating food using chopsticks.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is eating food using chopsticks.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person wearing a cap, chopsticks, bowl, kitchen cabinets.
+5. **Scene Type**: Food closeup.
+
+**Scene 115** [0:05:51]:
+  - Activity: The scene shows a quiet, unoccupied room.
+  - Location: Indoor, likely a living room or a cozy office space.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a quiet, unoccupied room.
+2. **Location**: Indoor, likely a living room or a cozy office space.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Large window with city view, potted plants, cushioned seating, woven baskets, wall-mounted shelves.
+5. **Scene Type**: Establishing shot.
+
+**Scene 116** [0:05:52]:
+  - Activity: People are practicing yoga on mats.
+  - Location: Indoor yoga studio.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are practicing yoga on mats.
+2. **Location**: Indoor yoga studio.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Yoga mats, potted plants, wall shelves with yoga mats, wooden furniture, hanging lights.
+5. **Scene Type**: Establishing shot.
+
+**Scene 117** [0:05:54]:
+  - Activity: A person is practicing a yoga pose, stretching their leg while seated on a mat.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Exercise/demonstration.
+  - Full Analysis: 1. **Activity**: A person is practicing a yoga pose, stretching their leg while seated on a mat.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Yoga mat, person in athletic wear, wooden shelving, white walls.
+5. **Scene Type**: Exercise/demonstration.
+
+**Scene 118** [0:06:05]:
+  - Activity: A person is performing a stretching exercise using a strap.
+  - Location: Indoor, likely a home or studio space.
+  - Mood: Calm and focused.
+  - Scene Type: Exercise demonstration.
+  - Full Analysis: 1. **Activity**: A person is performing a stretching exercise using a strap.
+2. **Location**: Indoor, likely a home or studio space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Exercise mat, strap, shelving unit, candle.
+5. **Scene Type**: Exercise demonstration.
+
+**Scene 119** [0:06:12]:
+  - Activity: A person is practicing yoga, performing a balance pose using a strap for support.
+  - Location: Indoor, likely a yoga studio or home practice space.
+  - Mood: Focused and calm.
+  - Scene Type: Exercise demonstration.
+  - Full Analysis: 1. **Activity**: A person is practicing yoga, performing a balance pose using a strap for support.
+2. **Location**: Indoor, likely a yoga studio or home practice space.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Yoga mat, yoga strap, wooden block, person in athletic wear.
+5. **Scene Type**: Exercise demonstration.
+
+**Scene 120** [0:06:13]:
+  - Activity: A person is practicing yoga or stretching using a strap on a mat.
+  - Location: Indoor, likely in a home or studio setting.
+  - Mood: Calm and focused.
+  - Scene Type: Exercise or fitness demonstration.
+  - Full Analysis: 1. **Activity**: A person is practicing yoga or stretching using a strap on a mat.
+2. **Location**: Indoor, likely in a home or studio setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Yoga mat, yoga strap, person in athletic wear, shelf with items, wooden furniture.
+5. **Scene Type**: Exercise or fitness demonstration.
+
+**Scene 121** [0:06:14]:
+  - Activity: A person is putting on a helmet.
+  - Location: Indoor, possibly in a cafe or shop.
+  - Mood: Casual and lighthearted.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is putting on a helmet.
+2. **Location**: Indoor, possibly in a cafe or shop.
+3. **Mood**: Casual and lighthearted.
+4. **Key Elements**: Helmet, person, glass windows, ceiling lights.
+5. **Scene Type**: Transition.
+
+**Scene 122** [0:06:18]:
+  - Activity: A person is preparing to go out, possibly for a ride, as they are wearing a helmet.
+  - Location: Indoor, possibly near an entrance or lobby area.
+  - Mood: The atmosphere is casual and anticipatory.
+  - Scene Type: Transition
+  - Full Analysis: 1. **Activity**: A person is preparing to go out, possibly for a ride, as they are wearing a helmet.
+2. **Location**: Indoor, possibly near an entrance or lobby area.
+3. **Mood**: The atmosphere is casual and anticipatory.
+4. **Key Elements**: 
+   - Person wearing a helmet
+   - White sleeveless top
+   - Glass door/window
+   - Ceiling light
+5. **Scene Type**: Transition
+
+**Scene 123** [0:06:19]:
+  - Activity: A person is standing on the street with their eyes closed, wearing a helmet.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and contemplative.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is standing on the street with their eyes closed, wearing a helmet.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: Helmet with visor, parked motorcycles, street with vehicles, person wearing a white top.
+5. **Scene Type**: Transition.
+
+**Scene 124** [0:06:20]:
+  - Activity: A person is riding a motorcycle or scooter on a street.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and focused.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle or scooter on a street.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person wearing a helmet, white car, street with buildings, power lines.
+5. **Scene Type**: Travel montage.
+
+**Scene 125** [0:06:21]:
+  - Activity: A person is riding a motorcycle or scooter.
+  - Location: Outdoor, on a city street.
+  - Mood: Casual and focused.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle or scooter.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Person wearing a helmet, white car, power lines, building with a sign, clear sky.
+5. **Scene Type**: Travel montage.
+
+**Scene 126** [0:06:22]:
+  - Activity: A person is riding a motorcycle or scooter.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle or scooter.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Helmet, white tank top, buildings, power lines, clear sky.
+5. **Scene Type**: Travel montage.
+
+**Scene 127** [0:06:23]:
+  - Activity: A person on a scooter is waiting at a street intersection next to a pink taxi.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person on a scooter is waiting at a street intersection next to a pink taxi.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Pink taxi, scooter, person wearing a helmet, street, white fence.
+5. **Scene Type**: Transition.
+
+**Scene 128** [0:06:24]:
+  - Activity: A person is sitting on a scooter, holding a smartphone.
+  - Location: Outdoor, on a street.
+  - Mood: Casual and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is sitting on a scooter, holding a smartphone.
+2. **Location**: Outdoor, on a street.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Scooter, smartphone, person wearing a helmet, street, parked car.
+5. **Scene Type**: Transition.
+
+**Scene 129** [0:06:25]:
+  - Activity: A person is riding a motorcycle or scooter on a street.
+  - Location: Outdoor, on a city street.
+  - Mood: Casual and everyday.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle or scooter on a street.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Motorcycle/scooter, person in a gray shirt, traffic cones, road.
+5. **Scene Type**: Action.
+
+**Scene 130** [0:06:26]:
+  - Activity: A person is riding a motorcycle on a street.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle on a street.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Motorcycle helmet, street, another motorcyclist, trees, buildings.
+5. **Scene Type**: Travel montage.
+
+**Scene 131** [0:06:27]:
+  - Activity: A person is riding a motorcycle or scooter on a street.
+  - Location: Outdoor, on a residential or urban street.
+  - Mood: Calm and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle or scooter on a street.
+2. **Location**: Outdoor, on a residential or urban street.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Motorcycle helmet, street, trees, buildings, Korean subtitles.
+5. **Scene Type**: Travel montage.
+
+**Scene 132** [0:06:28]:
+  - Activity: A person is riding a motorcycle on a street.
+  - Location: Outdoor, on a city street.
+  - Mood: Energetic and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle on a street.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Energetic and casual.
+4. **Key Elements**: Motorcycle helmet, street, trees, another motorcyclist, buildings.
+5. **Scene Type**: Travel montage.
+
+**Scene 133** [0:06:29]:
+  - Activity: A person is riding a motorcycle down a street.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding a motorcycle down a street.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Motorcycle helmet, street, buildings, parked cars, trees.
+5. **Scene Type**: Travel montage.
+
+**Scene 134** [0:06:30]:
+  - Activity: Two people are riding a motorcycle.
+  - Location: Outdoor, on a street in an urban area.
+  - Mood: Adventurous and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: Two people are riding a motorcycle.
+2. **Location**: Outdoor, on a street in an urban area.
+3. **Mood**: Adventurous and casual.
+4. **Key Elements**: Motorcycle, helmets, street, buildings, text overlay.
+5. **Scene Type**: Travel montage.
+
+**Scene 135** [0:06:31]:
+  - Activity: Two people are riding a motorcycle.
+  - Location: Outdoor, on a street in an urban area.
+  - Mood: Adventurous and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: I'm unable to analyze the image directly, but based on your description, here's a possible analysis:
+
+1. **Activity**: Two people are riding a motorcycle.
+2. **Location**: Outdoor, on a street in an urban area.
+3. **Mood**: Adventurous and relaxed.
+4. **Key Elements**: Motorcycle, helmets, street, buildings.
+5. **Scene Type**: Travel montage.
+
+**Scene 136** [0:06:32]:
+  - Activity: Two people are riding a motorcycle together.
+  - Location: Outdoor, on a street.
+  - Mood: Adventurous and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: Two people are riding a motorcycle together.
+2. **Location**: Outdoor, on a street.
+3. **Mood**: Adventurous and relaxed.
+4. **Key Elements**: Motorcycle, two people wearing helmets, street, buildings.
+5. **Scene Type**: Travel montage.
+
+**Scene 137** [0:06:33]:
+  - Activity: Two people are riding a motorcycle.
+  - Location: Outdoor, on a city street.
+  - Mood: Adventurous and casual.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: Two people are riding a motorcycle.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Adventurous and casual.
+4. **Key Elements**: Motorcycle, helmets, street, sidewalk.
+5. **Scene Type**: Action.
+
+**Scene 138** [0:06:34]:
+  - Activity: The scene shows a person browsing through aisles in a store.
+  - Location: Indoor, in a convenience store or small supermarket.
+  - Mood: The atmosphere is casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a person browsing through aisles in a store.
+2. **Location**: Indoor, in a convenience store or small supermarket.
+3. **Mood**: The atmosphere is casual and everyday.
+4. **Key Elements**: Shelves stocked with various packaged goods, bright lighting, narrow aisles.
+5. **Scene Type**: Establishing shot.
+
+**Scene 139** [0:06:35]:
+  - Activity: A person is shopping in a convenience store.
+  - Location: Indoor, in a convenience store.
+  - Mood: Routine and everyday.
+  - Scene Type: Everyday life.
+  - Full Analysis: 1. **Activity**: A person is shopping in a convenience store.
+2. **Location**: Indoor, in a convenience store.
+3. **Mood**: Routine and everyday.
+4. **Key Elements**: Shelves stocked with snacks, canned goods, a person browsing, fluorescent lighting, exit sign.
+5. **Scene Type**: Everyday life.
+
+**Scene 140** [0:06:36]:
+  - Activity: The scene shows a view of a grocery store aisle, likely during a shopping trip.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Neutral and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a view of a grocery store aisle, likely during a shopping trip.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Neutral and everyday.
+4. **Key Elements**: Shelves stocked with snacks, packaged goods, overhead fluorescent lighting, aisle signage.
+5. **Scene Type**: Establishing shot.
+
+**Scene 141** [0:06:37]:
+  - Activity: The scene shows a person walking through the aisle of a store, likely browsing or shopping.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: The atmosphere is calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a person walking through the aisle of a store, likely browsing or shopping.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: The atmosphere is calm and routine.
+4. **Key Elements**: 
+   - Shelves stocked with various packaged goods.
+   - Bright fluorescent lighting.
+   - Aisle with snacks and household items.
+   - Signage and product labels.
+5. **Scene Type**: Establishing shot.
+
+**Scene 142** [0:06:38]:
+  - Activity: The scene shows a person walking through the aisles of a store.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Casual and everyday.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a person walking through the aisles of a store.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Shelves stocked with snacks, packaged goods, bright lighting, aisle signage.
+5. **Scene Type**: Establishing shot.
+
+**Scene 143** [0:06:39]:
+  - Activity: The scene shows someone browsing or walking through a grocery store aisle.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: The atmosphere is calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows someone browsing or walking through a grocery store aisle.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: The atmosphere is calm and routine.
+4. **Key Elements**: Shelves stocked with various food items, bright overhead lighting, a shopping aisle, and product signage.
+5. **Scene Type**: Establishing shot.
+
+**Scene 144** [0:06:40]:
+  - Activity: The scene shows a person browsing or walking through a grocery store aisle.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: The atmosphere is calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a person browsing or walking through a grocery store aisle.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: The atmosphere is calm and routine.
+4. **Key Elements**: 
+   - Shelves stocked with various packaged goods
+   - Bottled water on the left
+   - Bright overhead lighting
+   - Subtitles at the bottom
+5. **Scene Type**: Establishing shot.
+
+**Scene 145** [0:06:41]:
+  - Activity: The scene shows a variety of packaged food items displayed on shelves in a store.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Neutral and commercial.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a variety of packaged food items displayed on shelves in a store.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Neutral and commercial.
+4. **Key Elements**: Shelves, packaged food items, price labels, colorful packaging.
+5. **Scene Type**: Establishing shot.
+
+**Scene 146** [0:06:42]:
+  - Activity: The scene shows a variety of packaged food items on display in a store.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Neutral and commercial.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a variety of packaged food items on display in a store.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Neutral and commercial.
+4. **Key Elements**: Packaged noodles, ground chili, canned goods, price tags.
+5. **Scene Type**: Establishing shot.
+
+**Scene 147** [0:06:43]:
+  - Activity: A person is shopping in a grocery store aisle.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Routine and everyday.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is shopping in a grocery store aisle.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Routine and everyday.
+4. **Key Elements**: Shelves stocked with various food items, cooking oil bottles, canned goods, a person in a white shirt.
+5. **Scene Type**: Everyday activity.
+
+**Scene 148** [0:06:44]:
+  - Activity: Two people are shopping in a convenience store, browsing the shelves.
+  - Location: Indoor, in a convenience store.
+  - Mood: Casual and routine.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: Two people are shopping in a convenience store, browsing the shelves.
+2. **Location**: Indoor, in a convenience store.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Shelves stocked with snacks and goods, two people shopping, bright lighting.
+5. **Scene Type**: Everyday activity.
+
+**Scene 149** [0:06:45]:
+  - Activity: A person is shopping and browsing items on a shelf.
+  - Location: Indoor, in a convenience store or small supermarket.
+  - Mood: Calm and routine.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is shopping and browsing items on a shelf.
+2. **Location**: Indoor, in a convenience store or small supermarket.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shelves stocked with products, a person browsing, fluorescent lighting, a shopping cart.
+5. **Scene Type**: Everyday activity.
+
+**Scene 150** [0:06:46]:
+  - Activity: The scene shows a person shopping or browsing in a grocery store aisle.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a person shopping or browsing in a grocery store aisle.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shelves stocked with various products, a refrigerated section, signage, and a store aisle.
+5. **Scene Type**: Establishing shot.
+
+**Scene 151** [0:06:47]:
+  - Activity: The scene shows a typical shopping experience in a grocery store aisle.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a typical shopping experience in a grocery store aisle.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: 
+   - Refrigerated shelves with dairy products.
+   - A variety of packaged goods on shelves.
+   - A door leading to a storage area.
+5. **Scene Type**: Establishing shot.
+
+**Scene 152** [0:06:48]:
+  - Activity: The scene shows someone browsing products in a store aisle.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows someone browsing products in a store aisle.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shelves with various packaged products, refrigerated section, store aisle, door to a storage or staff area.
+5. **Scene Type**: Establishing shot.
+
+**Scene 153** [0:06:49]:
+  - Activity: Someone is shopping or browsing in a store.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Casual and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Someone is shopping or browsing in a store.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Shelves with products, a refrigerator, a door, Korean subtitles.
+5. **Scene Type**: Establishing shot.
+
+**Scene 154** [0:06:50]:
+  - Activity: A person is cleaning the floor in a grocery store aisle.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is cleaning the floor in a grocery store aisle.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shelves stocked with various products, a person mopping, fluorescent lighting, grocery items.
+5. **Scene Type**: Establishing shot.
+
+**Scene 155** [0:06:51]:
+  - Activity: A person is selecting packaged food items from a supermarket shelf.
+  - Location: Indoor, in a supermarket or convenience store.
+  - Mood: Casual and routine.
+  - Scene Type: Shopping.
+  - Full Analysis: 1. **Activity**: A person is selecting packaged food items from a supermarket shelf.
+2. **Location**: Indoor, in a supermarket or convenience store.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Packaged food items, hand reaching for a product, price labels, shelf.
+5. **Scene Type**: Shopping.
+
+**Scene 156** [0:06:52]:
+  - Activity: A person is selecting packaged food items from a store shelf.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Casual and routine.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is selecting packaged food items from a store shelf.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Packaged food items, a hand holding a product, price labels, store shelves.
+5. **Scene Type**: Shopping scene.
+
+**Scene 157** [0:06:53]:
+  - Activity: A person is browsing and possibly selecting packaged snacks or food items from a store shelf.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Casual and focused, typical of shopping.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is browsing and possibly selecting packaged snacks or food items from a store shelf.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Casual and focused, typical of shopping.
+4. **Key Elements**: Packaged snacks, shelf labels, a hand holding a product, various food packaging.
+5. **Scene Type**: Shopping scene.
+
+**Scene 158** [0:06:54]:
+  - Activity: A person is shopping and examining a packaged food item.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Casual and focused.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is shopping and examining a packaged food item.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Packaged food items, shelves, product labels, hand holding a package.
+5. **Scene Type**: Shopping scene.
+
+**Scene 159** [0:06:55]:
+  - Activity: A person is speaking, possibly addressing the camera.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly addressing the camera.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person wearing glasses, striped shirt, wooden cabinets in the background.
+5. **Scene Type**: Dialogue.
+
+**Scene 160** [0:06:56]:
+  - Activity: A person is speaking or preparing to speak, possibly addressing the camera.
+  - Location: Indoor, likely in a home or office setting.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking or preparing to speak, possibly addressing the camera.
+2. **Location**: Indoor, likely in a home or office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person wearing glasses, striped shirt, neutral background.
+5. **Scene Type**: Dialogue or monologue.
+
+**Scene 161** [0:06:57]:
+  - Activity: A person is speaking or reacting to something, possibly recording themselves.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Casual and informal.
+  - Scene Type: Dialogue or vlog-style recording.
+  - Full Analysis: 1. **Activity**: A person is speaking or reacting to something, possibly recording themselves.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Casual and informal.
+4. **Key Elements**: Person with glasses, white wall, ceiling.
+5. **Scene Type**: Dialogue or vlog-style recording.
+
+**Scene 162** [0:06:58]:
+  - Activity: A person is preparing or handling food, possibly about to cook or serve it.
+  - Location: Indoor kitchen.
+  - Mood: Casual and domestic.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing or handling food, possibly about to cook or serve it.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Casual and domestic.
+4. **Key Elements**: Food package, frying pan, kettle, striped shirt.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 163** [0:06:59]:
+  - Activity: A person is holding and possibly showing a package of food or ingredients.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Casual and relaxed.
+  - Scene Type: Demonstration or cooking preparation.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly showing a package of food or ingredients.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Food package, person in a striped shirt, kitchen counter, frying pan.
+5. **Scene Type**: Demonstration or cooking preparation.
+
+**Scene 164** [0:07:00]:
+  - Activity: A person is showing a package of tea to the camera.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is showing a package of tea to the camera.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person wearing glasses
+   - Tea package labeled "Orteas"
+   - Kitchen counter
+   - Cabinets
+   - Text overlay in a foreign language
+5. **Scene Type**: Product demonstration.
+
+**Scene 165** [0:07:02]:
+  - Activity: A person is showing a product to the camera, possibly discussing or reviewing it.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Casual and informative.
+  - Scene Type: Product review or demonstration.
+  - Full Analysis: 1. **Activity**: A person is showing a product to the camera, possibly discussing or reviewing it.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Casual and informative.
+4. **Key Elements**: 
+   - Person with glasses
+   - Product package
+   - Kitchen counter
+   - Cabinets
+   - Text overlay in a foreign language
+5. **Scene Type**: Product review or demonstration.
+
+**Scene 166** [0:07:04]:
+  - Activity: A person is showing a packaged food item to the camera.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Casual and informative.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is showing a packaged food item to the camera.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Casual and informative.
+4. **Key Elements**: Person, packaged food item, kitchen counter, frying pan, electrical outlets.
+5. **Scene Type**: Product demonstration.
+
+**Scene 167** [0:07:05]:
+  - Activity: A person is presenting or discussing a product, possibly a food item.
+  - Location: Indoor, in a kitchen.
+  - Mood: Informal and engaging.
+  - Scene Type: Product demonstration.
+  - Full Analysis: 1. **Activity**: A person is presenting or discussing a product, possibly a food item.
+2. **Location**: Indoor, in a kitchen.
+3. **Mood**: Informal and engaging.
+4. **Key Elements**: Person with glasses, a bag of snacks, kitchen counter, frying pan, and a can.
+5. **Scene Type**: Product demonstration.
+
+**Scene 168** [0:07:14]:
+  - Activity: A person is pouring liquid from a carton into a glass container on a scale.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is pouring liquid from a carton into a glass container on a scale.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Glass container, carton, scale, ceramic mug, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 169** [0:07:16]:
+  - Activity: Hot water is being poured into a glass mug containing loose tea leaves.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Hot water is being poured into a glass mug containing loose tea leaves.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Glass mug, loose tea leaves, hot water, scale, kettle.
+5. **Scene Type**: Food preparation.
+
+**Scene 170** [0:07:22]:
+  - Activity: Tea is being poured from a glass teapot into a cup containing a large ice cube.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Tea is being poured from a glass teapot into a cup containing a large ice cube.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Glass teapot, cup with ice cube, countertop, hand pouring tea.
+5. **Scene Type**: Food closeup.
+
+**Scene 171** [0:07:26]:
+  - Activity: Tea is being poured from a glass teapot into a cup.
+  - Location: Indoor, likely in a living room or kitchen area.
+  - Mood: Calm and serene.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Tea is being poured from a glass teapot into a cup.
+2. **Location**: Indoor, likely in a living room or kitchen area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Glass teapot, teacup, table, large window, curtains.
+5. **Scene Type**: Food closeup.
+
+**Scene 172** [0:07:28]:
+  - Activity: A person is holding a glass of iced beverage.
+  - Location: Indoor, likely on a kitchen countertop.
+  - Mood: Calm and casual.
+  - Scene Type: Food/drink closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a glass of iced beverage.
+2. **Location**: Indoor, likely on a kitchen countertop.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass cup, ice cubes, hand, countertop.
+5. **Scene Type**: Food/drink closeup.
+
+**Scene 173** [0:07:31]:
+  - Activity: A person is holding and showing a package of grilled banana snacks.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and informative.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is holding and showing a package of grilled banana snacks.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and informative.
+4. **Key Elements**: Grilled banana snack package, hand holding the package, glass cup, marble countertop.
+5. **Scene Type**: Product showcase.
+
+**Scene 174** [0:07:34]:
+  - Activity: A person is preparing to eat a meal, with a fork placed on a plate of cooked food.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is preparing to eat a meal, with a fork placed on a plate of cooked food.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Plate with cooked food, fork, glass of iced beverage, marble countertop.
+5. **Scene Type**: Food closeup.
+
+**Scene 175** [0:07:42]:
+  - Activity: A person is sitting at a table, seemingly engaged in a video call or online meeting on a laptop.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a table, seemingly engaged in a video call or online meeting on a laptop.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Laptop, books, tea cup, shelves with decorative items.
+5. **Scene Type**: Dialogue.
+
+**Scene 176** [0:07:48]:
+  - Activity: A person is untangling earphones.
+  - Location: Indoor, likely a home or casual setting.
+  - Mood: Calm and casual.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is untangling earphones.
+2. **Location**: Indoor, likely a home or casual setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Earphones, striped shirt, wooden paneling, metallic surface.
+5. **Scene Type**: Close-up.
+
+**Scene 177** [0:07:51]:
+  - Activity: People are walking and browsing in a shopping area.
+  - Location: Indoor shopping mall or market.
+  - Mood: Lively and vibrant.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are walking and browsing in a shopping area.
+2. **Location**: Indoor shopping mall or market.
+3. **Mood**: Lively and vibrant.
+4. **Key Elements**: Colorful hanging decorations, market hall sign, mannequins, food stalls, people walking.
+5. **Scene Type**: Establishing shot.
+
+**Scene 178** [0:07:52]:
+  - Activity: People are walking and exploring a shopping area.
+  - Location: Indoor market or shopping mall.
+  - Mood: Lively and vibrant.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are walking and exploring a shopping area.
+2. **Location**: Indoor market or shopping mall.
+3. **Mood**: Lively and vibrant.
+4. **Key Elements**: Colorful hanging decorations, "EM MARKET HALL" sign, mannequins, people walking.
+5. **Scene Type**: Establishing shot.
+
+**Scene 179** [0:07:53]:
+  - Activity: People are walking and browsing in a market or shopping area.
+  - Location: Indoor market or shopping mall.
+  - Mood: Vibrant and lively.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are walking and browsing in a market or shopping area.
+2. **Location**: Indoor market or shopping mall.
+3. **Mood**: Vibrant and lively.
+4. **Key Elements**: Colorful hanging lights, mannequins, market stalls, people walking.
+5. **Scene Type**: Establishing shot.
+
+**Scene 180** [0:07:54]:
+  - Activity: The scene features a display of a large bear figure holding a tray with a "Please Do Not Touch" sign.
+  - Location: Indoor, likely in a shopping mall or store.
+  - Mood: Playful and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene features a display of a large bear figure holding a tray with a "Please Do Not Touch" sign.
+2. **Location**: Indoor, likely in a shopping mall or store.
+3. **Mood**: Playful and inviting.
+4. **Key Elements**: Bear figure, small house model labeled "Butterbear," "Please Do Not Touch" sign, cardboard cutout of a person.
+5. **Scene Type**: Establishing shot.
+
+**Scene 181** [0:07:56]:
+  - Activity: A person is browsing or shopping in a store.
+  - Location: Indoor, in a retail store with large windows.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is browsing or shopping in a store.
+2. **Location**: Indoor, in a retail store with large windows.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Plush toys, display shelves, large window, greenery outside, person browsing.
+5. **Scene Type**: Establishing shot.
+
+**Scene 182** [0:07:57]:
+  - Activity: A person is browsing or shopping in a store.
+  - Location: Indoor, likely a gift or toy shop.
+  - Mood: Calm and cheerful.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is browsing or shopping in a store.
+2. **Location**: Indoor, likely a gift or toy shop.
+3. **Mood**: Calm and cheerful.
+4. **Key Elements**: Plush bear toys, display shelves, large windows, greenery outside, person shopping.
+5. **Scene Type**: Establishing shot.
+
+**Scene 183** [0:07:59]:
+  - Activity: The scene shows a display of merchandise, likely in a store setting.
+  - Location: Indoor, in a retail store.
+  - Mood: Playful and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of merchandise, likely in a store setting.
+2. **Location**: Indoor, in a retail store.
+3. **Mood**: Playful and inviting.
+4. **Key Elements**: 
+   - Boxes with cartoon bear designs holding donuts
+   - Display shelf with striped awning
+   - Sign saying "No live streaming in the store"
+5. **Scene Type**: Establishing shot.
+
+**Scene 184** [0:08:01]:
+  - Activity: The scene shows an empty café or ice cream shop, likely before opening or during a quiet period.
+  - Location: Indoor setting, likely a café or dessert shop with large windows facing outside.
+  - Mood: Calm and inviting, with a playful and colorful atmosphere.
+  - Scene Type: Establishing shot
+  - Full Analysis: 1. **Activity**: The scene shows an empty café or ice cream shop, likely before opening or during a quiet period.
+2. **Location**: Indoor setting, likely a café or dessert shop with large windows facing outside.
+3. **Mood**: Calm and inviting, with a playful and colorful atmosphere.
+4. **Key Elements**: 
+   - Colorful round stools and tables
+   - Large glass windows
+   - Brightly colored floor tiles
+   - Menu cards on tables
+   - Counter with cups and other items
+5. **Scene Type**: Establishing shot
+
+**Scene 185** [0:08:03]:
+  - Activity: A customer is ordering or picking up a drink at a coffee shop counter.
+  - Location: Indoor, in a coffee shop.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday interaction.
+  - Full Analysis: 1. **Activity**: A customer is ordering or picking up a drink at a coffee shop counter.
+2. **Location**: Indoor, in a coffee shop.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Coffee counter, menu board, barista, customer, display case with pastries.
+5. **Scene Type**: Everyday interaction.
+
+**Scene 186** [0:08:04]:
+  - Activity: A customer is ordering or waiting for a drink at a coffee shop counter.
+  - Location: Indoor, in a coffee shop.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A customer is ordering or waiting for a drink at a coffee shop counter.
+2. **Location**: Indoor, in a coffee shop.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Coffee menu, espresso machine, display case with pastries, barista, customer.
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 187** [0:08:05]:
+  - Activity: A person is posing with a peace sign.
+  - Location: Indoor, likely a café or coffee shop.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual interaction.
+  - Full Analysis: 1. **Activity**: A person is posing with a peace sign.
+2. **Location**: Indoor, likely a café or coffee shop.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Coffee grinder, wooden shelves, potted plants, cups.
+5. **Scene Type**: Casual interaction.
+
+**Scene 188** [0:08:06]:
+  - Activity: A barista is preparing coffee while a customer waits at the counter.
+  - Location: Indoor café or coffee shop.
+  - Mood: Calm and inviting.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A barista is preparing coffee while a customer waits at the counter.
+2. **Location**: Indoor café or coffee shop.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Coffee menu, espresso machine, cups, barista, customer.
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 189** [0:08:07]:
+  - Activity: A barista is serving customers at a coffee shop counter.
+  - Location: Indoor, in a coffee shop.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A barista is serving customers at a coffee shop counter.
+2. **Location**: Indoor, in a coffee shop.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Coffee menu, espresso machine, cups, display case with pastries, barista.
+5. **Scene Type**: Establishing shot.
+
+**Scene 190** [0:08:08]:
+  - Activity: A barista is preparing coffee while a customer waits at the counter.
+  - Location: Indoor café.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A barista is preparing coffee while a customer waits at the counter.
+2. **Location**: Indoor café.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Coffee machine, menu board, display case with pastries, stack of cups, large windows.
+5. **Scene Type**: Establishing shot.
+
+**Scene 191** [0:08:09]:
+  - Activity: People are shopping and browsing items in a store.
+  - Location: Indoor, in a retail store or shopping mall.
+  - Mood: Busy and lively.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are shopping and browsing items in a store.
+2. **Location**: Indoor, in a retail store or shopping mall.
+3. **Mood**: Busy and lively.
+4. **Key Elements**: Store signage ("Another Story"), display counters, shoppers, overhead lighting.
+5. **Scene Type**: Establishing shot.
+
+**Scene 192** [0:08:10]:
+  - Activity: People are shopping in a retail store.
+  - Location: Indoor, in a modern retail store.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are shopping in a retail store.
+2. **Location**: Indoor, in a modern retail store.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Store signage ("ANOTHER STORY"), display tables with products, shoppers, overhead lighting.
+5. **Scene Type**: Establishing shot.
+
+**Scene 193** [0:08:11]:
+  - Activity: People are shopping and browsing items in a retail store.
+  - Location: Indoor, in a modern retail store.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are shopping and browsing items in a retail store.
+2. **Location**: Indoor, in a modern retail store.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Store signage ("ANOTHER STORY"), display counters with products, shoppers, store staff, decorative plants.
+5. **Scene Type**: Establishing shot.
+
+**Scene 194** [0:08:12]:
+  - Activity: People are browsing and shopping in a retail store.
+  - Location: Indoor, in a department store or shopping mall.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are browsing and shopping in a retail store.
+2. **Location**: Indoor, in a department store or shopping mall.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Store signage ("ANOTHER STORY"), display tables with products, shoppers, store staff, decorative plants.
+5. **Scene Type**: Establishing shot.
+
+**Scene 195** [0:08:13]:
+  - Activity: People are browsing or shopping in a retail store.
+  - Location: Indoor, in a modern retail store.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are browsing or shopping in a retail store.
+2. **Location**: Indoor, in a modern retail store.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Store signage ("ANOTHER STORY"), display tables with products, shoppers, store staff, large poster.
+5. **Scene Type**: Establishing shot.
+
+**Scene 196** [0:08:14]:
+  - Activity: The scene shows a display of various ceramic and glassware items, likely for sale.
+  - Location: Indoor, possibly in a store or market setting.
+  - Mood: Calm and inviting, with a focus on shopping or browsing.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: The scene shows a display of various ceramic and glassware items, likely for sale.
+2. **Location**: Indoor, possibly in a store or market setting.
+3. **Mood**: Calm and inviting, with a focus on shopping or browsing.
+4. **Key Elements**: Stacked plates, cups, decorative glassware, colorful ceramic items, price tags.
+5. **Scene Type**: Product showcase.
+
+**Scene 197** [0:08:15]:
+  - Activity: The scene shows a display of various ceramic and glass tableware items, likely for sale.
+  - Location: Indoor, possibly in a store or market.
+  - Mood: Calm and organized.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: The scene shows a display of various ceramic and glass tableware items, likely for sale.
+2. **Location**: Indoor, possibly in a store or market.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Stacked plates, cups, bowls, decorative vases, and glassware.
+5. **Scene Type**: Product showcase.
+
+**Scene 198** [0:08:16]:
+  - Activity: The scene shows a display of candles and their packaging.
+  - Location: Indoor, likely in a retail store or boutique.
+  - Mood: Calm and inviting.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: The scene shows a display of candles and their packaging.
+2. **Location**: Indoor, likely in a retail store or boutique.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Candles under glass covers, boxes labeled "BOOGIE," a yellow display surface, and text in Korean.
+5. **Scene Type**: Product showcase.
+
+**Scene 199** [0:08:18]:
+  - Activity: Display of various ceramic and porcelain tableware items, likely for sale or exhibition.
+  - Location: Indoor, possibly a store or a trade show.
+  - Mood: Calm and inviting, with a focus on aesthetics.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: Display of various ceramic and porcelain tableware items, likely for sale or exhibition.
+2. **Location**: Indoor, possibly a store or a trade show.
+3. **Mood**: Calm and inviting, with a focus on aesthetics.
+4. **Key Elements**: Plates with intricate designs, cups, decorative spoons, a snake-shaped object, and a colorful table mat.
+5. **Scene Type**: Product showcase.
+
+**Scene 200** [0:08:19]:
+  - Activity: The scene shows a display of various decorative tableware items, likely for sale.
+  - Location: Indoor, possibly in a store or market setting.
+  - Mood: The atmosphere is vibrant and colorful, suggesting a lively and inviting setting.
+  - Scene Type: Product showcase
+  - Full Analysis: 1. **Activity**: The scene shows a display of various decorative tableware items, likely for sale.
+2. **Location**: Indoor, possibly in a store or market setting.
+3. **Mood**: The atmosphere is vibrant and colorful, suggesting a lively and inviting setting.
+4. **Key Elements**: 
+   - Decorative plates and mugs
+   - Colorful cups and saucers
+   - Unique ceramic snake-shaped objects
+   - Assorted cutlery
+5. **Scene Type**: Product showcase
+
+**Scene 201** [0:08:20]:
+  - Activity: The scene shows a display of decorative items, likely in a store setting.
+  - Location: Indoor, possibly a home goods or gift shop.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of decorative items, likely in a store setting.
+2. **Location**: Indoor, possibly a home goods or gift shop.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Ceramic plates with leaf designs, a blue spiral dish with a discount sticker, green pea-shaped salt and pepper shakers, a striped vase, and a boxed set of utensils.
+5. **Scene Type**: Establishing shot.
+
+**Scene 202** [0:08:21]:
+  - Activity: The scene shows a display of decorative ceramic items, likely in a shop setting.
+  - Location: Indoor, possibly a store or market.
+  - Mood: Calm and inviting.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of decorative ceramic items, likely in a shop setting.
+2. **Location**: Indoor, possibly a store or market.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Ceramic plates with leaf designs, a blue spiral-shaped object, a green leaf-shaped dish with round objects, a striped vase.
+5. **Scene Type**: Establishing shot.
+
+**Scene 203** [0:08:22]:
+  - Activity: The scene shows a display of ceramic tableware, likely for sale or exhibition.
+  - Location: Indoor, possibly in a store or a showroom.
+  - Mood: Calm and organized.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: The scene shows a display of ceramic tableware, likely for sale or exhibition.
+2. **Location**: Indoor, possibly in a store or a showroom.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Ceramic cups, teapots, a large serving tray, cardboard boxes.
+5. **Scene Type**: Product showcase.
+
+**Scene 204** [0:08:24]:
+  - Activity: The scene shows a display of glassware, possibly in a store or showroom setting.
+  - Location: Indoor, likely a retail or display area.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of glassware, possibly in a store or showroom setting.
+2. **Location**: Indoor, likely a retail or display area.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Amber-colored glasses, a matching pitcher, pastel-colored glasses, a wooden surface, and a textured wall background.
+5. **Scene Type**: Establishing shot.
+
+**Scene 205** [0:08:25]:
+  - Activity: The scene shows a display or arrangement of glass cups.
+  - Location: Indoor, likely a store or showroom.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display or arrangement of glass cups.
+2. **Location**: Indoor, likely a store or showroom.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Amber-colored glass cups, wooden surface, geometric wall pattern, Korean text.
+5. **Scene Type**: Establishing shot.
+
+**Scene 206** [0:08:26]:
+  - Activity: The scene shows a display or arrangement of cups on a surface.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and organized.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display or arrangement of cups on a surface.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Amber-colored cups, wooden surface, corner of a countertop.
+5. **Scene Type**: Establishing shot.
+
+**Scene 207** [0:08:27]:
+  - Activity: Someone is arranging or examining a set of amber-colored glasses.
+  - Location: Indoor, likely a store or a kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: Someone is arranging or examining a set of amber-colored glasses.
+2. **Location**: Indoor, likely a store or a kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Amber-colored glasses, wooden surface, hand holding a glass, background boxes.
+5. **Scene Type**: Product closeup.
+
+**Scene 208** [0:08:28]:
+  - Activity: A person is holding and examining a glass.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Object closeup.
+  - Full Analysis: 1. **Activity**: A person is holding and examining a glass.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Amber-colored glass, hand holding the glass, additional glasses in the background, text overlay.
+5. **Scene Type**: Object closeup.
+
+**Scene 209** [0:08:31]:
+  - Activity: A person is holding a container of sliced mangoes, likely shopping.
+  - Location: Indoor, possibly a grocery store or supermarket.
+  - Mood: Casual and routine.
+  - Scene Type: Shopping.
+  - Full Analysis: 1. **Activity**: A person is holding a container of sliced mangoes, likely shopping.
+2. **Location**: Indoor, possibly a grocery store or supermarket.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Container of sliced mangoes, shopping cart, hand holding the container, product label.
+5. **Scene Type**: Shopping.
+
+**Scene 210** [0:08:32]:
+  - Activity: A person is placing packaged fruit into a shopping basket.
+  - Location: Indoor, likely a grocery store or market.
+  - Mood: Casual and routine.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is placing packaged fruit into a shopping basket.
+2. **Location**: Indoor, likely a grocery store or market.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Packaged fruit, shopping basket, hand, wooden floor.
+5. **Scene Type**: Shopping scene.
+
+**Scene 211** [0:08:33]:
+  - Activity: A person is placing a bag of vegetables into a shopping cart.
+  - Location: Indoor, likely a grocery store or supermarket.
+  - Mood: Routine and casual.
+  - Scene Type: Shopping activity.
+  - Full Analysis: 1. **Activity**: A person is placing a bag of vegetables into a shopping cart.
+2. **Location**: Indoor, likely a grocery store or supermarket.
+3. **Mood**: Routine and casual.
+4. **Key Elements**: Shopping cart, bag of vegetables, hand, packaged salad.
+5. **Scene Type**: Shopping activity.
+
+**Scene 212** [0:08:34]:
+  - Activity: A person is placing groceries into a shopping cart.
+  - Location: Indoor, in a grocery store.
+  - Mood: Routine and everyday.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is placing groceries into a shopping cart.
+2. **Location**: Indoor, in a grocery store.
+3. **Mood**: Routine and everyday.
+4. **Key Elements**: Shopping cart, packaged vegetables, netted bag of onions, hand placing items.
+5. **Scene Type**: Everyday activity.
+
+**Scene 213** [0:08:35]:
+  - Activity: A person is shopping and placing packaged cucumbers into a shopping cart.
+  - Location: Indoor, in a grocery store.
+  - Mood: Routine and everyday.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is shopping and placing packaged cucumbers into a shopping cart.
+2. **Location**: Indoor, in a grocery store.
+3. **Mood**: Routine and everyday.
+4. **Key Elements**: Packaged cucumbers, shopping cart, packaged fruit, grocery items.
+5. **Scene Type**: Shopping scene.
+
+**Scene 214** [0:08:36]:
+  - Activity: A person is shopping and placing a package of noodles into a shopping cart.
+  - Location: Indoor, in a grocery store.
+  - Mood: Routine and focused.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is shopping and placing a package of noodles into a shopping cart.
+2. **Location**: Indoor, in a grocery store.
+3. **Mood**: Routine and focused.
+4. **Key Elements**: Shopping cart, package of noodles, cucumbers, salad mix, juice.
+5. **Scene Type**: Shopping scene.
+
+**Scene 215** [0:08:37]:
+  - Activity: A person is placing a container of wild rocket into a shopping cart.
+  - Location: Indoor, in a grocery store.
+  - Mood: Routine and casual.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is placing a container of wild rocket into a shopping cart.
+2. **Location**: Indoor, in a grocery store.
+3. **Mood**: Routine and casual.
+4. **Key Elements**: Shopping cart, container of wild rocket, organic salad bags, wooden floor.
+5. **Scene Type**: Shopping scene.
+
+**Scene 216** [0:08:38]:
+  - Activity: A person is holding a package of Italian basil, likely examining it.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Calm and focused.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding a package of Italian basil, likely examining it.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Package of Italian basil, hand holding the package, other packaged greens in the background, product label.
+5. **Scene Type**: Product closeup.
+
+**Scene 217** [0:08:39]:
+  - Activity: The scene shows a display of fresh fruits, likely for sale.
+  - Location: Indoor market or grocery store.
+  - Mood: Fresh and vibrant.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a display of fresh fruits, likely for sale.
+2. **Location**: Indoor market or grocery store.
+3. **Mood**: Fresh and vibrant.
+4. **Key Elements**: Papayas, lychees, protective fruit netting, baskets, price tags.
+5. **Scene Type**: Establishing shot.
+
+**Scene 218** [0:08:40]:
+  - Activity: A person is placing packaged meat into a shopping basket.
+  - Location: Indoor, likely a grocery store or supermarket.
+  - Mood: Routine and everyday.
+  - Scene Type: Shopping.
+  - Full Analysis: 1. **Activity**: A person is placing packaged meat into a shopping basket.
+2. **Location**: Indoor, likely a grocery store or supermarket.
+3. **Mood**: Routine and everyday.
+4. **Key Elements**: Shopping basket, packaged meat, plastic containers, hand.
+5. **Scene Type**: Shopping.
+
+**Scene 219** [0:08:41]:
+  - Activity: People are shopping in a store.
+  - Location: Indoor, in a supermarket or candy store.
+  - Mood: Busy and vibrant.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are shopping in a store.
+2. **Location**: Indoor, in a supermarket or candy store.
+3. **Mood**: Busy and vibrant.
+4. **Key Elements**: Shelves stocked with candy, "Chocolate World" signage, self-checkout sign, shoppers.
+5. **Scene Type**: Establishing shot.
+
+**Scene 220** [0:08:42]:
+  - Activity: A person is shopping in a store aisle.
+  - Location: Indoor, in a grocery or convenience store.
+  - Mood: Casual and routine.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is shopping in a store aisle.
+2. **Location**: Indoor, in a grocery or convenience store.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Shelves stocked with snacks, a person with a backpack, colorful packaging, signage for self-checkout.
+5. **Scene Type**: Shopping scene.
+
+**Scene 221** [0:08:43]:
+  - Activity: A person is shopping and walking through a candy or chocolate store aisle.
+  - Location: Indoor, in a candy or chocolate store.
+  - Mood: The atmosphere is vibrant and colorful.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is shopping and walking through a candy or chocolate store aisle.
+2. **Location**: Indoor, in a candy or chocolate store.
+3. **Mood**: The atmosphere is vibrant and colorful.
+4. **Key Elements**: 
+   - Shelves filled with candy and chocolate products
+   - A person with a backpack and shopping bags
+   - Brightly colored packaging
+   - Decorative wall art
+5. **Scene Type**: Shopping scene.
+
+**Scene 222** [0:08:44]:
+  - Activity: A person is selecting a bottle of apple cider vinegar from a store shelf.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Practical and focused.
+  - Scene Type: Shopping/selection.
+  - Full Analysis: 1. **Activity**: A person is selecting a bottle of apple cider vinegar from a store shelf.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Bottles of apple cider vinegar, sale price tags, hand reaching for a bottle, product labels.
+5. **Scene Type**: Shopping/selection.
+
+**Scene 223** [0:08:45]:
+  - Activity: A person is shopping and holding a package of almond powder.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Routine and focused.
+  - Scene Type: Shopping scene.
+  - Full Analysis: 1. **Activity**: A person is shopping and holding a package of almond powder.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Routine and focused.
+4. **Key Elements**: Almond powder package, shopping cart, store shelves, various packaged goods.
+5. **Scene Type**: Shopping scene.
+
+**Scene 224** [0:08:46]:
+  - Activity: A person is selecting a box of tea from a store shelf.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Calm and focused.
+  - Scene Type: Product selection.
+  - Full Analysis: 1. **Activity**: A person is selecting a box of tea from a store shelf.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tea box, hand, store shelf, price tags.
+5. **Scene Type**: Product selection.
+
+**Scene 225** [0:08:47]:
+  - Activity: A shopping cart is being pushed down an aisle in a grocery store.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A shopping cart is being pushed down an aisle in a grocery store.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shopping cart, shelves stocked with various products, aisle signage, colorful packaging.
+5. **Scene Type**: Establishing shot.
+
+**Scene 226** [0:08:48]:
+  - Activity: A shopping cart is being pushed down an aisle in a grocery store.
+  - Location: Indoor, in a grocery store or supermarket.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A shopping cart is being pushed down an aisle in a grocery store.
+2. **Location**: Indoor, in a grocery store or supermarket.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shopping cart, shelves stocked with various products, aisle, overhead lighting.
+5. **Scene Type**: Establishing shot.
+
+**Scene 227** [0:08:49]:
+  - Activity: A person is shopping in a grocery store aisle.
+  - Location: Indoor, in a grocery store.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is shopping in a grocery store aisle.
+2. **Location**: Indoor, in a grocery store.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shopping cart, shelves stocked with products, aisle signage, overhead lighting.
+5. **Scene Type**: Establishing shot.
+
+**Scene 228** [0:08:50]:
+  - Activity: A person is shopping in a grocery store aisle.
+  - Location: Indoor, in a supermarket.
+  - Mood: Calm and routine.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A person is shopping in a grocery store aisle.
+2. **Location**: Indoor, in a supermarket.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Shopping cart, shelves stocked with products, colorful packaging, overhead lighting.
+5. **Scene Type**: Establishing shot.
+
+**Scene 229** [0:08:51]:
+  - Activity: Someone is standing in an elevator with shopping bags on the floor.
+  - Location: Indoor, inside an elevator.
+  - Mood: Calm and mundane.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is standing in an elevator with shopping bags on the floor.
+2. **Location**: Indoor, inside an elevator.
+3. **Mood**: Calm and mundane.
+4. **Key Elements**: Shopping bags, elevator floor, person's feet, caution sign.
+5. **Scene Type**: Transition.
+
+**Scene 230** [0:08:56]:
+  - Activity: An older man is working on or repairing something on a vehicle.
+  - Location: Outdoor, likely on a street or parking area.
+  - Mood: Practical and focused.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: An older man is working on or repairing something on a vehicle.
+2. **Location**: Outdoor, likely on a street or parking area.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Older man, vehicle, sign with "AI NEXTREAM", tools.
+5. **Scene Type**: Action.
+
+**Scene 231** [0:08:57]:
+  - Activity: An older man is closely examining or repairing something on a vehicle.
+  - Location: Outdoor, likely on a street or parking area.
+  - Mood: Focused and attentive.
+  - Scene Type: Action/repair scene.
+  - Full Analysis: 1. **Activity**: An older man is closely examining or repairing something on a vehicle.
+2. **Location**: Outdoor, likely on a street or parking area.
+3. **Mood**: Focused and attentive.
+4. **Key Elements**: 
+   - A man in a blue shirt
+   - A poster with text about an event
+   - A vehicle, possibly a tuk-tuk
+   - Tools or equipment in the man's hands
+5. **Scene Type**: Action/repair scene.
+
+**Scene 232** [0:08:58]:
+  - Activity: An older man is examining or repairing a sign on a vehicle.
+  - Location: Outdoor, likely on a street or parking area.
+  - Mood: Focused and calm.
+  - Scene Type: Action (repair/maintenance).
+  - Full Analysis: 1. **Activity**: An older man is examining or repairing a sign on a vehicle.
+2. **Location**: Outdoor, likely on a street or parking area.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Older man, vehicle, sign with text, pavement.
+5. **Scene Type**: Action (repair/maintenance).
+
+**Scene 233** [0:09:00]:
+  - Activity: The scene appears to show a close-up of a person wearing a blue shirt.
+  - Location: The setting is outdoor, likely on a street or pavement.
+  - Mood: The atmosphere is neutral and lacks specific emotional cues.
+  - Scene Type: Transition or close-up.
+  - Full Analysis: 1. **Activity**: The scene appears to show a close-up of a person wearing a blue shirt.
+2. **Location**: The setting is outdoor, likely on a street or pavement.
+3. **Mood**: The atmosphere is neutral and lacks specific emotional cues.
+4. **Key Elements**: 
+   - Blue shirt
+   - Pavement
+5. **Scene Type**: Transition or close-up.
+
+**Scene 234** [0:09:01]:
+  - Activity: A vehicle is parked, displaying promotional material for an event.
+  - Location: Outdoor, likely on a street or parking area.
+  - Mood: Informative and promotional.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A vehicle is parked, displaying promotional material for an event.
+2. **Location**: Outdoor, likely on a street or parking area.
+3. **Mood**: Informative and promotional.
+4. **Key Elements**: Vehicle, promotional banner, event details, wheel, pavement.
+5. **Scene Type**: Establishing shot.
+
+**Scene 235** [0:09:02]:
+  - Activity: A vehicle, possibly a tuk-tuk or small truck, is parked or moving slowly.
+  - Location: Outdoor, likely on a street or parking area.
+  - Mood: Neutral and casual.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: A vehicle, possibly a tuk-tuk or small truck, is parked or moving slowly.
+2. **Location**: Outdoor, likely on a street or parking area.
+3. **Mood**: Neutral and casual.
+4. **Key Elements**: 
+   - Vehicle with promotional graphics
+   - Advertisement for an event in 2025
+   - Street pavement
+5. **Scene Type**: Establishing shot.
+
+**Scene 236** [0:09:03]:
+  - Activity: The scene shows a view from inside a tuk-tuk, likely preparing to start or continue a journey.
+  - Location: Outdoor, near a hotel entrance.
+  - Mood: Casual and lighthearted.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: The scene shows a view from inside a tuk-tuk, likely preparing to start or continue a journey.
+2. **Location**: Outdoor, near a hotel entrance.
+3. **Mood**: Casual and lighthearted.
+4. **Key Elements**: Tuk-tuk interior, hotel sign, rearview mirror, greenery.
+5. **Scene Type**: Transition.
+
+**Scene 237** [0:09:04]:
+  - Activity: The scene shows a view from inside a tuk-tuk, possibly preparing to start a journey.
+  - Location: Outdoor, near a hotel entrance.
+  - Mood: Lighthearted and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: The scene shows a view from inside a tuk-tuk, possibly preparing to start a journey.
+2. **Location**: Outdoor, near a hotel entrance.
+3. **Mood**: Lighthearted and casual.
+4. **Key Elements**: Tuk-tuk interior, hotel sign, side mirrors, seating.
+5. **Scene Type**: Transition.
+
+**Scene 238** [0:09:05]:
+  - Activity: The scene shows the interior of a tuk-tuk, possibly preparing for a ride.
+  - Location: Outdoor, likely near a hotel or commercial area.
+  - Mood: Casual and lighthearted.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows the interior of a tuk-tuk, possibly preparing for a ride.
+2. **Location**: Outdoor, likely near a hotel or commercial area.
+3. **Mood**: Casual and lighthearted.
+4. **Key Elements**: Tuk-tuk seats, rearview mirrors, hotel signage, greenery.
+5. **Scene Type**: Establishing shot.
+
+**Scene 239** [0:09:06]:
+  - Activity: The scene shows a person riding in a tuk-tuk on a road.
+  - Location: Outdoor, on a city street.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a person riding in a tuk-tuk on a road.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tuk-tuk interior, road, greenery, traffic, person driving.
+5. **Scene Type**: Travel montage.
+
+**Scene 240** [0:09:07]:
+  - Activity: The scene shows a ride in a tuk-tuk, likely moving through a city street.
+  - Location: Outdoor, on a city road.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a ride in a tuk-tuk, likely moving through a city street.
+2. **Location**: Outdoor, on a city road.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tuk-tuk interior, rearview mirror, road with cars, greenery along the street.
+5. **Scene Type**: Travel montage.
+
+**Scene 241** [0:09:08]:
+  - Activity: The scene shows a ride in a tuk-tuk on a city street.
+  - Location: Outdoor, on a city road.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a ride in a tuk-tuk on a city street.
+2. **Location**: Outdoor, on a city road.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tuk-tuk interior, rearview mirror, city street, greenery, vehicles.
+5. **Scene Type**: Travel montage.
+
+**Scene 242** [0:09:09]:
+  - Activity: The scene shows a ride in a tuk-tuk on a city street.
+  - Location: Outdoor, on a busy urban road.
+  - Mood: Casual and dynamic.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: The scene shows a ride in a tuk-tuk on a city street.
+2. **Location**: Outdoor, on a busy urban road.
+3. **Mood**: Casual and dynamic.
+4. **Key Elements**: Tuk-tuk interior, road with traffic, greenery on the side, rearview mirror.
+5. **Scene Type**: Travel montage.
+
+**Scene 243** [0:09:10]:
+  - Activity: A person is driving a tuk-tuk on a road.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and routine.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is driving a tuk-tuk on a road.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Tuk-tuk interior, driver, road with cars, greenery along the side.
+5. **Scene Type**: Travel montage.
+
+**Scene 244** [0:09:11]:
+  - Activity: A person is driving a tuk-tuk, a type of motorized rickshaw, on a road.
+  - Location: Outdoor, on a city street.
+  - Mood: Calm and routine.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is driving a tuk-tuk, a type of motorized rickshaw, on a road.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Tuk-tuk interior, driver, road with cars, greenery along the street.
+5. **Scene Type**: Travel montage.
+
+**Scene 245** [0:09:12]:
+  - Activity: A person is driving a tuk-tuk on a road.
+  - Location: Outdoor, on a street.
+  - Mood: Calm and routine.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is driving a tuk-tuk on a road.
+2. **Location**: Outdoor, on a street.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Tuk-tuk interior, driver, road, passing cars, greenery.
+5. **Scene Type**: Travel montage.
+
+**Scene 246** [0:09:13]:
+  - Activity: A person is driving a tuk-tuk on a road.
+  - Location: Outdoor, on a city street.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is driving a tuk-tuk on a road.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tuk-tuk interior, driver, rearview mirror, road, other vehicles.
+5. **Scene Type**: Travel montage.
+
+**Scene 247** [0:09:14]:
+  - Activity: A person is driving a tuk-tuk on a road.
+  - Location: Outdoor, on a street.
+  - Mood: Calm and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is driving a tuk-tuk on a road.
+2. **Location**: Outdoor, on a street.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Tuk-tuk interior, driver, road, side mirror, greenery.
+5. **Scene Type**: Travel montage.
+
+**Scene 248** [0:09:19]:
+  - Activity: A person is riding in a vehicle, possibly a tuk-tuk or rickshaw.
+  - Location: Outdoor, likely in an urban area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding in a vehicle, possibly a tuk-tuk or rickshaw.
+2. **Location**: Outdoor, likely in an urban area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Brown leather seat
+   - Blue fabric roof
+   - Person wearing a black top
+   - Bag on the person's shoulder
+   - Korean text overlay
+5. **Scene Type**: Travel montage.
+
+**Scene 249** [0:09:20]:
+  - Activity: A person is riding in a tuk-tuk, possibly filming their journey.
+  - Location: Outdoor, inside a tuk-tuk on a city street.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding in a tuk-tuk, possibly filming their journey.
+2. **Location**: Outdoor, inside a tuk-tuk on a city street.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Tuk-tuk interior, person’s arm, cityscape visible through the opening, text overlay.
+5. **Scene Type**: Travel montage.
+
+**Scene 250** [0:09:21]:
+  - Activity: A person is riding in a vehicle, possibly a tuk-tuk or open taxi, on a city street.
+  - Location: Outdoor, urban setting, likely in a city with visible traffic and buildings.
+  - Mood: Casual and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding in a vehicle, possibly a tuk-tuk or open taxi, on a city street.
+2. **Location**: Outdoor, urban setting, likely in a city with visible traffic and buildings.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person with earbuds, vehicle seat, plastic bag, city street, trees.
+5. **Scene Type**: Travel montage.
+
+**Scene 251** [0:09:22]:
+  - Activity: A person is sitting in the backseat of a vehicle, possibly waiting or traveling.
+  - Location: Indoor, inside a car.
+  - Mood: Relaxed and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is sitting in the backseat of a vehicle, possibly waiting or traveling.
+2. **Location**: Indoor, inside a car.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Brown leather car seats, a person wearing earbuds, plastic bags, view of the street through the window.
+5. **Scene Type**: Transition.
+
+**Scene 252** [0:09:23]:
+  - Activity: A person is sitting in a vehicle, possibly talking or listening to something.
+  - Location: Outdoor, inside a vehicle on a street.
+  - Mood: Relaxed and casual.
+  - Scene Type: Dialogue or casual moment.
+  - Full Analysis: 1. **Activity**: A person is sitting in a vehicle, possibly talking or listening to something.
+2. **Location**: Outdoor, inside a vehicle on a street.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: 
+   - Person wearing an earbud
+   - Car interior with tan seats
+   - Plastic bag
+   - Street view with greenery
+5. **Scene Type**: Dialogue or casual moment.
+
+**Scene 253** [0:09:24]:
+  - Activity: A person is sitting in a vehicle, possibly a tuk-tuk or open taxi, with traffic visible outside.
+  - Location: Outdoor, likely on a street in an urban area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is sitting in a vehicle, possibly a tuk-tuk or open taxi, with traffic visible outside.
+2. **Location**: Outdoor, likely on a street in an urban area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Vehicle interior, person wearing earphones, traffic, greenery outside.
+5. **Scene Type**: Travel montage.
+
+**Scene 254** [0:09:25]:
+  - Activity: A person is riding in a vehicle, possibly a tuk-tuk or open taxi.
+  - Location: Outdoor, on a city street.
+  - Mood: Relaxed and casual.
+  - Scene Type: Travel montage.
+  - Full Analysis: 1. **Activity**: A person is riding in a vehicle, possibly a tuk-tuk or open taxi.
+2. **Location**: Outdoor, on a city street.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Vehicle seats, a person wearing earbuds, a car behind, greenery along the street.
+5. **Scene Type**: Travel montage.
+
+**Scene 255** [0:09:26]:
+  - Activity: Someone is holding a box of tea, possibly about to prepare a drink.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: Someone is holding a box of tea, possibly about to prepare a drink.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Tea box, hand holding the box, countertop, text in another language.
+5. **Scene Type**: Product closeup.
+
+**Scene 256** [0:09:28]:
+  - Activity: A person is holding and examining a box of tea.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Product examination.
+  - Full Analysis: 1. **Activity**: A person is holding and examining a box of tea.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand holding a tea box, marble countertop, text on the box, partial view of a metal container.
+5. **Scene Type**: Product examination.
+
+**Scene 257** [0:09:29]:
+  - Activity: A person is opening a box of tea bags.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is opening a box of tea bags.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, box of Dilmah tea, tea bags, countertop.
+5. **Scene Type**: Product closeup.
+
+**Scene 258** [0:09:30]:
+  - Activity: A person is selecting a tea bag from a box.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is selecting a tea bag from a box.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, tea box, tea bags, marble countertop.
+5. **Scene Type**: Food closeup.
+
+**Scene 259** [0:09:31]:
+  - Activity: A person is opening a box of tea.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is opening a box of tea.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand, tea box, marble countertop, napkin.
+5. **Scene Type**: Product closeup.
+
+**Scene 260** [0:09:33]:
+  - Activity: A person is selecting a tea bag from a box.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is selecting a tea bag from a box.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand holding a tea bag, Dilmah tea box, text on the tea bag, countertop.
+5. **Scene Type**: Product closeup.
+
+**Scene 261** [0:09:34]:
+  - Activity: A person is selecting a tea bag from a box of assorted teas.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is selecting a tea bag from a box of assorted teas.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Tea bag, box of assorted teas, organic creamed honey container, countertop.
+5. **Scene Type**: Product closeup.
+
+**Scene 262** [0:09:37]:
+  - Activity: A person is selecting a tea bag from a box.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Calm and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is selecting a tea bag from a box.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Hand holding a tea bag, Dilmah tea box, countertop.
+5. **Scene Type**: Product closeup.
+
+**Scene 263** [0:09:38]:
+  - Activity: A person is holding and examining a tea bag.
+  - Location: Indoor, likely a kitchen or pantry.
+  - Mood: Calm and focused.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding and examining a tea bag.
+2. **Location**: Indoor, likely a kitchen or pantry.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tea bag labeled "Dilmah Caramel", hand holding the tea bag, marble countertop, other tea boxes in the background.
+5. **Scene Type**: Product closeup.
+
+**Scene 264** [0:09:39]:
+  - Activity: A person is pouring hot water from a kettle into a cup with a tea bag.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and routine.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is pouring hot water from a kettle into a cup with a tea bag.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Kettle, cup, tea bag, countertop, microwave.
+5. **Scene Type**: Food preparation.
+
+**Scene 265** [0:09:43]:
+  - Activity: A person is slicing a red onion on a cutting board.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: A person is slicing a red onion on a cutting board.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Red onion, cutting board, knife, glass container with liquid, kitchen counter.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 266** [0:09:45]:
+  - Activity: Someone is chopping vegetables, specifically cucumbers and onions.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is chopping vegetables, specifically cucumbers and onions.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Chopping board, knife, cucumber, onion, white bowl.
+5. **Scene Type**: Food preparation.
+
+**Scene 267** [0:09:50]:
+  - Activity: Someone is preparing a salad by chopping vegetables.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing a salad by chopping vegetables.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White bowl with chopped cucumbers and onions, cutting board, knife, hand holding a tomato.
+5. **Scene Type**: Food preparation.
+
+**Scene 268** [0:09:52]:
+  - Activity: Someone is preparing a salad by adding seasoning to a bowl of chopped vegetables.
+  - Location: Indoor, likely a kitchen countertop.
+  - Mood: Calm and casual.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing a salad by adding seasoning to a bowl of chopped vegetables.
+2. **Location**: Indoor, likely a kitchen countertop.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Bowl with chopped vegetables, seasoning container, pepper grinder, countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 269** [0:10:02]:
+  - Activity: A person is pouring iced tea into a glass filled with ice cubes.
+  - Location: Indoor, in a kitchen.
+  - Mood: Calm and casual.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is pouring iced tea into a glass filled with ice cubes.
+2. **Location**: Indoor, in a kitchen.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass with ice, pitcher of tea, bowl, kitchen countertop.
+5. **Scene Type**: Food preparation.
+
+**Scene 270** [0:10:10]:
+  - Activity: A person is preparing or serving a meal or drink.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and casual.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing or serving a meal or drink.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass of iced tea, sliced sweet potato on a plate, white bowl, glass pitcher.
+5. **Scene Type**: Food preparation.
+
+**Scene 271** [0:10:28]:
+  - Activity: A person is sitting at a small table, possibly preparing to work or relax.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue or personal moment.
+  - Full Analysis: 1. **Activity**: A person is sitting at a small table, possibly preparing to work or relax.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person in a red top
+   - Small round table with drinks
+   - Framed picture on the wall
+   - Tall floor lamp
+   - Potted plant
+5. **Scene Type**: Dialogue or personal moment.
+
+**Scene 272** [0:10:54]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm unable to analyze the content of this video frame as it appears to be completely black. If you have another frame or additional context, please provide it, and I'll be happy to help!
+
+**Scene 273** [0:10:55]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+  - Location: Indoor, likely in a living room or personal space.
+  - Mood: Intimate and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or tutorial.
+2. **Location**: Indoor, likely in a living room or personal space.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Person, microphone, couch, pillows, plant.
+5. **Scene Type**: Dialogue.
+
+**Scene 274** [0:10:56]:
+  - Activity: A person is speaking directly to the camera, possibly sharing a personal update or story.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly sharing a personal update or story.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person speaking
+   - Couch with cushions
+   - Potted plant
+   - Soft lighting
+   - Text overlay ("day 4")
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 275** [0:11:21]:
+  - Activity: A person is applying makeup, specifically using a tint stick on their face.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Calm and focused.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is applying makeup, specifically using a tint stick on their face.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Tint stick, speaker, couch with pillows, framed picture, potted plant.
+5. **Scene Type**: Tutorial.
+
+**Scene 276** [0:11:37]:
+  - Activity: A person is applying makeup to their face using a sponge.
+  - Location: Indoor, likely in a bedroom or living room.
+  - Mood: Calm and focused.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is applying makeup to their face using a sponge.
+2. **Location**: Indoor, likely in a bedroom or living room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Makeup sponge, speaker, potted plant, framed picture, subtitles.
+5. **Scene Type**: Tutorial.
+
+**Scene 277** [0:11:38]:
+  - Activity: A person is applying makeup to their face.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and intimate.
+  - Scene Type: Personal care/tutorial.
+  - Full Analysis: 1. **Activity**: A person is applying makeup to their face.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Makeup sponge, sofa with cushions, potted plant, speaker.
+5. **Scene Type**: Personal care/tutorial.
+
+**Scene 278** [0:11:52]:
+  - Activity: A person is applying makeup to their face.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Calm and focused.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is applying makeup to their face.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Makeup sponge, person applying makeup, lamp, cushions, plant.
+5. **Scene Type**: Tutorial.
+
+**Scene 279** [0:12:09]:
+  - Activity: A person is applying makeup using a sponge.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Calm and focused.
+  - Scene Type: Tutorial.
+  - Full Analysis: 1. **Activity**: A person is applying makeup using a sponge.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Makeup sponge, couch with cushions, potted plant, lamp.
+5. **Scene Type**: Tutorial.
+
+**Scene 280** [0:12:41]:
+  - Activity: A person is speaking directly to the camera, likely recording a vlog or video message.
+  - Location: Indoor, in a living room setting.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.
+2. **Location**: Indoor, in a living room setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, sofa with cushions, potted plant, microphone, soft lighting.
+5. **Scene Type**: Dialogue.
+
+**Scene 281** [0:12:42]:
+  - Activity: A person is speaking, possibly recording a video or vlog.
+  - Location: Indoor, likely a living room.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly recording a video or vlog.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person speaking
+   - Couch with cushions
+   - Potted plant
+   - Speaker
+   - Wall art
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 282** [0:13:03]:
+  - Activity: A person is using an eyelash curler.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Calm and personal.
+  - Scene Type: Personal care tutorial.
+  - Full Analysis: 1. **Activity**: A person is using an eyelash curler.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Calm and personal.
+4. **Key Elements**: Eyelash curler, person, pillows, lamp, plant.
+5. **Scene Type**: Personal care tutorial.
+
+**Scene 283** [0:13:15]:
+  - Activity: A person is speaking, possibly addressing an audience or camera.
+  - Location: Indoor, likely a living room.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly addressing an audience or camera.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person, couch with cushions, potted plant, framed picture, speaker.
+5. **Scene Type**: Dialogue.
+
+**Scene 284** [0:14:23]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a living room.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue or tutorial.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, couch with pillows, potted plant, speaker, soft lighting.
+5. **Scene Type**: Dialogue or tutorial.
+
+**Scene 285** [0:14:24]:
+  - Activity: A person is applying makeup, specifically eyeliner, to their eye.
+  - Location: Indoor, likely in a living room or personal space.
+  - Mood: Calm and focused.
+  - Scene Type: Tutorial or personal care.
+  - Full Analysis: 1. **Activity**: A person is applying makeup, specifically eyeliner, to their eye.
+2. **Location**: Indoor, likely in a living room or personal space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Makeup pen, person applying makeup, couch with cushions, potted plant, speaker.
+5. **Scene Type**: Tutorial or personal care.
+
+**Scene 286** [0:14:25]:
+  - Activity: A person is applying makeup, specifically eyeliner.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and focused.
+  - Scene Type: Tutorial or personal care demonstration.
+  - Full Analysis: 1. **Activity**: A person is applying makeup, specifically eyeliner.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Makeup product, couch with cushions, potted plant, soft lighting.
+5. **Scene Type**: Tutorial or personal care demonstration.
+
+**Scene 287** [0:14:49]:
+  - Activity: A person is posing or making a facial expression, possibly for a video or photo.
+  - Location: Indoor, likely a living room.
+  - Mood: Calm and casual.
+  - Scene Type: Personal vlog or tutorial.
+  - Full Analysis: 1. **Activity**: A person is posing or making a facial expression, possibly for a video or photo.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person, couch with pillows, potted plant, speaker, lamp.
+5. **Scene Type**: Personal vlog or tutorial.
+
+**Scene 288** [0:14:51]:
+  - Activity: A person is adjusting their hair while speaking or reacting.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue or personal vlog.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair while speaking or reacting.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person in a white shirt, couch, framed picture, plant, speaker.
+5. **Scene Type**: Dialogue or personal vlog.
+
+**Scene 289** [0:14:55]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely in a living room or personal space.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely in a living room or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, microphone, subtitles, lamp, plant.
+5. **Scene Type**: Dialogue.
+
+**Scene 290** [0:14:56]:
+  - Activity: A person is speaking directly to the camera, possibly concluding a video or livestream.
+  - Location: Indoor, likely a living room or personal space.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly concluding a video or livestream.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person, microphone, couch, lamp, subtitles.
+5. **Scene Type**: Dialogue.
+
+**Scene 291** [0:14:57]:
+  - Activity: The scene shows a hotel lobby area, possibly with people relaxing or waiting.
+  - Location: Indoor, in the lobby of the Carlton Hotel Bangkok.
+  - Mood: Calm and relaxed atmosphere.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a hotel lobby area, possibly with people relaxing or waiting.
+2. **Location**: Indoor, in the lobby of the Carlton Hotel Bangkok.
+3. **Mood**: Calm and relaxed atmosphere.
+4. **Key Elements**: 
+   - Comfortable seating area with sofas and cushions
+   - Decorative plants
+   - Large windows with a view outside
+   - Wooden paneling
+5. **Scene Type**: Establishing shot.
+
+**Scene 292** [0:14:59]:
+  - Activity: A person is adjusting their hair while speaking to the camera.
+  - Location: Indoor, likely a hotel lobby.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair while speaking to the camera.
+2. **Location**: Indoor, likely a hotel lobby.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person in focus, hotel lobby setting, decorative elements, text overlay with location details.
+5. **Scene Type**: Dialogue.
+
+**Scene 293** [0:15:00]:
+  - Activity: A person is recording themselves, possibly for a vlog or social media content.
+  - Location: Indoor, in a hotel lobby.
+  - Mood: Relaxed and casual.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is recording themselves, possibly for a vlog or social media content.
+2. **Location**: Indoor, in a hotel lobby.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: 
+   - Person in the foreground
+   - Hotel lobby interior
+   - Decorative lighting
+   - People in the background
+   - Text overlay with location details
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 294** [0:15:01]:
+  - Activity: People are gathered at a street corner, possibly waiting to cross or observing something.
+  - Location: Outdoor urban setting, likely at a busy intersection.
+  - Mood: Busy and lively atmosphere.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: People are gathered at a street corner, possibly waiting to cross or observing something.
+2. **Location**: Outdoor urban setting, likely at a busy intersection.
+3. **Mood**: Busy and lively atmosphere.
+4. **Key Elements**: Cars and motorcycles on the road, pedestrians on the sidewalk, traffic signs, crosswalk.
+5. **Scene Type**: Establishing shot.
+
+**Scene 295** [0:15:04]:
+  - Activity: Vehicles are moving through an intersection while pedestrians wait at the crosswalk.
+  - Location: Outdoor urban setting, likely at a busy city intersection.
+  - Mood: Busy and dynamic.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Vehicles are moving through an intersection while pedestrians wait at the crosswalk.
+2. **Location**: Outdoor urban setting, likely at a busy city intersection.
+3. **Mood**: Busy and dynamic.
+4. **Key Elements**: Cars, motorcycles, pedestrians, crosswalk, street signs.
+5. **Scene Type**: Establishing shot.
+
+**Scene 296** [0:15:05]:
+  - Activity: Motorcycles and cars are moving through a busy intersection while pedestrians watch from the sidewalk.
+  - Location: Outdoor urban setting, likely at a city intersection.
+  - Mood: Busy and dynamic.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: Motorcycles and cars are moving through a busy intersection while pedestrians watch from the sidewalk.
+2. **Location**: Outdoor urban setting, likely at a city intersection.
+3. **Mood**: Busy and dynamic.
+4. **Key Elements**: Motorcycles, cars, pedestrians, crosswalk, street signs.
+5. **Scene Type**: Establishing shot.
+
+**Scene 297** [0:15:08]:
+  - Activity: The scene shows a social media profile being displayed.
+  - Location: Indoor setting, likely on a digital device.
+  - Mood: Informative and personal.
+  - Scene Type: Digital profile overview.
+  - Full Analysis: 1. **Activity**: The scene shows a social media profile being displayed.
+2. **Location**: Indoor setting, likely on a digital device.
+3. **Mood**: Informative and personal.
+4. **Key Elements**: Social media profile, username, follower count, profile picture, posts.
+5. **Scene Type**: Digital profile overview.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 마지막 무�验 손BR | 아니요. | 청소송. | architect worlds
+
+### Segment 2 (01:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 출발 | 그래서 저희가立gnот스트릿이 그래서 | 심지어 왔고요. | 그 다음에 | 상글랐어요? | 일부러 잘 선 차다는 50짜리 말고 30분에 가져왔어요. | 그리고 조금 더 잘 타지 않을까? | 안생각하고 | 그리고 보습을 위해서 | 퍼포도 올까지 챙겨봤습니다.
+
+### Segment 3 (02:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 절대 dön | 오ropol이의 | 저 영상у
+
+### Segment 4 (03:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 안녕하세요 여러분. 저는 이제 아침에 요가를 가려고 준비를 하고 있습니다. | 준비를 한 번 넣고 선크림 바르고 약간 립밤 바르고 끝인데 | 요가를 지금 한 달 멤버 집을 다 하고 이제 리뉴얼 됐어요. | 근데 제가 너무 스스로에게 뿌듯한 게 한 달에 20일을 갖더라고요. | 그래서 제가 주 오일을 다 챙겨서 갔고 제가 이게 사실 요가원에 지금 처음 끊는 게 아니고 | 한국에서부터 계속 뭔가 끊었다가 끊었다가 끊었다가 이렇게 했었거든요.
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 약간 재미를 못 붙였다 할까? | 근데 이번에 마음을 좀 진지하게 먹었던 게 요즘 보면 사람들이 좀 너무 정서적으로 굉장히 뭐랄까 | 산만하잖아요. 저만 그런가요. | 콘텐츠도 너무 많고 릴�스 이런 것도 너무 많고 그래서 그런지 제가 뭔가 하나의 집중을 잘 못 하더라고요. | 운동 헬스 같은 걸 때도 막 너무 다른 생각을 많이 하고 막 파켓스 같은 거 뭐지? | 막 이렇게 해서 계속 그런 거 보고 좀 사람이 너무 정신이 없길래 | 뭔가 이 뭔가 마음을 좀 진정시키는 그런 운동이 필요하다. | 결국 다시 요가를 선택을 하게 됐습니다. | 지금 제가 꽂은이 나가 보니까 아침에 이 요가로 여는 하루가 굉장히 차분하고 좋은 것 같아요. | 우선 요가를 했다는 거 자체가 성취검도 있고 그다음에 요가를 하면서 명상을 하는 것도 굉장히 좋고
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 어쨌든 몸을 약간 부드럽게 깨우기 때문에 헬스를 전 아침에 하면 조금 피곤한 편이거든요. | 근데 이 요가를 하면 그래도 조금 차분하게 뭔가 가볍게. | 뭔가 근육이 뭔가 맑게 깨인 느낌? 그런 느낌으로 하루를 시작할 수 있어서 굉장히 좋더라고요. | 헬멧 챙겨서 갈 거예요. | 오자를 쓰고 오늘은 수업이 9시 반여가지고 시간이 너무 많이 남아가지고 조금 뭘 먹고 갈게요. | 근데 제가 작념에 걸렸어가지고 먹을 수 있는 게 많이 없어요. | 아침에는 그냥 계란, 토요일 이렇게 먹고 가겠습니다.
+
+### Segment 7 (06:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 3 zu 13 lord | 지금 7일내분에 왔고요. | 제가 장념이어가지고 먹을게 많이 없어서 | 제가 먹고 싶었던 지금 티랑 고구마를 살려고 합니다. | 7년여기 없나? | 하나하나 이거 맛있겠다. | 이거 맛있어. | 저는 운동을 다녀와서 지금 방금 씻었고 | 제가 사실 호지차 파우더로 살려다가 잘못 알고 산 거예요.
+
+### Segment 8 (07:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 약간 구수한 향이 나고 이제 카페인이 없어서 | 그냥 카페인이 조금 힘드신 분들은 요즘 호지차도 많이 찾으시는 것 같더라고요.
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+
+### Segment 10 (09:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 지금 3시간 가됐는데 조금 늦은 점심을 먹을 거고요.
+
+### Segment 11 (10:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아까 마트에서 사왔던 고구마랑 그다음에 입맛이 별로 없어서 만들어 본 | 고추 too separation into節目 phones. | 안녕하세요 여러분 저는 오늘 후배가 옛날 직장 후배가 방콕에 놀러와서 네 개를 만나서 가야됩니다.
+
+### Segment 12 (11:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 이제 준비를 하는 와중에 제가 브이로그가 너무 뜨면 있잖아요. | 그래서 왜 뜨면 쓸까라고 생각을 해봤는데 그런 이야기를 잠깐 하면서 저는 얼른 준비를 해보도록 하겠습니다. | 이제 브이로그를 하면 굉장히 뭐랄까 세팅을 많이 하려고 하는 것 같더라고요. | 막 화장도 막 되어 있어야 될 것 같고 조금 가식적이라고 해야 될까요. | 옷도 막 좀 생겨 입어야 될 것 같고 그런 부담감이 있었어요. | 그래서 그런지 좀 카메라를 잘 안 키게 되더라고요. | 저도 모르게 그래서 좀 뜨몇다 그러면서 나도 되게 브이로그라는 사람인데 | 좀 뭐랄까 솔직하지 못한 그런 브이로그을 했었나? | 라고 생각을 하고 있단 와중에 제가 유튜브를 하니까 사람들을 많이 만나거든요. | 일적이든 사적이든 만나는데 그러면 유튜브를 통해서 만난 분들이 한 80% 정도가 첫 만남에
+
+### Segment 13 (12:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 어 유튜브랑 성격이 굉장히 다르시네요 라고 말하시더라고요. | 근데 그게 대화를 30분 하고 이런 것도 아니야. | 그냥 통성명 정도 했을 때 그 이미지가 엄청 다르대요. | 그 이유가 이제 유튜브에서는 제가 되게 좀 조용하고 | 좀 뭐랄까 저군조건 하려고 하고 약간 제 추구미가 그런 건가 봐요. | 그런데 실제로 보면 저는 사실 말도 되게 많고 좀 털토란 편이거든요. | 어떻게 보면 그래서 그런지 그냥 그 인사하는 순간에 바로 성격이 굉장히 다르시다 이렇게 말씀을 많이 하시더라고요. | 그리고 최근에 그 일을 또 겪으면서 아 내가 조금 자연스럽지 못한 방향으로 | 어 유튜브라고 있었구나 이게 다 나도 이러는데 S.S.라는 다 화상인가? | 이런 생각을 좀 했었고요. | 그리고 이제 가끔 지인분들도 가끔 연락 보시고 하는데 | 오면 어 뭐 되게 자유로우 보여 뭐 되게 좋아 보여 라고 말씀을 하시는데
+
+### Segment 14 (13:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 사실은 뭐 그것도 한 제가 좋아 보이려고 편집을 한 영상이잖아요. | 그러니까 그런 것들을 보시고 말씀을 하시는 분들도 계시는 것 같고 | 물론 그냥 저 기분 좋으라고 그냥 안 붙아 하시는 분들도 계시지만 | 어쨌든 브이로그 라는 게 제가 이렇게 2년간 3년간 해보면서 느끼는 점은 | 아무리 내가 솔직하려고 해도 사실 내 일상과 내 생각에 100분의 일도 | 뭔가 다 보여주지를 못한다. | 그리고 어쩔 수 없이 이 사람이라는 게 정제를 해서 할 수밖에 없구나. | 라는 생각이 좀 들었어요. | 제가 조금 더 그랬던 것 같고 그래서 앞으로는 진짜 좀 | 자유로운 방향으로 해보는 게 어떨까라는 생각도 했습니다. | 그래서 여러분들도 S.S.라는 저도 많이 리스룩 보지만 | 진짜 요가나 명상이나 이런 것이면서 조금 더 자기에게 집중을 하고
+
+### Segment 15 (14:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 여러분들도 S.S.너 많이 하지 마시고 그냥 제거 보세요. | 제거. | 덤번하기 그지 없는 아주 참 이게 어쩔 수 없나봐요. | 그쵸 사람이라는 게. | 얘가 보여주고 싶은 것만 보여주기 때문에. | 그래서 아무튼 오늘 만나는 친구는 제가 전직장에서 일을 가장 오래 같이 한 후배인데 | 후배의 동생분이 태국에서 되게 오래 사셔서 | 제가 이래절에 도움을 되게 많이 받았어요. | 그래서 그 문게 들일 선물도 좀 챙겨보고 | 그리고 그 동생금만 챙기면 좀 서운하니까 그 후배 선물 하나 챙겼습니다. | 그래서 그것도 전달할 겸 안이 오도록 하겠습니다. | 다음 브이로그 로도 찾아 뵐게요. | 안녕.
+
+### Segment 16 (15:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 발견했어? | 발견했어? | 어떻게 발견을 찍으면.
+
+(Total 16 segments)
+
+## Full Transcript
+마지막 무�验 손BR 아니요. 청소송. architect worlds 출발 그래서 저희가立gnот스트릿이 그래서 심지어 왔고요. 그 다음에 상글랐어요? 일부러 잘 선 차다는 50짜리 말고 30분에 가져왔어요. 그리고 조금 더 잘 타지 않을까? 안생각하고 그리고 보습을 위해서 퍼포도 올까지 챙겨봤습니다. 절대 dön 오ropol이의 저 영상у 안녕하세요 여러분. 저는 이제 아침에 요가를 가려고 준비를 하고 있습니다. 준비를 한 번 넣고 선크림 바르고 약간 립밤 바르고 끝인데 요가를 지금 한 달 멤버 집을 다 하고 이제 리뉴얼 됐어요. 근데 제가 너무 스스로에게 뿌듯한 게 한 달에 20일을 갖더라고요. 그래서 제가 주 오일을 다 챙겨서 갔고 제가 이게 사실 요가원에 지금 처음 끊는 게 아니고 한국에서부터 계속 뭔가 끊었다가 끊었다가 끊었다가 이렇게 했었거든요. 약간 재미를 못 붙였다 할까? 근데 이번에 마음을 좀 진지하게 먹었던 게 요즘 보면 사람들이 좀 너무 정서적으로 굉장히 뭐랄까 산만하잖아요. 저만 그런가요. 콘텐츠도 너무 많고 릴�스 이런 것도 너무 많고 그래서 그런지 제가 뭔가 하나의 집중을 잘 못 하더라고요. 운동 헬스 같은 걸 때도 막 너무 다른 생각을 많이 하고 막 파켓스 같은 거 뭐지? 막 이렇게 해서 계속 그런 거 보고 좀 사람이 너무 정신이 없길래 뭔가 이 뭔가 마음을 좀 진정시키는 그런 운동이 필요하다. 결국 다시 요가를 선택을 하게 됐습니다. 지금 제가 꽂은이 나가 보니까 아침에 이 요가로 여는 하루가 굉장히 차분하고 좋은 것 같아요. 우선 요가를 했다는 거 자체가 성취검도 있고 그다음에 요가를 하면서 명상을 하는 것도 굉장히 좋고 어쨌든 몸을 약간 부드럽게 깨우기 때문에 헬스를 전 아침에 하면 조금 피곤한 편이거든요. 근데 이 요가를 하면 그래도 조금 차분하게 뭔가 가볍게. 뭔가 근육이 뭔가 맑게 깨인 느낌? 그런 느낌으로 하루를 시작할 수 있어서 굉장히 좋더라고요. 헬멧 챙겨서 갈 거예요. 오자를 쓰고 오늘은 수업이 9시 반여가지고 시간이 너무 많이 남아가지고 조금 뭘 먹고 갈게요. 근데 제가 작념에 걸렸어가지고 먹을 수 있는 게 많이 없어요. 아침에는 그냥 계란, 토요일 이렇게 먹고 가겠습니다. 3 zu 13 lord 지금 7일내분에 왔고요. 제가 장념이어가지고 먹을게 많이 없어서 제가 먹고 싶었던 지금 티랑 고구마를 살려고 합니다. 7년여기 없나? 하나하나 이거 맛있겠다. 이거 맛있어. 저는 운동을 다녀와서 지금 방금 씻었고 제가 사실 호지차 파우더로 살려다가 잘못 알고 산 거예요. 약간 구수한 향이 나고 이제 카페인이 없어서 그냥 카페인이 조금 힘드신 분들은 요즘 호지차도 많이 찾으시는 것 같더라고요. 지금 3시간 가됐는데 조금 늦은 점심을 먹을 거고요. 아까 마트에서 사왔던 고구마랑 그다음에 입맛이 별로 없어서 만들어 본 고추 too separation into節目 phones. 안녕하세요 여러분 저는 오늘 후배가 옛날 직장 후배가 방콕에 놀러와서 네 개를 만나서 가야됩니다. 이제 준비를 하는 와중에 제가 브이로그가 너무 뜨면 있잖아요. 그래서 왜 뜨면 쓸까라고 생각을 해봤는데 그런 이야기를 잠깐 하면서 저는 얼른 준비를 해보도록 하겠습니다. 이제 브이로그를 하면 굉장히 뭐랄까 세팅을 많이 하려고 하는 것 같더라고요. 막 화장도 막 되어 있어야 될 것 같고 조금 가식적이라고 해야 될까요. 옷도 막 좀 생겨 입어야 될 것 같고 그런 부담감이 있었어요. 그래서 그런지 좀 카메라를 잘 안 키게 되더라고요. 저도 모르게 그래서 좀 뜨몇다 그러면서 나도 되게 브이로그라는 사람인데 좀 뭐랄까 솔직하지 못한 그런 브이로그을 했었나? 라고 생각을 하고 있단 와중에 제가 유튜브를 하니까 사람들을 많이 만나거든요. 일적이든 사적이든 만나는데 그러면 유튜브를 통해서 만난 분들이 한 80% 정도가 첫 만남에 어 유튜브랑 성격이 굉장히 다르시네요 라고 말하시더라고요. 근데 그게 대화를 30분 하고 이런 것도 아니야. 그냥 통성명 정도 했을 때 그 이미지가 엄청 다르대요. 그 이유가 이제 유튜브에서는 제가 되게 좀 조용하고 좀 뭐랄까 저군조건 하려고 하고 약간 제 추구미가 그런 건가 봐요. 그런데 실제로 보면 저는 사실 말도 되게 많고 좀 털토란 편이거든요. 어떻게 보면 그래서 그런지 그냥 그 인사하는 순간에 바로 성격이 굉장히 다르시다 이렇게 말씀을 많이 하시더라고요. 그리고 최근에 그 일을 또 겪으면서 아 내가 조금 자연스럽지 못한 방향으로 어 유튜브라고 있었구나 이게 다 나도 이러는데 S.S.라는 다 화상인가? 이런 생각을 좀 했었고요. 그리고 이제 가끔 지인분들도 가끔 연락 보시고 하는데 오면 어 뭐 되게 자유로우 보여 뭐 되게 좋아 보여 라고 말씀을 하시는데 사실은 뭐 그것도 한 제가 좋아 보이려고 편집을 한 영상이잖아요. 그러니까 그런 것들을 보시고 말씀을 하시는 분들도 계시는 것 같고 물론 그냥 저 기분 좋으라고 그냥 안 붙아 하시는 분들도 계시지만 어쨌든 브이로그 라는 게 제가 이렇게 2년간 3년간 해보면서 느끼는 점은 아무리 내가 솔직하려고 해도 사실 내 일상과 내 생각에 100분의 일도 뭔가 다 보여주지를 못한다. 그리고 어쩔 수 없이 이 사람이라는 게 정제를 해서 할 수밖에 없구나. 라는 생각이 좀 들었어요. 제가 조금 더 그랬던 것 같고 그래서 앞으로는 진짜 좀 자유로운 방향으로 해보는 게 어떨까라는 생각도 했습니다. 그래서 여러분들도 S.S.라는 저도 많이 리스룩 보지만 진짜 요가나 명상이나 이런 것이면서 조금 더 자기에게 집중을 하고 여러분들도 S.S.너 많이 하지 마시고 그냥 제거 보세요. 제거. 덤번하기 그지 없는 아주 참 이게 어쩔 수 없나봐요. 그쵸 사람이라는 게. 얘가 보여주고 싶은 것만 보여주기 때문에. 그래서 아무튼 오늘 만나는 친구는 제가 전직장에서 일을 가장 오래 같이 한 후배인데 후배의 동생분이 태국에서 되게 오래 사셔서 제가 이래절에 도움을 되게 많이 받았어요. 그래서 그 문게 들일 선물도 좀 챙겨보고 그리고 그 동생금만 챙기면 좀 서운하니까 그 후배 선물 하나 챙겼습니다. 그래서 그것도 전달할 겸 안이 오도록 하겠습니다. 다음 브이로그 로도 찾아 뵐게요. 안녕. 발견했어? 발견했어? 어떻게 발견을 찍으면.

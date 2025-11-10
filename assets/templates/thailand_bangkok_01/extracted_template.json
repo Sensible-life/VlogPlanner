@@ -1,0 +1,129 @@
+{
+  "template_name": "Conversational Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 120,
+      "description": "Introduction with a brief overview of the travel destination and initial thoughts.",
+      "key_elements": [
+        "introduction",
+        "destination overview"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1930,
+      "description": "Detailed exploration of the travel experience, including various activities, food, and personal reflections.",
+      "segments": [
+        {
+          "type": "activity",
+          "description": "Engaging in and describing various activities at the destination.",
+          "typical_duration": 300
+        },
+        {
+          "type": "food_review",
+          "description": "Trying local cuisine and providing reviews.",
+          "typical_duration": 300
+        },
+        {
+          "type": "personal_reflection",
+          "description": "Sharing personal thoughts and reflections on the travel experience.",
+          "typical_duration": 200
+        },
+        {
+          "type": "sightseeing",
+          "description": "Exploring and showcasing local sights and attractions.",
+          "typical_duration": 300
+        },
+        {
+          "type": "shopping",
+          "description": "Shopping experiences and showcasing local products.",
+          "typical_duration": 200
+        },
+        {
+          "type": "interaction",
+          "description": "Interacting with locals or fellow travelers.",
+          "typical_duration": 200
+        },
+        {
+          "type": "accommodation",
+          "description": "Reviewing and showcasing the accommodation.",
+          "typical_duration": 200
+        },
+        {
+          "type": "transportation",
+          "description": "Describing and reviewing transportation experiences.",
+          "typical_duration": 230
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 180,
+      "description": "Conclusion with final thoughts and a farewell message.",
+      "key_elements": [
+        "conclusion",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#58443a",
+      "#b4a99c",
+      "#8d7564"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.3,
+    "scene_changes": 1784,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining experiences and sharing personal reflections"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Brief descriptions and highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Frequent Scene Changes",
+      "description": "The vlog frequently changes scenes to keep the pace lively and engaging.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Conversational Narration",
+      "description": "The narrator frequently engages the audience with a conversational tone.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel documentation",
+    "Cultural exploration"
+  ]
+}

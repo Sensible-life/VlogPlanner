@@ -1,10 +1,17 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import '../config/api_config.dart';
+import '../constants/prompts.dart';
+import '../models/cue_template.dart';
+import '../models/plan.dart';
+import '../models/cue_card.dart';
+import 'template_matching_service.dart';
+import 'vlog_data_service.dart';
 
 class OpenAIService {
   static const String _baseUrl = 'https://api.openai.com/v1/chat/completions';
-  static const String _model = 'gpt-4';
+  static const String _model = 'gpt-3.5-turbo';
+  static const String _fineTunedModel = 'ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CUv7VoVY';
   
   static Future<String?> generateResponse(String prompt) async {
     if (!ApiConfig.isApiKeySet) {
@@ -35,7 +42,7 @@ class OpenAIService {
             },
           ],
           'temperature': 0.7,
-          'max_tokens': 3000,
+          'max_tokens': 4000, // GPT-3.5 Turbo는 더 긴 응답 가능
         }),
       );
       
@@ -57,6 +64,596 @@ class OpenAIService {
     }
   }
   
+  // ============================================
+  // 아래 함수들은 Fine-tuned model 사용으로 더 이상 필요하지 않습니다.
+  // 하위 호환성을 위해 주석 처리되어 있습니다.
+  // ============================================
+
+  // [DEPRECATED] 템플릿 생성 API 호출 - Fine-tuned model 사용으로 불필요
+  // static Future<List<CueTemplate>> generateTemplates(List<String> urls) async { ... }
+
+  // [DEPRECATED] 템플릿 정리 API 호출 - Fine-tuned model 사용으로 불필요
+  // static Future<List<CueTemplate>> cleanTemplates(List<CueTemplate> templates) async { ... }
+
+  // [DEPRECATED] 계획 생성 API 호출 - Fine-tuned model 사용으로 불필요
+  // static Future<Plan?> generatePlan(Map<String, String> userInput) async { ... }
+
+  // [DEPRECATED] 큐카드 생성 API 호출 - Fine-tuned model 사용으로 불필요
+  // static Future<List<CueCard>> generateCueCards(List<CueTemplate> templates, Plan plan) async { ... }
+  
+  // JSON 응답 정리 (코드 펜스 제거 등)
+  static String _cleanJsonResponse(String response) {
+    // 코드 펜스 제거
+    String cleaned = response.trim();
+    if (cleaned.startsWith('```json')) {
+      cleaned = cleaned.substring(7);
+    } else if (cleaned.startsWith('```')) {
+      cleaned = cleaned.substring(3);
+    }
+    if (cleaned.endsWith('```')) {
+      cleaned = cleaned.substring(0, cleaned.length - 3);
+    }
+    return cleaned.trim();
+  }
+  
+  // Fine-tuned model을 사용한 통합 스토리보드 생성
+  static Future<Map<String, dynamic>?> generateStoryboardWithFineTunedModel(
+    Map<String, String> userInput,
+  ) async {
+    try {
+      // 새로운 스토리보드 생성 시 템플릿 캐시 초기화
+      clearTemplateCache();
+      
+      final prompt = Prompts.buildFineTunedStoryboardPrompt(userInput);
+
+      print('[OPENAI_API] Fine-tuned model로 스토리보드 생성 중...');
+
+      if (!ApiConfig.isApiKeySet) {
+        print('[OPENAI_API] API 키가 설정되지 않음');
+        throw Exception('OpenAI API 키가 설정되지 않았습니다.');
+      }
+
+      final response = await http.post(
+        Uri.parse(_baseUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+        body: jsonEncode({
+          'model': _fineTunedModel,
+          'messages': [
+            {
+              'role': 'system',
+              'content': 'You are an expert vlog storyboard creator that generates comprehensive vlog shooting plans in JSON format. Always respond with valid JSON only, no markdown or code fences.',
+            },
+            {
+              'role': 'user',
+              'content': prompt,
+            },
+          ],
+          'temperature': 0.7,
+          'max_tokens': 8000,
+        }),
+      );
+
+      print('[OPENAI_API] Fine-tuned model 응답 상태: ${response.statusCode}');
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final content = data['choices'][0]['message']['content'];
+        print('[OPENAI_API] Fine-tuned model 응답 길이: ${content.length}');
+
+        // JSON 파싱
+        final cleanedResponse = _cleanJsonResponse(content);
+        final Map<String, dynamic> storyboard = jsonDecode(cleanedResponse);
+
+        return storyboard;
+      } else {
+        print('[OPENAI_API] Fine-tuned model API 오류: ${response.statusCode} - ${response.body}');
+        return null;
+      }
+    } catch (e) {
+      print('[OPENAI_API] Fine-tuned model 스토리보드 생성 오류: $e');
+      return null;
+    }
+  }
+
+  // Fine-tuned model 응답에서 Plan과 CueCards 파싱
+  static Future<({Plan? plan, List<CueCard>? cueCards})?> parseStoryboard(
+    Map<String, dynamic> storyboard,
+  ) async {
+    try {
+      // Plan 생성
+      final plan = Plan.fromJson(storyboard);
+
+      // CueCards 생성
+      final scenesJson = storyboard['scenes'] as List<dynamic>?;
+      if (scenesJson == null || scenesJson.isEmpty) {
+        print('[OPENAI_API] scenes 데이터가 없습니다');
+        return null;
+      }
+
+      final cueCards = <CueCard>[];
+      for (var sceneJson in scenesJson) {
+        final scene = sceneJson as Map<String, dynamic>;
+
+        // CueCard 생성
+        final cueCard = CueCard(
+          title: scene['title'] as String? ?? '',
+          allocatedSec: scene['allocated_sec'] as int? ?? 0,
+          trigger: scene['trigger'] as String? ?? '',
+          summary: (scene['summary'] as List<dynamic>?)
+                  ?.map((e) => e.toString())
+                  .toList() ??
+              [],
+          steps: (scene['steps'] as List<dynamic>?)
+                  ?.map((e) => e.toString())
+                  .toList() ??
+              [],
+          checklist: (scene['checklist'] as List<dynamic>?)
+                  ?.map((e) => e.toString())
+                  .toList() ??
+              [],
+          fallback: scene['fallback'] as String? ?? '',
+          startHint: scene['start_hint'] as String? ?? '',
+          stopHint: scene['stop_hint'] as String? ?? '',
+          completionCriteria: scene['completion_criteria'] as String? ?? '',
+          tone: scene['tone'] as String? ?? '',
+          styleVibe: scene['style_vibe'] as String? ?? '',
+          targetAudience: scene['target_audience'] as String? ?? '',
+          script: scene['script'] as String? ?? '',
+          pro: scene['pro'] != null
+              ? _parsePro(scene['pro'] as Map<String, dynamic>)
+              : null,
+          rawMarkdown: '',
+        );
+
+        cueCards.add(cueCard);
+      }
+
+      print('[OPENAI_API] Plan과 ${cueCards.length}개의 CueCard 파싱 완료');
+      return (plan: plan, cueCards: cueCards);
+    } catch (e) {
+      print('[OPENAI_API] 스토리보드 파싱 오류: $e');
+      return null;
+    }
+  }
+
+  // Pro 정보 파싱
+  static CueCardPro _parsePro(Map<String, dynamic> proJson) {
+    return CueCardPro(
+      framing: (proJson['framing'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toList() ??
+          [],
+      audio: (proJson['audio'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toList() ??
+          [],
+      dialogue: (proJson['dialogue'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toList() ??
+          [],
+      editHint: (proJson['edit_hint'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toList() ??
+          [],
+      safety: (proJson['safety'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toList() ??
+          [],
+      broll: (proJson['broll'] as List<dynamic>?)
+              ?.map((e) => e.toString())
+              .toList() ??
+          [],
+    );
+  }
+
+  // ============================================
+  // 추가 기능: Script, 요약, 장비 추천 등
+  // ============================================
+
+  // 1. 씬별 Script 생성 (Option 2: Few-shot + Transcript 스타일)
+  static Future<String?> generateScriptForScene({
+    required String sceneSummary,
+    required String sceneLocation,
+    required String tone,
+    required String vibe,
+    required int durationSec,
+    Map<String, dynamic>? contextData, // 추가 컨텍스트 데이터
+  }) async {
+    try {
+      // Few-shot 예시 찾기
+      final fewShotExample = await _findRelevantScriptExample(
+        sceneSummary: sceneSummary,
+        sceneLocation: sceneLocation,
+        tone: tone,
+      );
+
+      final prompt = _buildScriptPrompt(
+        sceneSummary: sceneSummary,
+        sceneLocation: sceneLocation,
+        tone: tone,
+        vibe: vibe,
+        durationSec: durationSec,
+        contextData: contextData,
+        fewShotExample: fewShotExample,
+      );
+
+      print('[OPENAI_API] Script 생성 중: $sceneLocation');
+
+      final response = await http.post(
+        Uri.parse(_baseUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+        body: jsonEncode({
+          'model': 'gpt-4o',  // GPT-4o 사용 (script 생성에 최적)
+          'messages': [
+            {
+              'role': 'system',
+              'content': 'You are a vlog script writer who creates natural, conversational Korean dialogue based on real vlog transcripts and visual context.',
+            },
+            {
+              'role': 'user',
+              'content': prompt,
+            },
+          ],
+          'temperature': 0.8,  // 창의성 높임
+          'max_tokens': 4000, // 매우 긴 씬(120초+)에도 충분한 토큰 할당 (GPT-4o 최대: 16,384)
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final script = data['choices'][0]['message']['content'];
+        print('[OPENAI_API] Script 생성 완료: ${script.length}자');
+        return script.trim();
+      } else {
+        print('[OPENAI_API] Script 생성 오류: ${response.statusCode}');
+        return null;
+      }
+    } catch (e) {
+      print('[OPENAI_API] Script 생성 예외: $e');
+      return null;
+    }
+  }
+
+  // 캐시: 템플릿 매칭 결과
+  static String? _cachedMatchedTemplateDir;
+  
+  /// Few-shot 예시 찾기 (Template Matching Service 사용)
+  static Future<String?> _findRelevantScriptExample({
+    required String sceneSummary,
+    required String sceneLocation,
+    required String tone,
+  }) async {
+    try {
+      // VlogDataService에서 현재 plan 가져오기
+      final vlogService = VlogDataService();
+      final plan = vlogService.plan;
+      final userInput = vlogService.userInput;
+
+      print('[OPENAI_API] VlogDataService에서 Plan 가져오기 시도: plan=${plan != null ? "존재" : "null"}');
+
+      if (plan == null) {
+        print('[OPENAI_API] Plan이 없어 예시를 찾을 수 없음');
+        return null;
+      }
+
+      // 캐시된 템플릿이 있으면 재사용
+      String? matchedTemplateDir = _cachedMatchedTemplateDir;
+      
+      if (matchedTemplateDir == null) {
+        // 가장 유사한 템플릿 찾기 (한 번만 수행)
+        final matchingService = TemplateMatchingService();
+        matchedTemplateDir = await matchingService.findMostSimilarTemplate(
+          userInput: userInput,
+          plan: plan,
+        );
+        
+        // 캐시에 저장
+        _cachedMatchedTemplateDir = matchedTemplateDir;
+      }
+
+      if (matchedTemplateDir == null) {
+        print('[OPENAI_API] 유사한 템플릿을 찾지 못함');
+        return null;
+      }
+
+      // 씬 타입 추정
+      final sceneType = _inferSceneType(sceneSummary, sceneLocation);
+
+      // 해당 템플릿에서 대본 예시 가져오기
+      final matchingService = TemplateMatchingService();
+      final example = await matchingService.getScriptExample(matchedTemplateDir, sceneType);
+      
+      print('[OPENAI_API] Few-shot 예시 찾음: ${matchedTemplateDir.split('/').last}');
+      return example;
+    } catch (e) {
+      print('[OPENAI_API] Few-shot 예시 찾기 오류: $e');
+      return null;
+    }
+  }
+  
+  /// 캐시 초기화 (새로운 스토리보드 생성 시 호출)
+  static void clearTemplateCache() {
+    _cachedMatchedTemplateDir = null;
+  }
+
+  /// 씬 타입 추정
+  static String _inferSceneType(String sceneSummary, String sceneLocation) {
+    final summaryLower = sceneSummary.toLowerCase();
+    final locationLower = sceneLocation.toLowerCase();
+
+    if (summaryLower.contains('입장') || summaryLower.contains('오프닝') || 
+        locationLower.contains('입구') || locationLower.contains('게이트')) {
+      return 'opening';
+    }
+    
+    if (summaryLower.contains('식사') || summaryLower.contains('먹') || 
+        summaryLower.contains('음식') || summaryLower.contains('맛')) {
+      return 'food';
+    }
+    
+    if (summaryLower.contains('일') || summaryLower.contains('업무') || 
+        summaryLower.contains('작업') || summaryLower.contains('오피스')) {
+      return 'work';
+    }
+    
+    if (summaryLower.contains('이동') || summaryLower.contains('걷') || 
+        summaryLower.contains('가는')) {
+      return 'moving';
+    }
+    
+    if (summaryLower.contains('휴식') || summaryLower.contains('쉬')) {
+      return 'rest';
+    }
+    
+    if (summaryLower.contains('인사') || summaryLower.contains('마무리') || 
+        summaryLower.contains('엔딩')) {
+      return 'ending';
+    }
+
+    return 'default';
+  }
+
+  // Script 프롬프트 구성 (Few-shot 예시 포함)
+  static String _buildScriptPrompt({
+    required String sceneSummary,
+    required String sceneLocation,
+    required String tone,
+    required String vibe,
+    required int durationSec,
+    Map<String, dynamic>? contextData, // 추가 컨텍스트 데이터
+    String? fewShotExample, // Few-shot 예시
+  }) {
+    // 시간에 따른 대사 줄 수 계산 (1줄 = 약 3-4초)
+    final minLines = (durationSec / 4).floor();
+    final maxLines = ((durationSec / 3) * 1.2).ceil(); // 약간 여유있게
+
+    // Few-shot 예시가 있으면 포함
+    String fewShotSection = '';
+    if (fewShotExample != null && fewShotExample.isNotEmpty) {
+      fewShotSection = '''
+
+================================================================================
+[실제 브이로그 대본 예시 - Few-shot Learning]
+================================================================================
+
+다음은 유사한 스타일의 실제 브이로그에서 추출한 screenplay 형태의 대본입니다.
+이 형태와 말투를 **정확히 따라서** 작성해주세요:
+
+$fewShotExample
+
+================================================================================
+''';
+    }
+
+    return '''
+당신은 영화 시나리오 형태의 브이로그 대본(screenplay)을 작성하는 전문가입니다.
+실제 브이로거들의 자연스러운 말투를 학습하여, 생동감 있고 친근한 대본을 만들어주세요.
+$fewShotSection
+[생성할 씬 정보]
+- 씬 제목: $sceneLocation
+- 내용: $sceneSummary
+- 톤: $tone
+- 바이브: $vibe
+- **필수 길이: 정확히 ${durationSec}초 분량**
+
+**중요: 대본 길이 규칙 (반드시 준수)**
+- 일반적으로 한 줄 대사 = 약 3-4초 소요
+- 이 씬은 ${durationSec}초이므로, **최소 ${minLines}줄 ~ 최대 ${maxLines}줄**의 [VOICE] 대사를 작성해야 합니다
+- 짧게 쓰지 말고, ${durationSec}초를 꽉 채울 수 있는 충분한 양의 대사를 생성하세요
+- [VOICE] 태그를 여러 번 사용하여 대사를 나눠서 작성하세요
+
+[출력 형식]
+반드시 아래 screenplay 형태로 작성하세요:
+
+---
+SCENE TITLE: $sceneLocation
+LOCATION: (구체적 장소)
+TIME: 낮 또는 밤
+MOOD: $tone
+
+[ACTION / VISUAL DESCRIPTION]
+(영상에 보이는 행동이나 장면 묘사를 2-3문장으로 작성)
+
+[DIALOGUE]
+[VOICE]
+(첫 번째 대사: 실제 브이로거가 말하는 자연스러운 대사)
+(말줄임표~, 느낌표!, 물음표? 등을 적절히 사용)
+[VOICE]
+(두 번째 대사: 계속해서 이어지는 대사)
+[VOICE]
+(세 번째 대사: ${durationSec}초를 채울 때까지 계속 작성)
+... (최소 ${minLines}줄 ~ 최대 ${maxLines}줄까지 [VOICE] 대사를 작성)
+
+[NARRATION / VOICE-OVER]
+$tone 분위기가 흐른다.
+$sceneSummary
+
+---
+
+**중요 지침**:
+${fewShotSection.isNotEmpty ? '''
+1. **[필수] 대본 길이: 최소 ${minLines}줄 ~ 최대 ${maxLines}줄의 [VOICE] 대사를 반드시 작성하세요**
+2. 위 [실제 브이로그 대본 예시]의 형태를 **정확히** 따라야 합니다
+3. 예시의 자연스러운 말투와 표현 방식을 학습하여 적용하세요
+4. [VOICE] 태그 안의 대사는 실제 브이로거처럼 친근하고 자연스럽게
+5. 예시와 같은 수준의 디테일과 생동감을 유지하세요
+6. 짧게 쓰지 말고, ${durationSec}초를 완전히 채울 수 있는 충분한 분량으로 작성하세요''' : '''
+1. **[필수] 대본 길이: 최소 ${minLines}줄 ~ 최대 ${maxLines}줄의 [VOICE] 대사를 반드시 작성하세요**
+2. screenplay 형태를 정확히 지켜주세요
+3. [VOICE] 태그 안의 대사는 실제 브이로거처럼 친근하고 자연스럽게
+4. 말줄임표(~), 느낌표(!), 물음표(?)를 적절히 사용
+5. "$tone" 톤과 "$vibe" 바이브를 잘 살려서 작성
+6. 짧게 쓰지 말고, ${durationSec}초를 완전히 채울 수 있는 충분한 분량으로 작성하세요'''}
+7. 다른 설명 없이 screenplay 형태의 대본만 출력하세요
+''';
+  }
+
+  // 2. 시나리오 요약 생성 (씬 내용 기반)
+  static Future<String?> generateScenarioSummary({
+    required List<String> sceneSummaries,
+    required String location,
+    required String tone,
+    required int durationMin,
+  }) async {
+    try {
+      final sceneList = sceneSummaries
+          .asMap()
+          .entries
+          .map((e) => '${e.key + 1}. ${e.value}')
+          .join('\n');
+
+      final prompt = '''
+다음은 브이로그의 씬별 내용입니다.
+
+[촬영 정보]
+- 장소: $location
+- 톤: $tone
+- 목표 시간: $durationMin분
+
+[씬 구성]
+$sceneList
+
+위 씬들의 흐름을 바탕으로, 이 브이로그의 전체 시나리오를 2-3문장으로 자연스럽게 요약해주세요.
+단순 나열이 아니라 스토리의 흐름이 느껴지도록 작성해주세요.
+''';
+
+      print('[OPENAI_API] 시나리오 요약 생성 중...');
+
+      final response = await http.post(
+        Uri.parse(_baseUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+        body: jsonEncode({
+          'model': 'gpt-4o',
+          'messages': [
+            {
+              'role': 'system',
+              'content': 'You are a professional vlog storyteller who creates compelling scenario summaries.',
+            },
+            {
+              'role': 'user',
+              'content': prompt,
+            },
+          ],
+          'temperature': 0.7,
+          'max_tokens': 300,
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final summary = data['choices'][0]['message']['content'];
+        print('[OPENAI_API] 시나리오 요약 생성 완료');
+        return summary.trim();
+      } else {
+        print('[OPENAI_API] 시나리오 요약 오류: ${response.statusCode}');
+        return null;
+      }
+    } catch (e) {
+      print('[OPENAI_API] 시나리오 요약 예외: $e');
+      return null;
+    }
+  }
+
+  // 3. 촬영 장비 추천
+  static Future<String?> recommendEquipment({
+    required String location,
+    required String tone,
+    required String equipment,
+    required String difficulty,
+  }) async {
+    try {
+      final prompt = '''
+다음 브이로그 촬영에 필요한 장비를 추천해주세요.
+
+[촬영 정보]
+- 장소: $location (실내/실외, 밝기 등 고려)
+- 톤: $tone
+- 기본 장비: $equipment
+- 촬영 경험: $difficulty
+
+추천 장비를 다음 형식으로 작성해주세요:
+
+**필수 장비**
+- [장비명]: [이유]
+
+**권장 장비** (선택)
+- [장비명]: [이유]
+
+**팁**
+- [촬영 팁 1-2줄]
+
+간결하게 5-6줄로 작성해주세요.
+''';
+
+      print('[OPENAI_API] 장비 추천 생성 중...');
+
+      final response = await http.post(
+        Uri.parse(_baseUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+        body: jsonEncode({
+          'model': 'gpt-4o',
+          'messages': [
+            {
+              'role': 'system',
+              'content': 'You are a vlog equipment specialist.',
+            },
+            {
+              'role': 'user',
+              'content': prompt,
+            },
+          ],
+          'temperature': 0.6,
+          'max_tokens': 400,
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final recommendation = data['choices'][0]['message']['content'];
+        print('[OPENAI_API] 장비 추천 생성 완료');
+        return recommendation.trim();
+      } else {
+        print('[OPENAI_API] 장비 추천 오류: ${response.statusCode}');
+        return null;
+      }
+    } catch (e) {
+      print('[OPENAI_API] 장비 추천 예외: $e');
+      return null;
+    }
+  }
+
   // 시뮬레이션용 메서드 (API 키가 없을 때 사용)
   static Future<String?> generateSimulatedResponse(String prompt) async {
     await Future.delayed(const Duration(seconds: 2));
@@ -921,6 +1518,243 @@ class OpenAIService {
 - 어트랙션 전체
 </details>
 ''';
+    }
+  }
+
+  // ============================================================================
+  // 재생성 기능 (Regeneration)
+  // ============================================================================
+
+  /// 개별 씬 재생성
+  ///
+  /// 기존 씬 데이터 + 사용자 수정사항을 기반으로 해당 씬만 다시 생성
+  static Future<CueCard?> regenerateScene({
+    required CueCard originalScene,
+    required String userFeedback,
+    required Plan plan,
+  }) async {
+    try {
+      print('[OPENAI_API] 씬 재생성 시작: ${originalScene.title}');
+      print('[OPENAI_API] 수정사항: $userFeedback');
+
+      // 프롬프트 구성
+      final prompt = '''
+다음은 브이로그의 한 씬입니다. 사용자가 수정 요청을 했으니 이를 반영하여 씬을 재생성해주세요.
+
+[기존 씬 정보]
+- 제목: ${originalScene.title}
+- 요약: ${originalScene.summary.join(' ')}
+- 할당 시간: ${originalScene.allocatedSec}초
+- 기존 script: ${originalScene.script ?? '없음'}
+
+[브이로그 전체 컨텍스트]
+- 제목: ${plan.vlogTitle}
+- 톤: ${plan.styleAnalysis?.tone ?? '밝고 경쾌'}
+- 바이브: ${plan.styleAnalysis?.vibe ?? 'MZ'}
+- 총 길이: ${plan.goalDurationMin}분
+
+[사용자 수정사항]
+$userFeedback
+
+위 수정사항을 반영하여 씬을 재생성해주세요. 반드시 다음 형식으로 출력하세요:
+
+<scene>
+<title>씬 제목</title>
+<summary>
+- 요약 1
+- 요약 2
+- 요약 3
+</summary>
+<allocated_sec>${originalScene.allocatedSec}</allocated_sec>
+<script>
+screenplay 형태의 대본 (기존 형태와 동일하게)
+</script>
+</scene>
+
+**중요**:
+- 할당 시간(${originalScene.allocatedSec}초)은 유지하세요
+- script는 screenplay 형태로 작성하세요
+- 사용자 수정사항을 최대한 반영하세요
+''';
+
+      final response = await http.post(
+        Uri.parse(_baseUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+        body: jsonEncode({
+          'model': 'gpt-4o',
+          'messages': [
+            {
+              'role': 'system',
+              'content': 'You are a vlog scene editor who regenerates scenes based on user feedback.',
+            },
+            {
+              'role': 'user',
+              'content': prompt,
+            },
+          ],
+          'temperature': 0.7,
+          'max_tokens': 2000,
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final content = data['choices'][0]['message']['content'] as String;
+
+        print('[OPENAI_API] 씬 재생성 완료');
+
+        // 파싱
+        final titleMatch = RegExp(r'<title>(.*?)</title>', dotAll: true).firstMatch(content);
+        final summaryMatch = RegExp(r'<summary>(.*?)</summary>', dotAll: true).firstMatch(content);
+        final scriptMatch = RegExp(r'<script>(.*?)</script>', dotAll: true).firstMatch(content);
+
+        if (titleMatch == null || summaryMatch == null) {
+          print('[OPENAI_API] 씬 파싱 실패');
+          return null;
+        }
+
+        final title = titleMatch.group(1)!.trim();
+        final summaryText = summaryMatch.group(1)!.trim();
+        final script = scriptMatch?.group(1)?.trim();
+
+        // summary 파싱 (- 로 시작하는 줄들)
+        final summaryLines = summaryText
+            .split('\n')
+            .map((line) => line.trim())
+            .where((line) => line.startsWith('-'))
+            .map((line) => line.substring(1).trim())
+            .toList();
+
+        // 새로운 CueCard 생성
+        return CueCard(
+          title: title,
+          summary: summaryLines.isNotEmpty ? summaryLines : [summaryText],
+          allocatedSec: originalScene.allocatedSec,
+          trigger: originalScene.trigger,
+          steps: [],
+          checklist: originalScene.checklist,
+          fallback: originalScene.fallback,
+          startHint: originalScene.startHint,
+          stopHint: originalScene.stopHint,
+          completionCriteria: originalScene.completionCriteria,
+          tone: originalScene.tone,
+          styleVibe: originalScene.styleVibe,
+          targetAudience: originalScene.targetAudience,
+          script: script ?? '',
+          pro: originalScene.pro,
+          rawMarkdown: originalScene.rawMarkdown,
+          thumbnailUrl: originalScene.thumbnailUrl, // 기존 이미지 유지
+        );
+      } else {
+        print('[OPENAI_API] 씬 재생성 오류: ${response.statusCode}');
+        return null;
+      }
+    } catch (e) {
+      print('[OPENAI_API] 씬 재생성 예외: $e');
+      return null;
+    }
+  }
+
+  /// 전체 스토리보드 재생성
+  ///
+  /// 기존 스토리보드 + 사용자 수정사항을 기반으로 전체를 다시 생성
+  static Future<({Plan? plan, List<CueCard>? cueCards})?> regenerateStoryboard({
+    required Plan originalPlan,
+    required List<CueCard> originalCueCards,
+    required String userFeedback,
+    required Map<String, String> userInput,
+  }) async {
+    try {
+      print('[OPENAI_API] 스토리보드 재생성 시작');
+      print('[OPENAI_API] 수정사항: $userFeedback');
+
+      // 기존 씬 정보를 문자열로 변환
+      final existingScenes = originalCueCards
+          .asMap()
+          .entries
+          .map((e) => '${e.key + 1}. ${e.value.title} (${e.value.allocatedSec}초): ${e.value.summary.join(' ')}')
+          .join('\n');
+
+      // 프롬프트 구성
+      final prompt = '''
+다음은 이미 생성된 브이로그 스토리보드입니다. 사용자가 수정을 요청했으니 이를 반영하여 스토리보드를 재생성해주세요.
+
+[기존 스토리보드]
+제목: ${originalPlan.vlogTitle}
+키워드: ${originalPlan.keywords.join(', ')}
+목표 시간: ${originalPlan.goalDurationMin}분
+톤: ${originalPlan.styleAnalysis?.tone ?? '밝고 경쾌'}
+
+[기존 씬 구성]
+$existingScenes
+
+[사용자 입력]
+- 장소: ${userInput['location'] ?? ''}
+- 방문 목적: ${userInput['visit_context'] ?? ''}
+- 촬영 시간: ${userInput['time_weather'] ?? ''}
+- 장비: ${userInput['equipment'] ?? 'smartphone'}
+
+[사용자 수정사항]
+$userFeedback
+
+위 수정사항을 반영하여 스토리보드를 재생성해주세요.
+**주의**: 수정사항에 따라 씬의 개수, 순서, 내용이 변경될 수 있습니다.
+
+반드시 기존과 동일한 JSON 형식으로 출력하세요 (이전에 사용했던 fine-tuned model 출력 형식).
+''';
+
+      // Fine-tuned model로 재생성
+      final response = await http.post(
+        Uri.parse(_baseUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+        body: jsonEncode({
+          'model': _fineTunedModel,
+          'messages': [
+            {
+              'role': 'system',
+              'content': 'You are a vlog storyboard generator that creates detailed shooting plans.',
+            },
+            {
+              'role': 'user',
+              'content': prompt,
+            },
+          ],
+          'temperature': 0.7,
+          'max_tokens': 4000,
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final storyboard = data['choices'][0]['message']['content'] as String;
+
+        print('[OPENAI_API] 스토리보드 재생성 완료');
+
+        // JSON 파싱하여 Map으로 변환
+        final storyboardMap = jsonDecode(storyboard) as Map<String, dynamic>;
+        
+        // 기존 parseStoryboard 메서드를 사용하여 파싱
+        final result = await parseStoryboard(storyboardMap);
+
+        if (result == null || result.plan == null || result.cueCards == null) {
+          print('[OPENAI_API] 스토리보드 파싱 실패');
+          return null;
+        }
+
+        return result;
+      } else {
+        print('[OPENAI_API] 스토리보드 재생성 오류: ${response.statusCode}');
+        return null;
+      }
+    } catch (e) {
+      print('[OPENAI_API] 스토리보드 재생성 예외: $e');
+      return null;
     }
   }
 }

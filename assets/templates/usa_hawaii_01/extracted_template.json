@@ -1,0 +1,114 @@
+{
+  "template_name": "Conversational Family Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 120,
+      "description": "Introduction to the travel destination and initial tips",
+      "key_elements": [
+        "destination introduction",
+        "travel tips"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2086,
+      "description": "Detailed exploration of travel experiences and family interactions",
+      "segments": [
+        {
+          "type": "travel tips",
+          "description": "Sharing practical advice and tips for traveling in the destination",
+          "typical_duration": 300
+        },
+        {
+          "type": "family interactions",
+          "description": "Conversations and interactions among family members",
+          "typical_duration": 600
+        },
+        {
+          "type": "exploration",
+          "description": "Exploring different locations and activities",
+          "typical_duration": 500
+        },
+        {
+          "type": "food experiences",
+          "description": "Trying local food and discussing culinary experiences",
+          "typical_duration": 400
+        },
+        {
+          "type": "shopping and leisure",
+          "description": "Shopping experiences and leisure activities",
+          "typical_duration": 286
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 120,
+      "description": "Wrap-up of the travel experience and farewell",
+      "key_elements": [
+        "summary of experiences",
+        "goodbye message"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#66a7d4",
+      "#221a1a",
+      "#a38f83"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.6,
+    "scene_changes": 1477,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and casual",
+      "content_type": "Sharing experiences and casual chat"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional translations or highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Family Interaction",
+      "description": "Frequent interactions and conversations among family members",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Travel Tips",
+      "description": "Sharing practical travel tips and advice",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Family travel documentation",
+    "Conversational travel tips sharing"
+  ]
+}

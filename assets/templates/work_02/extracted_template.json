@@ -1,0 +1,140 @@
+{
+  "template_name": "Korean Office and Lifestyle Vlog",
+  "category": "work_career",
+  "structure": {
+    "opening": {
+      "duration_seconds": 10,
+      "description": "Introduction of the vlogger and the day's agenda.",
+      "key_elements": [
+        "introduction",
+        "agenda overview"
+      ]
+    },
+    "body": {
+      "duration_seconds": 874,
+      "description": "Detailed exploration of office life, personal routines, and social interactions.",
+      "segments": [
+        {
+          "type": "office work segment",
+          "description": "Scenes of people working at desks, engaging in meetings, and discussing projects.",
+          "typical_duration": 120,
+          "scene_activity": "Working on laptops, meetings, discussions",
+          "location": "Indoor office setting",
+          "mood": "Focused and professional"
+        },
+        {
+          "type": "social interaction segment",
+          "description": "Casual conversations and interactions in lounge or cafe settings.",
+          "typical_duration": 90,
+          "scene_activity": "Casual conversations, greetings",
+          "location": "Indoor cafe or lounge",
+          "mood": "Friendly and relaxed"
+        },
+        {
+          "type": "food closeup segment",
+          "description": "Close-up shots of food items, meals being served or enjoyed.",
+          "typical_duration": 60,
+          "scene_activity": "Displaying and enjoying food",
+          "location": "Indoor dining area",
+          "mood": "Calm and inviting"
+        },
+        {
+          "type": "product showcase segment",
+          "description": "Showcasing and discussing various products like skincare, makeup, or gifts.",
+          "typical_duration": 80,
+          "scene_activity": "Displaying and discussing products",
+          "location": "Indoor, likely a vanity or workspace",
+          "mood": "Calm and informative"
+        },
+        {
+          "type": "exercise and personal care segment",
+          "description": "Scenes of personal care routines and exercise activities.",
+          "typical_duration": 60,
+          "scene_activity": "Personal care routines, exercise",
+          "location": "Indoor gym or personal space",
+          "mood": "Focused and calm"
+        },
+        {
+          "type": "design and creative work segment",
+          "description": "Scenes of digital design work, showcasing creative projects.",
+          "typical_duration": 100,
+          "scene_activity": "Designing on computer, creative work",
+          "location": "Indoor office or home workspace",
+          "mood": "Creative and focused"
+        },
+        {
+          "type": "celebration and gift exchange segment",
+          "description": "Scenes of celebrating occasions and exchanging gifts.",
+          "typical_duration": 80,
+          "scene_activity": "Celebrating, exchanging gifts",
+          "location": "Indoor restaurant or dining area",
+          "mood": "Joyful and celebratory"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 10,
+      "description": "Concluding remarks and farewell.",
+      "key_elements": [
+        "conclusion",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#8d8d7c",
+      "#1a1512",
+      "#bcbdb0"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 3.7,
+    "scene_changes": 242,
+    "camera_work": [
+      "static shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and informative",
+      "content_type": "Explaining work tasks, sharing personal experiences"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Scene descriptions, product information"
+    },
+    "primary_communication": "Both Equally"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Work and Lifestyle Integration",
+      "description": "Seamless transition between professional work scenes and personal lifestyle moments.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Office lifestyle vlogs",
+    "Productivity and work-life balance content"
+  ]
+}

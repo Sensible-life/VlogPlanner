@@ -1,0 +1,110 @@
+{
+  "template_name": "Korean Travel Vlog in Spain",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 120,
+      "description": "Introduction to the travel destination and initial impressions.",
+      "key_elements": [
+        "greeting",
+        "destination introduction",
+        "initial impressions"
+      ]
+    },
+    "body": {
+      "duration_seconds": 2350,
+      "description": "Exploration of various locations in Spain, including food experiences, cultural observations, and personal anecdotes.",
+      "segments": [
+        {
+          "type": "location exploration",
+          "description": "Visiting and describing different locations and landmarks.",
+          "typical_duration": 600
+        },
+        {
+          "type": "food tasting",
+          "description": "Trying local foods and sharing opinions.",
+          "typical_duration": 500
+        },
+        {
+          "type": "cultural experience",
+          "description": "Engaging with local culture and events.",
+          "typical_duration": 400
+        },
+        {
+          "type": "personal reflection",
+          "description": "Sharing personal thoughts and experiences.",
+          "typical_duration": 450
+        },
+        {
+          "type": "interaction with locals",
+          "description": "Conversations and interactions with local people.",
+          "typical_duration": 400
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 100,
+      "description": "Summary of the trip and farewell message.",
+      "key_elements": [
+        "trip summary",
+        "farewell message"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#302b28",
+      "#644f46",
+      "#d2d4d9"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 2.0,
+    "scene_changes": 1255,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 4
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining, sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names, brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Location and Food Focus",
+      "description": "Frequent transitions between exploring locations and trying local foods.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel inspiration",
+    "Cultural exploration"
+  ]
+}

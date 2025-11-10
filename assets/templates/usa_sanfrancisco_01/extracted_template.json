@@ -1,0 +1,121 @@
+{
+  "template_name": "Conversational Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 120,
+      "description": "Introduction and greeting, setting the day's agenda",
+      "key_elements": [
+        "greeting",
+        "agenda setting",
+        "personal update"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1605,
+      "description": "Main travel experiences and interactions",
+      "segments": [
+        {
+          "type": "travel_experience",
+          "description": "Exploring new places, describing surroundings",
+          "typical_duration": 400
+        },
+        {
+          "type": "personal_interaction",
+          "description": "Conversations with friends or locals",
+          "typical_duration": 300
+        },
+        {
+          "type": "food_review",
+          "description": "Trying local cuisine and sharing thoughts",
+          "typical_duration": 250
+        },
+        {
+          "type": "product_review",
+          "description": "Discussing and recommending products",
+          "typical_duration": 200
+        },
+        {
+          "type": "reflection",
+          "description": "Reflecting on experiences and personal thoughts",
+          "typical_duration": 200
+        },
+        {
+          "type": "scenic_views",
+          "description": "Showing scenic views and landscapes",
+          "typical_duration": 255
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 100,
+      "description": "Wrapping up the day, final thoughts and goodbyes",
+      "key_elements": [
+        "summary",
+        "farewell",
+        "call to action"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#d6dbde",
+      "#62534d",
+      "#b1ada9"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.7,
+    "scene_changes": 1074,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat, sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names, brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Frequent Scene Changes",
+      "description": "Rapid transitions between scenes to maintain viewer engagement",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Product Mentions",
+      "description": "Incorporating product reviews or mentions within the travel narrative",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel documentation",
+    "Lifestyle sharing"
+  ]
+}

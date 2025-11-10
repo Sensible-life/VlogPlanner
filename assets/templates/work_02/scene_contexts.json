@@ -1,0 +1,2483 @@
+{
+  "total_scenes": 242,
+  "scenes": [
+    {
+      "timestamp": 0.9676333333333333,
+      "timestamp_formatted": "0:00:00",
+      "activity": "Two people are engaged in a discussion or meeting, possibly working on laptops.",
+      "location": "Indoor office setting, likely a conference room.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a discussion or meeting, possibly working on laptops.\n2. **Location**: Indoor office setting, likely a conference room.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Two people wearing masks, laptops, glass partition, ID lanyards.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 1.9352666666666667,
+      "timestamp_formatted": "0:00:01",
+      "activity": "A person is working at a desk, writing notes while looking at a laptop.",
+      "location": "Indoor office setting.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Work/study scene.",
+      "raw_analysis": "1. **Activity**: A person is working at a desk, writing notes while looking at a laptop.\n2. **Location**: Indoor office setting.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Laptop, notepad, drink with a straw, office chair, green canopy.\n5. **Scene Type**: Work/study scene."
+    },
+    {
+      "timestamp": 2.9029000000000003,
+      "timestamp_formatted": "0:00:02",
+      "activity": "A group of people is waving at the camera, likely recording a vlog or greeting.",
+      "location": "Indoor setting, possibly a dining area or café.",
+      "mood": "Energetic and friendly.",
+      "key_elements": [],
+      "scene_type": "Vlog introduction or social interaction.",
+      "raw_analysis": "1. **Activity**: A group of people is waving at the camera, likely recording a vlog or greeting.\n2. **Location**: Indoor setting, possibly a dining area or café.\n3. **Mood**: Energetic and friendly.\n4. **Key Elements**: Group of people, table with food, drinks, and utensils, camera.\n5. **Scene Type**: Vlog introduction or social interaction."
+    },
+    {
+      "timestamp": 3.8705333333333334,
+      "timestamp_formatted": "0:00:03",
+      "activity": "Two people are sitting and smiling, possibly engaged in a conversation or enjoying a moment together.",
+      "location": "Indoor, likely in an office or corporate lounge area.",
+      "mood": "The atmosphere is cheerful and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or casual interaction.",
+      "raw_analysis": "1. **Activity**: Two people are sitting and smiling, possibly engaged in a conversation or enjoying a moment together.\n2. **Location**: Indoor, likely in an office or corporate lounge area.\n3. **Mood**: The atmosphere is cheerful and relaxed.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Greenery and neon sign in the background\n   - \"Olive Young Hall of Fame\" display\n   - Wall with awards or plaques\n5. **Scene Type**: Dialogue or casual interaction."
+    },
+    {
+      "timestamp": 4.838166666666667,
+      "timestamp_formatted": "0:00:04",
+      "activity": "A person is looking at their phone, possibly reading or texting.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal moment.",
+      "raw_analysis": "1. **Activity**: A person is looking at their phone, possibly reading or texting.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Person, smartphone, lamp, mirror, small bottles.\n5. **Scene Type**: Dialogue or personal moment."
+    },
+    {
+      "timestamp": 5.8058000000000005,
+      "timestamp_formatted": "0:00:05",
+      "activity": "A person is presenting a gift, possibly during a celebration or special occasion.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Joyful and celebratory.",
+      "key_elements": [],
+      "scene_type": "Celebration moment.",
+      "raw_analysis": "1. **Activity**: A person is presenting a gift, possibly during a celebration or special occasion.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Joyful and celebratory.\n4. **Key Elements**: Gift box with a bow, person smiling, dining table with plates and cutlery, wooden panel wall.\n5. **Scene Type**: Celebration moment."
+    },
+    {
+      "timestamp": 6.773433333333333,
+      "timestamp_formatted": "0:00:06",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog.",
+      "location": "Indoor, possibly a bedroom or personal workspace.",
+      "mood": "Calm and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog.\n2. **Location**: Indoor, possibly a bedroom or personal workspace.\n3. **Mood**: Calm and friendly.\n4. **Key Elements**: Person holding a tablet, small Christmas tree, vanity table with cosmetics, drawers.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 7.741066666666667,
+      "timestamp_formatted": "0:00:07",
+      "activity": "A person is taking a selfie or recording themselves in a mirror.",
+      "location": "Indoor, likely a bathroom or dressing room.",
+      "mood": "Casual and cheerful.",
+      "key_elements": [],
+      "scene_type": "Introduction or vlog opening.",
+      "raw_analysis": "1. **Activity**: A person is taking a selfie or recording themselves in a mirror.\n2. **Location**: Indoor, likely a bathroom or dressing room.\n3. **Mood**: Casual and cheerful.\n4. **Key Elements**: Camera, mirror, person waving, text overlay saying \"START!\".\n5. **Scene Type**: Introduction or vlog opening."
+    },
+    {
+      "timestamp": 9.676333333333334,
+      "timestamp_formatted": "0:00:09",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, in a bedroom setting.",
+      "mood": "Calm and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, in a bedroom setting.\n3. **Mood**: Calm and friendly.\n4. **Key Elements**: Person, bed, grey sweater, white walls.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 16.449766666666665,
+      "timestamp_formatted": "0:00:16",
+      "activity": "A person is applying or spraying a product, possibly perfume, as part of a routine.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Routine or preparation.",
+      "raw_analysis": "1. **Activity**: A person is applying or spraying a product, possibly perfume, as part of a routine.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, bed, gray sweater, spray bottle, white walls.\n5. **Scene Type**: Routine or preparation."
+    },
+    {
+      "timestamp": 21.287933333333335,
+      "timestamp_formatted": "0:00:21",
+      "activity": "A person is taking a mirror selfie, possibly showcasing their outfit.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Outfit showcase.",
+      "raw_analysis": "1. **Activity**: A person is taking a mirror selfie, possibly showcasing their outfit.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Mirror, camera, person in a coat and scarf, bed, text overlay \"#OOTD\".\n5. **Scene Type**: Outfit showcase."
+    },
+    {
+      "timestamp": 24.190833333333334,
+      "timestamp_formatted": "0:00:24",
+      "activity": "A person is taking a mirror selfie with a camera.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Self-reflection.",
+      "raw_analysis": "1. **Activity**: A person is taking a mirror selfie with a camera.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Mirror, camera, person, bed, text overlay.\n5. **Scene Type**: Self-reflection."
+    },
+    {
+      "timestamp": 29.996633333333335,
+      "timestamp_formatted": "0:00:29",
+      "activity": "A person is taking a selfie video while waving at the camera.",
+      "location": "Indoor, likely in a personal or casual setting.",
+      "mood": "Friendly and casual.",
+      "key_elements": [],
+      "scene_type": "Introduction or vlog entry.",
+      "raw_analysis": "1. **Activity**: A person is taking a selfie video while waving at the camera.\n2. **Location**: Indoor, likely in a personal or casual setting.\n3. **Mood**: Friendly and casual.\n4. **Key Elements**: Camera, person waving, text overlay, circular frame.\n5. **Scene Type**: Introduction or vlog entry."
+    },
+    {
+      "timestamp": 30.964266666666667,
+      "timestamp_formatted": "0:00:30",
+      "activity": "The scene shows a close-up of a name badge or ID card.",
+      "location": "Likely an indoor setting, possibly at an event or conference.",
+      "mood": "Neutral and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a name badge or ID card.\n2. **Location**: Likely an indoor setting, possibly at an event or conference.\n3. **Mood**: Neutral and straightforward.\n4. **Key Elements**: Name badge, lanyard, green color scheme, text \"O-log\".\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 31.9319,
+      "timestamp_formatted": "0:00:31",
+      "activity": "People are decorating or arranging a Christmas tree in an office setting.",
+      "location": "Indoor, likely an office or corporate lounge area.",
+      "mood": "Festive and cheerful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are decorating or arranging a Christmas tree in an office setting.\n2. **Location**: Indoor, likely an office or corporate lounge area.\n3. **Mood**: Festive and cheerful.\n4. **Key Elements**: Christmas tree, chairs, large windows, Christmas decorations, text overlay showing \"AM 8:30 DAY1\".\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 32.89953333333333,
+      "timestamp_formatted": "0:00:32",
+      "activity": "People are casually interacting in a decorated office space.",
+      "location": "Indoor, in a modern office lounge or break area.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are casually interacting in a decorated office space.\n2. **Location**: Indoor, in a modern office lounge or break area.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas decorations, chairs and tables, large windows, people.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 33.86716666666667,
+      "timestamp_formatted": "0:00:33",
+      "activity": "People are casually interacting and relaxing in a decorated indoor space.",
+      "location": "Indoor, likely a lounge or office common area.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are casually interacting and relaxing in a decorated indoor space.\n2. **Location**: Indoor, likely a lounge or office common area.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas tree, chairs, festive decorations, large windows.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 34.8348,
+      "timestamp_formatted": "0:00:34",
+      "activity": "People are casually sitting and walking in a decorated indoor space.",
+      "location": "Indoor, likely an office lounge or common area.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are casually sitting and walking in a decorated indoor space.\n2. **Location**: Indoor, likely an office lounge or common area.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas tree, chairs, large windows, holiday decorations.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 35.80243333333333,
+      "timestamp_formatted": "0:00:35",
+      "activity": "People are sitting and conversing in a lounge area.",
+      "location": "Indoor, likely an office or corporate lounge.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are sitting and conversing in a lounge area.\n2. **Location**: Indoor, likely an office or corporate lounge.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas decorations, large windows, seating area, people conversing.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 36.770066666666665,
+      "timestamp_formatted": "0:00:36",
+      "activity": "A group of people is sitting and talking in a lounge area.",
+      "location": "Indoor, likely an office or corporate lounge.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A group of people is sitting and talking in a lounge area.\n2. **Location**: Indoor, likely an office or corporate lounge.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas decorations, seating area, large windows, people conversing.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 37.737700000000004,
+      "timestamp_formatted": "0:00:37",
+      "activity": "People are sitting and possibly working or relaxing in a decorated space.",
+      "location": "Indoor, likely an office lounge or common area.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are sitting and possibly working or relaxing in a decorated space.\n2. **Location**: Indoor, likely an office lounge or common area.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas tree, holiday decorations, chairs, tables, large windows.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 38.705333333333336,
+      "timestamp_formatted": "0:00:38",
+      "activity": "People are casually interacting and relaxing in a café setting.",
+      "location": "Indoor café with a festive theme.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are casually interacting and relaxing in a café setting.\n2. **Location**: Indoor café with a festive theme.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Christmas tree, café counter, people sitting and standing, festive decorations.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 39.67296666666667,
+      "timestamp_formatted": "0:00:39",
+      "activity": "People are ordering or interacting at a café counter.",
+      "location": "Indoor café.",
+      "mood": "Relaxed and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are ordering or interacting at a café counter.\n2. **Location**: Indoor café.\n3. **Mood**: Relaxed and festive.\n4. **Key Elements**: Café counter, Christmas decorations, people interacting, seating area, large windows.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 40.6406,
+      "timestamp_formatted": "0:00:40",
+      "activity": "People are interacting at a café counter, possibly ordering or picking up items.",
+      "location": "Indoor café or lounge area.",
+      "mood": "Calm and festive.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are interacting at a café counter, possibly ordering or picking up items.\n2. **Location**: Indoor café or lounge area.\n3. **Mood**: Calm and festive.\n4. **Key Elements**: Café counter, Christmas decorations, Christmas tree, people interacting, seating area.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 41.60823333333333,
+      "timestamp_formatted": "0:00:41",
+      "activity": "The scene shows a display of pre-packaged food items in a refrigerated case.",
+      "location": "Indoor, likely in a café or convenience store.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of pre-packaged food items in a refrigerated case.\n2. **Location**: Indoor, likely in a café or convenience store.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Sandwiches, salads, Christmas tree decorations, refrigerated display case.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 43.5435,
+      "timestamp_formatted": "0:00:43",
+      "activity": "The scene shows a display of pre-packaged food items in a refrigerated case.",
+      "location": "Indoor, likely a convenience store or café.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of pre-packaged food items in a refrigerated case.\n2. **Location**: Indoor, likely a convenience store or café.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Sandwiches, salads, refrigerated display case, holiday decorations, labels.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 44.51113333333333,
+      "timestamp_formatted": "0:00:44",
+      "activity": "The scene shows a display of packaged food items, likely in a store or café.",
+      "location": "Indoor, in a refrigerated section of a store or café.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged food items, likely in a store or café.\n2. **Location**: Indoor, in a refrigerated section of a store or café.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Packaged sandwiches, salads, Christmas tree decorations, glass display case.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 47.414033333333336,
+      "timestamp_formatted": "0:00:47",
+      "activity": "The scene shows a display of packaged food items, likely in a store or café.",
+      "location": "Indoor, in a refrigerated section of a store or café.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged food items, likely in a store or café.\n2. **Location**: Indoor, in a refrigerated section of a store or café.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Packaged sandwiches, salads, Christmas-themed decorations, glass display case.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 48.38166666666667,
+      "timestamp_formatted": "0:00:48",
+      "activity": "The scene shows a display of packaged food items in a refrigerated case.",
+      "location": "Indoor, likely in a convenience store or café.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of packaged food items in a refrigerated case.\n2. **Location**: Indoor, likely in a convenience store or café.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Sandwiches in plastic containers, salads in trays, Christmas tree decorations, refrigerated display case.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 49.3493,
+      "timestamp_formatted": "0:00:49",
+      "activity": "A person is working at a computer desk.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Office work environment.",
+      "raw_analysis": "1. **Activity**: A person is working at a computer desk.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, office chairs, desk partitions, jackets on chairs, person working.\n5. **Scene Type**: Office work environment."
+    },
+    {
+      "timestamp": 50.31693333333333,
+      "timestamp_formatted": "0:00:50",
+      "activity": "A person is working at a computer in an office setting.",
+      "location": "Indoor office environment.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Workplace setting.",
+      "raw_analysis": "1. **Activity**: A person is working at a computer in an office setting.\n2. **Location**: Indoor office environment.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, office chairs, desk with personal items, green leaf-shaped decorations.\n5. **Scene Type**: Workplace setting."
+    },
+    {
+      "timestamp": 51.28456666666667,
+      "timestamp_formatted": "0:00:51",
+      "activity": "A person is sitting at a desk, turning to look at the camera, possibly engaging in a casual interaction.",
+      "location": "Indoor office setting.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, turning to look at the camera, possibly engaging in a casual interaction.\n2. **Location**: Indoor office setting.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Computer monitors, office chair, desk, person wearing a mask, text on screen.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 52.2522,
+      "timestamp_formatted": "0:00:52",
+      "activity": "A person is sitting at a desk, waving at the camera.",
+      "location": "Indoor office setting.",
+      "mood": "Friendly and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, waving at the camera.\n2. **Location**: Indoor office setting.\n3. **Mood**: Friendly and casual.\n4. **Key Elements**: Computer monitors, desk, person wearing a mask, office chair, snacks.\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 53.219833333333334,
+      "timestamp_formatted": "0:00:53",
+      "activity": "A person is working at a computer desk, possibly engaged in a video call or online communication.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Workplace interaction.",
+      "raw_analysis": "1. **Activity**: A person is working at a computer desk, possibly engaged in a video call or online communication.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, desk with office supplies, a person wearing a mask, large window, green leaf-shaped decoration.\n5. **Scene Type**: Workplace interaction."
+    },
+    {
+      "timestamp": 54.187466666666666,
+      "timestamp_formatted": "0:00:54",
+      "activity": "A person is working at a computer desk, possibly engaged in a design task.",
+      "location": "Indoor office setting.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Workplace environment.",
+      "raw_analysis": "1. **Activity**: A person is working at a computer desk, possibly engaged in a design task.\n2. **Location**: Indoor office setting.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Computer monitors, desk with office supplies, person wearing a mask, jacket on chair, window with a city view.\n5. **Scene Type**: Workplace environment."
+    },
+    {
+      "timestamp": 55.155100000000004,
+      "timestamp_formatted": "0:00:55",
+      "activity": "A person is sitting at a desk, possibly working or preparing to work, while wearing a mask.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Workplace environment.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly working or preparing to work, while wearing a mask.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, desk with various items, person wearing a mask, office chair with a blanket, coffee mug.\n5. **Scene Type**: Workplace environment."
+    },
+    {
+      "timestamp": 56.122733333333336,
+      "timestamp_formatted": "0:00:56",
+      "activity": "A person is sitting at a desk, smiling and looking at the camera.",
+      "location": "Indoor office setting.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Workplace interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, smiling and looking at the camera.\n2. **Location**: Indoor office setting.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Computer monitors, desk with office supplies, person wearing a mask, green leaf-shaped decoration.\n5. **Scene Type**: Workplace interaction."
+    },
+    {
+      "timestamp": 57.09036666666667,
+      "timestamp_formatted": "0:00:57",
+      "activity": "A person is sitting at a desk, smiling and possibly engaging in conversation or being filmed.",
+      "location": "Indoor office setting.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, smiling and possibly engaging in conversation or being filmed.\n2. **Location**: Indoor office setting.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Computer monitors, desk with various items, person wearing a mask, green leaf-shaped decoration.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 58.058,
+      "timestamp_formatted": "0:00:58",
+      "activity": "A person is sitting at a desk, smiling and looking at the camera.",
+      "location": "Indoor office setting.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Workplace interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, smiling and looking at the camera.\n2. **Location**: Indoor office setting.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Computer monitors, desk with various items, person wearing a mask, green leaf-shaped desk decoration.\n5. **Scene Type**: Workplace interaction."
+    },
+    {
+      "timestamp": 59.02563333333333,
+      "timestamp_formatted": "0:00:59",
+      "activity": "A person is sitting at a desk, possibly working or preparing to work on a computer.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Workplace setting.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly working or preparing to work on a computer.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitor, laptop, desk, person wearing a mask, office chair.\n5. **Scene Type**: Workplace setting."
+    },
+    {
+      "timestamp": 59.99326666666667,
+      "timestamp_formatted": "0:00:59",
+      "activity": "The scene shows a workspace setup with computers displaying work-related content.",
+      "location": "Indoor office environment.",
+      "mood": "Organized and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup with computers displaying work-related content.\n2. **Location**: Indoor office environment.\n3. **Mood**: Organized and focused.\n4. **Key Elements**: \n   - Desktop monitor displaying a webpage.\n   - Laptop with a different webpage.\n   - Desk calendar.\n   - Coffee mug.\n   - Office supplies (notepad, pen, phone).\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 62.896166666666666,
+      "timestamp_formatted": "0:01:02",
+      "activity": "The scene shows a typical work desk setup in an office environment.",
+      "location": "Indoor, office workspace.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a typical work desk setup in an office environment.\n2. **Location**: Indoor, office workspace.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Computer monitors, calendar, coffee mug, sticky notes, office supplies.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 63.8638,
+      "timestamp_formatted": "0:01:03",
+      "activity": "A workspace is being shown, possibly during a work or study session.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace is being shown, possibly during a work or study session.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitor, laptop, desk calendar, green leaf-shaped dividers, coffee mug.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 64.83143333333334,
+      "timestamp_formatted": "0:01:04",
+      "activity": "A workspace is being shown, possibly discussing or showcasing a project on the computer screens.",
+      "location": "Indoor office setting.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace is being shown, possibly discussing or showcasing a project on the computer screens.\n2. **Location**: Indoor office setting.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Computer monitors displaying work, green leaf-like dividers, sticky notes, calendar.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 65.79906666666666,
+      "timestamp_formatted": "0:01:05",
+      "activity": "The scene shows a workspace setup, possibly involving a discussion or presentation about the desk arrangement.",
+      "location": "Indoor office environment.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly involving a discussion or presentation about the desk arrangement.\n2. **Location**: Indoor office environment.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, green leaf-shaped decorations, office ceiling lights.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 66.7667,
+      "timestamp_formatted": "0:01:06",
+      "activity": "The scene shows a workspace with computer screens displaying digital content, likely indicating work or browsing activity.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace with computer screens displaying digital content, likely indicating work or browsing activity.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, green leaf-like dividers, desk items, calendar.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 67.73433333333334,
+      "timestamp_formatted": "0:01:07",
+      "activity": "A person is working at a computer desk, possibly reviewing or designing content on the screens.",
+      "location": "Indoor office setting.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Workplace/office environment.",
+      "raw_analysis": "1. **Activity**: A person is working at a computer desk, possibly reviewing or designing content on the screens.\n2. **Location**: Indoor office setting.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: \n   - Two computer monitors displaying digital content.\n   - Office cubicle with green privacy screens.\n   - Desk calendar and sticky notes.\n5. **Scene Type**: Workplace/office environment."
+    },
+    {
+      "timestamp": 68.70196666666666,
+      "timestamp_formatted": "0:01:08",
+      "activity": "A workspace is being shown, likely focusing on a design or digital project on the computer screens.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace is being shown, likely focusing on a design or digital project on the computer screens.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitor, laptop, desk calendar, green leaf-shaped decor, sticky notes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 69.6696,
+      "timestamp_formatted": "0:01:09",
+      "activity": "A workspace is being shown, likely focusing on a design or digital project.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace is being shown, likely focusing on a design or digital project.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitor, laptop, desk calendar, sticky notes, coffee mug.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 71.60486666666667,
+      "timestamp_formatted": "0:01:11",
+      "activity": "The scene shows a close-up of a desk setup, likely highlighting personal or work-related items.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Organized and calm.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a desk setup, likely highlighting personal or work-related items.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Organized and calm.\n4. **Key Elements**: Computer monitor, skincare products, AirPods case, beverage carton, keyboard.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 72.5725,
+      "timestamp_formatted": "0:01:12",
+      "activity": "The scene shows a close-up of a desk setup, possibly highlighting personal or work-related items.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Organized and calm.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a desk setup, possibly highlighting personal or work-related items.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Organized and calm.\n4. **Key Elements**: Computer monitor, eye drops, cream jar, AirPods case, and a motivational card.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 73.54013333333333,
+      "timestamp_formatted": "0:01:13",
+      "activity": "The scene shows a close-up of a desk setup, possibly highlighting personal items.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot of a workspace.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a desk setup, possibly highlighting personal items.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: \n   - Skincare products\n   - AirPods case\n   - Phone stand with stickers\n   - Monitor stand\n   - Beverage carton\n5. **Scene Type**: Establishing shot of a workspace."
+    },
+    {
+      "timestamp": 78.3783,
+      "timestamp_formatted": "0:01:18",
+      "activity": "A person is organizing or interacting with items on a desk.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is organizing or interacting with items on a desk.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Computer monitor, skincare products, eye drops, AirPods case, and a hand.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 79.34593333333333,
+      "timestamp_formatted": "0:01:19",
+      "activity": "The scene shows a close-up of a desk setup, possibly organizing or showcasing items.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot of a workspace.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a desk setup, possibly organizing or showcasing items.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: \n   - Computer monitor\n   - Skincare products\n   - Beverage mug\n   - Smartphone\n   - Wireless earbuds\n5. **Scene Type**: Establishing shot of a workspace."
+    },
+    {
+      "timestamp": 81.2812,
+      "timestamp_formatted": "0:01:21",
+      "activity": "A person is holding and examining a tube of toothpaste.",
+      "location": "Indoor, likely a desk or workspace.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: A person is holding and examining a tube of toothpaste.\n2. **Location**: Indoor, likely a desk or workspace.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Toothpaste tube, computer monitor, keyboard, various bottles, and a hand.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 90.95753333333333,
+      "timestamp_formatted": "0:01:30",
+      "activity": "A person is pointing at a wireless phone charger on a desk.",
+      "location": "Indoor, likely a home or office desk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is pointing at a wireless phone charger on a desk.\n2. **Location**: Indoor, likely a home or office desk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Wireless phone charger with stickers, a hand pointing, a mug, a juice carton, a calendar.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 108.37493333333333,
+      "timestamp_formatted": "0:01:48",
+      "activity": "A person is preparing a drink by adding a supplement or vitamin to a cup.",
+      "location": "Indoor, likely a home or office desk.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Routine activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing a drink by adding a supplement or vitamin to a cup.\n2. **Location**: Indoor, likely a home or office desk.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Mug, supplement box, phone stand, book with a cartoon cover.\n5. **Scene Type**: Routine activity."
+    },
+    {
+      "timestamp": 109.34256666666667,
+      "timestamp_formatted": "0:01:49",
+      "activity": "A person is holding a juice box over a cup, possibly preparing to pour it.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is holding a juice box over a cup, possibly preparing to pour it.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Juice box, cup, desk calendar, computer monitor, power strip.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 110.31020000000001,
+      "timestamp_formatted": "0:01:50",
+      "activity": "A person is holding a juice box labeled \"ABC\" in front of a computer screen.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is holding a juice box labeled \"ABC\" in front of a computer screen.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Juice box, computer monitor, desk items, hand.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 111.27783333333333,
+      "timestamp_formatted": "0:01:51",
+      "activity": "A person is holding a carton of fruit and vegetable juice.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: A person is holding a carton of fruit and vegetable juice.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Juice carton, computer monitor, desk items, calendar, hand.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 113.2131,
+      "timestamp_formatted": "0:01:53",
+      "activity": "A person is preparing to pour something into a cup.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing to pour something into a cup.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Cup, box with a blue eye design, calendar, computer monitor, power strip.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 114.18073333333334,
+      "timestamp_formatted": "0:01:54",
+      "activity": "A person is about to pour a drink from a carton into a cup.",
+      "location": "Indoor, likely an office or study desk.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is about to pour a drink from a carton into a cup.\n2. **Location**: Indoor, likely an office or study desk.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Drink carton, cup, calendar, book, computer screen.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 115.14836666666667,
+      "timestamp_formatted": "0:01:55",
+      "activity": "A person is speaking directly to the camera, possibly introducing or explaining something.",
+      "location": "Indoor, likely an office setting.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly introducing or explaining something.\n2. **Location**: Indoor, likely an office setting.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: Person wearing a mask, office chair, desk, green partition, Korean text on screen.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 134.50103333333334,
+      "timestamp_formatted": "0:02:14",
+      "activity": "A person is writing notes on a tablet using a stylus.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Focused and productive.",
+      "key_elements": [],
+      "scene_type": "\"Work/Study session\"",
+      "raw_analysis": "1. **Activity**: A person is writing notes on a tablet using a stylus.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Focused and productive.\n4. **Key Elements**: Tablet with stylus, laptop, keyboard, lip balm.\n5. **Scene Type**: \"Work/Study session\""
+    },
+    {
+      "timestamp": 137.40393333333333,
+      "timestamp_formatted": "0:02:17",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person speaking, green decorative element, office chair, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 149.98316666666668,
+      "timestamp_formatted": "0:02:29",
+      "activity": "The scene shows a comparison of mobile app interfaces over time.",
+      "location": "Indoor, likely in a presentation or meeting setting.",
+      "mood": "Informative and analytical.",
+      "key_elements": [],
+      "scene_type": "Presentation/analysis.",
+      "raw_analysis": "1. **Activity**: The scene shows a comparison of mobile app interfaces over time.\n2. **Location**: Indoor, likely in a presentation or meeting setting.\n3. **Mood**: Informative and analytical.\n4. **Key Elements**: Mobile app screenshots, dates (2021.09, 2021.12, 2022.05), Korean text, icons.\n5. **Scene Type**: Presentation/analysis."
+    },
+    {
+      "timestamp": 155.78896666666668,
+      "timestamp_formatted": "0:02:35",
+      "activity": "The scene shows a digital interface displaying various gift options and categories.",
+      "location": "Indoor, likely on a computer or mobile device screen.",
+      "mood": "Informative and commercial.",
+      "key_elements": [],
+      "scene_type": "Interface display.",
+      "raw_analysis": "1. **Activity**: The scene shows a digital interface displaying various gift options and categories.\n2. **Location**: Indoor, likely on a computer or mobile device screen.\n3. **Mood**: Informative and commercial.\n4. **Key Elements**: Gift categories, product images, text in Korean, navigation options.\n5. **Scene Type**: Interface display."
+    },
+    {
+      "timestamp": 173.20636666666667,
+      "timestamp_formatted": "0:02:53",
+      "activity": "The scene shows a digital interface displaying a shopping or gift selection app.",
+      "location": "Indoor, likely on a computer or smartphone screen.",
+      "mood": "Informative and commercial.",
+      "key_elements": [],
+      "scene_type": "Interface demonstration.",
+      "raw_analysis": "1. **Activity**: The scene shows a digital interface displaying a shopping or gift selection app.\n2. **Location**: Indoor, likely on a computer or smartphone screen.\n3. **Mood**: Informative and commercial.\n4. **Key Elements**: \n   - Gift-themed graphics\n   - Product images\n   - Text in Korean\n   - App interface\n5. **Scene Type**: Interface demonstration."
+    },
+    {
+      "timestamp": 180.94743333333335,
+      "timestamp_formatted": "0:03:00",
+      "activity": "The scene shows a presentation or analysis of mobile app interface designs over time.",
+      "location": "Indoor, likely in an office or meeting room.",
+      "mood": "Informative and professional.",
+      "key_elements": [],
+      "scene_type": "Presentation/analysis.",
+      "raw_analysis": "1. **Activity**: The scene shows a presentation or analysis of mobile app interface designs over time.\n2. **Location**: Indoor, likely in an office or meeting room.\n3. **Mood**: Informative and professional.\n4. **Key Elements**: \n   - Screenshots of app interfaces from different dates.\n   - Text in Korean.\n   - A highlighted text box at the bottom.\n5. **Scene Type**: Presentation/analysis."
+    },
+    {
+      "timestamp": 203.203,
+      "timestamp_formatted": "0:03:23",
+      "activity": "A person is working at a computer, possibly focusing on a task.",
+      "location": "Indoor office setting.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Work environment.",
+      "raw_analysis": "1. **Activity**: A person is working at a computer, possibly focusing on a task.\n2. **Location**: Indoor office setting.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Computer, office chair, person wearing a mask, green leaf-shaped decor, task list overlay.\n5. **Scene Type**: Work environment."
+    },
+    {
+      "timestamp": 207.07353333333333,
+      "timestamp_formatted": "0:03:27",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the content of this image as it appears to be heavily blurred. If you have another frame or a clearer image, feel free to share it!"
+    },
+    {
+      "timestamp": 208.04116666666667,
+      "timestamp_formatted": "0:03:28",
+      "activity": "The scene shows an office meeting room, likely being prepared for a meeting.",
+      "location": "Indoor office setting, specifically a glass-walled meeting room.",
+      "mood": "Professional and calm.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an office meeting room, likely being prepared for a meeting.\n2. **Location**: Indoor office setting, specifically a glass-walled meeting room.\n3. **Mood**: Professional and calm.\n4. **Key Elements**: Glass walls, office chairs, a table, green plants, and a carpet with a geometric pattern.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 218.68513333333334,
+      "timestamp_formatted": "0:03:38",
+      "activity": "Two people are sitting at a table, possibly engaged in a discussion or meeting.",
+      "location": "Indoor office setting, likely a conference room.",
+      "mood": "Professional and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are sitting at a table, possibly engaged in a discussion or meeting.\n2. **Location**: Indoor office setting, likely a conference room.\n3. **Mood**: Professional and calm.\n4. **Key Elements**: Two people wearing masks, laptops, office chairs, glass partition.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 226.4262,
+      "timestamp_formatted": "0:03:46",
+      "activity": "A person is waving at the camera during a video conference.",
+      "location": "Indoor office or meeting room.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is waving at the camera during a video conference.\n2. **Location**: Indoor office or meeting room.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Person wearing a mask, computer screen with a video call, desk with office supplies, hand sanitizer.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 227.39383333333333,
+      "timestamp_formatted": "0:03:47",
+      "activity": "A person is waving and greeting during a video conference.",
+      "location": "Indoor office setting.",
+      "mood": "Friendly and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is waving and greeting during a video conference.\n2. **Location**: Indoor office setting.\n3. **Mood**: Friendly and professional.\n4. **Key Elements**: Person wearing a mask, computer screen with video call, hand sanitizer, notebooks.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 232.232,
+      "timestamp_formatted": "0:03:52",
+      "activity": "A person is participating in a video conference call.",
+      "location": "Indoor, likely a meeting room or office.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is participating in a video conference call.\n2. **Location**: Indoor, likely a meeting room or office.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Large screen displaying a video call interface\n   - Person wearing a mask\n   - Hand sanitizer and tissues on the table\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 239.00543333333334,
+      "timestamp_formatted": "0:03:59",
+      "activity": "Two people are working on laptops, possibly discussing or collaborating on a task.",
+      "location": "Indoor office setting, likely a meeting room.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are working on laptops, possibly discussing or collaborating on a task.\n2. **Location**: Indoor office setting, likely a meeting room.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Laptops, face masks, office chairs, glass partition.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 250.61703333333332,
+      "timestamp_formatted": "0:04:10",
+      "activity": "Two people are working on laptops, possibly in a meeting or collaborative work session.",
+      "location": "Indoor office setting, likely a conference room.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue/meeting.",
+      "raw_analysis": "1. **Activity**: Two people are working on laptops, possibly in a meeting or collaborative work session.\n2. **Location**: Indoor office setting, likely a conference room.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Two people wearing masks, laptops, glass partition, text overlay in Korean.\n5. **Scene Type**: Dialogue/meeting."
+    },
+    {
+      "timestamp": 287.38710000000003,
+      "timestamp_formatted": "0:04:47",
+      "activity": "The scene shows an exterior view of a commercial area with a focus on the time and day.",
+      "location": "Outdoor, in front of a commercial building with shops and a hotel.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an exterior view of a commercial area with a focus on the time and day.\n2. **Location**: Outdoor, in front of a commercial building with shops and a hotel.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: \n   - \"FOUR POINTS\" hotel sign\n   - Coffee shop sign\n   - CU convenience store sign\n   - TWINCITY ARCADE sign\n   - Time and date overlay (\"PM 12:30, DAY 1\")\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 288.35473333333334,
+      "timestamp_formatted": "0:04:48",
+      "activity": "The scene shows an exterior view of a building complex, possibly indicating a location or time update.",
+      "location": "Outdoor setting at a commercial building area.",
+      "mood": "Neutral and informative.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an exterior view of a building complex, possibly indicating a location or time update.\n2. **Location**: Outdoor setting at a commercial building area.\n3. **Mood**: Neutral and informative.\n4. **Key Elements**: Coffee shop sign, Four Points hotel sign, CU convenience store sign, Twin City Arcade entrance, bushes.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 289.32236666666665,
+      "timestamp_formatted": "0:04:49",
+      "activity": "The scene shows the exterior of a building complex, possibly highlighting its location or features.",
+      "location": "Outdoor, in front of a commercial building or hotel.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the exterior of a building complex, possibly highlighting its location or features.\n2. **Location**: Outdoor, in front of a commercial building or hotel.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: \n   - \"FOUR POINTS\" hotel sign\n   - \"TWINCITY ARCADE\" entrance\n   - Coffee shop signage\n   - Greenery and pathway\n   - Korean text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 290.29,
+      "timestamp_formatted": "0:04:50",
+      "activity": "The scene shows the exterior of a building complex, likely focusing on the entrance to a hotel or business area.",
+      "location": "Outdoor, in front of a hotel or commercial building.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the exterior of a building complex, likely focusing on the entrance to a hotel or business area.\n2. **Location**: Outdoor, in front of a hotel or commercial building.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: \n   - Signage for \"FOUR POINTS\"\n   - A coffee shop sign\n   - Building facade\n   - Bushes and walkway\n   - Korean text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 291.25763333333333,
+      "timestamp_formatted": "0:04:51",
+      "activity": "The scene shows the exterior of a building complex, possibly highlighting a location.",
+      "location": "Outdoor, in front of a hotel or business complex.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the exterior of a building complex, possibly highlighting a location.\n2. **Location**: Outdoor, in front of a hotel or business complex.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: \n   - Four Points by Sheraton sign\n   - Coffee shop entrance\n   - Twin City Arcade entrance\n   - Bushes and walkway\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 292.2252666666667,
+      "timestamp_formatted": "0:04:52",
+      "activity": "A buffet is being displayed with a variety of dishes available for selection.",
+      "location": "Indoor, likely in a restaurant or hotel dining area.",
+      "mood": "Inviting and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A buffet is being displayed with a variety of dishes available for selection.\n2. **Location**: Indoor, likely in a restaurant or hotel dining area.\n3. **Mood**: Inviting and appetizing.\n4. **Key Elements**: Plates of desserts, serving utensils, colorful food arrangements, buffet table, people in the background.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 293.1929,
+      "timestamp_formatted": "0:04:53",
+      "activity": "A buffet is being presented with a variety of desserts and dishes on display.",
+      "location": "Indoor, likely in a restaurant or hotel buffet area.",
+      "mood": "Inviting and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A buffet is being presented with a variety of desserts and dishes on display.\n2. **Location**: Indoor, likely in a restaurant or hotel buffet area.\n3. **Mood**: Inviting and appetizing.\n4. **Key Elements**: Assorted desserts, serving utensils, plates, decorative fruit displays.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 294.1605333333333,
+      "timestamp_formatted": "0:04:54",
+      "activity": "A buffet is set up with a variety of desserts and dishes on display.",
+      "location": "Indoor, likely in a restaurant or hotel dining area.",
+      "mood": "Inviting and indulgent.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A buffet is set up with a variety of desserts and dishes on display.\n2. **Location**: Indoor, likely in a restaurant or hotel dining area.\n3. **Mood**: Inviting and indulgent.\n4. **Key Elements**: Assorted desserts, serving utensils, labeled dishes, decorative pumpkins.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 295.1281666666667,
+      "timestamp_formatted": "0:04:55",
+      "activity": "A buffet display of various desserts is being showcased.",
+      "location": "Indoor setting, likely in a restaurant or hotel buffet area.",
+      "mood": "Inviting and indulgent.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A buffet display of various desserts is being showcased.\n2. **Location**: Indoor setting, likely in a restaurant or hotel buffet area.\n3. **Mood**: Inviting and indulgent.\n4. **Key Elements**: Assorted desserts, serving utensils, decorative pumpkins, informational labels.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 296.0958,
+      "timestamp_formatted": "0:04:56",
+      "activity": "A buffet is being displayed with a variety of desserts and pastries.",
+      "location": "Indoor, likely in a restaurant or hotel dining area.",
+      "mood": "Inviting and indulgent.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A buffet is being displayed with a variety of desserts and pastries.\n2. **Location**: Indoor, likely in a restaurant or hotel dining area.\n3. **Mood**: Inviting and indulgent.\n4. **Key Elements**: Plates of desserts, pastries, serving utensils, decorative pumpkins.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 297.06343333333336,
+      "timestamp_formatted": "0:04:57",
+      "activity": "A meal is being served or enjoyed, with a focus on a plate of food.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A meal is being served or enjoyed, with a focus on a plate of food.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Plate with assorted food, smartphone, cutlery, glass of water, and a placemat.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 298.0310666666667,
+      "timestamp_formatted": "0:04:58",
+      "activity": "People are dining, with plates of food and drinks on the table.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: People are dining, with plates of food and drinks on the table.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Plates of food, glasses of juice, a smartphone, cutlery.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 298.9987,
+      "timestamp_formatted": "0:04:58",
+      "activity": "People are having a meal together.",
+      "location": "Indoor dining setting, likely a restaurant or café.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: People are having a meal together.\n2. **Location**: Indoor dining setting, likely a restaurant or café.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Plates of food, glasses of juice, a smartphone, and napkins.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 299.96633333333335,
+      "timestamp_formatted": "0:04:59",
+      "activity": "People are having a meal at a table.",
+      "location": "Indoor setting, likely a restaurant or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: People are having a meal at a table.\n2. **Location**: Indoor setting, likely a restaurant or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Plates of food, glasses of juice, a smartphone, utensils.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 300.93396666666666,
+      "timestamp_formatted": "0:05:00",
+      "activity": "People are dining together, likely having a meal and engaging in conversation.",
+      "location": "Indoor setting, possibly a restaurant or dining area.",
+      "mood": "Casual and social atmosphere.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: People are dining together, likely having a meal and engaging in conversation.\n2. **Location**: Indoor setting, possibly a restaurant or dining area.\n3. **Mood**: Casual and social atmosphere.\n4. **Key Elements**: Plates of food, glasses of juice, utensils, and a smartphone.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 301.90160000000003,
+      "timestamp_formatted": "0:05:01",
+      "activity": "People are dining together, likely having a meal.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Dining scene.",
+      "raw_analysis": "1. **Activity**: People are dining together, likely having a meal.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Plates of food, glasses of juice, utensils, people seated at a table.\n5. **Scene Type**: Dining scene."
+    },
+    {
+      "timestamp": 302.86923333333334,
+      "timestamp_formatted": "0:05:02",
+      "activity": "People are dining together, possibly having a conversation.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: People are dining together, possibly having a conversation.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Plates of food, glasses of juice, chopsticks, a marble table, and napkins.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 303.83686666666665,
+      "timestamp_formatted": "0:05:03",
+      "activity": "People are having a meal together, possibly engaged in conversation.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Social and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: People are having a meal together, possibly engaged in conversation.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Social and relaxed.\n4. **Key Elements**: Plates of food, glasses of juice and water, utensils, and a smartphone.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 304.8045,
+      "timestamp_formatted": "0:05:04",
+      "activity": "A person is speaking, possibly engaging in a conversation or sharing a thought.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly engaging in a conversation or sharing a thought.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: \n   - Person speaking\n   - Dining tables\n   - People in the background\n   - Plates and drinks on tables\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 305.77213333333333,
+      "timestamp_formatted": "0:05:05",
+      "activity": "A person is sitting at a table, possibly engaged in conversation or thought.",
+      "location": "Indoor, in a restaurant or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly engaged in conversation or thought.\n2. **Location**: Indoor, in a restaurant or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: \n   - Person in focus\n   - Dining tables with people\n   - Plates and drinks on tables\n   - Large windows in the background\n5. **Scene Type**: Dialogue or interaction."
+    },
+    {
+      "timestamp": 309.6426666666667,
+      "timestamp_formatted": "0:05:09",
+      "activity": "A person is speaking to the camera in a dining setting, possibly discussing their experience.",
+      "location": "Indoor, in a restaurant or buffet setting.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera in a dining setting, possibly discussing their experience.\n2. **Location**: Indoor, in a restaurant or buffet setting.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Dining tables, people eating, large windows, pendant lights, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 310.6103,
+      "timestamp_formatted": "0:05:10",
+      "activity": "A person is speaking, possibly sharing an experience or opinion, while others are dining.",
+      "location": "Indoor restaurant or buffet setting.",
+      "mood": "Casual and social.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly sharing an experience or opinion, while others are dining.\n2. **Location**: Indoor restaurant or buffet setting.\n3. **Mood**: Casual and social.\n4. **Key Elements**: Dining tables, people eating, plates of food, large windows.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 312.5455666666667,
+      "timestamp_formatted": "0:05:12",
+      "activity": "A person is speaking or gesturing, possibly explaining something, in a dining setting.",
+      "location": "Indoor, in a restaurant or café.",
+      "mood": "Casual and lively.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking or gesturing, possibly explaining something, in a dining setting.\n2. **Location**: Indoor, in a restaurant or café.\n3. **Mood**: Casual and lively.\n4. **Key Elements**: \n   - Person in the foreground gesturing\n   - People dining in the background\n   - Tables with food and drinks\n   - Large windows\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 313.5132,
+      "timestamp_formatted": "0:05:13",
+      "activity": "A person is speaking, possibly explaining something, while gesturing with their hands.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Casual and lively.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly explaining something, while gesturing with their hands.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Casual and lively.\n4. **Key Elements**: \n   - Person speaking\n   - Dining tables\n   - People seated in the background\n   - Plates and drinks on tables\n   - Large windows\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 317.38373333333334,
+      "timestamp_formatted": "0:05:17",
+      "activity": "A person is laughing and appears to be engaged in a conversation.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Cheerful and lively.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is laughing and appears to be engaged in a conversation.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Cheerful and lively.\n4. **Key Elements**: Smiling person, dining tables, other patrons, plates of food.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 318.35136666666665,
+      "timestamp_formatted": "0:05:18",
+      "activity": "A person is engaged in a conversation, gesturing with their hands.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "The atmosphere appears lively and social.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is engaged in a conversation, gesturing with their hands.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: The atmosphere appears lively and social.\n4. **Key Elements**: \n   - Person gesturing\n   - Tables and chairs\n   - Other patrons in the background\n   - Warm lighting\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 319.319,
+      "timestamp_formatted": "0:05:19",
+      "activity": "A person is engaged in a lively conversation, gesturing with their hands.",
+      "location": "Indoor, in a restaurant or dining area.",
+      "mood": "Energetic and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is engaged in a lively conversation, gesturing with their hands.\n2. **Location**: Indoor, in a restaurant or dining area.\n3. **Mood**: Energetic and cheerful.\n4. **Key Elements**: Smiling person, dining tables, people eating, large windows, modern decor.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 321.2542666666667,
+      "timestamp_formatted": "0:05:21",
+      "activity": "A person is sitting at a table, possibly engaged in conversation or reacting to something.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "The atmosphere appears relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue or interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly engaged in conversation or reacting to something.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: The atmosphere appears relaxed and casual.\n4. **Key Elements**: \n   - Person in focus\n   - Dining tables with food\n   - Other patrons in the background\n   - Warm lighting\n5. **Scene Type**: Dialogue or interaction."
+    },
+    {
+      "timestamp": 322.2219,
+      "timestamp_formatted": "0:05:22",
+      "activity": "The scene shows a close-up of a name badge or ID card.",
+      "location": "The setting is not clearly defined, likely an indoor environment.",
+      "mood": "The atmosphere is neutral and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot or title card.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a name badge or ID card.\n2. **Location**: The setting is not clearly defined, likely an indoor environment.\n3. **Mood**: The atmosphere is neutral and straightforward.\n4. **Key Elements**: \n   - Name badge with \"O-log\" text\n   - Green lanyard\n   - Bright green background\n5. **Scene Type**: Establishing shot or title card."
+    },
+    {
+      "timestamp": 323.1895333333333,
+      "timestamp_formatted": "0:05:23",
+      "activity": "A person is sitting at a desk, possibly being interviewed or working.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Interview.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly being interviewed or working.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: Computer monitor, office chair, desk, person wearing a mask, coat rack.\n5. **Scene Type**: Interview."
+    },
+    {
+      "timestamp": 327.06006666666667,
+      "timestamp_formatted": "0:05:27",
+      "activity": "A person is sitting at a desk, likely working on a computer.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, likely working on a computer.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitors, office chair, desk, person wearing a mask, coat rack.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 328.0277,
+      "timestamp_formatted": "0:05:28",
+      "activity": "A person is sitting at a desk, possibly engaged in a conversation or interview.",
+      "location": "Indoor office setting.",
+      "mood": "Professional and calm.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly engaged in a conversation or interview.\n2. **Location**: Indoor office setting.\n3. **Mood**: Professional and calm.\n4. **Key Elements**: Computer monitor, laptop, office chair, person wearing a mask, coat rack.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 347.38036666666665,
+      "timestamp_formatted": "0:05:47",
+      "activity": "A person is sitting at a desk, possibly engaging in a conversation or being filmed.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly engaging in a conversation or being filmed.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and professional.\n4. **Key Elements**: Computer monitor, laptop, desk, office chair, person wearing a mask.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 349.3156333333333,
+      "timestamp_formatted": "0:05:49",
+      "activity": "A person is sitting at a desk, likely working or preparing to work on a computer.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or workplace setting.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, likely working or preparing to work on a computer.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person wearing a mask\n   - Computer monitors\n   - Office chair\n   - Desk with various items\n   - Coat rack\n5. **Scene Type**: Dialogue or workplace setting."
+    },
+    {
+      "timestamp": 358.99196666666666,
+      "timestamp_formatted": "0:05:58",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm sorry, I can't analyze or interpret this image."
+    },
+    {
+      "timestamp": 359.9596,
+      "timestamp_formatted": "0:05:59",
+      "activity": "A person is speaking to the camera, possibly explaining or discussing something.",
+      "location": "Indoor office setting.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor office setting.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: \n   - Person wearing a mask\n   - Computer monitor\n   - Office desk\n   - Green umbrella-like decoration\n   - Office supplies\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 372.53883333333334,
+      "timestamp_formatted": "0:06:12",
+      "activity": "The scene shows a presentation or discussion about a mobile app interface, likely focusing on UI/UX design improvements.",
+      "location": "Indoor, possibly in an office or meeting room.",
+      "mood": "Informative and professional.",
+      "key_elements": [],
+      "scene_type": "Presentation/Discussion",
+      "raw_analysis": "1. **Activity**: The scene shows a presentation or discussion about a mobile app interface, likely focusing on UI/UX design improvements.\n2. **Location**: Indoor, possibly in an office or meeting room.\n3. **Mood**: Informative and professional.\n4. **Key Elements**: \n   - Mobile app interface screenshots\n   - Checklist with tasks\n   - Text in Korean\n   - Highlighted sections\n5. **Scene Type**: Presentation/Discussion"
+    },
+    {
+      "timestamp": 394.7944,
+      "timestamp_formatted": "0:06:34",
+      "activity": "A person is packing items into a bag, possibly preparing to leave.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is packing items into a bag, possibly preparing to leave.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Person wearing a mask, office chair, desk, bag, small pouch.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 397.6973,
+      "timestamp_formatted": "0:06:37",
+      "activity": "A person is clocking out of work using an electronic time card system.",
+      "location": "Indoor, likely an office or workplace entrance.",
+      "mood": "Routine and transitional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is clocking out of work using an electronic time card system.\n2. **Location**: Indoor, likely an office or workplace entrance.\n3. **Mood**: Routine and transitional.\n4. **Key Elements**: Electronic time card machine, hand with a card, digital display, text overlay showing time.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 399.63256666666666,
+      "timestamp_formatted": "0:06:39",
+      "activity": "The scene shows a close-up of a name badge or ID card.",
+      "location": "The setting is likely indoors, possibly at an event or conference.",
+      "mood": "The atmosphere is professional and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a name badge or ID card.\n2. **Location**: The setting is likely indoors, possibly at an event or conference.\n3. **Mood**: The atmosphere is professional and straightforward.\n4. **Key Elements**: \n   - Name badge\n   - Lanyard\n   - Text \"O-log\"\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 400.60020000000003,
+      "timestamp_formatted": "0:06:40",
+      "activity": "A person is taking a selfie or recording themselves in a mirror.",
+      "location": "Indoor, likely a bathroom or changing room.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Selfie/monologue.",
+      "raw_analysis": "1. **Activity**: A person is taking a selfie or recording themselves in a mirror.\n2. **Location**: Indoor, likely a bathroom or changing room.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: \n   - Person holding a camera\n   - Mirror\n   - Dark wooden paneling\n   - Text overlay\n5. **Scene Type**: Selfie/monologue."
+    },
+    {
+      "timestamp": 403.5031,
+      "timestamp_formatted": "0:06:43",
+      "activity": "A person is taking a selfie or recording themselves with a camera.",
+      "location": "Indoor, likely in a bathroom or elevator with reflective surfaces.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Self-recording or vlog segment.",
+      "raw_analysis": "1. **Activity**: A person is taking a selfie or recording themselves with a camera.\n2. **Location**: Indoor, likely in a bathroom or elevator with reflective surfaces.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Camera, person, mirror, text overlay.\n5. **Scene Type**: Self-recording or vlog segment."
+    },
+    {
+      "timestamp": 412.2118,
+      "timestamp_formatted": "0:06:52",
+      "activity": "A person is using a foam roller for stretching or muscle relaxation.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Exercise demonstration.",
+      "raw_analysis": "1. **Activity**: A person is using a foam roller for stretching or muscle relaxation.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Foam roller, exercise mat, smartwatch, blue tiled wall, person in workout attire.\n5. **Scene Type**: Exercise demonstration."
+    },
+    {
+      "timestamp": 417.04996666666665,
+      "timestamp_formatted": "0:06:57",
+      "activity": "A person is performing a leg press exercise on a gym machine.",
+      "location": "Indoor gym.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is performing a leg press exercise on a gym machine.\n2. **Location**: Indoor gym.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Leg press machine, weight plates, person exercising, gym equipment, other gym-goers.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 419.9528666666667,
+      "timestamp_formatted": "0:06:59",
+      "activity": "A person is holding a smartphone displaying a workout tracking app.",
+      "location": "Indoor, likely in a gym or fitness center.",
+      "mood": "Focused and organized.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone displaying a workout tracking app.\n2. **Location**: Indoor, likely in a gym or fitness center.\n3. **Mood**: Focused and organized.\n4. **Key Elements**: Smartphone, workout app interface, hand, lockers in the background, wooden floor.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 432.5321,
+      "timestamp_formatted": "0:07:12",
+      "activity": "A person is holding a smartphone displaying a fitness app with a congratulatory message.",
+      "location": "Indoor, likely in a gym or fitness center.",
+      "mood": "Accomplished and positive.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone displaying a fitness app with a congratulatory message.\n2. **Location**: Indoor, likely in a gym or fitness center.\n3. **Mood**: Accomplished and positive.\n4. **Key Elements**: Smartphone, fitness app screen, congratulatory message, indoor setting.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 435.435,
+      "timestamp_formatted": "0:07:15",
+      "activity": "A Christmas tree is being displayed, possibly as part of holiday decoration.",
+      "location": "Indoor, likely in a bedroom or living room.",
+      "mood": "Festive and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A Christmas tree is being displayed, possibly as part of holiday decoration.\n2. **Location**: Indoor, likely in a bedroom or living room.\n3. **Mood**: Festive and cozy.\n4. **Key Elements**: Christmas tree with ornaments, a reindeer decoration, a pine cone ornament, a vanity or dresser with various items, and a mirror.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 442.20843333333335,
+      "timestamp_formatted": "0:07:22",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, possibly a bedroom or personal office space.",
+      "mood": "Calm and personal.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, possibly a bedroom or personal office space.\n3. **Mood**: Calm and personal.\n4. **Key Elements**: \n   - Person speaking\n   - Christmas tree decoration\n   - Desk with various items\n   - White storage cabinets\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 453.82003333333336,
+      "timestamp_formatted": "0:07:33",
+      "activity": "A person is holding up a tablet displaying text, possibly discussing or reviewing its content.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or demonstration.",
+      "raw_analysis": "1. **Activity**: A person is holding up a tablet displaying text, possibly discussing or reviewing its content.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Tablet with text, person holding the tablet, blurred background with a desk and items.\n5. **Scene Type**: Dialogue or demonstration."
+    },
+    {
+      "timestamp": 455.75530000000003,
+      "timestamp_formatted": "0:07:35",
+      "activity": "A person is speaking while looking at a tablet or phone.",
+      "location": "Indoor, likely a personal room or office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking while looking at a tablet or phone.\n2. **Location**: Indoor, likely a personal room or office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, tablet/phone, Christmas tree, desk with items, storage cabinets.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 460.5934666666667,
+      "timestamp_formatted": "0:07:40",
+      "activity": "A person is speaking to the camera while holding up a tablet or smartphone.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera while holding up a tablet or smartphone.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Person, tablet/smartphone, Christmas tree, dresser, mirror.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 464.464,
+      "timestamp_formatted": "0:07:44",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or a personal message.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or a personal message.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person speaking\n   - Christmas tree with decorations\n   - Dresser with various items\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 470.26980000000003,
+      "timestamp_formatted": "0:07:50",
+      "activity": "The frame shows a close-up of a name tag or badge.",
+      "location": "The setting is likely indoors, possibly at an event or conference.",
+      "mood": "The atmosphere is professional and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot or introduction.",
+      "raw_analysis": "1. **Activity**: The frame shows a close-up of a name tag or badge.\n2. **Location**: The setting is likely indoors, possibly at an event or conference.\n3. **Mood**: The atmosphere is professional and straightforward.\n4. **Key Elements**: \n   - Name tag with \"O-log\" text\n   - Green lanyard\n   - Bright green background\n5. **Scene Type**: Establishing shot or introduction."
+    },
+    {
+      "timestamp": 471.23743333333334,
+      "timestamp_formatted": "0:07:51",
+      "activity": "A person is taking a mirror selfie, showcasing their outfit.",
+      "location": "Indoor, likely in a bedroom or dressing area.",
+      "mood": "Casual and personal.",
+      "key_elements": [],
+      "scene_type": "Fashion showcase.",
+      "raw_analysis": "1. **Activity**: A person is taking a mirror selfie, showcasing their outfit.\n2. **Location**: Indoor, likely in a bedroom or dressing area.\n3. **Mood**: Casual and personal.\n4. **Key Elements**: Mirror, camera, person, coat, text overlay \"#OOTD Day 2\".\n5. **Scene Type**: Fashion showcase."
+    },
+    {
+      "timestamp": 473.1727,
+      "timestamp_formatted": "0:07:53",
+      "activity": "A person is taking a mirror selfie to showcase their outfit.",
+      "location": "Indoor, likely in a bedroom or dressing area.",
+      "mood": "Casual and personal.",
+      "key_elements": [],
+      "scene_type": "Fashion showcase.",
+      "raw_analysis": "1. **Activity**: A person is taking a mirror selfie to showcase their outfit.\n2. **Location**: Indoor, likely in a bedroom or dressing area.\n3. **Mood**: Casual and personal.\n4. **Key Elements**: Mirror, camera, dark coat, text overlay \"#OOTD Day 2\".\n5. **Scene Type**: Fashion showcase."
+    },
+    {
+      "timestamp": 478.9785,
+      "timestamp_formatted": "0:07:58",
+      "activity": "A person is taking a selfie in a mirror.",
+      "location": "Indoor, likely in a personal or public space with a mirror.",
+      "mood": "Casual and playful.",
+      "key_elements": [],
+      "scene_type": "Introduction or transition.",
+      "raw_analysis": "1. **Activity**: A person is taking a selfie in a mirror.\n2. **Location**: Indoor, likely in a personal or public space with a mirror.\n3. **Mood**: Casual and playful.\n4. **Key Elements**: Person with a camera, mirror, hand gesture, text overlay.\n5. **Scene Type**: Introduction or transition."
+    },
+    {
+      "timestamp": 480.9137666666667,
+      "timestamp_formatted": "0:08:00",
+      "activity": "The scene shows the entrance to an office at the start of a workday.",
+      "location": "Indoor office setting.",
+      "mood": "Professional and calm.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the entrance to an office at the start of a workday.\n2. **Location**: Indoor office setting.\n3. **Mood**: Professional and calm.\n4. **Key Elements**: Office doors with branding, desks with computers, digital clock overlay, office lighting.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 481.8814,
+      "timestamp_formatted": "0:08:01",
+      "activity": "The scene shows the entrance to an office, likely indicating the start of a workday.",
+      "location": "Indoor, office setting.",
+      "mood": "Professional and routine.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the entrance to an office, likely indicating the start of a workday.\n2. **Location**: Indoor, office setting.\n3. **Mood**: Professional and routine.\n4. **Key Elements**: Office entrance, company logo (CJ Olive Young), desks, digital clock display.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 482.84903333333335,
+      "timestamp_formatted": "0:08:02",
+      "activity": "A person is clocking in or out using a digital timekeeping device.",
+      "location": "Indoor, likely an office environment.",
+      "mood": "Routine and professional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is clocking in or out using a digital timekeeping device.\n2. **Location**: Indoor, likely an office environment.\n3. **Mood**: Routine and professional.\n4. **Key Elements**: Digital timekeeping device, office desks, chairs, wall with branding.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 484.78430000000003,
+      "timestamp_formatted": "0:08:04",
+      "activity": "A person is likely using or approaching a digital access control panel.",
+      "location": "Indoor, possibly in an office or secured building entrance.",
+      "mood": "Functional and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is likely using or approaching a digital access control panel.\n2. **Location**: Indoor, possibly in an office or secured building entrance.\n3. **Mood**: Functional and routine.\n4. **Key Elements**: Digital access panel, screen with icons, door, Korean text.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 485.75193333333334,
+      "timestamp_formatted": "0:08:05",
+      "activity": "A person is writing on a tablet using a stylus.",
+      "location": "Indoor, likely a desk or workspace.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "\"Writing/Note-taking.\"",
+      "raw_analysis": "1. **Activity**: A person is writing on a tablet using a stylus.\n2. **Location**: Indoor, likely a desk or workspace.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Tablet, stylus, keyboard, hand.\n5. **Scene Type**: \"Writing/Note-taking.\""
+    },
+    {
+      "timestamp": 490.5901,
+      "timestamp_formatted": "0:08:10",
+      "activity": "A group of people is gathered in a meeting or discussion, with one person taking a selfie.",
+      "location": "Indoor, likely a conference room or office setting.",
+      "mood": "Collaborative and casual.",
+      "key_elements": [],
+      "scene_type": "Group meeting.",
+      "raw_analysis": "1. **Activity**: A group of people is gathered in a meeting or discussion, with one person taking a selfie.\n2. **Location**: Indoor, likely a conference room or office setting.\n3. **Mood**: Collaborative and casual.\n4. **Key Elements**: Laptops, masks, conference table, window, people.\n5. **Scene Type**: Group meeting."
+    },
+    {
+      "timestamp": 491.5577333333333,
+      "timestamp_formatted": "0:08:11",
+      "activity": "A group of people is gathered around a table, likely for a meeting or discussion.",
+      "location": "Indoor, possibly in an office or conference room.",
+      "mood": "The atmosphere appears to be casual and collaborative.",
+      "key_elements": [],
+      "scene_type": "Dialogue/meeting scene.",
+      "raw_analysis": "1. **Activity**: A group of people is gathered around a table, likely for a meeting or discussion.\n2. **Location**: Indoor, possibly in an office or conference room.\n3. **Mood**: The atmosphere appears to be casual and collaborative.\n4. **Key Elements**: \n   - People wearing masks\n   - Laptops on the table\n   - Notebooks and pens\n   - A window in the background\n   - A beverage cup\n5. **Scene Type**: Dialogue/meeting scene."
+    },
+    {
+      "timestamp": 494.46063333333336,
+      "timestamp_formatted": "0:08:14",
+      "activity": "A group of people are having a meeting or discussion, likely involving work on laptops.",
+      "location": "Indoor, likely a conference room or office setting.",
+      "mood": "Focused and collaborative.",
+      "key_elements": [],
+      "scene_type": "Dialogue/meeting.",
+      "raw_analysis": "1. **Activity**: A group of people are having a meeting or discussion, likely involving work on laptops.\n2. **Location**: Indoor, likely a conference room or office setting.\n3. **Mood**: Focused and collaborative.\n4. **Key Elements**: \n   - Laptops\n   - People wearing masks\n   - Conference table\n   - Large screen or monitor in the background\n5. **Scene Type**: Dialogue/meeting."
+    },
+    {
+      "timestamp": 495.4282666666667,
+      "timestamp_formatted": "0:08:15",
+      "activity": "A group of people is having a meeting or discussion, possibly related to work or study.",
+      "location": "Indoor, likely a conference room or office setting.",
+      "mood": "Focused and collaborative.",
+      "key_elements": [],
+      "scene_type": "Dialogue/meeting.",
+      "raw_analysis": "1. **Activity**: A group of people is having a meeting or discussion, possibly related to work or study.\n2. **Location**: Indoor, likely a conference room or office setting.\n3. **Mood**: Focused and collaborative.\n4. **Key Elements**: \n   - Laptops\n   - Masks\n   - Large screen or monitor\n   - Notebooks\n   - Beverages\n5. **Scene Type**: Dialogue/meeting."
+    },
+    {
+      "timestamp": 502.2017,
+      "timestamp_formatted": "0:08:22",
+      "activity": "A group of people is having a meeting or discussion, with laptops open in front of them.",
+      "location": "Indoor, likely a conference room or office setting.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A group of people is having a meeting or discussion, with laptops open in front of them.\n2. **Location**: Indoor, likely a conference room or office setting.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Laptops, face masks, conference table, large screen in the background.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 503.1693333333333,
+      "timestamp_formatted": "0:08:23",
+      "activity": "A group of people is having a meeting, likely discussing work-related topics.",
+      "location": "Indoor, in a conference or meeting room.",
+      "mood": "Focused and collaborative.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A group of people is having a meeting, likely discussing work-related topics.\n2. **Location**: Indoor, in a conference or meeting room.\n3. **Mood**: Focused and collaborative.\n4. **Key Elements**: Laptops, face masks, a large screen, a conference table, and several people.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 508.0075,
+      "timestamp_formatted": "0:08:28",
+      "activity": "A group of people is having a meeting or discussion.",
+      "location": "Indoor, likely a conference room or office meeting space.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A group of people is having a meeting or discussion.\n2. **Location**: Indoor, likely a conference room or office meeting space.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Laptops, people wearing masks, a glass wall, and a drink cup.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 514.7809333333333,
+      "timestamp_formatted": "0:08:34",
+      "activity": "A person is speaking or presenting, possibly in a meeting or discussion.",
+      "location": "Indoor, likely an office or conference room.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking or presenting, possibly in a meeting or discussion.\n2. **Location**: Indoor, likely an office or conference room.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Person wearing a mask, laptop, lanyard, plain wall.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 518.6514666666667,
+      "timestamp_formatted": "0:08:38",
+      "activity": "The scene displays a close-up of a name badge or ID card.",
+      "location": "The setting is likely indoors, possibly at an event or conference.",
+      "mood": "The atmosphere is professional and straightforward.",
+      "key_elements": [],
+      "scene_type": "\"Establishing shot\" or \"object closeup.\"",
+      "raw_analysis": "1. **Activity**: The scene displays a close-up of a name badge or ID card.\n2. **Location**: The setting is likely indoors, possibly at an event or conference.\n3. **Mood**: The atmosphere is professional and straightforward.\n4. **Key Elements**: Name badge, lanyard, green color scheme, bold text.\n5. **Scene Type**: \"Establishing shot\" or \"object closeup.\""
+    },
+    {
+      "timestamp": 519.6191,
+      "timestamp_formatted": "0:08:39",
+      "activity": "The scene shows a meal being served, likely during lunchtime.",
+      "location": "Indoor setting, possibly a restaurant or café.",
+      "mood": "Calm and inviting, suggesting a casual dining experience.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal being served, likely during lunchtime.\n2. **Location**: Indoor setting, possibly a restaurant or café.\n3. **Mood**: Calm and inviting, suggesting a casual dining experience.\n4. **Key Elements**: \n   - Bowl of pasta with arugula\n   - Plate of salad with various vegetables and cheese\n   - Empty plate and cutlery\n   - Overlay text displaying \"PM 12:30 DAY 2 점심시간\"\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 520.5867333333333,
+      "timestamp_formatted": "0:08:40",
+      "activity": "A meal is being served, likely lunch, as indicated by the text overlay.",
+      "location": "Indoor setting, likely a restaurant or café.",
+      "mood": "Calm and inviting, suitable for dining.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A meal is being served, likely lunch, as indicated by the text overlay.\n2. **Location**: Indoor setting, likely a restaurant or café.\n3. **Mood**: Calm and inviting, suitable for dining.\n4. **Key Elements**: Plate of pasta with arugula, salad with various toppings, empty plate, cutlery, and a glass of water.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 521.5543666666666,
+      "timestamp_formatted": "0:08:41",
+      "activity": "The scene shows a meal being served, likely at a restaurant or cafe.",
+      "location": "Indoor dining setting.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a meal being served, likely at a restaurant or cafe.\n2. **Location**: Indoor dining setting.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Plates of salad, bread basket, glass of water, cutlery.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 522.522,
+      "timestamp_formatted": "0:08:42",
+      "activity": "A meal is being prepared or served, with dishes arranged on a table.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A meal is being prepared or served, with dishes arranged on a table.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Salad with greens and cherry tomatoes, a plate with ricotta or cream, a basket of bread, glassware, and cutlery.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 523.4896333333334,
+      "timestamp_formatted": "0:08:43",
+      "activity": "A group of people is having lunch together.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Social gathering.",
+      "raw_analysis": "1. **Activity**: A group of people is having lunch together.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Table with food, drinks, large windows, group of people.\n5. **Scene Type**: Social gathering."
+    },
+    {
+      "timestamp": 527.3601666666667,
+      "timestamp_formatted": "0:08:47",
+      "activity": "A group of people are enjoying a meal together, sharing laughter and conversation.",
+      "location": "Indoor setting, likely a restaurant or café.",
+      "mood": "The atmosphere is cheerful and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: A group of people are enjoying a meal together, sharing laughter and conversation.\n2. **Location**: Indoor setting, likely a restaurant or café.\n3. **Mood**: The atmosphere is cheerful and relaxed.\n4. **Key Elements**: \n   - Four people sitting around a table\n   - Plates of food\n   - Drinks on the table\n   - Large windows in the background\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 529.2954333333333,
+      "timestamp_formatted": "0:08:49",
+      "activity": "Four people are enjoying a meal together, laughing and conversing.",
+      "location": "Indoor setting, likely a restaurant or café.",
+      "mood": "The atmosphere is cheerful and lively.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: Four people are enjoying a meal together, laughing and conversing.\n2. **Location**: Indoor setting, likely a restaurant or café.\n3. **Mood**: The atmosphere is cheerful and lively.\n4. **Key Elements**: \n   - Four people seated at a table\n   - Plates of food\n   - Drinks on the table\n   - Large windows with a view outside\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 530.2630666666666,
+      "timestamp_formatted": "0:08:50",
+      "activity": "A person is holding a credit card.",
+      "location": "Indoor setting.",
+      "mood": "Neutral and focused.",
+      "key_elements": [],
+      "scene_type": "Closeup.",
+      "raw_analysis": "1. **Activity**: A person is holding a credit card.\n2. **Location**: Indoor setting.\n3. **Mood**: Neutral and focused.\n4. **Key Elements**: Credit card, hand, green clothing.\n5. **Scene Type**: Closeup."
+    },
+    {
+      "timestamp": 532.1983333333334,
+      "timestamp_formatted": "0:08:52",
+      "activity": "Two people are speaking to the camera, possibly recording a vlog or video message.",
+      "location": "Indoor, likely a cafe or lounge area.",
+      "mood": "Casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are speaking to the camera, possibly recording a vlog or video message.\n2. **Location**: Indoor, likely a cafe or lounge area.\n3. **Mood**: Casual and friendly.\n4. **Key Elements**: Two people, plants, a neon sign, a wall display with awards, a large screen.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 535.1012333333333,
+      "timestamp_formatted": "0:08:55",
+      "activity": "Two people are engaged in a conversation, possibly discussing or explaining something.",
+      "location": "Indoor setting, likely a casual or office lounge area.",
+      "mood": "The atmosphere is relaxed and informal.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, possibly discussing or explaining something.\n2. **Location**: Indoor setting, likely a casual or office lounge area.\n3. **Mood**: The atmosphere is relaxed and informal.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Indoor plants and decor\n   - Signage reading \"OLIVE YOUNG HALL OF FAME\"\n   - Wall display with images\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 542.8423,
+      "timestamp_formatted": "0:09:02",
+      "activity": "Two people are posing for the camera, with one waving and the other smiling.",
+      "location": "Indoor, likely in a retail or promotional space.",
+      "mood": "Friendly and welcoming.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Introduction.",
+      "raw_analysis": "1. **Activity**: Two people are posing for the camera, with one waving and the other smiling.\n2. **Location**: Indoor, likely in a retail or promotional space.\n3. **Mood**: Friendly and welcoming.\n4. **Key Elements**: Two people, a neon sign saying \"live better\", a wall labeled \"HALL OF FAME\", and decorative plants.\n5. **Scene Type**: Dialogue/Introduction."
+    },
+    {
+      "timestamp": 543.8099333333333,
+      "timestamp_formatted": "0:09:03",
+      "activity": "Two people are waving at the camera, possibly greeting or saying goodbye.",
+      "location": "Indoor setting, likely a cafe or lounge area.",
+      "mood": "Friendly and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: Two people are waving at the camera, possibly greeting or saying goodbye.\n2. **Location**: Indoor setting, likely a cafe or lounge area.\n3. **Mood**: Friendly and cheerful.\n4. **Key Elements**: Two people, neon sign with greenery, \"Olive Young Hall of Fame\" sign, large photo on the wall.\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 544.7775666666666,
+      "timestamp_formatted": "0:09:04",
+      "activity": "Two people are engaged in a conversation, with one person smiling and gesturing.",
+      "location": "Indoor setting, likely a cafe or lounge area.",
+      "mood": "The atmosphere is friendly and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, with one person smiling and gesturing.\n2. **Location**: Indoor setting, likely a cafe or lounge area.\n3. **Mood**: The atmosphere is friendly and relaxed.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Neon sign with greenery\n   - Shelves with awards or memorabilia\n   - Large wall poster\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 547.6804666666667,
+      "timestamp_formatted": "0:09:07",
+      "activity": "Two people are engaged in a casual conversation, possibly being filmed for a vlog or interview.",
+      "location": "Indoor, likely a café or lounge area.",
+      "mood": "The atmosphere is friendly and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a casual conversation, possibly being filmed for a vlog or interview.\n2. **Location**: Indoor, likely a café or lounge area.\n3. **Mood**: The atmosphere is friendly and relaxed.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Greenery and neon sign in the background\n   - Wall of Fame display\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 550.5833666666666,
+      "timestamp_formatted": "0:09:10",
+      "activity": "Two people are sitting and having a conversation, smiling and laughing.",
+      "location": "Indoor, likely in an office or lounge area.",
+      "mood": "The atmosphere is friendly and lighthearted.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are sitting and having a conversation, smiling and laughing.\n2. **Location**: Indoor, likely in an office or lounge area.\n3. **Mood**: The atmosphere is friendly and lighthearted.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Indoor plants and greenery\n   - Neon sign with text\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 552.5186333333334,
+      "timestamp_formatted": "0:09:12",
+      "activity": "Two people are engaged in a conversation, possibly sharing a light moment.",
+      "location": "Indoor, likely an office or a lounge area.",
+      "mood": "The atmosphere is friendly and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, possibly sharing a light moment.\n2. **Location**: Indoor, likely an office or a lounge area.\n3. **Mood**: The atmosphere is friendly and relaxed.\n4. **Key Elements**: \n   - Two women, one wearing a mask\n   - Green plant wall with neon sign\n   - \"Hall of Fame\" display with awards\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 554.4539,
+      "timestamp_formatted": "0:09:14",
+      "activity": "Two people are engaged in a conversation, smiling and appearing to enjoy each other's company.",
+      "location": "Indoor setting, likely an office or a casual meeting area.",
+      "mood": "The atmosphere is friendly and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, smiling and appearing to enjoy each other's company.\n2. **Location**: Indoor setting, likely an office or a casual meeting area.\n3. **Mood**: The atmosphere is friendly and relaxed.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Green plants in the background\n   - Neon sign with partial text\n   - Wall with awards or certificates\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 556.3891666666667,
+      "timestamp_formatted": "0:09:16",
+      "activity": "Two people are engaged in a conversation.",
+      "location": "Indoor setting, possibly a café or lounge area.",
+      "mood": "The atmosphere is friendly and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation.\n2. **Location**: Indoor setting, possibly a café or lounge area.\n3. **Mood**: The atmosphere is friendly and relaxed.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Green plants in the background\n   - Neon sign with text\n   - Wall with awards or certificates\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 559.2920666666666,
+      "timestamp_formatted": "0:09:19",
+      "activity": "Two people are sitting and possibly engaged in conversation.",
+      "location": "Indoor setting, likely a cafe or lounge area.",
+      "mood": "Relaxed and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people are sitting and possibly engaged in conversation.\n2. **Location**: Indoor setting, likely a cafe or lounge area.\n3. **Mood**: Relaxed and friendly.\n4. **Key Elements**: Two people, one wearing a mask; greenery in the background; a sign reading \"OLIVE YOUNG HALL OF FAME\"; text overlay in Korean.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 560.2597000000001,
+      "timestamp_formatted": "0:09:20",
+      "activity": "Two people are engaged in a conversation, with one person gesturing.",
+      "location": "Indoor setting, likely a café or lounge area.",
+      "mood": "The atmosphere is casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, with one person gesturing.\n2. **Location**: Indoor setting, likely a café or lounge area.\n3. **Mood**: The atmosphere is casual and friendly.\n4. **Key Elements**: \n   - Two people sitting and talking\n   - Neon sign with greenery\n   - Wall of Fame display\n   - Masks worn by individuals\n   - Chairs and tables in the background\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 564.1302333333333,
+      "timestamp_formatted": "0:09:24",
+      "activity": "Two people are sitting together, possibly engaged in a conversation or reacting to something amusing.",
+      "location": "Indoor setting, likely a casual or office lounge area.",
+      "mood": "The atmosphere is light-hearted and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: Two people are sitting together, possibly engaged in a conversation or reacting to something amusing.\n2. **Location**: Indoor setting, likely a casual or office lounge area.\n3. **Mood**: The atmosphere is light-hearted and friendly.\n4. **Key Elements**: \n   - Two people, one smiling and the other covering their mouth.\n   - Greenery and neon sign in the background.\n   - Wall of Fame display with awards and photos.\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 569.9360333333334,
+      "timestamp_formatted": "0:09:29",
+      "activity": "Two people are engaged in a conversation, with one appearing surprised or amused.",
+      "location": "Indoor setting, likely a cafe or lounge area.",
+      "mood": "The atmosphere is casual and light-hearted.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, with one appearing surprised or amused.\n2. **Location**: Indoor setting, likely a cafe or lounge area.\n3. **Mood**: The atmosphere is casual and light-hearted.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Neon sign with text\n   - Indoor plants\n   - Wall of Fame display\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 572.8389333333333,
+      "timestamp_formatted": "0:09:32",
+      "activity": "Two people are engaged in a conversation, possibly sharing a light-hearted moment.",
+      "location": "Indoor setting, likely a cafe or lounge area.",
+      "mood": "The atmosphere is casual and friendly.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are engaged in a conversation, possibly sharing a light-hearted moment.\n2. **Location**: Indoor setting, likely a cafe or lounge area.\n3. **Mood**: The atmosphere is casual and friendly.\n4. **Key Elements**: \n   - Two people, one wearing a mask\n   - Indoor plants\n   - Wall with awards or plaques\n   - Neon sign in the background\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 575.7418333333334,
+      "timestamp_formatted": "0:09:35",
+      "activity": "Two people are laughing and covering their mouths, possibly reacting to something amusing.",
+      "location": "Indoor setting, likely a cafe or lounge area.",
+      "mood": "The atmosphere is light-hearted and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Reaction.",
+      "raw_analysis": "1. **Activity**: Two people are laughing and covering their mouths, possibly reacting to something amusing.\n2. **Location**: Indoor setting, likely a cafe or lounge area.\n3. **Mood**: The atmosphere is light-hearted and cheerful.\n4. **Key Elements**: Two people, neon sign with plants, wall of fame with awards, large poster in the background.\n5. **Scene Type**: Dialogue/Reaction."
+    },
+    {
+      "timestamp": 577.6771,
+      "timestamp_formatted": "0:09:37",
+      "activity": "The scene features a close-up of a name badge or ID card.",
+      "location": "This is likely an indoor setting, possibly at an event or conference.",
+      "mood": "The atmosphere is professional and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene features a close-up of a name badge or ID card.\n2. **Location**: This is likely an indoor setting, possibly at an event or conference.\n3. **Mood**: The atmosphere is professional and straightforward.\n4. **Key Elements**: \n   - Name badge with \"O-log\" text\n   - Lanyard\n   - Bright green background\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 578.6447333333333,
+      "timestamp_formatted": "0:09:38",
+      "activity": "The scene shows a workspace setup, likely being used for work or study.",
+      "location": "Indoor office or home office setting.",
+      "mood": "Organized and focused atmosphere.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, likely being used for work or study.\n2. **Location**: Indoor office or home office setting.\n3. **Mood**: Organized and focused atmosphere.\n4. **Key Elements**: Computer monitor, laptop, keyboard, office chair, coffee cup.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 579.6123666666667,
+      "timestamp_formatted": "0:09:39",
+      "activity": "The scene shows a workspace setup, likely being organized or prepared for work.",
+      "location": "Indoor office or home office setting.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, likely being organized or prepared for work.\n2. **Location**: Indoor office or home office setting.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Computer monitor, keyboard, laptop, coffee cup, and a book with a \"Happy Christmas\" cover.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 580.58,
+      "timestamp_formatted": "0:09:40",
+      "activity": "The scene shows a workspace setup, likely for work or study.",
+      "location": "Indoor office or home office setting.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, likely for work or study.\n2. **Location**: Indoor office or home office setting.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Computer monitor, keyboard, stack of books, coffee cup, office chair.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 582.5152666666667,
+      "timestamp_formatted": "0:09:42",
+      "activity": "A gift has been left on a desk, possibly as a surprise.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and slightly festive.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A gift has been left on a desk, possibly as a surprise.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and slightly festive.\n4. **Key Elements**: Keyboard, Christmas card, laptop, iced coffee, office chair.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 587.3534333333333,
+      "timestamp_formatted": "0:09:47",
+      "activity": "A person is holding a Christmas card while sitting at a desk.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Festive and cheerful.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is holding a Christmas card while sitting at a desk.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Festive and cheerful.\n4. **Key Elements**: Christmas card, tin of chocolates, computer keyboard, mouse pad.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 593.1592333333333,
+      "timestamp_formatted": "0:09:53",
+      "activity": "A person is holding a box of chocolates next to a box of supplements on a desk.",
+      "location": "Indoor, likely a home or office desk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is holding a box of chocolates next to a box of supplements on a desk.\n2. **Location**: Indoor, likely a home or office desk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Box of chocolates, supplement box, computer keyboard, mouse pad.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 594.1268666666667,
+      "timestamp_formatted": "0:09:54",
+      "activity": "A person is holding a box of chocolates, possibly as a gift.",
+      "location": "Indoor, likely at a desk or office setting.",
+      "mood": "Festive and cheerful.",
+      "key_elements": [],
+      "scene_type": "Gift exchange or holiday moment.",
+      "raw_analysis": "1. **Activity**: A person is holding a box of chocolates, possibly as a gift.\n2. **Location**: Indoor, likely at a desk or office setting.\n3. **Mood**: Festive and cheerful.\n4. **Key Elements**: Box of chocolates with a ribbon, \"Happy Christmas\" card, computer keyboard, mouse pad.\n5. **Scene Type**: Gift exchange or holiday moment."
+    },
+    {
+      "timestamp": 597.9974,
+      "timestamp_formatted": "0:09:57",
+      "activity": "A person is holding a Christmas card and a box, possibly a gift.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Warm and appreciative.",
+      "key_elements": [],
+      "scene_type": "Gift exchange or appreciation moment.",
+      "raw_analysis": "1. **Activity**: A person is holding a Christmas card and a box, possibly a gift.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Warm and appreciative.\n4. **Key Elements**: Christmas card with Santa, keyboard, mouse pad, hand.\n5. **Scene Type**: Gift exchange or appreciation moment."
+    },
+    {
+      "timestamp": 599.9326666666667,
+      "timestamp_formatted": "0:09:59",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor office or workspace setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor office or workspace setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Person speaking, desk, laptop, green decorative element, smartphone.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 607.6737333333333,
+      "timestamp_formatted": "0:10:07",
+      "activity": "A person is showing something on their smartphone screen to the camera.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Demonstration or tutorial.",
+      "raw_analysis": "1. **Activity**: A person is showing something on their smartphone screen to the camera.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: Smartphone, person, desk, laptop, green decorative element.\n5. **Scene Type**: Demonstration or tutorial."
+    },
+    {
+      "timestamp": 613.4795333333334,
+      "timestamp_formatted": "0:10:13",
+      "activity": "The scene shows a computer screen displaying a task list and a project management tool.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Focused and productive.",
+      "key_elements": [],
+      "scene_type": "Work environment/office setup.",
+      "raw_analysis": "1. **Activity**: The scene shows a computer screen displaying a task list and a project management tool.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Focused and productive.\n4. **Key Elements**: \n   - Large computer monitor\n   - Task list in Korean\n   - Project management software (Jira)\n   - Smaller secondary monitor\n5. **Scene Type**: Work environment/office setup."
+    },
+    {
+      "timestamp": 634.7674666666667,
+      "timestamp_formatted": "0:10:34",
+      "activity": "A person is documenting or discussing their daily tasks in an office setting.",
+      "location": "Indoor, office environment.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is documenting or discussing their daily tasks in an office setting.\n2. **Location**: Indoor, office environment.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: Computer monitors, a person wearing a mask, a list of tasks, a green leaf-shaped lamp.\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 638.638,
+      "timestamp_formatted": "0:10:38",
+      "activity": "A person is speaking to the camera, possibly explaining or presenting something.",
+      "location": "Indoor office setting.",
+      "mood": "Professional and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking to the camera, possibly explaining or presenting something.\n2. **Location**: Indoor office setting.\n3. **Mood**: Professional and focused.\n4. **Key Elements**: Person wearing a mask, computer monitors, smartphone, large green leaf-shaped decor.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 639.6056333333333,
+      "timestamp_formatted": "0:10:39",
+      "activity": "A person is showing a smartphone screen to the camera.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Demonstration.",
+      "raw_analysis": "1. **Activity**: A person is showing a smartphone screen to the camera.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Person wearing a mask, smartphone displaying an app, computer monitor, green umbrella-like object.\n5. **Scene Type**: Demonstration."
+    },
+    {
+      "timestamp": 644.4438,
+      "timestamp_formatted": "0:10:44",
+      "activity": "The scene shows a digital display of various card designs, likely being reviewed or edited.",
+      "location": "Indoor, possibly in a design studio or office setting.",
+      "mood": "Creative and cheerful.",
+      "key_elements": [],
+      "scene_type": "Design review or creative process.",
+      "raw_analysis": "1. **Activity**: The scene shows a digital display of various card designs, likely being reviewed or edited.\n2. **Location**: Indoor, possibly in a design studio or office setting.\n3. **Mood**: Creative and cheerful.\n4. **Key Elements**: \n   - Digital screen with card designs\n   - Illustrations of animals and people\n   - Text with positive messages\n   - Bright and pastel colors\n5. **Scene Type**: Design review or creative process."
+    },
+    {
+      "timestamp": 650.2496,
+      "timestamp_formatted": "0:10:50",
+      "activity": "The scene shows a digital display of various greeting card designs.",
+      "location": "Indoor, likely on a computer screen in a design or creative workspace.",
+      "mood": "Cheerful and creative.",
+      "key_elements": [],
+      "scene_type": "Design showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a digital display of various greeting card designs.\n2. **Location**: Indoor, likely on a computer screen in a design or creative workspace.\n3. **Mood**: Cheerful and creative.\n4. **Key Elements**: \n   - Various greeting card designs\n   - Texts like \"Cheer up!\", \"Thank you\", \"Stay Healthy\"\n   - Illustrations of animals and flowers\n5. **Scene Type**: Design showcase."
+    },
+    {
+      "timestamp": 651.2172333333333,
+      "timestamp_formatted": "0:10:51",
+      "activity": "The scene shows a selection of digital greeting card designs on a computer screen.",
+      "location": "Indoor, likely in an office or design studio.",
+      "mood": "Creative and cheerful.",
+      "key_elements": [],
+      "scene_type": "Design showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a selection of digital greeting card designs on a computer screen.\n2. **Location**: Indoor, likely in an office or design studio.\n3. **Mood**: Creative and cheerful.\n4. **Key Elements**: Digital greeting cards, colorful designs, text in various languages, computer screen.\n5. **Scene Type**: Design showcase."
+    },
+    {
+      "timestamp": 652.1848666666667,
+      "timestamp_formatted": "0:10:52",
+      "activity": "The scene shows a digital display of various greeting card designs.",
+      "location": "Indoor, likely in a design studio or office setting.",
+      "mood": "Creative and cheerful.",
+      "key_elements": [],
+      "scene_type": "Design showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a digital display of various greeting card designs.\n2. **Location**: Indoor, likely in a design studio or office setting.\n3. **Mood**: Creative and cheerful.\n4. **Key Elements**: Greeting card designs, colorful backgrounds, text with messages, cartoon illustrations.\n5. **Scene Type**: Design showcase."
+    },
+    {
+      "timestamp": 653.1525,
+      "timestamp_formatted": "0:10:53",
+      "activity": "The scene shows a selection of digital greeting card designs on a computer screen.",
+      "location": "Indoor, likely in an office or home workspace.",
+      "mood": "Creative and cheerful.",
+      "key_elements": [],
+      "scene_type": "Design showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a selection of digital greeting card designs on a computer screen.\n2. **Location**: Indoor, likely in an office or home workspace.\n3. **Mood**: Creative and cheerful.\n4. **Key Elements**: \n   - Various greeting card designs\n   - Text with messages like \"LOVE\", \"Thank you\", \"Stay Healthy\"\n   - Colorful illustrations and graphics\n5. **Scene Type**: Design showcase."
+    },
+    {
+      "timestamp": 657.0230333333334,
+      "timestamp_formatted": "0:10:57",
+      "activity": "A digital design is being created on a computer screen, featuring a \"Merry Christmas\" message.",
+      "location": "Indoor, likely an office or a workspace.",
+      "mood": "Focused and creative.",
+      "key_elements": [],
+      "scene_type": "Design/creative work.",
+      "raw_analysis": "1. **Activity**: A digital design is being created on a computer screen, featuring a \"Merry Christmas\" message.\n2. **Location**: Indoor, likely an office or a workspace.\n3. **Mood**: Focused and creative.\n4. **Key Elements**: Computer monitor, digital design software, \"Merry Christmas\" text, secondary monitor with design options, green background.\n5. **Scene Type**: Design/creative work."
+    },
+    {
+      "timestamp": 660.8935666666666,
+      "timestamp_formatted": "0:11:00",
+      "activity": "A digital design of a Christmas-themed graphic is being edited on a computer screen.",
+      "location": "Indoor, likely in an office or home workspace.",
+      "mood": "Festive and creative.",
+      "key_elements": [],
+      "scene_type": "Design/editing process.",
+      "raw_analysis": "1. **Activity**: A digital design of a Christmas-themed graphic is being edited on a computer screen.\n2. **Location**: Indoor, likely in an office or home workspace.\n3. **Mood**: Festive and creative.\n4. **Key Elements**: Computer screen, \"Merry Christmas\" text, Santa Claus graphic, Korean text.\n5. **Scene Type**: Design/editing process."
+    },
+    {
+      "timestamp": 663.7964666666667,
+      "timestamp_formatted": "0:11:03",
+      "activity": "The scene shows a computer screen displaying a webpage with a to-do list overlay.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Focused and organized.",
+      "key_elements": [],
+      "scene_type": "Information display.",
+      "raw_analysis": "1. **Activity**: The scene shows a computer screen displaying a webpage with a to-do list overlay.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Focused and organized.\n4. **Key Elements**: \n   - Webpage titled \"Oliveyoung Tech\"\n   - To-do list with tasks in Korean\n   - Recent blog posts section\n   - Icons and buttons\n5. **Scene Type**: Information display."
+    },
+    {
+      "timestamp": 680.2462333333333,
+      "timestamp_formatted": "0:11:20",
+      "activity": "A graphic design project is being worked on, possibly involving logo or sticker creation.",
+      "location": "Indoor, likely in an office or home workspace.",
+      "mood": "Focused and creative.",
+      "key_elements": [],
+      "scene_type": "Design work in progress.",
+      "raw_analysis": "1. **Activity**: A graphic design project is being worked on, possibly involving logo or sticker creation.\n2. **Location**: Indoor, likely in an office or home workspace.\n3. **Mood**: Focused and creative.\n4. **Key Elements**: Computer monitor displaying design software, various logos and text, secondary screen with a calendar or schedule.\n5. **Scene Type**: Design work in progress."
+    },
+    {
+      "timestamp": 687.0196666666667,
+      "timestamp_formatted": "0:11:27",
+      "activity": "A computer screen is displaying a design or tech-related project, with multiple windows open.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Work/technology setup.",
+      "raw_analysis": "1. **Activity**: A computer screen is displaying a design or tech-related project, with multiple windows open.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: \n   - Large computer monitor\n   - Design software interface\n   - File explorer window\n   - Calendar or scheduling application\n5. **Scene Type**: Work/technology setup."
+    },
+    {
+      "timestamp": 688.9549333333333,
+      "timestamp_formatted": "0:11:28",
+      "activity": "A person is working on a digital design or layout on a computer screen.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Focused and professional.",
+      "key_elements": [],
+      "scene_type": "Work/Design session.",
+      "raw_analysis": "1. **Activity**: A person is working on a digital design or layout on a computer screen.\n2. **Location**: Indoor, likely an office or home workspace.\n3. **Mood**: Focused and professional.\n4. **Key Elements**: \n   - Computer monitor displaying a design software interface\n   - Visible text and graphics on the screen\n   - Secondary monitor with a calendar or schedule\n5. **Scene Type**: Work/Design session."
+    },
+    {
+      "timestamp": 689.9225666666666,
+      "timestamp_formatted": "0:11:29",
+      "activity": "The scene shows a webpage being displayed, likely part of a presentation or demonstration.",
+      "location": "Indoor, possibly in an office or tech setting.",
+      "mood": "Informative and focused.",
+      "key_elements": [],
+      "scene_type": "Presentation or demonstration.",
+      "raw_analysis": "1. **Activity**: The scene shows a webpage being displayed, likely part of a presentation or demonstration.\n2. **Location**: Indoor, possibly in an office or tech setting.\n3. **Mood**: Informative and focused.\n4. **Key Elements**: \n   - Computer screen displaying a webpage\n   - Text and graphics related to \"Olive Young\"\n   - Korean text overlay at the bottom\n5. **Scene Type**: Presentation or demonstration."
+    },
+    {
+      "timestamp": 693.7931,
+      "timestamp_formatted": "0:11:33",
+      "activity": "The scene shows a close-up of a name badge or ID card.",
+      "location": "Indoor, possibly at an event or conference.",
+      "mood": "Neutral and straightforward.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a name badge or ID card.\n2. **Location**: Indoor, possibly at an event or conference.\n3. **Mood**: Neutral and straightforward.\n4. **Key Elements**: Name badge, lanyard, green color scheme.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 694.7607333333333,
+      "timestamp_formatted": "0:11:34",
+      "activity": "A person is speaking directly to the camera, likely recording a vlog or video message.",
+      "location": "Indoor, in a cozy café or home setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely recording a vlog or video message.\n2. **Location**: Indoor, in a cozy café or home setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Christmas tree, potted plants, hanging lights, framed picture, bottles on a shelf.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 699.5989,
+      "timestamp_formatted": "0:11:39",
+      "activity": "The scene shows a display of prepared dishes, likely part of a meal presentation.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of prepared dishes, likely part of a meal presentation.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: \n   - Plate with avocado and egg on toast\n   - Bowl with pasta in creamy sauce\n   - Wooden table surface\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 700.5665333333334,
+      "timestamp_formatted": "0:11:40",
+      "activity": "The scene shows a presentation of food dishes, likely part of a meal preparation or dining setup.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a presentation of food dishes, likely part of a meal preparation or dining setup.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: \n   - A bowl of pasta with sauce and spices.\n   - A plate with avocado toast.\n   - Wooden table surface.\n   - Decorative sparkles.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 701.5341666666667,
+      "timestamp_formatted": "0:11:41",
+      "activity": "The scene shows a presentation of food dishes on a table.",
+      "location": "Indoor, likely in a dining setting or kitchen.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a presentation of food dishes on a table.\n2. **Location**: Indoor, likely in a dining setting or kitchen.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: \n   - Plate of pasta with sauce and chili flakes\n   - Plate with avocado toast topped with egg\n   - Wooden table\n   - Text overlay in Korean\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 702.5018,
+      "timestamp_formatted": "0:11:42",
+      "activity": "The scene shows a presentation of food dishes, likely part of a meal preparation or dining setup.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and inviting, with a focus on food.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a presentation of food dishes, likely part of a meal preparation or dining setup.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and inviting, with a focus on food.\n4. **Key Elements**: Avocado toast with scrambled eggs, a plate of pasta with chili flakes, wooden table, text in Korean.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 703.4694333333333,
+      "timestamp_formatted": "0:11:43",
+      "activity": "The scene shows a close-up of a plated dish, likely being presented or prepared for a meal.",
+      "location": "Indoor, possibly in a kitchen or dining area.",
+      "mood": "Calm and inviting, with a focus on food presentation.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a plated dish, likely being presented or prepared for a meal.\n2. **Location**: Indoor, possibly in a kitchen or dining area.\n3. **Mood**: Calm and inviting, with a focus on food presentation.\n4. **Key Elements**: Avocado toast with scrambled eggs, a plate with pasta, wooden table, cutlery.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 704.4370666666666,
+      "timestamp_formatted": "0:11:44",
+      "activity": "A person is engaged in a conversation or storytelling.",
+      "location": "Indoor, likely a café or casual dining area.",
+      "mood": "Relaxed and social.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is engaged in a conversation or storytelling.\n2. **Location**: Indoor, likely a café or casual dining area.\n3. **Mood**: Relaxed and social.\n4. **Key Elements**: Person speaking, tables and chairs, other patrons in the background, decorative wall art, potted plant.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 707.3399666666667,
+      "timestamp_formatted": "0:11:47",
+      "activity": "A woman is speaking or reacting to something, possibly in conversation.",
+      "location": "Indoor, likely a café or casual dining area.",
+      "mood": "The atmosphere is relaxed and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A woman is speaking or reacting to something, possibly in conversation.\n2. **Location**: Indoor, likely a café or casual dining area.\n3. **Mood**: The atmosphere is relaxed and intimate.\n4. **Key Elements**: \n   - Woman in the foreground\n   - Tables and chairs\n   - Other patrons in the background\n   - Wall decorations\n   - Potted plant\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 711.2105,
+      "timestamp_formatted": "0:11:51",
+      "activity": "A person is engaged in a conversation or reacting to something, possibly in a lively manner.",
+      "location": "Indoor setting, likely a café or casual dining area.",
+      "mood": "The atmosphere is warm and lively.",
+      "key_elements": [],
+      "scene_type": "Dialogue or interaction.",
+      "raw_analysis": "1. **Activity**: A person is engaged in a conversation or reacting to something, possibly in a lively manner.\n2. **Location**: Indoor setting, likely a café or casual dining area.\n3. **Mood**: The atmosphere is warm and lively.\n4. **Key Elements**: \n   - Person with expressive gesture\n   - Tables and chairs\n   - Wall art or decorations\n   - Potted plant\n   - Text overlay\n5. **Scene Type**: Dialogue or interaction."
+    },
+    {
+      "timestamp": 714.1134000000001,
+      "timestamp_formatted": "0:11:54",
+      "activity": "A person is engaged in a conversation, possibly explaining or discussing something.",
+      "location": "Indoor, likely a café or casual dining area.",
+      "mood": "Relaxed and conversational.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is engaged in a conversation, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a café or casual dining area.\n3. **Mood**: Relaxed and conversational.\n4. **Key Elements**: \n   - Person speaking\n   - Tables and chairs\n   - Wall art or decoration\n   - Potted plant\n   - Other patrons in the background\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 717.9839333333333,
+      "timestamp_formatted": "0:11:57",
+      "activity": "The scene shows a neatly arranged vanity table, likely indicating preparation or organization.",
+      "location": "Indoor, in a bedroom or dressing area.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a neatly arranged vanity table, likely indicating preparation or organization.\n2. **Location**: Indoor, in a bedroom or dressing area.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Skincare and beauty products, a vase with pink flowers, a mirror, and a bed in the background.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 721.8544666666667,
+      "timestamp_formatted": "0:12:01",
+      "activity": "The scene shows a collection of beauty products, likely being introduced or discussed.",
+      "location": "Indoor, on a vanity or dressing table.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a collection of beauty products, likely being introduced or discussed.\n2. **Location**: Indoor, on a vanity or dressing table.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Makeup palettes, perfume bottles, a mirror, cotton swabs, and a vase with flowers.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 722.8221,
+      "timestamp_formatted": "0:12:02",
+      "activity": "The scene shows someone introducing or discussing various perfumes and makeup items.",
+      "location": "Indoor, likely a bedroom or personal vanity area.",
+      "mood": "Calm and personal.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows someone introducing or discussing various perfumes and makeup items.\n2. **Location**: Indoor, likely a bedroom or personal vanity area.\n3. **Mood**: Calm and personal.\n4. **Key Elements**: Perfume bottles, makeup palettes, a mirror, a hand, and a vase with leaves.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 726.6926333333333,
+      "timestamp_formatted": "0:12:06",
+      "activity": "A person is holding a perfume bottle, possibly showcasing or reviewing it.",
+      "location": "Indoor, likely a bedroom or dressing area with a vanity.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is holding a perfume bottle, possibly showcasing or reviewing it.\n2. **Location**: Indoor, likely a bedroom or dressing area with a vanity.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Perfume bottles, makeup palette, mirror, vase with flowers.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 737.3366,
+      "timestamp_formatted": "0:12:17",
+      "activity": "The scene shows a display of makeup palettes, likely part of a makeup routine or tutorial.",
+      "location": "Indoor, possibly a bedroom or dressing area.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of makeup palettes, likely part of a makeup routine or tutorial.\n2. **Location**: Indoor, possibly a bedroom or dressing area.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Makeup palettes, mirror, reflective surface, Korean text overlay.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 744.1100333333334,
+      "timestamp_formatted": "0:12:24",
+      "activity": "The scene shows a close-up of two makeup palettes, likely part of a makeup tutorial or review.",
+      "location": "Indoor, possibly on a vanity or makeup table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of two makeup palettes, likely part of a makeup tutorial or review.\n2. **Location**: Indoor, possibly on a vanity or makeup table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Two makeup palettes, a mirror, a glass container, and text overlay.\n5. **Scene Type**: Product closeup."
+    },
+    {
+      "timestamp": 747.9805666666667,
+      "timestamp_formatted": "0:12:27",
+      "activity": "A person is pointing at an eyeshadow palette.",
+      "location": "Indoor, likely a vanity or makeup area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Product demonstration.",
+      "raw_analysis": "1. **Activity**: A person is pointing at an eyeshadow palette.\n2. **Location**: Indoor, likely a vanity or makeup area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Eyeshadow palettes, finger pointing, mirror, text overlay.\n5. **Scene Type**: Product demonstration."
+    },
+    {
+      "timestamp": 748.9482,
+      "timestamp_formatted": "0:12:28",
+      "activity": "A person is organizing or showcasing skincare products on a table.",
+      "location": "Indoor, likely a bedroom or bathroom.",
+      "mood": "Calm and personal.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is organizing or showcasing skincare products on a table.\n2. **Location**: Indoor, likely a bedroom or bathroom.\n3. **Mood**: Calm and personal.\n4. **Key Elements**: Skincare products, cotton swabs, a hand, a white table.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 749.9158333333334,
+      "timestamp_formatted": "0:12:29",
+      "activity": "A person is showcasing and possibly discussing skincare products.",
+      "location": "Indoor, likely a bathroom or vanity area.",
+      "mood": "Calm and informative.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is showcasing and possibly discussing skincare products.\n2. **Location**: Indoor, likely a bathroom or vanity area.\n3. **Mood**: Calm and informative.\n4. **Key Elements**: Skincare products, cotton swabs, a mirror, a hand holding a bottle.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 750.8834666666667,
+      "timestamp_formatted": "0:12:30",
+      "activity": "A person is showcasing or discussing a skincare product.",
+      "location": "Indoor, likely a bathroom or vanity area.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is showcasing or discussing a skincare product.\n2. **Location**: Indoor, likely a bathroom or vanity area.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Skincare products, a hand holding a bottle, text overlay with product information.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 751.8511,
+      "timestamp_formatted": "0:12:31",
+      "activity": "A person is holding and showcasing a bottle of body oil.",
+      "location": "Indoor, likely a bathroom or vanity area.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Product showcase.",
+      "raw_analysis": "1. **Activity**: A person is holding and showcasing a bottle of body oil.\n2. **Location**: Indoor, likely a bathroom or vanity area.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Bottle of body oil, hand holding the bottle, other skincare products in the background, text overlay.\n5. **Scene Type**: Product showcase."
+    },
+    {
+      "timestamp": 764.4303333333334,
+      "timestamp_formatted": "0:12:44",
+      "activity": "A person is recording themselves with a camera, possibly for a vlog or video diary.",
+      "location": "Indoor, likely a bedroom or personal space.",
+      "mood": "Calm and personal.",
+      "key_elements": [],
+      "scene_type": "Vlog or personal recording.",
+      "raw_analysis": "1. **Activity**: A person is recording themselves with a camera, possibly for a vlog or video diary.\n2. **Location**: Indoor, likely a bedroom or personal space.\n3. **Mood**: Calm and personal.\n4. **Key Elements**: \n   - Person holding a camera\n   - Camera with a microphone\n   - Bed in the background\n   - Wall art with a heart design\n5. **Scene Type**: Vlog or personal recording."
+    },
+    {
+      "timestamp": 772.1714000000001,
+      "timestamp_formatted": "0:12:52",
+      "activity": "A person is styling their hair using a hairdryer.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Personal care routine.",
+      "raw_analysis": "1. **Activity**: A person is styling their hair using a hairdryer.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Hairdryer, person styling hair, bed, white walls.\n5. **Scene Type**: Personal care routine."
+    },
+    {
+      "timestamp": 777.0095666666667,
+      "timestamp_formatted": "0:12:57",
+      "activity": "A person is taking a selfie in a mirror.",
+      "location": "Indoor, likely a hallway or room with a mirror.",
+      "mood": "Casual and cheerful.",
+      "key_elements": [],
+      "scene_type": "Selfie moment.",
+      "raw_analysis": "1. **Activity**: A person is taking a selfie in a mirror.\n2. **Location**: Indoor, likely a hallway or room with a mirror.\n3. **Mood**: Casual and cheerful.\n4. **Key Elements**: \n   - Person with a camera\n   - Mirror\n   - Winter coat\n   - Text overlay (\"DAY 3\" and Korean text)\n5. **Scene Type**: Selfie moment."
+    },
+    {
+      "timestamp": 778.9448333333333,
+      "timestamp_formatted": "0:12:58",
+      "activity": "The scene shows the exterior of a building, possibly a restaurant or cafe, at night.",
+      "location": "Outdoor, urban setting in a city street.",
+      "mood": "Calm and inviting, with a cozy atmosphere.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the exterior of a building, possibly a restaurant or cafe, at night.\n2. **Location**: Outdoor, urban setting in a city street.\n3. **Mood**: Calm and inviting, with a cozy atmosphere.\n4. **Key Elements**: \n   - Illuminated building with large windows\n   - Cars parked in front\n   - Streetlights and decorative lighting\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 784.7506333333333,
+      "timestamp_formatted": "0:13:04",
+      "activity": "A person is engaged in conversation, possibly sharing a story or reacting to something.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is engaged in conversation, possibly sharing a story or reacting to something.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Person seated at a table, wooden panel wall, empty plates, drinking glasses, small plant.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 807.0062,
+      "timestamp_formatted": "0:13:27",
+      "activity": "A person is reacting with surprise or excitement to a gift or item being presented.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "The atmosphere is intimate and surprising.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Reaction.",
+      "raw_analysis": "1. **Activity**: A person is reacting with surprise or excitement to a gift or item being presented.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: The atmosphere is intimate and surprising.\n4. **Key Elements**: \n   - A person with hands over their mouth.\n   - A paper bag with text.\n   - A wooden-paneled wall.\n   - A table with plates and glasses.\n5. **Scene Type**: Dialogue/Reaction."
+    },
+    {
+      "timestamp": 807.9738333333333,
+      "timestamp_formatted": "0:13:27",
+      "activity": "A person is receiving a gift, possibly for a birthday.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Intimate and cheerful.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is receiving a gift, possibly for a birthday.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Intimate and cheerful.\n4. **Key Elements**: Gift bag, two people, wooden wall paneling, table with plates and glasses.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 818.6178,
+      "timestamp_formatted": "0:13:38",
+      "activity": "A person is receiving a gift, likely celebrating a birthday.",
+      "location": "Indoor, possibly a restaurant or dining area.",
+      "mood": "Joyful and celebratory.",
+      "key_elements": [],
+      "scene_type": "Celebration.",
+      "raw_analysis": "1. **Activity**: A person is receiving a gift, likely celebrating a birthday.\n2. **Location**: Indoor, possibly a restaurant or dining area.\n3. **Mood**: Joyful and celebratory.\n4. **Key Elements**: Smiling person, gift box with ribbon, dining table with plates, text \"HBD 🎂\".\n5. **Scene Type**: Celebration."
+    },
+    {
+      "timestamp": 819.5854333333333,
+      "timestamp_formatted": "0:13:39",
+      "activity": "A person is celebrating a birthday and receiving a gift.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Joyful and celebratory.",
+      "key_elements": [],
+      "scene_type": "Celebration.",
+      "raw_analysis": "1. **Activity**: A person is celebrating a birthday and receiving a gift.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Joyful and celebratory.\n4. **Key Elements**: Smiling person, wrapped gift box, dining table with plates, wooden wall paneling.\n5. **Scene Type**: Celebration."
+    },
+    {
+      "timestamp": 820.5530666666667,
+      "timestamp_formatted": "0:13:40",
+      "activity": "A person is celebrating a birthday, holding a gift box while others clap.",
+      "location": "Indoor, likely a restaurant or dining area.",
+      "mood": "Joyful and celebratory.",
+      "key_elements": [],
+      "scene_type": "Celebration.",
+      "raw_analysis": "1. **Activity**: A person is celebrating a birthday, holding a gift box while others clap.\n2. **Location**: Indoor, likely a restaurant or dining area.\n3. **Mood**: Joyful and celebratory.\n4. **Key Elements**: Gift box with ribbon, person wearing a bib, dining table with plates, clapping hands.\n5. **Scene Type**: Celebration."
+    },
+    {
+      "timestamp": 821.5207,
+      "timestamp_formatted": "0:13:41",
+      "activity": "A person is opening a gift box at a dining table.",
+      "location": "Indoor, likely in a restaurant or dining area.",
+      "mood": "Intimate and pleasant.",
+      "key_elements": [],
+      "scene_type": "Dialogue/interaction.",
+      "raw_analysis": "1. **Activity**: A person is opening a gift box at a dining table.\n2. **Location**: Indoor, likely in a restaurant or dining area.\n3. **Mood**: Intimate and pleasant.\n4. **Key Elements**: Gift box, dining table, plates with food remnants, wooden wall paneling, potted plant.\n5. **Scene Type**: Dialogue/interaction."
+    },
+    {
+      "timestamp": 829.2617666666666,
+      "timestamp_formatted": "0:13:49",
+      "activity": "The scene shows a dessert, likely being served or enjoyed at a café.",
+      "location": "Indoor, in a café or restaurant setting.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a dessert, likely being served or enjoyed at a café.\n2. **Location**: Indoor, in a café or restaurant setting.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Mango dessert with ice cream, teapot, teacup, small bowls, and a tray.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 837.0028333333333,
+      "timestamp_formatted": "0:13:57",
+      "activity": "A person is about to enjoy a dessert, likely sharing it with someone.",
+      "location": "Indoor, possibly a café or restaurant.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A person is about to enjoy a dessert, likely sharing it with someone.\n2. **Location**: Indoor, possibly a café or restaurant.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Mango dessert, small bowls, a cup of tea, an hourglass.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 837.9704666666667,
+      "timestamp_formatted": "0:13:57",
+      "activity": "A person is sitting at a table, possibly preparing to eat or discuss food.",
+      "location": "Indoor, likely a café or restaurant.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly preparing to eat or discuss food.\n2. **Location**: Indoor, likely a café or restaurant.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Mango dessert, small bowls, a cup, hands gesturing.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 840.8733666666667,
+      "timestamp_formatted": "0:14:00",
+      "activity": "People are gathered around a table, likely preparing to enjoy a dessert.",
+      "location": "Indoor, possibly in a café or restaurant.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: People are gathered around a table, likely preparing to enjoy a dessert.\n2. **Location**: Indoor, possibly in a café or restaurant.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Mango dessert, small dishes with condiments, a hand gesture, a smartphone.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 846.6791666666667,
+      "timestamp_formatted": "0:14:06",
+      "activity": "A person is sitting at a table, possibly preparing to have tea.",
+      "location": "Indoor, likely a café or restaurant.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or casual interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly preparing to have tea.\n2. **Location**: Indoor, likely a café or restaurant.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Teapot, teacups, a person's hands, menu or promotional stand, tray.\n5. **Scene Type**: Dialogue or casual interaction."
+    },
+    {
+      "timestamp": 847.6468,
+      "timestamp_formatted": "0:14:07",
+      "activity": "Two people appear to be engaged in a conversation, with one gesturing with their hands.",
+      "location": "Indoor setting, likely a café or restaurant.",
+      "mood": "The atmosphere seems calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: Two people appear to be engaged in a conversation, with one gesturing with their hands.\n2. **Location**: Indoor setting, likely a café or restaurant.\n3. **Mood**: The atmosphere seems calm and casual.\n4. **Key Elements**: Teapot and cup set, hands gesturing, countertop, menu or promotional stand.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 854.4202333333334,
+      "timestamp_formatted": "0:14:14",
+      "activity": "Two people are sitting at a table, possibly engaged in conversation or working on something together.",
+      "location": "Indoor, likely a café or restaurant.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: Two people are sitting at a table, possibly engaged in conversation or working on something together.\n2. **Location**: Indoor, likely a café or restaurant.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Two people sitting at a table\n   - Indoor plants\n   - Large windows with a view outside\n   - Comfortable seating\n   - Warm lighting\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 868.9347333333334,
+      "timestamp_formatted": "0:14:28",
+      "activity": "The scene displays a close-up of a name badge or ID card.",
+      "location": "The setting is likely indoors, possibly at an event or conference.",
+      "mood": "The atmosphere is professional and straightforward.",
+      "key_elements": [],
+      "scene_type": "\"Establishing shot\"",
+      "raw_analysis": "1. **Activity**: The scene displays a close-up of a name badge or ID card.\n2. **Location**: The setting is likely indoors, possibly at an event or conference.\n3. **Mood**: The atmosphere is professional and straightforward.\n4. **Key Elements**: \n   - Name badge with \"O-log\" text\n   - Green lanyard\n   - Bright green background\n5. **Scene Type**: \"Establishing shot\""
+    },
+    {
+      "timestamp": 869.9023666666667,
+      "timestamp_formatted": "0:14:29",
+      "activity": "A person is speaking directly to the camera, likely addressing the audience.",
+      "location": "Indoor, possibly a home or office setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, likely addressing the audience.\n2. **Location**: Indoor, possibly a home or office setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Christmas tree with decorations, a person, a cabinet with a plant, and a lamp.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 884.4168666666667,
+      "timestamp_formatted": "0:14:44",
+      "activity": "The scene appears to display a digital interface or screen with technical data.",
+      "location": "Indoor, likely in a control room or monitoring station.",
+      "mood": "Technical and analytical.",
+      "key_elements": [],
+      "scene_type": "Data display or monitoring interface.",
+      "raw_analysis": "1. **Activity**: The scene appears to display a digital interface or screen with technical data.\n2. **Location**: Indoor, likely in a control room or monitoring station.\n3. **Mood**: Technical and analytical.\n4. **Key Elements**: \n   - \"O.log\" text\n   - Temperature reading (20°C)\n   - Oxygen level (0.002 ppm)\n   - Dolby Digital and volume indicators\n   - Color space (sRGB)\n5. **Scene Type**: Data display or monitoring interface."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Dialogue.",
+        42
+      ],
+      [
+        "Establishing shot.",
+        40
+      ],
+      [
+        "Food closeup.",
+        19
+      ],
+      [
+        "Dialogue",
+        16
+      ],
+      [
+        "Product showcase.",
+        10
+      ]
+    ],
+    "locations": [
+      "Indoor office setting, likely a conference room.",
+      "Indoor office setting.",
+      "Indoor setting, possibly a dining area or café.",
+      "Indoor, likely in an office or corporate lounge area.",
+      "Indoor, likely a bedroom or personal space.",
+      "Indoor, likely a restaurant or dining area.",
+      "Indoor, possibly a bedroom or personal workspace.",
+      "Indoor, likely a bathroom or dressing room.",
+      "Indoor, in a bedroom setting.",
+      "Indoor, likely a bedroom."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and focused.",
+        19
+      ],
+      [
+        "Calm and organized.",
+        14
+      ],
+      [
+        "Focused and professional.",
+        10
+      ],
+      [
+        "Calm and festive.",
+        8
+      ],
+      [
+        "Casual and relaxed.",
+        8
+      ]
+    ]
+  }
+}

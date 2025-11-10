@@ -1,0 +1,109 @@
+{
+  "template_name": "Conversational Korean Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 180,
+      "description": "Introduction with a brief overview of the day or activity.",
+      "key_elements": [
+        "greeting",
+        "overview of the day's plan"
+      ]
+    },
+    "body": {
+      "duration_seconds": 3650,
+      "description": "Detailed exploration of daily activities with a focus on interactions and experiences.",
+      "segments": [
+        {
+          "type": "activity",
+          "description": "Engaging in various activities such as traveling, eating, and shopping.",
+          "typical_duration": 600
+        },
+        {
+          "type": "interaction",
+          "description": "Conversational interactions with friends or family.",
+          "typical_duration": 300
+        },
+        {
+          "type": "reflection",
+          "description": "Reflecting on experiences and sharing thoughts.",
+          "typical_duration": 300
+        },
+        {
+          "type": "scenic",
+          "description": "Capturing scenic views and moments.",
+          "typical_duration": 200
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 200,
+      "description": "Wrap-up of the day with final thoughts and goodbyes.",
+      "key_elements": [
+        "reflection on the day",
+        "farewell message"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#1a1313",
+      "#877164",
+      "#dcdde1"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.5,
+    "scene_changes": 2688,
+    "camera_work": [
+      "handheld",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional translations or highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Conversational Interactions",
+      "description": "Frequent casual conversations with friends or family.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Scenic Captures",
+      "description": "Capturing scenic views and moments during activities.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily life sharing",
+    "Cultural exploration"
+  ]
+}

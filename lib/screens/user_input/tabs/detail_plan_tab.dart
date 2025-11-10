@@ -3,7 +3,16 @@ import '../../../constants/app_colors.dart';
 import '../../../constants/app_styles.dart';
 
 class DetailPlanTab extends StatefulWidget {
-  const DetailPlanTab({super.key});
+  final Function(String)? onLocationChanged;
+  final Function(String, String)? onInputChanged;  // key, value 형태
+  final Map<String, String>? initialValues;  // 초기값 전달
+
+  const DetailPlanTab({
+    super.key,
+    this.onLocationChanged,
+    this.onInputChanged,
+    this.initialValues,
+  });
 
   @override
   State<DetailPlanTab> createState() => _DetailPlanTabState();
@@ -13,6 +22,33 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
   final TextEditingController _locationController = TextEditingController();
   final TextEditingController _requiredLocationController = TextEditingController();
   final TextEditingController _topicsController = TextEditingController();
+
+  @override
+  void initState() {
+    super.initState();
+    
+    // 초기값 설정
+    if (widget.initialValues != null) {
+      _locationController.text = widget.initialValues!['location'] ?? '';
+      _requiredLocationController.text = widget.initialValues!['required_location'] ?? '';
+      _topicsController.text = widget.initialValues!['topics'] ?? '';
+    }
+    
+    // location TextField에 리스너 추가
+    _locationController.addListener(() {
+      if (_locationController.text.isNotEmpty) {
+        widget.onLocationChanged?.call(_locationController.text);
+      }
+    });
+    
+    // required_location, topics TextField에 리스너 추가
+    _requiredLocationController.addListener(() {
+      widget.onInputChanged?.call('required_location', _requiredLocationController.text);
+    });
+    _topicsController.addListener(() {
+      widget.onInputChanged?.call('topics', _topicsController.text);
+    });
+  }
 
   @override
   void dispose() {
@@ -28,7 +64,7 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
       children: [
         Icon(
           icon,
-          color: AppColors.white,
+          color: AppColors.primary,
           size: 24,
         ),
         const SizedBox(width: 8),
@@ -65,7 +101,7 @@ class _DetailPlanTabState extends State<DetailPlanTab> {
         hintText: hintText,
         hintStyle: TextStyle(color: AppColors.textSecondary),
         filled: true,
-        fillColor: AppColors.cardBackground,
+        fillColor: AppColors.lightGrey,
         isDense: true,  // 기본 높이 제약 제거
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(13),

@@ -1,0 +1,153 @@
+{
+  "template_name": "Casual Daily Vlog with Study and Food Focus",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 5,
+      "description": "The vlog opens with a casual and playful selfie moment in a mirror, setting a relaxed tone.",
+      "key_elements": [
+        "selfie",
+        "mirror",
+        "casual mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 738,
+      "description": "The main content includes a mix of personal moments, food closeups, study sessions, and transitions between various locations.",
+      "segments": [
+        {
+          "type": "Selfie/Personal moment",
+          "description": "Multiple scenes of the vlogger taking selfies or recording themselves in various indoor settings.",
+          "typical_duration": 20,
+          "scene_activity": "Taking selfies or recording personal moments",
+          "location": "Indoor settings like bedrooms or hallways",
+          "mood": "Casual and playful"
+        },
+        {
+          "type": "Food closeup",
+          "description": "Close-up shots of food items, including coffee preparation and meals, highlighting the vlogger's food experiences.",
+          "typical_duration": 60,
+          "scene_activity": "Presenting or preparing food items",
+          "location": "Indoor, likely kitchen or dining areas",
+          "mood": "Calm and appetizing"
+        },
+        {
+          "type": "Study/work session",
+          "description": "Scenes of the vlogger studying or working, often using a tablet or laptop, focusing on productivity.",
+          "typical_duration": 120,
+          "scene_activity": "Studying or working on digital devices",
+          "location": "Indoor, likely a home office or study area",
+          "mood": "Focused and calm"
+        },
+        {
+          "type": "Transition",
+          "description": "Various transition scenes showing the vlogger moving between locations, often outdoors.",
+          "typical_duration": 50,
+          "scene_activity": "Walking or traveling between locations",
+          "location": "Outdoor sidewalks or indoor hallways",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "Dialogue or interaction",
+          "description": "Scenes where the vlogger engages in conversation or interacts with others, often in a café or casual setting.",
+          "typical_duration": 80,
+          "scene_activity": "Conversing or interacting with others",
+          "location": "Indoor, likely cafés or casual meeting spaces",
+          "mood": "Relaxed and informal"
+        },
+        {
+          "type": "Shopping or browsing",
+          "description": "Scenes of the vlogger browsing or examining items in stores, showcasing a casual shopping experience.",
+          "typical_duration": 40,
+          "scene_activity": "Browsing or examining products",
+          "location": "Indoor, likely stores or markets",
+          "mood": "Casual and curious"
+        },
+        {
+          "type": "Casual moment",
+          "description": "Moments of the vlogger engaging in everyday activities, like drinking coffee or adjusting clothing.",
+          "typical_duration": 30,
+          "scene_activity": "Engaging in casual activities",
+          "location": "Indoor, various personal spaces",
+          "mood": "Casual and relaxed"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 20,
+      "description": "The vlog ends with a playful and lighthearted scene featuring a cat with a thank you message.",
+      "key_elements": [
+        "cat",
+        "thank you message",
+        "playful mood"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#938373",
+      "#28211e",
+      "#e3dfd6"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.8,
+    "scene_changes": 417,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and informal",
+      "content_type": "Sharing daily experiences and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Subtitles and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Selfie moments",
+      "description": "Frequent use of selfie shots to engage viewers personally",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Food closeups",
+      "description": "Regular focus on food preparation and presentation",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Study sessions",
+      "description": "Recurring scenes of studying or working on digital devices",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily vlogs",
+    "Study with me videos",
+    "Food vlogs"
+  ]
+}

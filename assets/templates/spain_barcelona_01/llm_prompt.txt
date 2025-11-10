@@ -1,0 +1,154 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:22:30
+- Resolution: 1920x1080
+- FPS: 30.0
+
+## Visual Features
+- Dominant Colors: #8a6d5e, #cccbc9, #211818
+- Brightness Trend: Stable
+- Scene Changes: 767
+- Average Shot Length: 1.8s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 103
+- Content Length: 1000 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #8a6d5e, #cccbc9, #211818
+- Brightness: Stable
+- Pacing: Fast
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 실제 | 황치 | 이�се | ивать | 펄 | MH답 lawsuits
+
+### Segment 2 (01:00)
+- Brightness: Medium
+- Energy: Medium
+- Speech: 10 erst交imiz | ppen 4 | 여보 | � collision | 점점arat
+
+### Segment 3 (02:00)
+- Brightness: Bright
+- Energy: Medium
+- Speech: 윗 Details의
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 니네가 | 너무 속에 넣어주세요.
+
+### Segment 5 (04:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 좋다. 나 뾰자 없네? | 이게 나쁘네. | 비율가 없네. | 바로 나가. | 이번에 | 그 이처로를 | Arrival 라면서 | 어깨 가득
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 소 | 月 Haeak
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Medium
+
+### Segment 8 (07:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: DY. | foam bath | 아니 나도
+
+### Segment 9 (08:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 소술德 | 식 | 그래서 어 Biden peanut shirt | så 꺼내줄 | 요즘 Youth AP로에서 | 어서 됩니다 | London | Minnesota | Brexit | Little Red | printing | Sounds like French
+
+### Segment 10 (09:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 最後 한번의 � classrooms | 하말ite의 | � LUQ | isión 205번 | A étter בה��을 | но | Women places are so sucks, they're so du showcase | こと eineque | int
+
+### Segment 11 (10:00)
+- Brightness: Medium
+- Energy: Low
+- Speech:  | Hallmitting | 이것도ão�일�anted | 묵고들 HE Tgal
+
+### Segment 12 (11:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 제맛이지만 | Hier앨� це | 비비가 탈색 | 너무 타일 것 같아 | 중독님 «� BRIAN», « Witness madam ».
+
+### Segment 13 (12:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: «떡 dific 들뜨기…» | лей | 몇会上 가uais Back� 구� 일이 부오� fate | 배발!
+
+### Segment 14 (13:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 고 THEY WHY
+
+### Segment 15 (14:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: ollii ž
+
+### Segment 16 (15:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 신나고итvioloul | 특히 | 찹쌀요 | 사진을 잘 보여주는zip | 정folk에 계십니다
+
+### Segment 17 (16:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: clarity | 멈춘 benefactor | 개비도antu | 겉에
+
+### Segment 18 (17:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 하이ác State | おー | 앞두고 dances | land | 스티 | How much I was drinking
+
+### Segment 19 (18:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 맛있을거인델� Luo Su | sppt
+
+### Segment 20 (19:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 셔플 룸 | 근데 이거pir initiates volunteer | Hunger Küke | 맛있어 | 마시면서
+
+### Segment 21 (20:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 어우 오아
+
+### Segment 22 (21:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 어때요 | 맛있어 | 네 | 겨ują | 음... | 왜 싶지? | 이 시그가 좀 떨네? | 되게 느끼함이도 싫어, 되게 가봅다. | 정말 하와봐, 안 싸고. | 아니, 나 간이 아예 안 돼. | 내 손님인데. | 담백한 거 좋아한다? | 진짜. | 하지만 온도 짭짤한 거 원한다? | 진짜. | 간이야. | 지금 당분간 뭐 짱 먹고 싶어서 좀 좀 해.
+
+### Segment 23 (22:00)
+- Brightness: Bright
+- Energy: Low
+
+(Total 23 segments)
+
+## Full Transcript
+실제 황치 이�сеивать 펄 MH답 lawsuits 10 erst交imizppen 4 여보 � collision 점점arat 윗 Details의 니네가 너무 속에 넣어주세요. 좋다. 나 뾰자 없네? 이게 나쁘네. 비율가 없네. 바로 나가. 이번에 그 이처로를 Arrival 라면서 어깨 가득 소月 HaeakDY. foam bath 아니 나도 소술德 식 그래서 어 Biden peanut shirt så 꺼내줄 요즘 Youth AP로에서 어서 됩니다 London Minnesota Brexit Little Red printing Sounds like French最後 한번의 � classrooms 하말ite의 � LUQisión 205번 A étter בה��을но Women places are so sucks, they're so du showcaseこと einequeint Hallmitting 이것도ão�일�anted 묵고들 HE Tgal 제맛이지만 Hier앨� це 비비가 탈색 너무 타일 것 같아 중독님 «� BRIAN», « Witness madam ». «떡 dific 들뜨기…»лей 몇会上 가uais Back� 구� 일이 부오� fate 배발! 고 THEY WHYollii ž 신나고итvioloul 특히 찹쌀요 사진을 잘 보여주는zip 정folk에 계십니다 clarity 멈춘 benefactor 개비도antu 겉에 하이ác Stateおー 앞두고 dancesland 스티<|hu|> How much I was drinking 맛있을거인델� Luo Su sppt 셔플 룸 근데 이거pir initiates volunteer Hunger Küke 맛있어 마시면서 어우 오아 어때요 맛있어 네 겨ują 음... 왜 싶지? 이 시그가 좀 떨네? 되게 느끼함이도 싫어, 되게 가봅다. 정말 하와봐, 안 싸고. 아니, 나 간이 아예 안 돼. 내 손님인데. 담백한 거 좋아한다? 진짜. 하지만 온도 짭짤한 거 원한다? 진짜. 간이야. 지금 당분간 뭐 짱 먹고 싶어서 좀 좀 해.

@@ -1,0 +1,1851 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:12:02
+- Resolution: 1920x1080
+- FPS: 48.0
+
+## Visual Features
+- Dominant Colors: #7c695e, #150f10, #d0c6bd
+- Brightness Trend: Stable
+- Scene Changes: 153
+- Average Shot Length: 4.7s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 55
+- Content Length: 573 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #7c695e, #150f10, #d0c6bd
+- Brightness: Stable
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 153
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Transition.: 32 occurrences
+  - Intimate moment.: 13 occurrences
+  - Action.: 11 occurrences
+  - Everyday activity.: 11 occurrences
+  - Establishing shot.: 5 occurrences
+
+Dominant Moods:
+  - Calm and focused.: 38 scenes
+  - Calm and casual.: 20 scenes
+  - Calm and relaxed.: 12 scenes
+  - Focused and energetic.: 11 scenes
+  - Casual and relaxed.: 10 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:01]:
+  - Activity: A person is walking or jogging.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Calm and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking or jogging.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White sneakers, dark pavement, text overlay ("Day1"), Korean text.
+5. **Scene Type**: Transition.
+
+**Scene 2** [0:00:02]:
+  - Activity: A person is walking, and the camera captures their feet in motion.
+  - Location: Outdoor, likely on a sidewalk or street.
+  - Mood: Casual and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking, and the camera captures their feet in motion.
+2. **Location**: Outdoor, likely on a sidewalk or street.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Foot in a white shoe, pavement, shadow, text overlay ("Day1").
+5. **Scene Type**: Transition.
+
+**Scene 3** [0:00:04]:
+  - Activity: The scene shows someone walking, likely documenting their steps.
+  - Location: Outdoor, on a paved walkway.
+  - Mood: Casual and anticipatory.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: The scene shows someone walking, likely documenting their steps.
+2. **Location**: Outdoor, on a paved walkway.
+3. **Mood**: Casual and anticipatory.
+4. **Key Elements**: Paved ground, text overlay ("Day 1"), person's feet, shadow.
+5. **Scene Type**: Transition.
+
+**Scene 4** [0:00:05]:
+  - Activity: A person is using a treadmill, likely starting a workout.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and motivated.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a treadmill, likely starting a workout.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and motivated.
+4. **Key Elements**: Treadmill, person's leg in workout attire, "Day 1" text, Korean text overlay.
+5. **Scene Type**: Action.
+
+**Scene 5** [0:00:06]:
+  - Activity: A person is using a treadmill.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and active.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a treadmill.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and active.
+4. **Key Elements**: Treadmill control panel, stop button, QR code, person's foot in a sneaker.
+5. **Scene Type**: Action.
+
+**Scene 6** [0:00:07]:
+  - Activity: Someone is using a stair stepper or treadmill machine.
+  - Location: Indoor, likely a gym or fitness center.
+  - Mood: Focused and determined.
+  - Scene Type: Activity/fitness.
+  - Full Analysis: 1. **Activity**: Someone is using a stair stepper or treadmill machine.
+2. **Location**: Indoor, likely a gym or fitness center.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Control panel with buttons, stop button, QR code, Korean text subtitle.
+5. **Scene Type**: Activity/fitness.
+
+**Scene 7** [0:00:08]:
+  - Activity: The scene shows a close-up of a treadmill, likely indicating someone is about to start or is currently exercising.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a treadmill, likely indicating someone is about to start or is currently exercising.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Treadmill, control panel, cup holder, Korean text overlay.
+5. **Scene Type**: Establishing shot.
+
+**Scene 8** [0:00:09]:
+  - Activity: A person is using a stair stepper machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Fitness/exercise.
+  - Full Analysis: 1. **Activity**: A person is using a stair stepper machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Stair stepper machine, person's legs in athletic wear, control panel, Korean text subtitle.
+5. **Scene Type**: Fitness/exercise.
+
+**Scene 9** [0:00:10]:
+  - Activity: A person is using a stair stepper machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a stair stepper machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Stair stepper machine, person’s legs, athletic shoes, control panel.
+5. **Scene Type**: Action.
+
+**Scene 10** [0:00:11]:
+  - Activity: A person is using a treadmill.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a treadmill.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Treadmills, person exercising, fitness watch, gym equipment.
+5. **Scene Type**: Action.
+
+**Scene 11** [0:00:12]:
+  - Activity: A person is checking their smartwatch while using a treadmill.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and determined.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is checking their smartwatch while using a treadmill.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Smartwatch, treadmill display, hand, digital readouts.
+5. **Scene Type**: Action.
+
+**Scene 12** [0:00:13]:
+  - Activity: A person is checking their smartwatch while using a treadmill.
+  - Location: Indoor, likely a gym or home workout area.
+  - Mood: Focused and determined.
+  - Scene Type: "Fitness tracking" or "exercise monitoring."
+  - Full Analysis: 1. **Activity**: A person is checking their smartwatch while using a treadmill.
+2. **Location**: Indoor, likely a gym or home workout area.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Smartwatch displaying workout stats, treadmill control panel, person's wrist.
+5. **Scene Type**: "Fitness tracking" or "exercise monitoring."
+
+**Scene 13** [0:00:14]:
+  - Activity: A person is checking their smartwatch while exercising.
+  - Location: Indoor, likely a gym or fitness center.
+  - Mood: Focused and determined.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is checking their smartwatch while exercising.
+2. **Location**: Indoor, likely a gym or fitness center.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Smartwatch displaying fitness data, exercise machine console, hand.
+5. **Scene Type**: Action.
+
+**Scene 14** [0:00:15]:
+  - Activity: A person is checking their smartwatch while using a fitness machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and determined.
+  - Scene Type: Fitness tracking.
+  - Full Analysis: 1. **Activity**: A person is checking their smartwatch while using a fitness machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Smartwatch, fitness machine display, hand, digital readouts.
+5. **Scene Type**: Fitness tracking.
+
+**Scene 15** [0:00:16]:
+  - Activity: The scene shows a treadmill display during a workout session.
+  - Location: Indoor, likely in a gym or home workout area.
+  - Mood: Focused and routine.
+  - Scene Type: "Exercise equipment closeup"
+  - Full Analysis: 1. **Activity**: The scene shows a treadmill display during a workout session.
+2. **Location**: Indoor, likely in a gym or home workout area.
+3. **Mood**: Focused and routine.
+4. **Key Elements**: Treadmill display, time elapsed, heart rate, workout settings, Korean text overlay.
+5. **Scene Type**: "Exercise equipment closeup"
+
+**Scene 16** [0:00:17]:
+  - Activity: A person is walking, holding a bag and some items.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking, holding a bag and some items.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Brown bag, beige shirt, headphones, pavement.
+5. **Scene Type**: Transition.
+
+**Scene 17** [0:00:19]:
+  - Activity: A person is walking, possibly heading somewhere.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking, possibly heading somewhere.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Person holding a bag, asphalt ground, crosswalk lines, Korean text overlay.
+5. **Scene Type**: Transition.
+
+**Scene 18** [0:00:21]:
+  - Activity: A person is preparing a drink by adding contents from a packet into a mug.
+  - Location: Indoor, likely an office or workspace.
+  - Mood: Calm and routine.
+  - Scene Type: Routine activity.
+  - Full Analysis: 1. **Activity**: A person is preparing a drink by adding contents from a packet into a mug.
+2. **Location**: Indoor, likely an office or workspace.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Mug, packet, office chair, desk, computer keyboard.
+5. **Scene Type**: Routine activity.
+
+**Scene 19** [0:00:25]:
+  - Activity: A person is stirring a drink in a mug with a handheld frother.
+  - Location: Indoor office setting.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is stirring a drink in a mug with a handheld frother.
+2. **Location**: Indoor office setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Mug, handheld frother, smartwatch, keyboard, panda blanket.
+5. **Scene Type**: Everyday activity.
+
+**Scene 20** [0:00:30]:
+  - Activity: A person is sitting at a desk, possibly working or preparing something.
+  - Location: Indoor office or workspace.
+  - Mood: Calm and focused.
+  - Scene Type: Everyday work or preparation scene.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly working or preparing something.
+2. **Location**: Indoor office or workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person wearing a smartwatch
+   - Desk with a lid and a pot
+   - Green chair with a panda-patterned blanket
+   - Keyboard or device
+5. **Scene Type**: Everyday work or preparation scene.
+
+**Scene 21** [0:00:33]:
+  - Activity: A person is sitting at a desk, holding and eating a protein bar.
+  - Location: Indoor, likely an office or home office setting.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday life moment.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, holding and eating a protein bar.
+2. **Location**: Indoor, likely an office or home office setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Protein bar, keyboard, smartwatch, potted plant, panda-patterned blanket.
+5. **Scene Type**: Everyday life moment.
+
+**Scene 22** [0:00:39]:
+  - Activity: A person is drinking from a cup, possibly taking a break.
+  - Location: Indoor office setting.
+  - Mood: Calm and casual.
+  - Scene Type: Casual moment.
+  - Full Analysis: 1. **Activity**: A person is drinking from a cup, possibly taking a break.
+2. **Location**: Indoor office setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person with a smartwatch, cup, office chair, desk, potted plant.
+5. **Scene Type**: Casual moment.
+
+**Scene 23** [0:00:43]:
+  - Activity: A person is sitting at a desk, holding a cup, possibly drinking.
+  - Location: Indoor office setting.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday office moment.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, holding a cup, possibly drinking.
+2. **Location**: Indoor office setting.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Keyboard, wristwatch, cup, potted plant, chair with a blanket.
+5. **Scene Type**: Everyday office moment.
+
+**Scene 24** [0:00:51]:
+  - Activity: A person is leaning on a counter or table, possibly preparing or organizing something.
+  - Location: Indoor, likely a living room or a small apartment space.
+  - Mood: Calm and intimate.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is leaning on a counter or table, possibly preparing or organizing something.
+2. **Location**: Indoor, likely a living room or a small apartment space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Sofa, floor lamp, computer monitor, curtains, person.
+5. **Scene Type**: Transition.
+
+**Scene 25** [0:00:59]:
+  - Activity: A person is standing near a counter, possibly preparing or holding something.
+  - Location: Indoor, likely a living room or a cozy corner of a home.
+  - Mood: Calm and relaxed.
+  - Scene Type: Everyday life moment.
+  - Full Analysis: 1. **Activity**: A person is standing near a counter, possibly preparing or holding something.
+2. **Location**: Indoor, likely a living room or a cozy corner of a home.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Sofa, lamp, exercise equipment, smartphone, person in casual attire.
+5. **Scene Type**: Everyday life moment.
+
+**Scene 26** [0:01:00]:
+  - Activity: A person is washing an onion under running water.
+  - Location: Indoor kitchen.
+  - Mood: Calm and routine.
+  - Scene Type: Routine activity.
+  - Full Analysis: 1. **Activity**: A person is washing an onion under running water.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Onion, running water, kitchen sink, soap dispenser, person wearing a watch.
+5. **Scene Type**: Routine activity.
+
+**Scene 27** [0:01:15]:
+  - Activity: A cooking process is underway, possibly involving the use of a kitchen appliance.
+  - Location: Indoor, in a kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: A cooking process is underway, possibly involving the use of a kitchen appliance.
+2. **Location**: Indoor, in a kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Kitchen appliance (possibly a blender or food processor)
+   - Induction cooktop
+   - Hexagonal tile backsplash
+   - Dim lighting
+5. **Scene Type**: Cooking preparation.
+
+**Scene 28** [0:01:22]:
+  - Activity: Sliced onions are being stirred in a pot, likely for cooking.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: Sliced onions are being stirred in a pot, likely for cooking.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Pot, sliced onions, stirring utensil, stovetop.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 29** [0:01:26]:
+  - Activity: A person is preparing food, specifically peeling or cutting carrots.
+  - Location: Indoor kitchen.
+  - Mood: Calm and domestic.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: A person is preparing food, specifically peeling or cutting carrots.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Carrots, cutting board, sink, soap dispenser, person wearing a watch.
+5. **Scene Type**: Food preparation.
+
+**Scene 30** [0:01:36]:
+  - Activity: A person is writing in a notebook while holding a plush toy.
+  - Location: Indoor, likely a study or personal workspace.
+  - Mood: Calm and focused.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is writing in a notebook while holding a plush toy.
+2. **Location**: Indoor, likely a study or personal workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Notebook, pen, plush toy, smartwatch, keyboard.
+5. **Scene Type**: Intimate moment.
+
+**Scene 31** [0:01:43]:
+  - Activity: A person is typing on a keyboard.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Work or study scene.
+  - Full Analysis: 1. **Activity**: A person is typing on a keyboard.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Keyboard, plush toy (Hello Kitty), desk, chair.
+5. **Scene Type**: Work or study scene.
+
+**Scene 32** [0:01:48]:
+  - Activity: Someone is adding ingredients into a cooking pot on a stove.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: Someone is adding ingredients into a cooking pot on a stove.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Cooking pot, stove, hand with a watch, cardboard container, tiled wall.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 33** [0:01:51]:
+  - Activity: Meat and onions are being mixed or cooked in a pot.
+  - Location: Indoor kitchen setting.
+  - Mood: Practical and focused.
+  - Scene Type: Cooking/food preparation.
+  - Full Analysis: 1. **Activity**: Meat and onions are being mixed or cooked in a pot.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Pot, meat, onions, mixing tool.
+5. **Scene Type**: Cooking/food preparation.
+
+**Scene 34** [0:01:53]:
+  - Activity: A person is adding sliced vegetables into a cooking appliance.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: A person is adding sliced vegetables into a cooking appliance.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Cooking appliance, plate with vegetables, person’s hands, countertop.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 35** [0:01:57]:
+  - Activity: Someone is preparing or handling food, possibly using a kitchen appliance.
+  - Location: Indoor, likely a kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Food preparation.
+  - Full Analysis: 1. **Activity**: Someone is preparing or handling food, possibly using a kitchen appliance.
+2. **Location**: Indoor, likely a kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Kitchen appliance (possibly an air fryer), person's hands, countertop, hexagonal tile backsplash.
+5. **Scene Type**: Food preparation.
+
+**Scene 36** [0:01:58]:
+  - Activity: A person is using a kitchen appliance, possibly a blender or food processor.
+  - Location: Indoor kitchen.
+  - Mood: Functional and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: A person is using a kitchen appliance, possibly a blender or food processor.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Functional and focused.
+4. **Key Elements**: Kitchen appliance, person's hand, smartwatch, stovetop, tiled backsplash.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 37** [0:01:59]:
+  - Activity: Cooking or preparing a dish in a slow cooker.
+  - Location: Indoor kitchen.
+  - Mood: Calm and domestic.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: Cooking or preparing a dish in a slow cooker.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Slow cooker, chopped vegetables, chunks of meat, stovetop, lid.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 38** [0:02:01]:
+  - Activity: Someone is preparing a stew or curry by stirring ingredients in a pot.
+  - Location: Indoor kitchen setting.
+  - Mood: Practical and focused.
+  - Scene Type: Cooking demonstration.
+  - Full Analysis: 1. **Activity**: Someone is preparing a stew or curry by stirring ingredients in a pot.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Practical and focused.
+4. **Key Elements**: Pot with stew, stovetop, stirring utensil, text overlay.
+5. **Scene Type**: Cooking demonstration.
+
+**Scene 39** [0:02:03]:
+  - Activity: A stew or soup is being cooked and stirred in a pot.
+  - Location: Indoor kitchen setting.
+  - Mood: Calm and domestic.
+  - Scene Type: Cooking/food preparation.
+  - Full Analysis: 1. **Activity**: A stew or soup is being cooked and stirred in a pot.
+2. **Location**: Indoor kitchen setting.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Pot with stew, stovetop, visible ingredients like carrots and meat, cooking utensil.
+5. **Scene Type**: Cooking/food preparation.
+
+**Scene 40** [0:02:04]:
+  - Activity: A person is lifting the lid off a pot on a stovetop.
+  - Location: Indoor kitchen.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking action.
+  - Full Analysis: 1. **Activity**: A person is lifting the lid off a pot on a stovetop.
+2. **Location**: Indoor kitchen.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Pot with a glass lid, stovetop, hand, cooking food.
+5. **Scene Type**: Cooking action.
+
+**Scene 41** [0:02:05]:
+  - Activity: A person is relaxing on a couch, reading a book.
+  - Location: Indoor, likely a living room.
+  - Mood: Calm and cozy.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is relaxing on a couch, reading a book.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Couch, book, Hello Kitty pillow, person.
+5. **Scene Type**: Intimate moment.
+
+**Scene 42** [0:02:18]:
+  - Activity: A person is relaxing and reading a book.
+  - Location: Indoor, on a couch.
+  - Mood: Calm and cozy.
+  - Scene Type: Intimate/relaxation moment.
+  - Full Analysis: 1. **Activity**: A person is relaxing and reading a book.
+2. **Location**: Indoor, on a couch.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Person holding a book, gray couch, Hello Kitty pillow, subtitles in Korean.
+5. **Scene Type**: Intimate/relaxation moment.
+
+**Scene 43** [0:02:19]:
+  - Activity: A person is preparing to use a blender.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing to use a blender.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Blender, countertop, lamp, books, cushions.
+5. **Scene Type**: Everyday activity.
+
+**Scene 44** [0:02:20]:
+  - Activity: A person is preparing or using a blender.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and domestic.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing or using a blender.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Blender, countertop, person, lamp, chair.
+5. **Scene Type**: Everyday activity.
+
+**Scene 45** [0:02:24]:
+  - Activity: A person is preparing coffee using a coffee machine.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and routine.
+  - Scene Type: Routine activity.
+  - Full Analysis: 1. **Activity**: A person is preparing coffee using a coffee machine.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Coffee machine, countertop, person, text overlay ("Day 2"), subtitles in Korean.
+5. **Scene Type**: Routine activity.
+
+**Scene 46** [0:02:25]:
+  - Activity: A person is preparing coffee using a coffee machine.
+  - Location: Indoor, likely a kitchen or a similar setting.
+  - Mood: Calm and routine.
+  - Scene Type: Everyday routine.
+  - Full Analysis: 1. **Activity**: A person is preparing coffee using a coffee machine.
+2. **Location**: Indoor, likely a kitchen or a similar setting.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Coffee machine, glass cup, person in casual attire, countertop.
+5. **Scene Type**: Everyday routine.
+
+**Scene 47** [0:02:42]:
+  - Activity: A person is preparing or serving a drink, possibly coffee.
+  - Location: Indoor, likely a kitchen or living area.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing or serving a drink, possibly coffee.
+2. **Location**: Indoor, likely a kitchen or living area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass of coffee, countertop, lamp, person.
+5. **Scene Type**: Everyday activity.
+
+**Scene 48** [0:02:43]:
+  - Activity: A person is preparing or serving a drink, possibly coffee.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing or serving a drink, possibly coffee.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Glass of coffee, person in casual attire, countertop, water bottle.
+5. **Scene Type**: Everyday activity.
+
+**Scene 49** [0:02:44]:
+  - Activity: A person is pouring a dark liquid, possibly coffee, from a bottle into a glass.
+  - Location: Indoor, likely a kitchen or living area.
+  - Mood: Calm and relaxed.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is pouring a dark liquid, possibly coffee, from a bottle into a glass.
+2. **Location**: Indoor, likely a kitchen or living area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Bottle, glass, table, lamp, computer chair.
+5. **Scene Type**: Everyday activity.
+
+**Scene 50** [0:02:48]:
+  - Activity: A person is holding and possibly opening or closing a white bottle.
+  - Location: Indoor, likely a kitchen or living area.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly opening or closing a white bottle.
+2. **Location**: Indoor, likely a kitchen or living area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: White bottle, person in a pink top, countertop, lamp, and a chair.
+5. **Scene Type**: Everyday activity.
+
+**Scene 51** [0:02:51]:
+  - Activity: The scene appears to be a still moment with no visible activity occurring.
+  - Location: Indoor, likely a living room or office space.
+  - Mood: Calm and quiet.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to be a still moment with no visible activity occurring.
+2. **Location**: Indoor, likely a living room or office space.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Red book on a table
+   - Marble-patterned wall
+   - Green couch
+   - White lamp
+   - Door in the background
+5. **Scene Type**: Establishing shot.
+
+**Scene 52** [0:02:53]:
+  - Activity: Someone is placing or removing a backpack from a table.
+  - Location: Indoor, likely a study or office space.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is placing or removing a backpack from a table.
+2. **Location**: Indoor, likely a study or office space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Backpack, table, book, lamp, chair.
+5. **Scene Type**: Transition.
+
+**Scene 53** [0:02:54]:
+  - Activity: A person is standing or walking, with a focus on their feet.
+  - Location: Indoor, likely inside a train or subway car.
+  - Mood: Neutral and mundane.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is standing or walking, with a focus on their feet.
+2. **Location**: Indoor, likely inside a train or subway car.
+3. **Mood**: Neutral and mundane.
+4. **Key Elements**: Sneakers, socks, metallic floor, textured wall.
+5. **Scene Type**: Transition.
+
+**Scene 54** [0:02:55]:
+  - Activity: A person is walking, possibly in a transit area.
+  - Location: Indoor, likely in a subway or train station.
+  - Mood: Calm and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking, possibly in a transit area.
+2. **Location**: Indoor, likely in a subway or train station.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Sneakers, tiled floor, metal wall, Korean text overlay.
+5. **Scene Type**: Transition.
+
+**Scene 55** [0:02:56]:
+  - Activity: Someone is holding and possibly reading a book.
+  - Location: Indoor, likely in a public transportation setting like a subway or train.
+  - Mood: Calm and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is holding and possibly reading a book.
+2. **Location**: Indoor, likely in a public transportation setting like a subway or train.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Hand holding a book, text on the book, metallic background, Korean subtitle.
+5. **Scene Type**: Transition.
+
+**Scene 56** [0:02:57]:
+  - Activity: A person is holding and possibly reading a book while walking.
+  - Location: Indoor, likely in a hallway or corridor.
+  - Mood: Calm and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly reading a book while walking.
+2. **Location**: Indoor, likely in a hallway or corridor.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, hand holding the book, watch on the wrist, floor.
+5. **Scene Type**: Transition.
+
+**Scene 57** [0:02:58]:
+  - Activity: A person is holding and flipping through a book.
+  - Location: Indoor, possibly in a hallway or near an entrance.
+  - Mood: Casual and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is holding and flipping through a book.
+2. **Location**: Indoor, possibly in a hallway or near an entrance.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Open book, backpack, person’s hand, text overlay in Korean.
+5. **Scene Type**: Transition.
+
+**Scene 58** [0:02:59]:
+  - Activity: Someone is holding an open book, possibly reading or showing it.
+  - Location: Indoor, likely in a hallway or near an entrance.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or informational.
+  - Full Analysis: 1. **Activity**: Someone is holding an open book, possibly reading or showing it.
+2. **Location**: Indoor, likely in a hallway or near an entrance.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book with text, backpack, person holding the book, door or window in the background, Korean subtitles.
+5. **Scene Type**: Dialogue or informational.
+
+**Scene 59** [0:03:02]:
+  - Activity: A person is using an ice maker to fill a cup.
+  - Location: Indoor, likely a kitchen or break room.
+  - Mood: Calm and routine.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is using an ice maker to fill a cup.
+2. **Location**: Indoor, likely a kitchen or break room.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Ice maker, hand, cup, countertop.
+5. **Scene Type**: Everyday activity.
+
+**Scene 60** [0:03:06]:
+  - Activity: A person is sitting at a desk, possibly preparing to eat or drink something.
+  - Location: Indoor office or workspace setting.
+  - Mood: Calm and focused.
+  - Scene Type: Casual interaction or routine task.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly preparing to eat or drink something.
+2. **Location**: Indoor office or workspace setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: White bottle, keyboard, striped package, person in a sweater.
+5. **Scene Type**: Casual interaction or routine task.
+
+**Scene 61** [0:03:07]:
+  - Activity: A person is sitting at a desk, possibly preparing to eat or drink.
+  - Location: Indoor, likely an office or study area.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue or casual interaction.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly preparing to eat or drink.
+2. **Location**: Indoor, likely an office or study area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Water bottle, keyboard, person in a sweater, text overlay.
+5. **Scene Type**: Dialogue or casual interaction.
+
+**Scene 62** [0:03:08]:
+  - Activity: A person is unwrapping or handling an item, possibly a snack or a device.
+  - Location: Indoor, likely an office or a workspace.
+  - Mood: Calm and focused.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is unwrapping or handling an item, possibly a snack or a device.
+2. **Location**: Indoor, likely an office or a workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Keyboard, water bottle, person’s hands, item being unwrapped, text overlay.
+5. **Scene Type**: Everyday activity.
+
+**Scene 63** [0:03:10]:
+  - Activity: A person is watching a video review about protein bars on a screen.
+  - Location: Indoor, likely in an office or home setting.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Informational.
+  - Full Analysis: 1. **Activity**: A person is watching a video review about protein bars on a screen.
+2. **Location**: Indoor, likely in an office or home setting.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Computer screen displaying a video, a person partially visible, a water bottle, a table.
+5. **Scene Type**: Dialogue/Informational.
+
+**Scene 64** [0:03:14]:
+  - Activity: A person is sitting at a desk, possibly working or taking a break.
+  - Location: Indoor office or workspace.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue or work-related scene.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly working or taking a break.
+2. **Location**: Indoor office or workspace.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Keyboard, white bottle, person in a sweater, smartwatch, desk.
+5. **Scene Type**: Dialogue or work-related scene.
+
+**Scene 65** [0:03:20]:
+  - Activity: A person is eating or preparing to eat a meal.
+  - Location: Indoor, likely an office or a break room.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual dining moment.
+  - Full Analysis: 1. **Activity**: A person is eating or preparing to eat a meal.
+2. **Location**: Indoor, likely an office or a break room.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Food container, person in a sweater, digital watch, text overlay with time, subtitles in Korean.
+5. **Scene Type**: Casual dining moment.
+
+**Scene 66** [0:03:28]:
+  - Activity: A person is eating a meal using chopsticks.
+  - Location: Indoor, likely an office or conference room.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual dining.
+  - Full Analysis: 1. **Activity**: A person is eating a meal using chopsticks.
+2. **Location**: Indoor, likely an office or conference room.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Bento box, chopsticks, office chair, sweater.
+5. **Scene Type**: Casual dining.
+
+**Scene 67** [0:03:33]:
+  - Activity: A person is eating a meal using chopsticks.
+  - Location: Indoor, likely an office or meeting room.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual dining moment.
+  - Full Analysis: 1. **Activity**: A person is eating a meal using chopsticks.
+2. **Location**: Indoor, likely an office or meeting room.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Chopsticks, food containers, a person in a sweater, office chair.
+5. **Scene Type**: Casual dining moment.
+
+**Scene 68** [0:03:36]:
+  - Activity: A person is writing in a notebook.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Calm and focused.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is writing in a notebook.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Notebook, pen, hand with painted nails, text overlay showing "AM 11:30".
+5. **Scene Type**: Close-up.
+
+**Scene 69** [0:03:40]:
+  - Activity: A person is standing on a sidewalk, possibly preparing to walk or observing their surroundings.
+  - Location: Outdoor, on a city street or sidewalk.
+  - Mood: Calm and observational.
+  - Scene Type: Transition or establishing shot.
+  - Full Analysis: 1. **Activity**: A person is standing on a sidewalk, possibly preparing to walk or observing their surroundings.
+2. **Location**: Outdoor, on a city street or sidewalk.
+3. **Mood**: Calm and observational.
+4. **Key Elements**: 
+   - White sneakers
+   - Sidewalk and curb
+   - Street drain
+   - Yellow leaves or small fruits
+5. **Scene Type**: Transition or establishing shot.
+
+**Scene 70** [0:03:41]:
+  - Activity: A person is standing on a sidewalk, possibly preparing to leave or start walking.
+  - Location: Outdoor, on a city street sidewalk.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is standing on a sidewalk, possibly preparing to leave or start walking.
+2. **Location**: Outdoor, on a city street sidewalk.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Sneakers, sidewalk, street curb, storm drain, yellow leaves.
+5. **Scene Type**: Transition.
+
+**Scene 71** [0:03:42]:
+  - Activity: A person is standing on a sidewalk, possibly preparing to leave or start walking.
+  - Location: Outdoor, on a city street sidewalk.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is standing on a sidewalk, possibly preparing to leave or start walking.
+2. **Location**: Outdoor, on a city street sidewalk.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Sneakers, sidewalk, street drain, yellow leaves, text overlay ("PM 5:00").
+5. **Scene Type**: Transition.
+
+**Scene 72** [0:03:43]:
+  - Activity: A person is standing on a sidewalk, possibly preparing to walk.
+  - Location: Outdoor, on a city street or sidewalk.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is standing on a sidewalk, possibly preparing to walk.
+2. **Location**: Outdoor, on a city street or sidewalk.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Sneakers, sidewalk, street drain, yellow leaves, text overlay ("PM 5:00").
+5. **Scene Type**: Transition.
+
+**Scene 73** [0:03:44]:
+  - Activity: A person is standing on a sidewalk, possibly preparing to step off the curb.
+  - Location: Outdoor, on a city street sidewalk.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is standing on a sidewalk, possibly preparing to step off the curb.
+2. **Location**: Outdoor, on a city street sidewalk.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Sneakers, sidewalk, curb, street drain, yellow leaves.
+5. **Scene Type**: Transition.
+
+**Scene 74** [0:03:45]:
+  - Activity: A person is writing or drawing in a notebook.
+  - Location: Indoor, likely a desk or workspace.
+  - Mood: Calm and focused.
+  - Scene Type: "Study/work session"
+  - Full Analysis: 1. **Activity**: A person is writing or drawing in a notebook.
+2. **Location**: Indoor, likely a desk or workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Notebook, keyboard, pen, vertical mouse, smartphone stand.
+5. **Scene Type**: "Study/work session"
+
+**Scene 75** [0:04:01]:
+  - Activity: A person is sitting at a desk, possibly watching or browsing content on a computer screen.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or browsing.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly watching or browsing content on a computer screen.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Computer monitor, office chair, desk, curtain, lamp.
+5. **Scene Type**: Dialogue or browsing.
+
+**Scene 76** [0:04:22]:
+  - Activity: A person is sitting at a desk, possibly watching videos or studying on a computer.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Study/work scene.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly watching videos or studying on a computer.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Computer monitor, office chair, desk, curtain, desk lamp.
+5. **Scene Type**: Study/work scene.
+
+**Scene 77** [0:04:23]:
+  - Activity: A person is typing on a keyboard.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Focused and productive.
+  - Scene Type: Work/study session.
+  - Full Analysis: 1. **Activity**: A person is typing on a keyboard.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Focused and productive.
+4. **Key Elements**: Keyboard, person's hands, plush toy with a red bow, text "Day3".
+5. **Scene Type**: Work/study session.
+
+**Scene 78** [0:04:31]:
+  - Activity: A person is typing on a keyboard.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Focused and calm.
+  - Scene Type: Work or study scene.
+  - Full Analysis: 1. **Activity**: A person is typing on a keyboard.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Keyboard, person's hands, plush toy with a red bow, desk.
+5. **Scene Type**: Work or study scene.
+
+**Scene 79** [0:04:41]:
+  - Activity: A person is closing a book.
+  - Location: Indoor, likely a desk or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is closing a book.
+2. **Location**: Indoor, likely a desk or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book titled "CHANGEABLE", person's hands, keyboard, red object.
+5. **Scene Type**: Transition.
+
+**Scene 80** [0:04:42]:
+  - Activity: A person is flipping through the pages of a book.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Calm and focused.
+  - Scene Type: "Reading/Study moment"
+  - Full Analysis: 1. **Activity**: A person is flipping through the pages of a book.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book, hands, keyboard, red object, Korean text subtitles.
+5. **Scene Type**: "Reading/Study moment"
+
+**Scene 81** [0:04:53]:
+  - Activity: A person is reading a book and taking notes.
+  - Location: Indoor, likely at a desk or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Study or work-focused closeup.
+  - Full Analysis: 1. **Activity**: A person is reading a book and taking notes.
+2. **Location**: Indoor, likely at a desk or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, person's hands, pen, keyboard.
+5. **Scene Type**: Study or work-focused closeup.
+
+**Scene 82** [0:05:02]:
+  - Activity: A person is placing or retrieving a green container from a table.
+  - Location: Indoor setting, possibly a study or lounge area.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is placing or retrieving a green container from a table.
+2. **Location**: Indoor setting, possibly a study or lounge area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Black backpack, green container, headphones, book.
+5. **Scene Type**: Transition.
+
+**Scene 83** [0:05:06]:
+  - Activity: A person is writing in a notebook with a pink pen.
+  - Location: Indoor office setting.
+  - Mood: Calm and focused.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is writing in a notebook with a pink pen.
+2. **Location**: Indoor office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Notebook, pink pen, office desk, person in a pink shirt.
+5. **Scene Type**: Everyday activity.
+
+**Scene 84** [0:05:12]:
+  - Activity: Someone is carrying a plastic bag containing food items.
+  - Location: Indoor, likely in a kitchen or dining area.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: Someone is carrying a plastic bag containing food items.
+2. **Location**: Indoor, likely in a kitchen or dining area.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Hand holding a plastic bag, food containers, floor surface.
+5. **Scene Type**: Transition.
+
+**Scene 85** [0:05:16]:
+  - Activity: A person is preparing to eat a meal using chopsticks and a spoon.
+  - Location: Indoor, likely an office or workspace.
+  - Mood: Casual and relaxed.
+  - Scene Type: Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is preparing to eat a meal using chopsticks and a spoon.
+2. **Location**: Indoor, likely an office or workspace.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Chopsticks, spoon, food container, potted plant, smartwatch.
+5. **Scene Type**: Everyday activity.
+
+**Scene 86** [0:05:21]:
+  - Activity: A person is eating a meal, possibly a poke bowl.
+  - Location: Indoor, likely an office or workspace.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual dining moment.
+  - Full Analysis: 1. **Activity**: A person is eating a meal, possibly a poke bowl.
+2. **Location**: Indoor, likely an office or workspace.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Bowl of food, small sauce containers, smartwatch, potted plant, office chair.
+5. **Scene Type**: Casual dining moment.
+
+**Scene 87** [0:05:26]:
+  - Activity: A person is reading a book.
+  - Location: Indoor, likely a study or library setting.
+  - Mood: Calm and focused.
+  - Scene Type: Intimate/close-up.
+  - Full Analysis: 1. **Activity**: A person is reading a book.
+2. **Location**: Indoor, likely a study or library setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, person's hands, pink checkered shirt, white table.
+5. **Scene Type**: Intimate/close-up.
+
+**Scene 88** [0:05:40]:
+  - Activity: A person is walking on a sidewalk.
+  - Location: Outdoor, likely on a city street.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a sidewalk.
+2. **Location**: Outdoor, likely on a city street.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Sidewalk, sneaker, leg, timestamp "PM 5:00".
+5. **Scene Type**: Transition.
+
+**Scene 89** [0:05:41]:
+  - Activity: A person is walking on a wet pavement.
+  - Location: Outdoor, likely on a city sidewalk.
+  - Mood: Calm and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a wet pavement.
+2. **Location**: Outdoor, likely on a city sidewalk.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Wet pavement, white sneakers, time overlay ("PM 5:00"), Korean text.
+5. **Scene Type**: Transition.
+
+**Scene 90** [0:05:42]:
+  - Activity: A person is walking on a sidewalk.
+  - Location: Outdoor, on a city street or sidewalk.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a sidewalk.
+2. **Location**: Outdoor, on a city street or sidewalk.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Sidewalk, curb, person's foot, text overlay ("PM 5:00").
+5. **Scene Type**: Transition.
+
+**Scene 91** [0:05:43]:
+  - Activity: A person is walking on a sidewalk.
+  - Location: Outdoor, on a city street or sidewalk.
+  - Mood: Casual and everyday.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a sidewalk.
+2. **Location**: Outdoor, on a city street or sidewalk.
+3. **Mood**: Casual and everyday.
+4. **Key Elements**: Sidewalk tiles, a shoe, a curb, a fallen leaf, and the text "PM 5:00".
+5. **Scene Type**: Transition.
+
+**Scene 92** [0:05:44]:
+  - Activity: A person is performing Pilates exercises on a reformer machine.
+  - Location: Indoor, likely a fitness studio or gym.
+  - Mood: Focused and calm.
+  - Scene Type: Fitness/exercise.
+  - Full Analysis: 1. **Activity**: A person is performing Pilates exercises on a reformer machine.
+2. **Location**: Indoor, likely a fitness studio or gym.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Pilates reformer machine, person exercising, ceiling lights, exercise equipment.
+5. **Scene Type**: Fitness/exercise.
+
+**Scene 93** [0:05:58]:
+  - Activity: The scene shows a book placed on a bed.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and cozy.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a book placed on a bed.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: 
+   - Book titled "CHANGEABLE"
+   - Plush blanket or stuffed animal
+   - Bed
+5. **Scene Type**: Establishing shot.
+
+**Scene 94** [0:06:00]:
+  - Activity: Someone is holding a book, possibly about to read or show it.
+  - Location: Indoor, likely a bedroom or living room.
+  - Mood: Calm and casual.
+  - Scene Type: Transition or detail shot.
+  - Full Analysis: 1. **Activity**: Someone is holding a book, possibly about to read or show it.
+2. **Location**: Indoor, likely a bedroom or living room.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - A hand holding a book
+   - A blue book with text and an illustration
+   - A plush toy in the background
+   - Subtitles at the bottom
+5. **Scene Type**: Transition or detail shot.
+
+**Scene 95** [0:06:01]:
+  - Activity: Someone is holding a book while lying on a bed.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: Someone is holding a book while lying on a bed.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Blue book with text
+   - Hand holding the book
+   - Teddy bear or plush toy
+   - Bed
+   - Subtitles in Korean
+5. **Scene Type**: Intimate moment.
+
+**Scene 96** [0:06:02]:
+  - Activity: A person is reading a book while sitting in bed.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and cozy.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book while sitting in bed.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Book, large stuffed animal, bed, person.
+5. **Scene Type**: Intimate moment.
+
+**Scene 97** [0:06:16]:
+  - Activity: A person is reading a book while sitting in bed.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and cozy.
+  - Scene Type: Intimate/quiet moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book while sitting in bed.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Book, large stuffed animal, bed, person.
+5. **Scene Type**: Intimate/quiet moment.
+
+**Scene 98** [0:06:17]:
+  - Activity: The scene shows a person walking or jogging.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Energetic and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: The scene shows a person walking or jogging.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Energetic and casual.
+4. **Key Elements**: Person in athletic wear, pavement, bag, text "Day4".
+5. **Scene Type**: Transition.
+
+**Scene 99** [0:06:21]:
+  - Activity: A person is walking, possibly documenting their day.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Casual and informal.
+  - Scene Type: Transition or vlog-style documentation.
+  - Full Analysis: 1. **Activity**: A person is walking, possibly documenting their day.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Casual and informal.
+4. **Key Elements**: Person in black outfit, tote bag, text "Day4".
+5. **Scene Type**: Transition or vlog-style documentation.
+
+**Scene 100** [0:06:22]:
+  - Activity: A person is exercising on a stair climber machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Fitness/exercise.
+  - Full Analysis: 1. **Activity**: A person is exercising on a stair climber machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Stair climber machine, person in athletic wear, gym equipment, motivational signage.
+5. **Scene Type**: Fitness/exercise.
+
+**Scene 101** [0:06:43]:
+  - Activity: A person is typing on a keyboard.
+  - Location: Indoor, likely an office or workspace.
+  - Mood: Focused and calm.
+  - Scene Type: Work-related activity.
+  - Full Analysis: 1. **Activity**: A person is typing on a keyboard.
+2. **Location**: Indoor, likely an office or workspace.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Keyboard, person's hands, computer mouse, snack wrapper.
+5. **Scene Type**: Work-related activity.
+
+**Scene 102** [0:06:48]:
+  - Activity: A person is eating from a bowl with a fork.
+  - Location: Indoor, likely an office or workspace.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday moment.
+  - Full Analysis: 1. **Activity**: A person is eating from a bowl with a fork.
+2. **Location**: Indoor, likely an office or workspace.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Bowl of food, fork, potted plant, window blinds, text overlay showing time.
+5. **Scene Type**: Everyday moment.
+
+**Scene 103** [0:06:52]:
+  - Activity: A person is reading a book.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Calm and focused.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, person's hand, text in Korean, page number 132.
+5. **Scene Type**: Intimate moment.
+
+**Scene 104** [0:06:55]:
+  - Activity: A person is walking on a wet surface.
+  - Location: Outdoor, likely on a sidewalk or street.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a wet surface.
+2. **Location**: Outdoor, likely on a sidewalk or street.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Wet pavement, white sneaker, timestamp "PM 5:00".
+5. **Scene Type**: Transition.
+
+**Scene 105** [0:06:57]:
+  - Activity: A person is walking along a road.
+  - Location: Outdoor, on a street or road.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking along a road.
+2. **Location**: Outdoor, on a street or road.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: Foot in a sneaker, yellow road line, asphalt surface, text overlay ("PM 5:00").
+5. **Scene Type**: Transition.
+
+**Scene 106** [0:06:58]:
+  - Activity: A person is walking on a road or path.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Casual and routine.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a road or path.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Casual and routine.
+4. **Key Elements**: White sneaker, yellow line, asphalt surface, text "PM 5:00".
+5. **Scene Type**: Transition.
+
+**Scene 107** [0:06:59]:
+  - Activity: A person is writing in a notebook.
+  - Location: Indoor, likely a study or office space.
+  - Mood: Calm and focused.
+  - Scene Type: Study/work scene.
+  - Full Analysis: 1. **Activity**: A person is writing in a notebook.
+2. **Location**: Indoor, likely a study or office space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Notebook, pen, keyboard, desk, pencil case.
+5. **Scene Type**: Study/work scene.
+
+**Scene 108** [0:07:17]:
+  - Activity: A person is writing in a planner or journal.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Calm and focused.
+  - Scene Type: Close-up/detail shot.
+  - Full Analysis: 1. **Activity**: A person is writing in a planner or journal.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Planner with handwritten notes, pen, keyboard, subtitles in Korean.
+5. **Scene Type**: Close-up/detail shot.
+
+**Scene 109** [0:07:30]:
+  - Activity: A person is exercising on the floor using a foam roller.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and relaxed.
+  - Scene Type: Casual/Everyday activity.
+  - Full Analysis: 1. **Activity**: A person is exercising on the floor using a foam roller.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Foam roller, bed with white bedding, bedside table, person in pajamas.
+5. **Scene Type**: Casual/Everyday activity.
+
+**Scene 110** [0:07:42]:
+  - Activity: A person appears to be stretching or exercising on the floor.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person appears to be stretching or exercising on the floor.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Bed with white bedding, bedside table with items, person on the floor, foam roller.
+5. **Scene Type**: Intimate moment.
+
+**Scene 111** [0:07:43]:
+  - Activity: A person is cracking an egg into a baking dish.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Calm and focused.
+  - Scene Type: Cooking preparation.
+  - Full Analysis: 1. **Activity**: A person is cracking an egg into a baking dish.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Hands, egg, baking dish, countertop, lamp.
+5. **Scene Type**: Cooking preparation.
+
+**Scene 112** [0:07:47]:
+  - Activity: The scene appears to be a quiet moment in a home or office setting.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Calm and serene.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to be a quiet moment in a home or office setting.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Computer monitor, desk chair, lamp, curtains, and a plant.
+5. **Scene Type**: Establishing shot.
+
+**Scene 113** [0:07:48]:
+  - Activity: A person is reading a book at a desk.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is reading a book at a desk.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book, computer monitor, keyboard, timer, glass of green drink.
+5. **Scene Type**: Study session.
+
+**Scene 114** [0:07:52]:
+  - Activity: A person is reading a book.
+  - Location: Indoor, likely a study or home office.
+  - Mood: Calm and focused.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book.
+2. **Location**: Indoor, likely a study or home office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book, hands, keyboard, timer, book stand.
+5. **Scene Type**: Intimate moment.
+
+**Scene 115** [0:08:04]:
+  - Activity: A person is reading a book placed on a stand.
+  - Location: Indoor, likely a study or office space.
+  - Mood: Calm and focused.
+  - Scene Type: Study/work scene.
+  - Full Analysis: 1. **Activity**: A person is reading a book placed on a stand.
+2. **Location**: Indoor, likely a study or office space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book on a stand, hands, keyboard, timer.
+5. **Scene Type**: Study/work scene.
+
+**Scene 116** [0:08:07]:
+  - Activity: A person is reading a book placed on a stand.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Study or reading scene.
+  - Full Analysis: 1. **Activity**: A person is reading a book placed on a stand.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, book stand, keyboard, timer, glass of drink.
+5. **Scene Type**: Study or reading scene.
+
+**Scene 117** [0:08:15]:
+  - Activity: A person is adjusting a book on a stand, possibly preparing to read.
+  - Location: Indoor, likely a study or home office.
+  - Mood: Calm and focused.
+  - Scene Type: Study/reading setup.
+  - Full Analysis: 1. **Activity**: A person is adjusting a book on a stand, possibly preparing to read.
+2. **Location**: Indoor, likely a study or home office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book on a stand, keyboard, timer, hands adjusting the book.
+5. **Scene Type**: Study/reading setup.
+
+**Scene 118** [0:08:21]:
+  - Activity: A person is reading a book and taking notes.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Study or work session.
+  - Full Analysis: 1. **Activity**: A person is reading a book and taking notes.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Book on a stand, keyboard, timer, glass of tea.
+5. **Scene Type**: Study or work session.
+
+**Scene 119** [0:08:26]:
+  - Activity: A person is walking on a paved surface.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Calm and casual.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a paved surface.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: White sneaker, asphalt pavement, Korean text overlay.
+5. **Scene Type**: Transition.
+
+**Scene 120** [0:08:28]:
+  - Activity: A person is walking on a paved surface.
+  - Location: Outdoor, likely on a street or sidewalk.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking on a paved surface.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Paved ground, sneaker, leg, Korean text.
+5. **Scene Type**: Transition.
+
+**Scene 121** [0:08:29]:
+  - Activity: A person is using a leg press machine for exercise.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a leg press machine for exercise.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Leg press machine, person exercising, gym equipment, digital clock, motivational posters.
+5. **Scene Type**: Action.
+
+**Scene 122** [0:08:41]:
+  - Activity: A person is performing an exercise on a leg press machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Exercise demonstration.
+  - Full Analysis: 1. **Activity**: A person is performing an exercise on a leg press machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Leg press machine, athletic clothing, sneakers, gym equipment.
+5. **Scene Type**: Exercise demonstration.
+
+**Scene 123** [0:08:46]:
+  - Activity: A person is performing a weightlifting exercise, likely a deadlift.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Fitness/workout.
+  - Full Analysis: 1. **Activity**: A person is performing a weightlifting exercise, likely a deadlift.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Weightlifting equipment, barbell, weight plates, person exercising.
+5. **Scene Type**: Fitness/workout.
+
+**Scene 124** [0:09:09]:
+  - Activity: A person is using a gym machine for a workout.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a gym machine for a workout.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Gym machine, person exercising, workout attire, overhead lighting.
+5. **Scene Type**: Action.
+
+**Scene 125** [0:09:25]:
+  - Activity: Someone is reading a book at a table.
+  - Location: Indoor, likely a café.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: Someone is reading a book at a table.
+2. **Location**: Indoor, likely a café.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Open book, wooden table, text in Korean.
+5. **Scene Type**: Intimate moment.
+
+**Scene 126** [0:09:27]:
+  - Activity: A person is reading a book, with their hand resting on the page.
+  - Location: Indoor, likely in a café.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book, with their hand resting on the page.
+2. **Location**: Indoor, likely in a café.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Open book, person's hand with painted nails, wooden table, Korean text.
+5. **Scene Type**: Intimate moment.
+
+**Scene 127** [0:09:28]:
+  - Activity: A person is reading a book.
+  - Location: Indoor, likely a café or library.
+  - Mood: Calm and focused.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book.
+2. **Location**: Indoor, likely a café or library.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, wooden table, person wearing a character-themed shirt, blurred background with lights.
+5. **Scene Type**: Intimate moment.
+
+**Scene 128** [0:09:29]:
+  - Activity: A person is reading a book.
+  - Location: Indoor, likely a café.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is reading a book.
+2. **Location**: Indoor, likely a café.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Open book
+   - Table
+   - Person wearing a character-themed shirt
+   - Café interior
+   - Text overlay in Korean
+5. **Scene Type**: Intimate moment.
+
+**Scene 129** [0:09:33]:
+  - Activity: A person is typing on a laptop keyboard.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Focused and calm.
+  - Scene Type: Close-up.
+  - Full Analysis: 1. **Activity**: A person is typing on a laptop keyboard.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Laptop with a keyboard, person's hands with nail art and bandages, wooden surface, glass with liquid.
+5. **Scene Type**: Close-up.
+
+**Scene 130** [0:09:52]:
+  - Activity: A person is typing on a laptop keyboard.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Focused and casual.
+  - Scene Type: Dialogue or work-related activity.
+  - Full Analysis: 1. **Activity**: A person is typing on a laptop keyboard.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Focused and casual.
+4. **Key Elements**: Laptop, hands with bandaged fingers, glass, wooden surface.
+5. **Scene Type**: Dialogue or work-related activity.
+
+**Scene 131** [0:10:08]:
+  - Activity: A person is walking while holding a book.
+  - Location: Indoor, possibly in a hallway or corridor.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking while holding a book.
+2. **Location**: Indoor, possibly in a hallway or corridor.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Book, shadow, tiled floor, sneakers.
+5. **Scene Type**: Transition.
+
+**Scene 132** [0:10:09]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm unable to analyze or describe the content of this video frame.
+
+**Scene 133** [0:10:10]:
+  - Activity: A person is walking while holding a book.
+  - Location: Indoor setting, possibly a hallway or corridor.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition
+  - Full Analysis: 1. **Activity**: A person is walking while holding a book.
+2. **Location**: Indoor setting, possibly a hallway or corridor.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Book in hand
+   - Sneakers
+   - Tiled floor
+   - Shadow on the ground
+5. **Scene Type**: Transition
+
+**Scene 134** [0:10:11]:
+  - Activity: A person is walking while holding a book.
+  - Location: Indoor, possibly a hallway or corridor.
+  - Mood: Casual and relaxed.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is walking while holding a book.
+2. **Location**: Indoor, possibly a hallway or corridor.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Book, person's legs, tiled floor, Korean text subtitle.
+5. **Scene Type**: Transition.
+
+**Scene 135** [0:10:12]:
+  - Activity: A person is sitting on the floor, reading a book.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate/relaxation moment.
+  - Full Analysis: 1. **Activity**: A person is sitting on the floor, reading a book.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Book, bed with white bedding, nightstand, person's feet, massage roller.
+5. **Scene Type**: Intimate/relaxation moment.
+
+**Scene 136** [0:10:19]:
+  - Activity: A person is lying on the floor, using a foam roller while reading a book.
+  - Location: Indoor, likely a living room or bedroom.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is lying on the floor, using a foam roller while reading a book.
+2. **Location**: Indoor, likely a living room or bedroom.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Foam roller, open book, person in pajamas, wooden floor.
+5. **Scene Type**: Intimate moment.
+
+**Scene 137** [0:10:23]:
+  - Activity: A person is lying on the floor, possibly reading or flipping through a book.
+  - Location: Indoor, likely a home or personal space.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is lying on the floor, possibly reading or flipping through a book.
+2. **Location**: Indoor, likely a home or personal space.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Book, foam roller, person’s hands, wooden floor.
+5. **Scene Type**: Intimate moment.
+
+**Scene 138** [0:10:24]:
+  - Activity: A person is reviewing or studying a document or planner.
+  - Location: Indoor, likely a home or office setting.
+  - Mood: Calm and focused.
+  - Scene Type: Study or planning session.
+  - Full Analysis: 1. **Activity**: A person is reviewing or studying a document or planner.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open planner or book, pen, person in striped shirt, curtain.
+5. **Scene Type**: Study or planning session.
+
+**Scene 139** [0:10:31]:
+  - Activity: A person is studying or reviewing material in a notebook.
+  - Location: Indoor, likely a study room or office.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reviewing material in a notebook.
+2. **Location**: Indoor, likely a study room or office.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Notebook, pen, person's hands, striped shirt, text overlay.
+5. **Scene Type**: Study session.
+
+**Scene 140** [0:10:42]:
+  - Activity: A person is reading a book.
+  - Location: Indoor, likely on public transportation.
+  - Mood: Calm and focused.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is reading a book.
+2. **Location**: Indoor, likely on public transportation.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Open book, hand with nail art, text overlay showing time "AM 7:30", Korean text.
+5. **Scene Type**: Transition.
+
+**Scene 141** [0:10:47]:
+  - Activity: The scene appears to be a still moment, possibly indicating a transition or pause in the video.
+  - Location: Indoor setting, likely in a building hallway or entrance area.
+  - Mood: Neutral and calm, with no visible activity or people.
+  - Scene Type: Transition or establishing shot.
+  - Full Analysis: 1. **Activity**: The scene appears to be a still moment, possibly indicating a transition or pause in the video.
+2. **Location**: Indoor setting, likely in a building hallway or entrance area.
+3. **Mood**: Neutral and calm, with no visible activity or people.
+4. **Key Elements**: 
+   - Brick wall
+   - Concrete floor with tactile paving
+   - Metal railings
+   - Time display ("PM 6:00")
+5. **Scene Type**: Transition or establishing shot.
+
+**Scene 142** [0:10:49]:
+  - Activity: The scene shows someone descending a staircase.
+  - Location: Indoor, likely in a public or commercial building.
+  - Mood: Calm and routine.
+  - Scene Type: Transition
+  - Full Analysis: 1. **Activity**: The scene shows someone descending a staircase.
+2. **Location**: Indoor, likely in a public or commercial building.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: 
+   - Staircase with yellow safety markings
+   - Brick wall
+   - Metal handrails
+   - Time display ("PM 6:00")
+   - Korean subtitles
+5. **Scene Type**: Transition
+
+**Scene 143** [0:10:50]:
+  - Activity: The scene shows a view of a corridor or hallway.
+  - Location: Indoor, likely in a building or transit area.
+  - Mood: Neutral and functional.
+  - Scene Type: Establishing shot.
+  - Full Analysis: 1. **Activity**: The scene shows a view of a corridor or hallway.
+2. **Location**: Indoor, likely in a building or transit area.
+3. **Mood**: Neutral and functional.
+4. **Key Elements**: Brick wall, metal handrails, tactile paving, doors, timestamp "PM 6:00".
+5. **Scene Type**: Establishing shot.
+
+**Scene 144** [0:10:52]:
+  - Activity: Someone is adjusting the weight on a gym machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and determined.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: Someone is adjusting the weight on a gym machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Weight stack, adjustment pin, gym equipment, text in Korean.
+5. **Scene Type**: Action.
+
+**Scene 145** [0:10:53]:
+  - Activity: The scene shows a close-up of a weight stack on a gym machine, possibly being adjusted or used.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and utilitarian.
+  - Scene Type: Equipment closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a weight stack on a gym machine, possibly being adjusted or used.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and utilitarian.
+4. **Key Elements**: Weight stack with labeled plates, adjustment pin, metal rods, and a cable.
+5. **Scene Type**: Equipment closeup.
+
+**Scene 146** [0:10:55]:
+  - Activity: Adjusting weights on a gym machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and determined.
+  - Scene Type: Fitness/exercise setup.
+  - Full Analysis: 1. **Activity**: Adjusting weights on a gym machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and determined.
+4. **Key Elements**: Weight stack, adjustment pin, gym equipment, flooring with speckled pattern.
+5. **Scene Type**: Fitness/exercise setup.
+
+**Scene 147** [0:10:56]:
+  - Activity: A person is using a gym machine for exercise.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is using a gym machine for exercise.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Exercise machine, person exercising, gym equipment, mirrors, athletic shoes.
+5. **Scene Type**: Action.
+
+**Scene 148** [0:11:03]:
+  - Activity: A person is exercising using a seated row machine.
+  - Location: Indoor gym or fitness center.
+  - Mood: Focused and energetic.
+  - Scene Type: Action.
+  - Full Analysis: 1. **Activity**: A person is exercising using a seated row machine.
+2. **Location**: Indoor gym or fitness center.
+3. **Mood**: Focused and energetic.
+4. **Key Elements**: Seated row machine, person wearing headphones, gym equipment, mirrored wall, overhead lighting.
+5. **Scene Type**: Action.
+
+**Scene 149** [0:11:06]:
+  - Activity: A person is exercising on a gym machine.
+  - Location: Indoor gym.
+  - Mood: Focused and calm.
+  - Scene Type: Exercise/training.
+  - Full Analysis: 1. **Activity**: A person is exercising on a gym machine.
+2. **Location**: Indoor gym.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Exercise machine, person with headphones, towel, modern ceiling lights.
+5. **Scene Type**: Exercise/training.
+
+**Scene 150** [0:11:10]:
+  - Activity: A person is lying on a bed, reading a book.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and relaxed.
+  - Scene Type: Intimate/relaxation moment.
+  - Full Analysis: 1. **Activity**: A person is lying on a bed, reading a book.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Person, book, bed, pillow, patterned shorts.
+5. **Scene Type**: Intimate/relaxation moment.
+
+**Scene 151** [0:11:19]:
+  - Activity: A person is lying in bed, holding a phone, possibly reading or watching something.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Relaxed and cozy.
+  - Scene Type: Intimate/relaxation moment.
+  - Full Analysis: 1. **Activity**: A person is lying in bed, holding a phone, possibly reading or watching something.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Relaxed and cozy.
+4. **Key Elements**: 
+   - Person lying on a bed
+   - Large teddy bear
+   - Phone
+   - Pillow
+   - Pajamas with a playful pattern
+5. **Scene Type**: Intimate/relaxation moment.
+
+**Scene 152** [0:11:26]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm unable to analyze the video frame as it appears too dark to discern any details. If you can adjust the brightness or provide a clearer image, I can help further.
+
+**Scene 153** [0:11:27]:
+  - Activity: A person is typing on a keyboard, possibly concluding a video or task.
+  - Location: Indoor, likely a home office or personal workspace.
+  - Mood: Calm and focused.
+  - Scene Type: Conclusion.
+  - Full Analysis: 1. **Activity**: A person is typing on a keyboard, possibly concluding a video or task.
+2. **Location**: Indoor, likely a home office or personal workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Keyboard, person's hands, plush toy with a red bow, text overlay saying "Thank you."
+5. **Scene Type**: Conclusion.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 드디어 | 안� someplace | ья | 쪽 꼬집 | 데코닗 | 이거 더 그냥 일반 electrocision | 이렇게 엄마 준비한 archetype
+
+### Segment 2 (01:00)
+- Brightness: Dark
+- Energy: Low
+- Speech: 동겨서 | 자꾸 엄마! | 다같이 | 오늘 | 먹기 잘 crude | 오늘은 | shop | 신봉
+
+### Segment 3 (02:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: abet에 | 해주고, | 잠시 | 끝! | 세 번째 | 이번엔 | 다음 결정
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이 턴에서 검색해서 그대로 나한테 선저볼래?
+
+### Segment 5 (04:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 네 알겠습니다. 그럼 오피개서 자주 나오는 질문을 제가 인터넷에서 참고해서 | 격식을 갖춤 2미다 형태로 한번 들어보겠습니다. | 질문 드리겠습니다. 예를 들어 당신의 일상적인 하루 읽어야 돼 설명해 주시겠습니까? | 이런 식으로 질문을 드리면 될 것 같습니다.
+
+### Segment 6 (05:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이번에는 | 손�ный 양��부 couldn't do well win | 썸뻘�네 | 그래서 숨 much | 턱 Peglu | ass
+
+### Segment 7 (06:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: Oh | no no no breeze | 줄극 | 귀 chee | 그게 | 똑같은 달걀에 | 나다 kot clinic | 지금
+
+### Segment 8 (07:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 간식집 | 엉 melod | go | Did you these days when you don't get agricolon? | 뭘 가지? | mad lo queaya | 이말 technology | distracted
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 경우도 | filmed
+
+### Segment 10 (09:00)
+- Brightness: Medium
+- Energy: Low
+
+### Segment 11 (10:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 아주ée가 | аг괴 | 47% | Darwin
+
+### Segment 12 (11:00)
+- Brightness: Dark
+- Energy: Low
+
+### Segment 13 (12:00)
+- Brightness: Very Dark
+- Energy: Low
+
+(Total 13 segments)
+
+## Full Transcript
+드디어 안� someplaceья 쪽 꼬집 데코닗 이거 더 그냥 일반 electrocision 이렇게 엄마 준비한 archetype 동겨서 자꾸 엄마! 다같이 오늘 먹기 잘 crude 오늘은 shop 신봉abet에 해주고, 잠시 끝! 세 번째 이번엔 다음 결정 이 턴에서 검색해서 그대로 나한테 선저볼래? 네 알겠습니다. 그럼 오피개서 자주 나오는 질문을 제가 인터넷에서 참고해서 격식을 갖춤 2미다 형태로 한번 들어보겠습니다. 질문 드리겠습니다. 예를 들어 당신의 일상적인 하루 읽어야 돼 설명해 주시겠습니까? 이런 식으로 질문을 드리면 될 것 같습니다. 이번에는 손�ный 양��부 couldn't do well win 썸뻘�네 그래서 숨 much 턱 Peglu ass Oh no no no breeze 줄극 귀 chee 그게 똑같은 달걀에 나다 kot clinic 지금 간식집 엉 melod go Did you these days when you don't get agricolon? 뭘 가지? mad lo queaya 이말 technology distracted 경우도 filmed 아주ée가аг괴 47% Darwin

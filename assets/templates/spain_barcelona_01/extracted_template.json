@@ -1,0 +1,109 @@
+{
+  "template_name": "Conversational Korean Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 90,
+      "description": "Introduction with a brief overview of the day's topic",
+      "key_elements": [
+        "greeting",
+        "overview of the day"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1170,
+      "description": "Main content with various conversational segments",
+      "segments": [
+        {
+          "type": "conversational segment",
+          "description": "Casual conversation about daily activities",
+          "typical_duration": 90
+        },
+        {
+          "type": "activity showcase",
+          "description": "Showcasing a specific activity or task",
+          "typical_duration": 120
+        },
+        {
+          "type": "personal reflection",
+          "description": "Sharing personal thoughts or reflections",
+          "typical_duration": 60
+        },
+        {
+          "type": "interaction with others",
+          "description": "Conversations or interactions with other people",
+          "typical_duration": 90
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 90,
+      "description": "Wrap-up with final thoughts and farewell",
+      "key_elements": [
+        "summary",
+        "farewell"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#8a6d5e",
+      "#cccbc9",
+      "#211818"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.8,
+    "scene_changes": 767,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and personal reflections"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional clarifications or translations"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Conversational Flow",
+      "description": "Frequent casual conversations throughout the video",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Activity Showcase",
+      "description": "Highlighting specific activities or tasks",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily life updates",
+    "Casual vlogging"
+  ]
+}

@@ -3,7 +3,6 @@ import 'config/api_config.dart';
 import 'constants/app_colors.dart';
 import 'screens/home_page.dart';
 import 'screens/user_input/user_input_page.dart';
-import 'screens/storyboard/storyboard_list_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -20,71 +19,14 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
-        scaffoldBackgroundColor: AppColors.background,
+        scaffoldBackgroundColor: AppColors.white,
         fontFamily: 'Pretendard',
       ),
       home: const HomePage(),
       routes: {
-        '/main': (context) => const MainScreen(),
         '/user-input': (context) => const UserInputPage(),
+        '/main': (context) => const HomePage(),
       },
-    );
-  }
-}
-
-class MainScreen extends StatefulWidget {
-  const MainScreen({super.key});
-
-  @override
-  State<MainScreen> createState() => _MainScreenState();
-}
-
-class _MainScreenState extends State<MainScreen> {
-  int _selectedIndex = 0;
-
-  // 각 탭의 화면들
-  static const List<Widget> _screens = [
-    StoryboardListPage(),  // 0: 스토리보드 (버튼이 있는 화면)
-    HomePage(),            // 1: 큐카드 (임시로 HomePage)
-    HomePage(),            // 2: 사용자 정보 (임시로 HomePage)
-  ];
-
-  void _onItemTapped(int index) {
-    setState(() {
-      _selectedIndex = index;
-    });
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: _screens[_selectedIndex],
-      bottomNavigationBar: BottomNavigationBar(
-        currentIndex: _selectedIndex,
-        onTap: _onItemTapped,
-        backgroundColor: AppColors.textPrimary,
-        selectedItemColor: AppColors.primary,
-        unselectedItemColor: AppColors.textSecondary,
-        type: BottomNavigationBarType.fixed,
-        selectedFontSize: 12,
-        unselectedFontSize: 11,
-        iconSize: 22,
-        elevation: 8,
-        items: const [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.view_timeline),
-            label: '스토리보드',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.style),
-            label: '큐카드',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.person),
-            label: '사용자 정보',
-          ),
-        ],
-      ),
     );
   }
 }

@@ -42,6 +42,8 @@ dependencies:
   permission_handler: ^11.0.1
   fl_chart: ^0.66.0
   google_maps_flutter: ^2.5.0
+  cached_network_image: ^3.3.1
+  intl: ^0.19.0
 
 dev_dependencies:
   flutter_test:
@@ -68,6 +70,33 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/
+    - assets/.env
+    # Template directories for script generation
+    - assets/templates/fitness_01/
+    - assets/templates/fitness_02/
+    - assets/templates/fitness_03/
+    - assets/templates/france_paris_01/
+    - assets/templates/gwaktube_tokyo_01/
+    - assets/templates/italy_rome_01/
+    - assets/templates/italy_venice_01/
+    - assets/templates/japan_hokkaido_01/
+    - assets/templates/japan_kyoto_01/
+    - assets/templates/japan_osaka_01/
+    - assets/templates/japan_tokyo_01/
+    - assets/templates/spain_barcelona_01/
+    - assets/templates/spain_madrid_01/
+    - assets/templates/study_01/
+    - assets/templates/study_02/
+    - assets/templates/study_03/
+    - assets/templates/thailand_bangkok_01/
+    - assets/templates/thailand_phuket_01/
+    - assets/templates/uk_london_01/
+    - assets/templates/usa_hawaii_01/
+    - assets/templates/usa_la_01/
+    - assets/templates/usa_sanfrancisco_01/
+    - assets/templates/work_01/
+    - assets/templates/work_02/
+    - assets/templates/work_03/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

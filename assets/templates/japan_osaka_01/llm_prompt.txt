@@ -1,0 +1,305 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:52:28
+- Resolution: 1920x1080
+- FPS: 30.0
+
+## Visual Features
+- Dominant Colors: #b5a292, #58413a, #dad5cd
+- Brightness Trend: Stable
+- Scene Changes: 1671
+- Average Shot Length: 1.9s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 707
+- Content Length: 6314 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #b5a292, #58413a, #dad5cd
+- Brightness: Stable
+- Pacing: Fast
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 무슨 Curly | 한국에 essential | 수분은 stool의 매꼬치 | 맛있다 | 리드 | 데이토 | 배고파는 아이스크림 | 아 배고파는 아이스크림 | 배고파 맛있죠?
+
+### Segment 2 (01:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 갈 수 있는 거였어 | 아니 오늘 하늘이 너무 예쁘다 | 아무� tragedia | iverse | 손을 열었건 도절의 토피매� invent Imado | My ş웅댄에 siblings | 도로로로도 된과 | � shutter | 이 fertile | 신호� Minute
+
+### Segment 3 (02:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 가려워 | 괜찮은데 | 가려워 | 여러분 죄송합니다 | 너무 예쁘죠 | 이번엔 코링코에서 새로 손으로 너무 만족 | 지금 이게 뭐하는거지? | 여기서 한 1시간 정도 | 지금 기다리고 하고 이제야 곧 나가요 | 이렇게 오래 걸린지 몰랐네
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이걸 딱딱해 | Как 힘chat | 매age unable to eat | 그냥 먹anza aerial | 이게 오랜만凹어� mattress | 고춍하고 폭발한 물 laugh | 야 fondo 으이어 | 다른 | 얼음
+
+### Segment 5 (04:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: brewery | 임 | んだ | 다닛 | 파 | �� | 다 | 다 | 다 | � synchron | 한가 Bä이� exh Old Music | 오�oda | 짠거지는 다 짠거지 | 아니 진짜 다른거지 막しそう | 저희는 | schon 이 집에서
+
+### Segment 6 (05:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 갈게 | 진짜 Belgico | 왕 device | 아, 맛있다. | 맛있다. | 맛있다. | 맛있다. | 맛있다. | 맛있다. | 맛있다. | 맛있다. | 먹어봐. | 맛있다. | 맛있다. | 맛있다. | 다 다른방인 거 중에 몇층이야? | 여기. | 아, 맛있다. | 아, 맛있다. | 아, 맛있다. | 아, 맛있다. | 아, 맛있다. | 아, 맛있다. | 우리가 봤던 거가 되게... | 좀 해. | 귀여운 주방도 있고... | 아, 진짜 얼른 갔다. | 으, 히어, 같이. | 히어, 같이.
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 히어, 빨리 와! | 아, 맛있다. | 아, 맛있다. | 맛있다. | 맛있다. | 맛있다. | 맛있다. | 며칠. | 며칠. | 며칠. | 자, 내가 이거 렌치 좀 더 먹고 싶을지. | 며칠. | 며칠. | 며칠. | 며칠. | 사사랑이랑 같이 먹징
+
+### Segment 8 (07:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: ducks | happiestDonna | 모쪄 맛있ateurs | Ż椒액zh간닭 | 어동 | 메롬맛
+
+### Segment 9 (08:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 뭐지? | 커피? | 이게 빵에 바르고 에어프라이에 구매한 | 버터 같은거 | 명란 이렇게 맛있겠는데? | 나는 이거 우유 맛이랑 | 이거 굶고구마 맛 | 이거 뭐지? | 파랄고로 이렇게 맛 | 이것도 해야겠다 | 근데 식료품 청뒤이야 | 아이고 이거 | 초코 브라운이가 텐데 이거 어떻게 한 사줄여야 돼 | 어? | 고생형이 초코 지이어트 있는거 사오래 | 아사다 사자 | 아사다 사자 | 아사다 사자 | 아사다 사자 | 아사다 사자 | 아사다 사자 | 아사다 사자 | 아사다 사자 | 이 소금 반 크기가 짱 커
+
+### Segment 10 (09:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 쳤다 근데 천사회곤 밖에 안 해 | 이거 또 맛있었다고 | 이거 또 맛있겠다 | 하나씩 고를까? | 간장 먹러 | 가디에 짜증 | 뭐래? | 제가 먼저 먹어봐요 | 와 | 맛이 뭔가 | 처음 맛에 화 안 오고 | 몇번 씹어야 | 이 버터랑 짭 맛이 같이 올라오는데 | 밥 만들었을 때 먹었으면 더 맛있을 것 같긴 한데 | 지금도 맛있어 | 그래 | 처음에 뭐 | 아 베이신 것 같은데 | 아
+
+### Segment 11 (10:00)
+- Brightness: Bright
+- Energy: Medium
+- Speech: 아 | 아 | 아 | 아 | 아 | 아 | 아 | 저거 저거 | 사랑하는 거 | 아 | 아 | 소금을 잘게 됐다 | 이번엔 더 잘해 | 짱 많아 | 저 사람 짱 많아 | 아 | 찐��도록 해
+
+### Segment 12 (11:00)
+- Brightness: Medium
+- Energy: Medium
+- Speech: 오 | trauma | ARA | 전 church 드디어 | GK 혜감
+
+### Segment 13 (12:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: ister | 앗 | 그럼 삼
+
+### Segment 14 (13:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 밥은 넣어. | 고기를 주� görüşarosom | endreится. | 소스에 넣어먹는 때 내가 이것이 göra. | �少 넣어주는거 같다. | 꼬�いく지 | 아, 진짜? | 아, 진짜? | 이거 진짜 지금 다리가 너무 미친듯이 아프고
+
+### Segment 15 (14:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 무조건 사야 돼 | 그냥 이거 6개짜리? | 2,500 | 그래 이거 사 그러면 | 이거 사야 돼 | 이거 사야 돼 | 이거 사야 돼 | 이거 사야 돼 | 이거 사야 돼 | 이거 사야 돼 | 이거 사야 돼 | 이거 사야 돼 | 이리와 | 아, 진짜? | 너무 힘들 passes | 뱀 Allied Brundle | 하루룬 댠나 봐 | 마이크 | 이거 такая | destino | 아, 맛있다. | 무슨 맛일까? | 아, 맛있다. | 와, | 콜라가 진짜 난리다리 | 소주다 소주
+
+### Segment 16 (15:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 소주 | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 너무 맛있다. | 이게 생일이 있다. | 다 넣어. | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주? | 소주도 먹어야 돼. | 소주도 Additional | 소주 소주 | 치즈노 | 흔들려면서
+
+### Segment 17 (16:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 다 barbar | 감사합니다. | 카만 운동하는ι | 비밀 | 이거봐 | 이 가스 | 이 아까라 먹어도 뭐지? | 예쁘게 | 와 진짜 빵충은 난 여기서 사이면 진짜 | 너무 행복할 것 같아 | 아 하나만 살려 | 세 번으로 오기와구요 | 아니 진짜 디저트 정국이에요 여기는 | 이게 뭐야
+
+### Segment 18 (17:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 여기 회 | buhrun | 시작 | 문제cup | 구ЗЫ organizg | 여러분들 주ateur | 군맛받수amer | 따� From the friendwind | 흥미 direction | Codyี | Gaintain
+
+### Segment 19 (18:00)
+- Brightness: Bright
+- Energy: Medium
+- Speech: MARY | 샤워 | 맨밀 안TER가pass | 나 몸 3개 업 97% | 아랑oul | ENN푸드
+
+### Segment 20 (19:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 아깝다 | 아깝다 | 아깝다 | 아깝다 | 아깝다 | 뭔가 철학 철학 | 이게 공원 느낌 예쁘다 | 우와 우와 | 갑자기 나타났다 | 오사살짝을 하잖아요
+
+### Segment 21 (20:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 오사살짝을 하잖아요 | 오사카 | 아이스크림을 | 아매이카노 아이스크림 | 오사살짝 | 오사살짝 | 오사살짝 | 오사살짝 | 아, 이거 괜찮다 | 오사살짝 | 반테리카 표른거 | 그래도 드림카피는 못 보소나 | 아, 이렇게 커피구나? | 맛있는데? | 맛있다. | 아...
+
+### Segment 22 (21:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 아, 식감 같이 먹자. | 그리고 푸딩만 먹어야겠다. | 그럼 푸딩이 맛있을 것겠죠? | 되게 진하게. | 찐에 꾸덕해. | 말랑말랑 하지 마니아나. | 아, 맛있다. | 큰 ice cream 같은 맛은 하지 않지 않나. | 그냥 꾸덕해요. 말랑말랑 하지 마니아나. | 크림 같은 맛을 하죠. | 왜 이렇게 맛나는데? | 맛있다. | 왜 이렇게 맛나? | 왜 이렇게 맛나? | 맛있다. | 아무 생각하지.
+
+### Segment 23 (22:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 여기 안심? | 너를 먹어도 돼. | 이건 진짜 미쳤다, 저기요. | 이거 돼지가 아닌데? | 이거? | 섭외 아니야? | 이렇게 부족해. | 이렇게 봐. | 응? | 안 돼. | 지금 무슨 말이야? | 말이 안 돼. | 그게 뭐야?
+
+### Segment 24 (23:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 여기. | 깨를legen 깨를 acronym? | object наверное. | 은폭아? | 김친리 | 분빼 | 두ounty 아이스크림 | 직장부터
+
+### Segment 25 (24:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 세우트ensa | 마�пис | gim | 소� intellect | 이런 familقي | ве기 | rew | 다 맛있어? | 다 맛있어? | 다 맛있어? | 그거로 생크림이야 | 생크림이 새우마? | 새우 아니야 새우야 새우 | 너무 맛있어 | 귀찮다 | 어떻게 이런 맛이?
+
+### Segment 26 (25:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 진짜 맛있어요 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 새우 | 잘 먹었습니다 | 130,000원 | 133,000원 | 서울 아닌교? | 배터리 부족 이슈로 | 칩에 갔다가 | 조합집을 가는 중입니다 | 원래 | 음에다 | 쇼시집을 가려고 했는데 | 해도 안 고프고 | 둘 다 핸드폰 배터리가 반전되가지고 | 남받으므로 와서 | 집 근처에
+
+### Segment 27 (26:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 있는 곳으로 가는 중이에요 | 음 | 음 | 음 | 일단 자리가 인지 가볼까? | 방 나오는 사람 있어 | 응 | 희러가도 | 엄마가 새엘트에 | 8개나 | 8개나 모든 초바람인가 보다 | 오 | 오 | 오 | 참치새틀다 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 시청자 집 근처 | 오 | 오
+
+### Segment 28 (27:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 오 | 한번 haveala | 드� núestro | 오버 breath | 기� molta | rito | 맛있게 드세요 | 맛있게 드세요 | 아, 사게 너무 맛있다 | 올리비가 나가서
+
+### Segment 29 (28:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이 사이 찍어 | 이거 안 넣은 떡을 넣어 | 오, 오, 오 | 오, 오 | 오, 오, 오 | 오, 오, 오 | 오, 오, 오 | 오, 오, 오 | 오, 오, 오 | With hot sauce | 已經 먹으면er | 먹으면ourd | � | Young e cat | 아, 이ati | 아 , 이grunts | 상 und | 소개ум선이 감사합니다
+
+### Segment 30 (29:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 밤이 잘 manager 입연 중 | 전면 안바람 | 해산문버리다 | asto | 만드는 defender | 这么 맛있다 | 맛있다 | 만들어가 진짜 맛있어 | 너무 또 기대되기는 | 우와 | 뜨겁게收거리는 것 같은 거
+
+### Segment 31 (30:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 씹히는 고마워요 | 이거 소스 כי | 눈에서 가장 Ballott correct | �� | 이거 일단 대박이에요 여러분. | 탄이냐 말해서 이거 꼭라해요. | 음.. 맛있는데요. | 음.. | 음.. | 또 커야지. | 대박. | 이거 먹으면 좋겠어요. | 이거 먹으면 좋겠어요. | 이거 먹으면 좋겠어요.
+
+### Segment 32 (31:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이거 먹으면 좋겠어요. | 이거 먹으면 좋겠어요. | 또 커야지. | 대박. | 맵날 전혀 이렇게 늦게 먹고 나서 불쌔 라는 생각보다 좋지 않나서 | 더행이에요. | 벌써 | 어쩌만 날이라는 | 너무 쉬운데 | 쉬운데 | 지금 내일 하고 하고 있습니다. | 이게 저었다. | 이걸 추천한데? | 뭐 근데 그 영상에서 넣은 | 완전히 킹 thế68 | podéis 또 찍어줄게요 | 물을 부어주고
+
+### Segment 33 (32:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 적용시켜 드렸어요 | 청ього도 같이 먹 meaningless | 남상 때문에 | 안녕 | statues | 이 refrigerator에опultyон 평범하는оль
+
+### Segment 34 (33:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 네ация | 너무 비어 | 볼색한 | fondue | 계란 봐 | 이번엔 | 이거 찍 לע�ier | ist
+
+### Segment 35 (34:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 오�pin을 열� lives | 프로 tablet | 오기 | 이제 준비가 되겠다는 거. | 자, 이제 준비가 되겠다고요. | 이제 준비가 되겠다고요. | 이제 준비가 되겠다고요. | 이제 준비가 되겠다고요. | 이게 파이브야.
+
+### Segment 36 (35:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 들어가자. | 이게? | 네? | 어떻게 이런 일이? | 왜 사람들은 뭔줄 기다리길까? | 뭐? | 그냥 뭐 사진색을 여기다 있는 거가? | 많이 되는 거 같아. | 이렇게 이런 일이 될 수 있어요. | 집 안경으로트 카페. | 어? 먹을 수 있는 데 있네? | 어, 여기야. | 대박. | 못참에 있어. 못참에. | 어, 여기 무화가 내 있다. | 미쳤다.
+
+### Segment 37 (36:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 무화가 많더라구요. | 너무 맛있게 생겼는데? | 아, 그래? | 그래, 그럼. | What's that? | 너무 맛있음. | 여기 직원템을��라고요.
+
+### Segment 38 (37:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 이거 봐 | 그러면 | 커포 파운데케이크 같은 | 근데 이거 많이 깔아봐 | 이거 이거 이거 | 이거 하고요 | 팬티 하면 | 크레드인거 아시죠? | 크레드 좀 빌려 | 알 수 있는거 | 음 | 크레드 좀 빌려 | 되게 많은데 | 일단 저는 우유 맛을 하나 살거고요 | 이게 무슨 맛이다 | 이거 뭔지 알아요? | 아시겠어요 | 이게 무슨 맛이다 | 이거 뭔지 알아요? | 아시겠어요
+
+### Segment 39 (38:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 멜로니 그저 유명한데 | 저는 멜로니 안 들어가야 돼요 | 저는 멜로니 그저 유명한데 | 저는 멜로니 안 들어가야 돼요 | 저는 멜로니 안 들어가야 돼요 | 그럼요 | 하나 먹어 | 신아마 | 신아마는 배고픽을 명만 살래 | 명만 | 두입컵 | 이거는 이렇게 물에다가 | 이걸 넣으면 이렇게 커피가 된게요 | 그리고 이거는 | 레몬에이드 | 원액이 날리려고도 유명한데 | 저는 차를 안 해버려 | 이것도 맛있다고 하는거에요 | 그리고 이것도 맛있다고 하는거에요 | 그리고 이거는 | 그리고 이거는 | 레몬에이드 | 원액이 날리려고도 유명한데
+
+### Segment 40 (39:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 이것도 맛있다고 하는거에요 | 그리고 이것도 맛있다고 하는거에요 | 오 | 우리 밥에 넣고 종자연이 돌리면 | 철신하는 건데 | 집에서 하는 거 해먹어볼까 | 아이씨! | 아이씨! | 아이씨! | 우유! | 우유! | 애주가 커플들의 | 쇼핑 추천! | 뭔가 엄청 많아, 맛있어 보이는게 | 와, 뭐야? | 이렇게 맛있겠다 | 아, 이거 뭐야, 통화통! | 근데 이게 17,000원? | 사다! | 아니, 이렇게 큰게 3만원은 3만원이요? | 난 한 바게 좀 돌고 올게 | 오우, 이야
+
+### Segment 41 (40:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 우리가 어제 먹었던게 뭐야, 나 그게 너무 맛있는데? | 그럼 이거 맛있을거 봐 | Magical | 엄마 아빠 선물�� 착해서 toca 할게 | clinically | 맛있게 드십시오 | 소스가 몇번째 | 받았어요 | 좋은가dish | 아니 cloıy | 하나
+
+### Segment 42 (41:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 새우 | Why | dreamed | 제일 많이 ぶrd | 오늘의 누군가가 그렇게du | 저 Andrea는 식수가 있어요 | 진짜 노른자 저ometric | 밥 repos Yea | 불른다 | 입ர sunshine | 아uw | 머리다 | ий | ?
+
+### Segment 43 (42:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 데스타바 là | 이 사람들이 | Diet국수를 당장 만들어야 달라요 | 이번에는 | 이 능 bosom growing | Honda pasa new
+
+### Segment 44 (43:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 마지막 날에 야타 씨와 본 승희야 거고 다리가 있을까요? | 술을 넣으시오니 | 술을 넣으시오니 | 술을 넣으시오니 | 마지막 날에 야타 씨와 본 승희야 거고 | 다리가 있을까요? | 술을 넣으시오니 | 술을 넣으시오니 | 술을 넣으시오니 | 편집풍자 | 간식
+
+### Segment 45 (44:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: Spanish | 떡brush | Making | 한국 아티 МУЗЫКА | 술을 넣었어야 하는다 | 밥develop이기 | 떡� reel | 배추에는 | 아빠 사 | 해�首先 | аг
+
+### Segment 46 (45:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아, 이 분이 진짜 맛있거든요? | 근데 이거를 여행 내내 못 졌다가 마지막 날 판매 찾았습니다. | 배불로 죽겠지만, 이거까지는 솔직히 먹어야 돼.
+
+### Segment 47 (46:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 이게 말차, 말차, 망고 커스타드? | 이거는 그냥 파싱인가 보다. 아초콜렛? | 아주 피는 거지. | 말차 먹지. | 빵이. | meist이. | 막� saladaten을 말차는乾 Irny. | Chang-in Nein | Deutschland 만�לים | miten decided to come to an industry ?
+
+### Segment 48 (47:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 케이크에 | speaks환 prison | 다음날 | 도움이 돼 | 매운 파� oyn��집에 왔습니다 | 11시 반오 decades인데? | 11시에 독자 Geb后였죠? | 먼저 туда | 확실히 밥먹어�ant 미친구나 | Pathetic | 아 QR | 아침에 Sodom
+
+### Segment 49 (48:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: THEm oule | ennen entendu | ех | 오 | 맛있urg | 직접 � nuestras 다 Ba handle | They sell the | Annual | Maintenant 이거 which debates are really popular
+
+### Segment 50 (49:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 맛있게 먹어봐 | 다른 다른 사실에는 become arguing.. | 말 estab하지али | 우와 대박 대박 | 맛있겠다 | 맞아 | ist | 저게 먹어? | Gaming | 여기 다 fighters | 다 thigh | 와 이거 진짜 맛있다 | 야 아 진짜 맛있다你 раз | wander erfolg은 | 현재 곳에
+
+### Segment 51 (50:00)
+- Brightness: Dark
+- Energy: Medium
+- Speech: 흑사ixa가 | Conector | 손이
+
+### Segment 52 (51:00)
+- Brightness: Very Dark
+- Energy: High
+
+### Segment 53 (52:00)
+- Brightness: Very Dark
+- Energy: High
+- Speech: 방글려 | Insight
+
+(Total 53 segments)
+
+## Full Transcript
+무슨 Curly 한국에 essential 수분은 stool의 매꼬치 맛있다 리드 데이토 배고파는 아이스크림 아 배고파는 아이스크림 배고파 맛있죠? 갈 수 있는 거였어 아니 오늘 하늘이 너무 예쁘다 아무� tragediaiverse 손을 열었건 도절의 토피매� invent Imado My ş웅댄에 siblings 도로로로도 된과 � shutter 이 fertile 신호� Minute 가려워 괜찮은데 가려워 여러분 죄송합니다 너무 예쁘죠 이번엔 코링코에서 새로 손으로 너무 만족 지금 이게 뭐하는거지? 여기서 한 1시간 정도 지금 기다리고 하고 이제야 곧 나가요 이렇게 오래 걸린지 몰랐네 이걸 딱딱해Как 힘chat 매age unable to eat 그냥 먹anza aerial 이게 오랜만凹어� mattress 고춍하고 폭발한 물 laugh 야 fondo 으이어 다른 얼음 brewery임んだ 다닛 파�� 다 다 다 � synchron 한가 Bä이� exh Old Music 오�oda 짠거지는 다 짠거지 아니 진짜 다른거지 막しそう 저희는 schon 이 집에서 갈게 진짜 Belgico 왕 device 아, 맛있다. 맛있다. 맛있다. 맛있다. 맛있다. 맛있다. 맛있다. 맛있다. 먹어봐. 맛있다. 맛있다. 맛있다. 다 다른방인 거 중에 몇층이야? 여기. 아, 맛있다. 아, 맛있다. 아, 맛있다. 아, 맛있다. 아, 맛있다. 아, 맛있다. 우리가 봤던 거가 되게... 좀 해. 귀여운 주방도 있고... 아, 진짜 얼른 갔다. 으, 히어, 같이. 히어, 같이. 히어, 빨리 와! 아, 맛있다. 아, 맛있다. 맛있다. 맛있다. 맛있다. 맛있다. 며칠. 며칠. 며칠. 자, 내가 이거 렌치 좀 더 먹고 싶을지. 며칠. 며칠. 며칠. 며칠. 사사랑이랑 같이 먹징 ducks happiestDonna 모쪄 맛있ateurs Ż椒액zh간닭 어동 메롬맛 뭐지? 커피? 이게 빵에 바르고 에어프라이에 구매한 버터 같은거 명란 이렇게 맛있겠는데? 나는 이거 우유 맛이랑 이거 굶고구마 맛 이거 뭐지? 파랄고로 이렇게 맛 이것도 해야겠다 근데 식료품 청뒤이야 아이고 이거 초코 브라운이가 텐데 이거 어떻게 한 사줄여야 돼 어? 고생형이 초코 지이어트 있는거 사오래 아사다 사자 아사다 사자 아사다 사자 아사다 사자 아사다 사자 아사다 사자 아사다 사자 아사다 사자 이 소금 반 크기가 짱 커 쳤다 근데 천사회곤 밖에 안 해 이거 또 맛있었다고 이거 또 맛있겠다 하나씩 고를까? 간장 먹러 가디에 짜증 뭐래? 제가 먼저 먹어봐요 와 맛이 뭔가 처음 맛에 화 안 오고 몇번 씹어야 이 버터랑 짭 맛이 같이 올라오는데 밥 만들었을 때 먹었으면 더 맛있을 것 같긴 한데 지금도 맛있어 그래 처음에 뭐 아 베이신 것 같은데 아 아 아 아 아 아 아 아 저거 저거 사랑하는 거 아 아 소금을 잘게 됐다 이번엔 더 잘해 짱 많아 저 사람 짱 많아 아 찐��도록 해 오 traumaARA 전 church 드디어 GK 혜감ister앗 그럼 삼 밥은 넣어. 고기를 주� görüşarosomendreится. 소스에 넣어먹는 때 내가 이것이 göra. �少 넣어주는거 같다. 꼬�いく지 아, 진짜? 아, 진짜? 이거 진짜 지금 다리가 너무 미친듯이 아프고 무조건 사야 돼 그냥 이거 6개짜리? 2,500 그래 이거 사 그러면 이거 사야 돼 이거 사야 돼 이거 사야 돼 이거 사야 돼 이거 사야 돼 이거 사야 돼 이거 사야 돼 이거 사야 돼 이리와 아, 진짜? 너무 힘들 passes 뱀 Allied Brundle 하루룬 댠나 봐 마이크 이거 такая destino 아, 맛있다. 무슨 맛일까? 아, 맛있다. 와, 콜라가 진짜 난리다리 소주다 소주 소주 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주? 너무 맛있다. 이게 생일이 있다. 다 넣어. 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주? 소주도 먹어야 돼. 소주도 Additional 소주 소주 치즈노 흔들려면서 다 barbar 감사합니다. 카만 운동하는ι 비밀 이거봐 이 가스 이 아까라 먹어도 뭐지? 예쁘게 와 진짜 빵충은 난 여기서 사이면 진짜 너무 행복할 것 같아 아 하나만 살려 세 번으로 오기와구요 아니 진짜 디저트 정국이에요 여기는 이게 뭐야 여기 회buhrun 시작 문제cup 구ЗЫ organizg 여러분들 주ateur 군맛받수amer 따� From the friendwind 흥미 direction Codyี Gaintain MARY 샤워 맨밀 안TER가pass 나 몸 3개 업 97% 아랑oulENN푸드 아깝다 아깝다 아깝다 아깝다 아깝다 뭔가 철학 철학 이게 공원 느낌 예쁘다 우와 우와 갑자기 나타났다 오사살짝을 하잖아요 오사살짝을 하잖아요 오사카 아이스크림을 아매이카노 아이스크림 오사살짝 오사살짝 오사살짝 오사살짝 아, 이거 괜찮다 오사살짝 반테리카 표른거 그래도 드림카피는 못 보소나 아, 이렇게 커피구나? 맛있는데? 맛있다. 아... 아, 식감 같이 먹자. 그리고 푸딩만 먹어야겠다. 그럼 푸딩이 맛있을 것겠죠? 되게 진하게. 찐에 꾸덕해. 말랑말랑 하지 마니아나. 아, 맛있다. 큰 ice cream 같은 맛은 하지 않지 않나. 그냥 꾸덕해요. 말랑말랑 하지 마니아나. 크림 같은 맛을 하죠. 왜 이렇게 맛나는데? 맛있다. 왜 이렇게 맛나? 왜 이렇게 맛나? 맛있다. 아무 생각하지. 여기 안심? 너를 먹어도 돼. 이건 진짜 미쳤다, 저기요. 이거 돼지가 아닌데? 이거? 섭외 아니야? 이렇게 부족해. 이렇게 봐. 응? 안 돼. 지금 무슨 말이야? 말이 안 돼. 그게 뭐야? 여기. 깨를legen 깨를 acronym? object наверное. 은폭아? 김친리 분빼 두ounty 아이스크림 직장부터 세우트ensa 마�пис gim 소� intellect 이런 familقيве기rew 다 맛있어? 다 맛있어? 다 맛있어? 그거로 생크림이야 생크림이 새우마? 새우 아니야 새우야 새우 너무 맛있어 귀찮다 어떻게 이런 맛이? 진짜 맛있어요 새우 새우 새우 새우 새우 새우 새우 새우 새우 새우 새우 새우 잘 먹었습니다 130,000원 133,000원 서울 아닌교? 배터리 부족 이슈로 칩에 갔다가 조합집을 가는 중입니다 원래 음에다 쇼시집을 가려고 했는데 해도 안 고프고 둘 다 핸드폰 배터리가 반전되가지고 남받으므로 와서 집 근처에 있는 곳으로 가는 중이에요 음 음 음 일단 자리가 인지 가볼까? 방 나오는 사람 있어 응 희러가도 엄마가 새엘트에 8개나 8개나 모든 초바람인가 보다 오 오 오 참치새틀다 오 오 오 오 오 오 오 오 오 오 오 시청자 집 근처 오 오 오 오 오 오 오 오 오 오 오 오 오 오 오 오 한번 haveala 드� núestro 오버 breath 기� moltarito 맛있게 드세요 맛있게 드세요 아, 사게 너무 맛있다 올리비가 나가서 이 사이 찍어 이거 안 넣은 떡을 넣어 오, 오, 오 오, 오 오, 오, 오 오, 오, 오 오, 오, 오 오, 오, 오 오, 오, 오 With hot sauce已經 먹으면er 먹으면ourd� Young e cat 아, 이ati 아 , 이grunts 상 und 소개ум선이 감사합니다 밤이 잘 manager 입연 중 전면 안바람 해산문버리다asto 만드는 defender这么 맛있다 맛있다 만들어가 진짜 맛있어 너무 또 기대되기는 우와 뜨겁게收거리는 것 같은 거 씹히는 고마워요 이거 소스 כי 눈에서 가장 Ballott correct�� 이거 일단 대박이에요 여러분. 탄이냐 말해서 이거 꼭라해요. 음.. 맛있는데요. 음.. 음.. 또 커야지. 대박. 이거 먹으면 좋겠어요. 이거 먹으면 좋겠어요. 이거 먹으면 좋겠어요. 이거 먹으면 좋겠어요. 이거 먹으면 좋겠어요. 또 커야지. 대박. 맵날 전혀 이렇게 늦게 먹고 나서 불쌔 라는 생각보다 좋지 않나서 더행이에요. 벌써 어쩌만 날이라는 너무 쉬운데 쉬운데 지금 내일 하고 하고 있습니다. 이게 저었다. 이걸 추천한데? 뭐 근데 그 영상에서 넣은 완전히 킹 thế68 podéis 또 찍어줄게요 물을 부어주고 적용시켜 드렸어요 청ього도 같이 먹 meaningless 남상 때문에 안녕 statues 이 refrigerator에опultyон 평범하는оль 네ация 너무 비어 볼색한 fondue 계란 봐 이번엔 이거 찍 לע�ier ist 오�pin을 열� lives 프로 tablet 오기 이제 준비가 되겠다는 거. 자, 이제 준비가 되겠다고요. 이제 준비가 되겠다고요. 이제 준비가 되겠다고요. 이제 준비가 되겠다고요. 이게 파이브야. 들어가자. 이게? 네? 어떻게 이런 일이? 왜 사람들은 뭔줄 기다리길까? 뭐? 그냥 뭐 사진색을 여기다 있는 거가? 많이 되는 거 같아. 이렇게 이런 일이 될 수 있어요. 집 안경으로트 카페. 어? 먹을 수 있는 데 있네? 어, 여기야. 대박. 못참에 있어. 못참에. 어, 여기 무화가 내 있다. 미쳤다. 무화가 많더라구요. 너무 맛있게 생겼는데? 아, 그래? 그래, 그럼. What's that? 너무 맛있음. 여기 직원템을��라고요. 이거 봐 그러면 커포 파운데케이크 같은 근데 이거 많이 깔아봐 이거 이거 이거 이거 하고요 팬티 하면 크레드인거 아시죠? 크레드 좀 빌려 알 수 있는거 음 크레드 좀 빌려 되게 많은데 일단 저는 우유 맛을 하나 살거고요 이게 무슨 맛이다 이거 뭔지 알아요? 아시겠어요 이게 무슨 맛이다 이거 뭔지 알아요? 아시겠어요 멜로니 그저 유명한데 저는 멜로니 안 들어가야 돼요 저는 멜로니 그저 유명한데 저는 멜로니 안 들어가야 돼요 저는 멜로니 안 들어가야 돼요 그럼요 하나 먹어 신아마 신아마는 배고픽을 명만 살래 명만 두입컵 이거는 이렇게 물에다가 이걸 넣으면 이렇게 커피가 된게요 그리고 이거는 레몬에이드 원액이 날리려고도 유명한데 저는 차를 안 해버려 이것도 맛있다고 하는거에요 그리고 이것도 맛있다고 하는거에요 그리고 이거는 그리고 이거는 레몬에이드 원액이 날리려고도 유명한데 이것도 맛있다고 하는거에요 그리고 이것도 맛있다고 하는거에요 오 우리 밥에 넣고 종자연이 돌리면 철신하는 건데 집에서 하는 거 해먹어볼까 아이씨! 아이씨! 아이씨! 우유! 우유! 애주가 커플들의 쇼핑 추천! 뭔가 엄청 많아, 맛있어 보이는게 와, 뭐야? 이렇게 맛있겠다 아, 이거 뭐야, 통화통! 근데 이게 17,000원? 사다! 아니, 이렇게 큰게 3만원은 3만원이요? 난 한 바게 좀 돌고 올게 오우, 이야 우리가 어제 먹었던게 뭐야, 나 그게 너무 맛있는데? 그럼 이거 맛있을거 봐 Magical 엄마 아빠 선물�� 착해서 toca 할게 clinically 맛있게 드십시오 소스가 몇번째 받았어요 좋은가dish 아니 cloıy 하나<|he|> 새우Why dreamed 제일 많이 ぶrd 오늘의 누군가가 그렇게du 저 Andrea는 식수가 있어요 진짜 노른자 저ometric 밥 repos Yea 불른다 입ர sunshine 아uw 머리다ий? 데스타바 là 이 사람들이 Diet국수를 당장 만들어야 달라요 이번에는 이 능 bosom growing Honda pasa new 마지막 날에 야타 씨와 본 승희야 거고 다리가 있을까요? 술을 넣으시오니 술을 넣으시오니 술을 넣으시오니 마지막 날에 야타 씨와 본 승희야 거고 다리가 있을까요? 술을 넣으시오니 술을 넣으시오니 술을 넣으시오니 편집풍자 간식 Spanish 떡brush Making 한국 아티 МУЗЫКА 술을 넣었어야 하는다 밥develop이기 떡� reel 배추에는 아빠 사 해�首先аг 아, 이 분이 진짜 맛있거든요? 근데 이거를 여행 내내 못 졌다가 마지막 날 판매 찾았습니다. 배불로 죽겠지만, 이거까지는 솔직히 먹어야 돼. 이게 말차, 말차, 망고 커스타드? 이거는 그냥 파싱인가 보다. 아초콜렛? 아주 피는 거지. 말차 먹지. 빵이. meist이. 막� saladaten을 말차는乾 Irny. Chang-in Nein Deutschland 만�לים miten decided to come to an industry ? 케이크에speaks환 prison 다음날 도움이 돼 매운 파� oyn��집에 왔습니다 11시 반오 decades인데? 11시에 독자 Geb后였죠? 먼저 туда 확실히 밥먹어�ant 미친구나 Pathetic 아 QR 아침에 Sodom THEm ouleennen entenduех 오 맛있urg 직접 � nuestras 다 Ba handle They sell the Annual Maintenant 이거 which debates are really popular 맛있게 먹어봐 다른 다른 사실에는 become arguing.. 말 estab하지али 우와 대박 대박 맛있겠다 맞아 ist 저게 먹어? Gaming 여기 다 fighters 다 thigh 와 이거 진짜 맛있다 야 아 진짜 맛있다你 раз wander erfolg은 현재 곳에 흑사ixa가Conector 손이 방글려 Insight 와 와 진죄

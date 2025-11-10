@@ -1,0 +1,168 @@
+{
+  "template_name": "Daily Life and Personal Reflection Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 18,
+      "description": "The vlog begins with a person preparing for a yoga or exercise session in a calm and focused indoor setting.",
+      "key_elements": [
+        "Yoga mat",
+        "Cork yoga block",
+        "Textured pad",
+        "Bare feet"
+      ]
+    },
+    "body": {
+      "duration_seconds": 873,
+      "description": "The main content consists of various daily activities, personal reflections, and interactions in different settings.",
+      "segments": [
+        {
+          "type": "Establishing shots",
+          "description": "Scenes showing quiet indoor and outdoor settings, such as terraces, boutiques, and streets, setting the mood for the vlog.",
+          "typical_duration": 60,
+          "scene_activity": "Showing locations and settings",
+          "location": "Indoor and outdoor urban settings",
+          "mood": "Calm and serene"
+        },
+        {
+          "type": "Personal moments",
+          "description": "The vlogger shares personal thoughts and reflections, often speaking directly to the camera.",
+          "typical_duration": 120,
+          "scene_activity": "Speaking to the camera",
+          "location": "Indoor, likely a living room or personal space",
+          "mood": "Calm and intimate"
+        },
+        {
+          "type": "Yoga and exercise",
+          "description": "Scenes of practicing yoga and exercise, demonstrating poses and stretches.",
+          "typical_duration": 90,
+          "scene_activity": "Yoga and stretching exercises",
+          "location": "Indoor, likely a home or studio setting",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "Travel montage",
+          "description": "Sequences of traveling through urban streets, often from a first-person perspective.",
+          "typical_duration": 120,
+          "scene_activity": "Riding a motorcycle or tuk-tuk",
+          "location": "Outdoor, on city streets",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "Shopping scenes",
+          "description": "Scenes of shopping in grocery stores and markets, selecting and examining products.",
+          "typical_duration": 150,
+          "scene_activity": "Browsing and selecting items",
+          "location": "Indoor, in grocery stores or markets",
+          "mood": "Routine and casual"
+        },
+        {
+          "type": "Food preparation",
+          "description": "Preparing and serving food and drinks, with close-ups of ingredients and cooking processes.",
+          "typical_duration": 90,
+          "scene_activity": "Cooking and preparing meals",
+          "location": "Indoor kitchen",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "Social interactions",
+          "description": "Interacting with others in cafes and social settings, often involving casual conversations.",
+          "typical_duration": 90,
+          "scene_activity": "Conversing and socializing",
+          "location": "Indoor, in cafes or social spaces",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "Product showcases",
+          "description": "Close-ups and demonstrations of products, such as skincare and food items.",
+          "typical_duration": 90,
+          "scene_activity": "Showing and discussing products",
+          "location": "Indoor, likely a kitchen or living room",
+          "mood": "Calm and informative"
+        },
+        {
+          "type": "Makeup tutorial",
+          "description": "Applying makeup with detailed steps, focusing on personal care routines.",
+          "typical_duration": 63,
+          "scene_activity": "Applying makeup",
+          "location": "Indoor, likely a living room or bedroom",
+          "mood": "Calm and focused"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 30,
+      "description": "The vlog concludes with a reflection on the day's activities and a farewell message.",
+      "key_elements": [
+        "Farewell message",
+        "Reflection on the day"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#a08e82",
+      "#1b110e",
+      "#c0bab6"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 3.1,
+    "scene_changes": 297,
+    "camera_work": [
+      "Handheld",
+      "First-person perspective"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Sharing personal thoughts and daily activities"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Emotional descriptions and instructions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Personal reflections",
+      "description": "The vlogger shares personal thoughts and reflections throughout the video.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Daily routine activities",
+      "description": "The video includes various daily activities such as yoga, shopping, and cooking.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Product showcases",
+      "description": "Close-ups and discussions of products used in daily life.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine vlogs",
+    "Personal reflection content"
+  ]
+}

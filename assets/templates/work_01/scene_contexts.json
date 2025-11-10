@@ -1,0 +1,2143 @@
+{
+  "total_scenes": 208,
+  "scenes": [
+    {
+      "timestamp": 1.0,
+      "timestamp_formatted": "0:00:01",
+      "activity": "The scene captures a cityscape view with a focus on a prominent tower in the background.",
+      "location": "Outdoor urban setting, likely in a city with a recognizable tower.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a cityscape view with a focus on a prominent tower in the background.\n2. **Location**: Outdoor urban setting, likely in a city with a recognizable tower.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Tower, residential buildings, power lines, trees, text overlay (\"my '18\").\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 5.0,
+      "timestamp_formatted": "0:00:05",
+      "activity": "A person is adjusting their hair, possibly preparing for a video recording.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Introduction.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair, possibly preparing for a video recording.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Person in a white outfit, sofa with cushions, wall art, text overlay (\"my 1st V-log\").\n5. **Scene Type**: Introduction."
+    },
+    {
+      "timestamp": 8.0,
+      "timestamp_formatted": "0:00:08",
+      "activity": "A person is adjusting their hair while looking at something, possibly a mirror.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Personal preparation or lifestyle moment.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair while looking at something, possibly a mirror.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person in a white outfit, sofa with cushions, wall art, text overlay.\n5. **Scene Type**: Personal preparation or lifestyle moment."
+    },
+    {
+      "timestamp": 9.0,
+      "timestamp_formatted": "0:00:09",
+      "activity": "A person is adjusting their hair while looking down.",
+      "location": "Indoor, likely a living room or personal space.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Dialogue or personal reflection.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair while looking down.\n2. **Location**: Indoor, likely a living room or personal space.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: Person, sofa with patterned blanket, wall art, text overlay.\n5. **Scene Type**: Dialogue or personal reflection."
+    },
+    {
+      "timestamp": 10.0,
+      "timestamp_formatted": "0:00:10",
+      "activity": "A person is focused on using a computer or laptop.",
+      "location": "Indoor, likely a home office or living room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or work/study scene.",
+      "raw_analysis": "1. **Activity**: A person is focused on using a computer or laptop.\n2. **Location**: Indoor, likely a home office or living room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer/laptop, person, sofa with cushions, wall art, door.\n5. **Scene Type**: Dialogue or work/study scene."
+    },
+    {
+      "timestamp": 11.0,
+      "timestamp_formatted": "0:00:11",
+      "activity": "A person is focused on working at a desk, possibly using a computer.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Work/study scene.",
+      "raw_analysis": "1. **Activity**: A person is focused on working at a desk, possibly using a computer.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Person, laptop, desk, couch, wall art.\n5. **Scene Type**: Work/study scene."
+    },
+    {
+      "timestamp": 15.0,
+      "timestamp_formatted": "0:00:15",
+      "activity": "The scene focuses on a close-up of a countertop setup, likely in a dining or kitchen area.",
+      "location": "Indoor, possibly a café or restaurant.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene focuses on a close-up of a countertop setup, likely in a dining or kitchen area.\n2. **Location**: Indoor, possibly a café or restaurant.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Napkin dispenser, stacked glasses, condiment bottles, tiled wall.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 16.0,
+      "timestamp_formatted": "0:00:16",
+      "activity": "A beautifully arranged tomato is presented on a plate, possibly as part of a culinary presentation.",
+      "location": "Indoor, likely in a dining or kitchen setting.",
+      "mood": "Calm and artistic, with a focus on culinary aesthetics.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A beautifully arranged tomato is presented on a plate, possibly as part of a culinary presentation.\n2. **Location**: Indoor, likely in a dining or kitchen setting.\n3. **Mood**: Calm and artistic, with a focus on culinary aesthetics.\n4. **Key Elements**: Tomato arranged like a rose, white plate with a gold rim, a small bowl with fortune cookies, decorative text overlay.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 17.0,
+      "timestamp_formatted": "0:00:17",
+      "activity": "A person is working on a laptop while talking on the phone.",
+      "location": "Indoor, likely a living room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is working on a laptop while talking on the phone.\n2. **Location**: Indoor, likely a living room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, phone, sofa, potted plant, guitar.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 20.0,
+      "timestamp_formatted": "0:00:20",
+      "activity": "The scene captures a quiet street view with minimal pedestrian and vehicle activity.",
+      "location": "Outdoor, urban street in Seoul.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a quiet street view with minimal pedestrian and vehicle activity.\n2. **Location**: Outdoor, urban street in Seoul.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Street, buildings, trees, pedestrians, vehicles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 23.0,
+      "timestamp_formatted": "0:00:23",
+      "activity": "People are casually walking and vehicles are moving along a city street.",
+      "location": "Outdoor urban setting, likely a city street in Seoul.",
+      "mood": "Calm and everyday.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: People are casually walking and vehicles are moving along a city street.\n2. **Location**: Outdoor urban setting, likely a city street in Seoul.\n3. **Mood**: Calm and everyday.\n4. **Key Elements**: Pedestrians, vehicles, tall buildings, trees, street signs.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 29.0,
+      "timestamp_formatted": "0:00:29",
+      "activity": "A train is arriving or departing at a station.",
+      "location": "Indoor, at a train station platform.",
+      "mood": "Transitional and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A train is arriving or departing at a station.\n2. **Location**: Indoor, at a train station platform.\n3. **Mood**: Transitional and routine.\n4. **Key Elements**: Train doors, KORAIL logo, platform, signage, subtitles.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 30.0,
+      "timestamp_formatted": "0:00:30",
+      "activity": "The scene shows a train door closing, likely indicating travel.",
+      "location": "Indoor, inside a train or subway station.",
+      "mood": "Calm and transitional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a train door closing, likely indicating travel.\n2. **Location**: Indoor, inside a train or subway station.\n3. **Mood**: Calm and transitional.\n4. **Key Elements**: Train doors, KORAIL logo, directional arrows, safety signs.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 31.0,
+      "timestamp_formatted": "0:00:31",
+      "activity": "The scene shows a view of a train door, likely indicating travel.",
+      "location": "This is taking place indoors, inside a train.",
+      "mood": "The atmosphere is calm and transitional.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a train door, likely indicating travel.\n2. **Location**: This is taking place indoors, inside a train.\n3. **Mood**: The atmosphere is calm and transitional.\n4. **Key Elements**: \n   - Train door with KORAIL logo\n   - Safety signs\n   - Subtitles indicating a phone ringing\n   - Text overlay about going to a co-working space\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 33.0,
+      "timestamp_formatted": "0:00:33",
+      "activity": "The scene shows a train door with subtitles indicating someone is on their way to a co-working space.",
+      "location": "Indoor, inside a train.",
+      "mood": "Calm and transitional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.\n2. **Location**: Indoor, inside a train.\n3. **Mood**: Calm and transitional.\n4. **Key Elements**: Train door, KORAIL logo, safety signs, subtitles.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 34.0,
+      "timestamp_formatted": "0:00:34",
+      "activity": "The scene shows a train door with subtitles indicating someone is on their way to a co-working space.",
+      "location": "Indoor, inside a train.",
+      "mood": "Calm and transitional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.\n2. **Location**: Indoor, inside a train.\n3. **Mood**: Calm and transitional.\n4. **Key Elements**: Train door, safety signs, KORAIL logo, subtitles.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 35.0,
+      "timestamp_formatted": "0:00:35",
+      "activity": "The scene shows a train door with subtitles indicating someone is on their way to a co-working space.",
+      "location": "Indoor, inside a train.",
+      "mood": "Calm and transitional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.\n2. **Location**: Indoor, inside a train.\n3. **Mood**: Calm and transitional.\n4. **Key Elements**: Train doors, KORAIL logo, safety signs, subtitles.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 36.0,
+      "timestamp_formatted": "0:00:36",
+      "activity": "The scene shows a view of train doors, likely indicating travel or commuting.",
+      "location": "This is taking place indoors, inside a train.",
+      "mood": "The atmosphere feels calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: The scene shows a view of train doors, likely indicating travel or commuting.\n2. **Location**: This is taking place indoors, inside a train.\n3. **Mood**: The atmosphere feels calm and routine.\n4. **Key Elements**: \n   - Train doors with KORAIL branding\n   - Safety signs\n   - Subtitles indicating a journey to a co-working space\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 38.0,
+      "timestamp_formatted": "0:00:38",
+      "activity": "The scene shows a train door closing, indicating travel.",
+      "location": "This is taking place inside a train, likely in a subway or railway station.",
+      "mood": "The atmosphere is transitional and anticipatory.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: The scene shows a train door closing, indicating travel.\n2. **Location**: This is taking place inside a train, likely in a subway or railway station.\n3. **Mood**: The atmosphere is transitional and anticipatory.\n4. **Key Elements**: \n   - Train doors with KORAIL branding\n   - Signage indicating no leaning on doors\n   - Subtitles mentioning \"On the way to co-working space\"\n   - Sound cue: \"(phone rings)\"\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 39.0,
+      "timestamp_formatted": "0:00:39",
+      "activity": "The scene shows a stationary train with closed doors.",
+      "location": "Indoor, inside a train station or subway platform.",
+      "mood": "Calm and static.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a stationary train with closed doors.\n2. **Location**: Indoor, inside a train station or subway platform.\n3. **Mood**: Calm and static.\n4. **Key Elements**: Train doors, KORAIL logo, no entry signs, platform reflection.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 40.0,
+      "timestamp_formatted": "0:00:40",
+      "activity": "The scene shows a stationary train with closed doors.",
+      "location": "Indoor, inside a train station.",
+      "mood": "Calm and static.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a stationary train with closed doors.\n2. **Location**: Indoor, inside a train station.\n3. **Mood**: Calm and static.\n4. **Key Elements**: Train doors, KORAIL logo, safety signs, reflection on glass.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 41.0,
+      "timestamp_formatted": "0:00:41",
+      "activity": "The scene shows an empty train car, possibly between stops.",
+      "location": "Indoor, inside a train.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows an empty train car, possibly between stops.\n2. **Location**: Indoor, inside a train.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Train seats, metal doors, handrails, windows.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 42.0,
+      "timestamp_formatted": "0:00:42",
+      "activity": "The scene shows a stationary subway train with closed doors.",
+      "location": "Indoor, inside a subway train.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a stationary subway train with closed doors.\n2. **Location**: Indoor, inside a subway train.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Subway doors, empty seats, metal handrails, windows.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 43.0,
+      "timestamp_formatted": "0:00:43",
+      "activity": "The scene shows a subway train door, possibly about to open.",
+      "location": "Indoor, inside a subway train.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a subway train door, possibly about to open.\n2. **Location**: Indoor, inside a subway train.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Subway door, seating area, handrails, windows, Korean text.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 44.0,
+      "timestamp_formatted": "0:00:44",
+      "activity": "The scene shows a subway or train door about to open.",
+      "location": "Indoor, inside a subway or train carriage.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a subway or train door about to open.\n2. **Location**: Indoor, inside a subway or train carriage.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Train door, window, seating area, metal handrails, Korean subtitles.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 45.0,
+      "timestamp_formatted": "0:00:45",
+      "activity": "The scene shows the interior of a moving train.",
+      "location": "Indoor, inside a train carriage.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows the interior of a moving train.\n2. **Location**: Indoor, inside a train carriage.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Train window, empty seats, handrails, Korean text on the window.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 46.0,
+      "timestamp_formatted": "0:00:46",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential or urban neighborhood.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential or urban neighborhood.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Steep asphalt road\n   - Residential buildings\n   - Parked cars\n   - Utility pole\n   - Air conditioning unit\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 47.0,
+      "timestamp_formatted": "0:00:47",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, parked car, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 48.0,
+      "timestamp_formatted": "0:00:48",
+      "activity": "A person is walking up a quiet street.",
+      "location": "Outdoor, residential neighborhood.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is walking up a quiet street.\n2. **Location**: Outdoor, residential neighborhood.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Sloped street, parked car, residential buildings, trees, person walking.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 49.0,
+      "timestamp_formatted": "0:00:49",
+      "activity": "A person is walking up a steep street.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is walking up a steep street.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Steep road, parked cars, residential buildings, person walking, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 50.0,
+      "timestamp_formatted": "0:00:50",
+      "activity": "A person is walking up a residential street.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is walking up a residential street.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Sloped street, parked cars, residential buildings, trees, person walking.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 51.0,
+      "timestamp_formatted": "0:00:51",
+      "activity": "A person is walking up a sloped street.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Quiet and calm.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is walking up a sloped street.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Quiet and calm.\n4. **Key Elements**: Sloped street, parked cars, residential buildings, person walking, Korean subtitles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 53.0,
+      "timestamp_formatted": "0:00:53",
+      "activity": "A person is walking down a narrow street.",
+      "location": "Outdoor, in an urban alley or side street.",
+      "mood": "Quiet and calm.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is walking down a narrow street.\n2. **Location**: Outdoor, in an urban alley or side street.\n3. **Mood**: Quiet and calm.\n4. **Key Elements**: Person walking, parked cars, tiled sidewalk, street.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 55.0,
+      "timestamp_formatted": "0:00:55",
+      "activity": "The scene shows someone walking along a street, possibly using a phone.",
+      "location": "Outdoor, on a sidewalk next to a road.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows someone walking along a street, possibly using a phone.\n2. **Location**: Outdoor, on a sidewalk next to a road.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Asphalt road, sidewalk, smartphone, subtitles in Korean.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 58.0,
+      "timestamp_formatted": "0:00:58",
+      "activity": "A person is holding a smartphone, possibly using a map application.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Focused and purposeful.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is holding a smartphone, possibly using a map application.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Focused and purposeful.\n4. **Key Elements**: Smartphone, hand, map application, asphalt, sidewalk.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 59.0,
+      "timestamp_formatted": "0:00:59",
+      "activity": "A person is using a smartphone to navigate using a map application.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Focused and purposeful.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is using a smartphone to navigate using a map application.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Focused and purposeful.\n4. **Key Elements**: Smartphone displaying a map, hand holding the phone, wet pavement, metal grate.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 60.0,
+      "timestamp_formatted": "0:01:00",
+      "activity": "A person is using a smartphone, possibly navigating with a map application.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Focused and purposeful.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is using a smartphone, possibly navigating with a map application.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Focused and purposeful.\n4. **Key Elements**: Smartphone, hand, map on screen, pavement, drainage grate.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 61.0,
+      "timestamp_formatted": "0:01:01",
+      "activity": "A person is using a smartphone, possibly navigating with a map application.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Focused and purposeful.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is using a smartphone, possibly navigating with a map application.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Focused and purposeful.\n4. **Key Elements**: Smartphone, hand, sleeve, map application, text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 62.0,
+      "timestamp_formatted": "0:01:02",
+      "activity": "Someone is holding a smartphone, possibly reading or typing a message.",
+      "location": "Indoor setting, likely on a carpeted floor.",
+      "mood": "Focused and casual.",
+      "key_elements": [],
+      "scene_type": "Transition or detail shot.",
+      "raw_analysis": "1. **Activity**: Someone is holding a smartphone, possibly reading or typing a message.\n2. **Location**: Indoor setting, likely on a carpeted floor.\n3. **Mood**: Focused and casual.\n4. **Key Elements**: Smartphone, hand, carpet, clothing with visible stitching, Korean text subtitle.\n5. **Scene Type**: Transition or detail shot."
+    },
+    {
+      "timestamp": 64.0,
+      "timestamp_formatted": "0:01:04",
+      "activity": "A person is looking at a map on their smartphone.",
+      "location": "Indoor setting.",
+      "mood": "Focused and slightly confused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is looking at a map on their smartphone.\n2. **Location**: Indoor setting.\n3. **Mood**: Focused and slightly confused.\n4. **Key Elements**: Smartphone displaying a map, hand holding the phone, text overlay in Korean, blurred shoes.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 67.0,
+      "timestamp_formatted": "0:01:07",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Steep road, brick buildings, trees, utility poles, and a yellow bollard.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 68.0,
+      "timestamp_formatted": "0:01:08",
+      "activity": "The scene captures a quiet, empty street with no visible activity.",
+      "location": "Outdoor, residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a quiet, empty street with no visible activity.\n2. **Location**: Outdoor, residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Steep, winding road\n   - Brick buildings\n   - Trees and shrubs\n   - Utility wires overhead\n   - Korean text at the bottom\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 69.0,
+      "timestamp_formatted": "0:01:09",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood with buildings lining the street.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood with buildings lining the street.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Paved road\n   - Residential buildings\n   - Trees and plants\n   - Utility poles and wires\n   - Korean text at the bottom\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 70.0,
+      "timestamp_formatted": "0:01:10",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood with sloped streets.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood with sloped streets.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, brick buildings, trees, power lines, Korean subtitles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 71.0,
+      "timestamp_formatted": "0:01:11",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Paved road\n   - Residential buildings\n   - Trees and shrubs\n   - Stone walls\n   - Subtitles in a non-English language\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 72.0,
+      "timestamp_formatted": "0:01:12",
+      "activity": "A person is pointing towards the end of a narrow street.",
+      "location": "Outdoor, in a residential urban area.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is pointing towards the end of a narrow street.\n2. **Location**: Outdoor, in a residential urban area.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Finger pointing, narrow street, brick buildings, trees, utility poles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 73.0,
+      "timestamp_formatted": "0:01:13",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood with narrow streets and buildings.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood with narrow streets and buildings.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, brick buildings, trees, and a small scooter in the distance.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 74.0,
+      "timestamp_formatted": "0:01:14",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, brick buildings, trees, utility poles, Korean text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 75.0,
+      "timestamp_formatted": "0:01:15",
+      "activity": "The scene shows a static shot of a brick wall with text overlay.",
+      "location": "Outdoor, likely in an urban area.",
+      "mood": "Neutral and static.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a static shot of a brick wall with text overlay.\n2. **Location**: Outdoor, likely in an urban area.\n3. **Mood**: Neutral and static.\n4. **Key Elements**: Brick wall, Korean text overlay, muted colors.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 76.0,
+      "timestamp_formatted": "0:01:16",
+      "activity": "The scene appears to be an introduction or transition, possibly indicating arrival at a location.",
+      "location": "Outdoor, in front of a brick wall.",
+      "mood": "Neutral and straightforward.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: The scene appears to be an introduction or transition, possibly indicating arrival at a location.\n2. **Location**: Outdoor, in front of a brick wall.\n3. **Mood**: Neutral and straightforward.\n4. **Key Elements**: \n   - Brick wall\n   - Korean text overlay\n   - Subtitles in Korean\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 77.0,
+      "timestamp_formatted": "0:01:17",
+      "activity": "The scene appears to be static, with no visible activity occurring.",
+      "location": "Outdoor setting, likely in an urban area with brick architecture.",
+      "mood": "Calm and neutral.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static, with no visible activity occurring.\n2. **Location**: Outdoor setting, likely in an urban area with brick architecture.\n3. **Mood**: Calm and neutral.\n4. **Key Elements**: \n   - Brick wall\n   - Steps\n   - Korean text subtitle\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 78.0,
+      "timestamp_formatted": "0:01:18",
+      "activity": "The scene appears to be a static shot focusing on the architecture.",
+      "location": "This is taking place outdoors, likely in an urban or architectural setting.",
+      "mood": "The atmosphere is calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot focusing on the architecture.\n2. **Location**: This is taking place outdoors, likely in an urban or architectural setting.\n3. **Mood**: The atmosphere is calm and contemplative.\n4. **Key Elements**: \n   - Brick walls\n   - Steps\n   - Text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 79.0,
+      "timestamp_formatted": "0:01:19",
+      "activity": "The scene is currently empty, with no visible activity occurring.",
+      "location": "This is an outdoor setting, likely an alley or courtyard with brick walls.",
+      "mood": "The atmosphere is calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene is currently empty, with no visible activity occurring.\n2. **Location**: This is an outdoor setting, likely an alley or courtyard with brick walls.\n3. **Mood**: The atmosphere is calm and quiet.\n4. **Key Elements**: \n   - Brick walls\n   - Brick floor\n   - Steps\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 80.0,
+      "timestamp_formatted": "0:01:20",
+      "activity": "The scene shows a view of a brick staircase leading upwards.",
+      "location": "Outdoor, likely in a garden or courtyard area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a brick staircase leading upwards.\n2. **Location**: Outdoor, likely in a garden or courtyard area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Brick staircase, brick walls, foliage at the top, natural light.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 81.0,
+      "timestamp_formatted": "0:01:21",
+      "activity": "The scene shows a view of a brick staircase leading upwards.",
+      "location": "Outdoor, possibly in a garden or courtyard area.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a brick staircase leading upwards.\n2. **Location**: Outdoor, possibly in a garden or courtyard area.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Brick stairs, brick walls, greenery at the top, natural light.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 82.0,
+      "timestamp_formatted": "0:01:22",
+      "activity": "The scene shows a view of brick stairs leading upwards.",
+      "location": "Outdoor, likely in a garden or courtyard area.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of brick stairs leading upwards.\n2. **Location**: Outdoor, likely in a garden or courtyard area.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Brick stairs, brick walls, plants at the top, natural light.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 83.0,
+      "timestamp_formatted": "0:01:23",
+      "activity": "The scene appears to be a static shot of a brick stairway.",
+      "location": "Outdoor, likely in a garden or courtyard area.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot of a brick stairway.\n2. **Location**: Outdoor, likely in a garden or courtyard area.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick stairs\n   - Brick walls\n   - Greenery and plants\n   - Natural light\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 84.0,
+      "timestamp_formatted": "0:01:24",
+      "activity": "The scene appears to be static with no visible activity occurring.",
+      "location": "Outdoor setting, likely a garden or courtyard area with brick walls.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static with no visible activity occurring.\n2. **Location**: Outdoor setting, likely a garden or courtyard area with brick walls.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick walls\n   - Brick flooring\n   - Green foliage and plants\n   - Vines on the wall\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 85.0,
+      "timestamp_formatted": "0:01:25",
+      "activity": "The scene appears to be static with no visible activity occurring.",
+      "location": "Outdoor setting, likely a garden or courtyard with brick walls.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static with no visible activity occurring.\n2. **Location**: Outdoor setting, likely a garden or courtyard with brick walls.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick wall\n   - Green and brown foliage\n   - Brick pavement\n   - Ivy or climbing plants\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 86.0,
+      "timestamp_formatted": "0:01:26",
+      "activity": "The scene appears to be a static shot focusing on a brick wall and foliage.",
+      "location": "Outdoor, likely in a garden or park area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot focusing on a brick wall and foliage.\n2. **Location**: Outdoor, likely in a garden or park area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Brick wall\n   - Overgrown foliage\n   - Subtitles in a non-English language\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 87.0,
+      "timestamp_formatted": "0:01:27",
+      "activity": "The scene shows a static view of a brick wall with overgrown foliage.",
+      "location": "Outdoor, likely in a garden or park area.",
+      "mood": "Calm and slightly neglected.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a static view of a brick wall with overgrown foliage.\n2. **Location**: Outdoor, likely in a garden or park area.\n3. **Mood**: Calm and slightly neglected.\n4. **Key Elements**: Brick wall, overgrown plants, vines, Korean text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 88.0,
+      "timestamp_formatted": "0:01:28",
+      "activity": "The scene appears to be static with no visible activity occurring.",
+      "location": "Outdoor setting, likely the entrance or exterior of a building.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static with no visible activity occurring.\n2. **Location**: Outdoor setting, likely the entrance or exterior of a building.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick wall\n   - Window\n   - Shrubs or bushes\n   - Pathway\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 89.0,
+      "timestamp_formatted": "0:01:29",
+      "activity": "The scene shows a static view of a garden area.",
+      "location": "Outdoor, likely in a residential or office building courtyard.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a static view of a garden area.\n2. **Location**: Outdoor, likely in a residential or office building courtyard.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Dense shrubbery and plants\n   - Brick wall\n   - Building window\n   - Korean text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 90.0,
+      "timestamp_formatted": "0:01:30",
+      "activity": "The scene appears to be a static shot of an outdoor area, possibly part of a building's exterior.",
+      "location": "Outdoor, likely near a building entrance or courtyard.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot of an outdoor area, possibly part of a building's exterior.\n2. **Location**: Outdoor, likely near a building entrance or courtyard.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick wall\n   - Windows\n   - Bushes/plants\n   - Paved walkway\n   - Korean text overlay\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 91.0,
+      "timestamp_formatted": "0:01:31",
+      "activity": "The scene appears to be a static or slow-moving shot of an outdoor area.",
+      "location": "Outdoor, likely a courtyard or garden area with brick walls.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static or slow-moving shot of an outdoor area.\n2. **Location**: Outdoor, likely a courtyard or garden area with brick walls.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick walls\n   - Bushes or shrubs\n   - Stone pathway\n   - Text overlay in Korean\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 92.0,
+      "timestamp_formatted": "0:01:32",
+      "activity": "The scene appears to be static, with no visible activity occurring.",
+      "location": "Outdoor setting, likely a residential or urban area with brick buildings.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static, with no visible activity occurring.\n2. **Location**: Outdoor setting, likely a residential or urban area with brick buildings.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick building\n   - Staircase\n   - Bushes and small trees\n   - Windows\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 93.0,
+      "timestamp_formatted": "0:01:33",
+      "activity": "The scene appears to be a static shot of an outdoor area, possibly setting up a location.",
+      "location": "Outdoor, likely in a residential area with brick walls and a garden.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot of an outdoor area, possibly setting up a location.\n2. **Location**: Outdoor, likely in a residential area with brick walls and a garden.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick wall\n   - Bushes and plants\n   - Window\n   - Stairs\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 94.0,
+      "timestamp_formatted": "0:01:34",
+      "activity": "The scene appears to be a static shot with no visible activity.",
+      "location": "Outdoor setting, likely in a residential area.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot with no visible activity.\n2. **Location**: Outdoor setting, likely in a residential area.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Brick wall\n   - Staircase\n   - Window\n   - Dry bushes\n   - Subtitles at the bottom\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 95.0,
+      "timestamp_formatted": "0:01:35",
+      "activity": "The scene appears to be a static or transitioning shot with no visible activity.",
+      "location": "Outdoor, likely near a building or house.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static or transitioning shot with no visible activity.\n2. **Location**: Outdoor, likely near a building or house.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Brick wall, windows, white wall, Korean subtitles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 96.0,
+      "timestamp_formatted": "0:01:36",
+      "activity": "The scene appears to be static, with no visible activity taking place.",
+      "location": "This is an outdoor setting, likely near a residential or commercial building.",
+      "mood": "The atmosphere is calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static, with no visible activity taking place.\n2. **Location**: This is an outdoor setting, likely near a residential or commercial building.\n3. **Mood**: The atmosphere is calm and quiet.\n4. **Key Elements**: \n   - Brick wall\n   - Window\n   - Bushes/plants\n   - Steps\n   - Subtitles in yellow text\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 97.0,
+      "timestamp_formatted": "0:01:37",
+      "activity": "The scene shows a quiet outdoor area, possibly a transitional moment in the video.",
+      "location": "Outdoor, near a building entrance with stairs.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet outdoor area, possibly a transitional moment in the video.\n2. **Location**: Outdoor, near a building entrance with stairs.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: Brick wall, stairs, handrail, plants, Korean text.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 98.0,
+      "timestamp_formatted": "0:01:38",
+      "activity": "The scene shows a quiet outdoor setting with no visible activity.",
+      "location": "Outdoor, likely in a garden or park area with steps leading upwards.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet outdoor setting with no visible activity.\n2. **Location**: Outdoor, likely in a garden or park area with steps leading upwards.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Stone steps\n   - Brick and white railing\n   - Greenery and flowers\n   - Trees in the background\n   - Korean text at the bottom\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 99.0,
+      "timestamp_formatted": "0:01:39",
+      "activity": "The scene shows a quiet outdoor setting with no visible human activity.",
+      "location": "Outdoor, likely in a garden or park area with a staircase.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet outdoor setting with no visible human activity.\n2. **Location**: Outdoor, likely in a garden or park area with a staircase.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Staircase, brick wall, greenery, white flowers, trees.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 100.0,
+      "timestamp_formatted": "0:01:40",
+      "activity": "The scene shows a to-do list with instructions for sanitizing and cleaning upon entry.",
+      "location": "Indoor, likely near an entrance or hallway.",
+      "mood": "Informative and precautionary.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a to-do list with instructions for sanitizing and cleaning upon entry.\n2. **Location**: Indoor, likely near an entrance or hallway.\n3. **Mood**: Informative and precautionary.\n4. **Key Elements**: \n   - To-do list with instructions\n   - Cartoon character illustration\n   - Purple wall\n   - Partial view of a mirror\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 103.0,
+      "timestamp_formatted": "0:01:43",
+      "activity": "The scene shows a cozy living room setup, possibly preparing for relaxation or leisure.",
+      "location": "Indoor, in a living room.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a cozy living room setup, possibly preparing for relaxation or leisure.\n2. **Location**: Indoor, in a living room.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: \n   - Sofa with cushions\n   - Electric heater\n   - Coffee table with magazines\n   - Potted plants\n   - Guitar against the wall\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 105.0,
+      "timestamp_formatted": "0:01:45",
+      "activity": "The scene appears to show a cozy living space, possibly being showcased or prepared for relaxation.",
+      "location": "Indoor, likely a living room or lounge area.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to show a cozy living space, possibly being showcased or prepared for relaxation.\n2. **Location**: Indoor, likely a living room or lounge area.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: \n   - Sofa with cushions\n   - Space heater\n   - Coffee table with magazines\n   - Acoustic guitar\n   - Potted plants\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 106.0,
+      "timestamp_formatted": "0:01:46",
+      "activity": "The scene shows a cozy indoor setting, possibly someone relaxing or working from home.",
+      "location": "Indoor, likely a living room or home office.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a cozy indoor setting, possibly someone relaxing or working from home.\n2. **Location**: Indoor, likely a living room or home office.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: \n   - Television displaying a mug\n   - Space heater\n   - Potted plants\n   - Laptop on a small table\n   - Brick wall with framed art\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 107.0,
+      "timestamp_formatted": "0:01:47",
+      "activity": "The scene shows a workspace setup, possibly for remote work or study.",
+      "location": "Indoor, likely a home office or study room.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.\n2. **Location**: Indoor, likely a home office or study room.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: \n   - Computer monitor on a desk\n   - Television displaying a coffee cup\n   - Space heater\n   - Indoor plants\n   - Wooden desk and chairs\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 108.0,
+      "timestamp_formatted": "0:01:48",
+      "activity": "The scene shows a workspace setup, possibly for remote work or study.",
+      "location": "Indoor, likely a home office or study room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.\n2. **Location**: Indoor, likely a home office or study room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Computer monitor on a desk\n   - Large wall map\n   - Television displaying a coffee cup\n   - Office chairs\n   - Notebooks and water bottles\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 109.0,
+      "timestamp_formatted": "0:01:49",
+      "activity": "The scene shows a workspace setup, possibly for remote work or study.",
+      "location": "Indoor, likely a home office or study room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.\n2. **Location**: Indoor, likely a home office or study room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Computer monitor on a desk\n   - Wall-mounted wooden world map\n   - Television displaying a steaming mug\n   - Office chair\n   - Water bottle and other desk items\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 110.0,
+      "timestamp_formatted": "0:01:50",
+      "activity": "Two people are taking a selfie in front of a mirror.",
+      "location": "Indoor, likely in a cozy room or apartment.",
+      "mood": "Intimate and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual moment.",
+      "raw_analysis": "1. **Activity**: Two people are taking a selfie in front of a mirror.\n2. **Location**: Indoor, likely in a cozy room or apartment.\n3. **Mood**: Intimate and relaxed.\n4. **Key Elements**: Camera, mirror, face mask, wall art, table lamp.\n5. **Scene Type**: Casual moment."
+    },
+    {
+      "timestamp": 111.0,
+      "timestamp_formatted": "0:01:51",
+      "activity": "Two people are taking a mirror selfie, with one holding a camera.",
+      "location": "Indoor, possibly a cozy room or small apartment.",
+      "mood": "Intimate and casual.",
+      "key_elements": [],
+      "scene_type": "Casual interaction.",
+      "raw_analysis": "1. **Activity**: Two people are taking a mirror selfie, with one holding a camera.\n2. **Location**: Indoor, possibly a cozy room or small apartment.\n3. **Mood**: Intimate and casual.\n4. **Key Elements**: \n   - Camera\n   - Mirror\n   - Wall art\n   - Table fan\n   - Mask worn by one person\n5. **Scene Type**: Casual interaction."
+    },
+    {
+      "timestamp": 112.0,
+      "timestamp_formatted": "0:01:52",
+      "activity": "Two people are taking a mirror selfie, with one holding a camera and the other posing.",
+      "location": "Indoor, likely in a cozy room or café.",
+      "mood": "Casual and playful.",
+      "key_elements": [],
+      "scene_type": "Casual interaction.",
+      "raw_analysis": "1. **Activity**: Two people are taking a mirror selfie, with one holding a camera and the other posing.\n2. **Location**: Indoor, likely in a cozy room or café.\n3. **Mood**: Casual and playful.\n4. **Key Elements**: Mirror, camera, wall decorations, face mask, text overlay.\n5. **Scene Type**: Casual interaction."
+    },
+    {
+      "timestamp": 113.0,
+      "timestamp_formatted": "0:01:53",
+      "activity": "Two people are taking a mirror selfie.",
+      "location": "Indoor, likely in a cozy room or apartment.",
+      "mood": "Intimate and casual.",
+      "key_elements": [],
+      "scene_type": "Casual moment.",
+      "raw_analysis": "1. **Activity**: Two people are taking a mirror selfie.\n2. **Location**: Indoor, likely in a cozy room or apartment.\n3. **Mood**: Intimate and casual.\n4. **Key Elements**: Mirror, camera, masks, wall art, lamp.\n5. **Scene Type**: Casual moment."
+    },
+    {
+      "timestamp": 114.0,
+      "timestamp_formatted": "0:01:54",
+      "activity": "Two people are taking a selfie or photo together in front of a mirror.",
+      "location": "Indoor, likely a home or cozy room.",
+      "mood": "Casual and intimate.",
+      "key_elements": [],
+      "scene_type": "Casual interaction.",
+      "raw_analysis": "1. **Activity**: Two people are taking a selfie or photo together in front of a mirror.\n2. **Location**: Indoor, likely a home or cozy room.\n3. **Mood**: Casual and intimate.\n4. **Key Elements**: Two people, camera, mirror, wall decorations, lamp.\n5. **Scene Type**: Casual interaction."
+    },
+    {
+      "timestamp": 115.0,
+      "timestamp_formatted": "0:01:55",
+      "activity": "The scene appears to be a casual moment in a kitchen, possibly involving a conversation.",
+      "location": "Indoor, in a kitchen.",
+      "mood": "Calm and homely.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a casual moment in a kitchen, possibly involving a conversation.\n2. **Location**: Indoor, in a kitchen.\n3. **Mood**: Calm and homely.\n4. **Key Elements**: Red refrigerator, white refrigerator, countertop with appliances, hanging plants, text subtitles.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 116.0,
+      "timestamp_formatted": "0:01:56",
+      "activity": "The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.",
+      "location": "Indoor, in a kitchen.",
+      "mood": "The atmosphere is calm and homely.",
+      "key_elements": [],
+      "scene_type": "Establishing shot",
+      "raw_analysis": "1. **Activity**: The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.\n2. **Location**: Indoor, in a kitchen.\n3. **Mood**: The atmosphere is calm and homely.\n4. **Key Elements**: \n   - Red refrigerator with magnets and notes\n   - White refrigerator\n   - Air fryer and toaster on the counter\n   - Shelves with books and decorative items\n   - Subtitled text at the bottom\n5. **Scene Type**: Establishing shot"
+    },
+    {
+      "timestamp": 117.0,
+      "timestamp_formatted": "0:01:57",
+      "activity": "The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.",
+      "location": "Indoor, specifically a kitchen.",
+      "mood": "The atmosphere is calm and homely.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.\n2. **Location**: Indoor, specifically a kitchen.\n3. **Mood**: The atmosphere is calm and homely.\n4. **Key Elements**: \n   - Red refrigerator with magnets and photos\n   - White refrigerator\n   - Air fryer on the counter\n   - Bookshelf with books and decor\n   - Subtitled text at the bottom\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 118.0,
+      "timestamp_formatted": "0:01:58",
+      "activity": "The scene shows a kitchen area with a focus on two refrigerators.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and homely.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a kitchen area with a focus on two refrigerators.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and homely.\n4. **Key Elements**: \n   - Red refrigerator with magnets and photos\n   - White refrigerator with a calendar on top\n   - Hanging plants\n   - Shelving with books or magazines\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 119.0,
+      "timestamp_formatted": "0:01:59",
+      "activity": "The scene appears to show a still moment in a kitchen or dining area.",
+      "location": "Indoor, likely a kitchen or dining room.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to show a still moment in a kitchen or dining area.\n2. **Location**: Indoor, likely a kitchen or dining room.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Refrigerator with magnets, a small appliance on top of another appliance, hanging baskets, and a stack of books or papers.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 120.0,
+      "timestamp_formatted": "0:02:00",
+      "activity": "A person appears to be reacting or expressing emotion, possibly in conversation.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "The atmosphere seems tense or emotional.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person appears to be reacting or expressing emotion, possibly in conversation.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: The atmosphere seems tense or emotional.\n4. **Key Elements**: \n   - Person with raised arms\n   - Laptop on a table\n   - Lamp\n   - Hanging light fixture\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 121.0,
+      "timestamp_formatted": "0:02:01",
+      "activity": "A person is turning away from a table, possibly reacting to something or someone.",
+      "location": "Indoor, likely a dining or living room.",
+      "mood": "The atmosphere seems tense or confrontational.",
+      "key_elements": [],
+      "scene_type": "Dialogue or confrontation.",
+      "raw_analysis": "1. **Activity**: A person is turning away from a table, possibly reacting to something or someone.\n2. **Location**: Indoor, likely a dining or living room.\n3. **Mood**: The atmosphere seems tense or confrontational.\n4. **Key Elements**: \n   - Person in a light sweater\n   - Wooden table with a laptop\n   - Hanging lamp\n   - Wine bottles on a shelf\n5. **Scene Type**: Dialogue or confrontation."
+    },
+    {
+      "timestamp": 122.0,
+      "timestamp_formatted": "0:02:02",
+      "activity": "A person is adjusting their hair while standing near a table with a laptop.",
+      "location": "Indoor, likely a home or cozy café setting.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their hair while standing near a table with a laptop.\n2. **Location**: Indoor, likely a home or cozy café setting.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Laptop on the table, hanging lamp, bottles on a shelf, window with light.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 123.0,
+      "timestamp_formatted": "0:02:03",
+      "activity": "A person is sitting at a table, possibly working or having a conversation.",
+      "location": "Indoor, likely a café or a cozy dining area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly working or having a conversation.\n2. **Location**: Indoor, likely a café or a cozy dining area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Person wearing a mask\n   - Laptop on the table\n   - Hanging lamp\n   - Bottles on a shelf\n   - Text on the screen\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 124.0,
+      "timestamp_formatted": "0:02:04",
+      "activity": "A person is sitting at a table, possibly engaged in a video call or working on a laptop.",
+      "location": "Indoor, likely a home or small office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly engaged in a video call or working on a laptop.\n2. **Location**: Indoor, likely a home or small office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, person wearing a mask, table with papers, decorative lamp, bottles on a shelf.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 125.0,
+      "timestamp_formatted": "0:02:05",
+      "activity": "A person is sitting at a table, possibly working on a laptop.",
+      "location": "Indoor, likely a home or small office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or work-related scene.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly working on a laptop.\n2. **Location**: Indoor, likely a home or small office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, table, person wearing a mask, wall decor, wine bottles on a shelf.\n5. **Scene Type**: Dialogue or work-related scene."
+    },
+    {
+      "timestamp": 127.0,
+      "timestamp_formatted": "0:02:07",
+      "activity": "A person is sitting at a table, working on a laptop.",
+      "location": "Indoor, likely a home or small café.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, working on a laptop.\n2. **Location**: Indoor, likely a home or small café.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, table, lamp, wine bottles, person wearing a mask.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 128.0,
+      "timestamp_formatted": "0:02:08",
+      "activity": "A person is working on a laptop.",
+      "location": "Indoor, likely a home or café setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or work-focused scene.",
+      "raw_analysis": "1. **Activity**: A person is working on a laptop.\n2. **Location**: Indoor, likely a home or café setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, person wearing a mask, table, lamp, bottles on a shelf.\n5. **Scene Type**: Dialogue or work-focused scene."
+    },
+    {
+      "timestamp": 129.0,
+      "timestamp_formatted": "0:02:09",
+      "activity": "A person is working on a laptop.",
+      "location": "Indoor, likely a cafe or home setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is working on a laptop.\n2. **Location**: Indoor, likely a cafe or home setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, person wearing a mask, wooden table, bottles on a shelf, blue sofa.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 130.0,
+      "timestamp_formatted": "0:02:10",
+      "activity": "A person is sitting at a table, possibly engaged in a conversation or working on a laptop.",
+      "location": "Indoor, likely a café or a casual dining area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table, possibly engaged in a conversation or working on a laptop.\n2. **Location**: Indoor, likely a café or a casual dining area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Person wearing a mask\n   - Laptop on the table\n   - Bottles on a shelf\n   - Smartphone on the table\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 131.0,
+      "timestamp_formatted": "0:02:11",
+      "activity": "A person is sitting at a table using a laptop.",
+      "location": "Indoor, likely a café or casual workspace.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table using a laptop.\n2. **Location**: Indoor, likely a café or casual workspace.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, smartphone, person wearing a mask, bottles on a shelf.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 135.0,
+      "timestamp_formatted": "0:02:15",
+      "activity": "A person is sitting at a table using a laptop.",
+      "location": "Indoor, likely a café or casual dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a table using a laptop.\n2. **Location**: Indoor, likely a café or casual dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, person wearing a mask, wooden table, bottles on a shelf.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 136.0,
+      "timestamp_formatted": "0:02:16",
+      "activity": "The scene appears to be a setup for a conversation or a casual moment, possibly involving someone off-screen.",
+      "location": "Indoor, likely a cozy room or small café.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue setup.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a setup for a conversation or a casual moment, possibly involving someone off-screen.\n2. **Location**: Indoor, likely a cozy room or small café.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Blue couch, wooden table, smartphone, hanging blue object.\n5. **Scene Type**: Dialogue setup."
+    },
+    {
+      "timestamp": 137.0,
+      "timestamp_formatted": "0:02:17",
+      "activity": "The scene appears to be a quiet moment in a room, possibly involving a conversation.",
+      "location": "Indoor, likely a cozy living room or café corner.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a room, possibly involving a conversation.\n2. **Location**: Indoor, likely a cozy living room or café corner.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Table, lamp, window, decorative branches, subtitles.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 138.0,
+      "timestamp_formatted": "0:02:18",
+      "activity": "The scene appears to be a quiet moment in a room, possibly with someone speaking off-screen.",
+      "location": "Indoor, likely a cozy living room or study.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a room, possibly with someone speaking off-screen.\n2. **Location**: Indoor, likely a cozy living room or study.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Bookshelf with books, window with natural light, table lamp, decorative vase.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 139.0,
+      "timestamp_formatted": "0:02:19",
+      "activity": "The scene appears to be a quiet moment in a room, possibly involving a conversation or contemplation.",
+      "location": "Indoor, likely a cozy living room or study area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a room, possibly involving a conversation or contemplation.\n2. **Location**: Indoor, likely a cozy living room or study area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Window with natural light, table lamp, bookshelf, chair, and a laptop.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 140.0,
+      "timestamp_formatted": "0:02:20",
+      "activity": "Someone is using a laptop at a table, possibly working or studying.",
+      "location": "Indoor, likely a home or cozy office space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or work/study scene.",
+      "raw_analysis": "1. **Activity**: Someone is using a laptop at a table, possibly working or studying.\n2. **Location**: Indoor, likely a home or cozy office space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Laptop, table, lamp, window, bookshelf.\n5. **Scene Type**: Dialogue or work/study scene."
+    },
+    {
+      "timestamp": 143.0,
+      "timestamp_formatted": "0:02:23",
+      "activity": "The scene appears to be a casual moment in a room, possibly involving conversation or reflection.",
+      "location": "Indoor, likely a cozy living room or study area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or intimate setting.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a casual moment in a room, possibly involving conversation or reflection.\n2. **Location**: Indoor, likely a cozy living room or study area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Refrigerator, window with light coming through, table lamp, chairs, books or magazines.\n5. **Scene Type**: Dialogue or intimate setting."
+    },
+    {
+      "timestamp": 144.0,
+      "timestamp_formatted": "0:02:24",
+      "activity": "The scene appears to be a quiet moment in a kitchen or dining area.",
+      "location": "Indoor, likely a kitchen or dining room.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a kitchen or dining area.\n2. **Location**: Indoor, likely a kitchen or dining room.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Refrigerator with photos and notes, a small calendar, hanging plants, and a shelf with books.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 145.0,
+      "timestamp_formatted": "0:02:25",
+      "activity": "The scene appears to capture a moment on a street, possibly transitioning or establishing a setting.",
+      "location": "Outdoor, on a paved street.",
+      "mood": "Calm and neutral.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to capture a moment on a street, possibly transitioning or establishing a setting.\n2. **Location**: Outdoor, on a paved street.\n3. **Mood**: Calm and neutral.\n4. **Key Elements**: Asphalt road, manhole cover, shadow, Korean subtitles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 146.0,
+      "timestamp_formatted": "0:02:26",
+      "activity": "The scene appears to be a moment of walking or moving along a street.",
+      "location": "Outdoor, on a paved street or alley.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a moment of walking or moving along a street.\n2. **Location**: Outdoor, on a paved street or alley.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Manhole cover, paved road, shadow, Korean subtitles.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 147.0,
+      "timestamp_formatted": "0:02:27",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, on a paved street in a residential or urban area.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, on a paved street in a residential or urban area.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Paved road, manhole cover, sidewalk, building walls.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 148.0,
+      "timestamp_formatted": "0:02:28",
+      "activity": "The scene shows a quiet street, possibly indicating someone walking or exploring the area.",
+      "location": "Outdoor, in a residential neighborhood with narrow streets.",
+      "mood": "Calm and peaceful.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street, possibly indicating someone walking or exploring the area.\n2. **Location**: Outdoor, in a residential neighborhood with narrow streets.\n3. **Mood**: Calm and peaceful.\n4. **Key Elements**: \n   - Asphalt road\n   - Stone walls\n   - Residential buildings\n   - Staircase\n   - Subtitles in a foreign language\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 149.0,
+      "timestamp_formatted": "0:02:29",
+      "activity": "The scene shows a view down a quiet street, possibly from a moving vehicle or person walking.",
+      "location": "Outdoor, residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view down a quiet street, possibly from a moving vehicle or person walking.\n2. **Location**: Outdoor, residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, stone wall, utility pole, Korean subtitles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 150.0,
+      "timestamp_formatted": "0:02:30",
+      "activity": "The scene shows a quiet street, possibly as part of a walking or travel sequence.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street, possibly as part of a walking or travel sequence.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, brick walls, stairway, utility pole, and greenery.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 151.0,
+      "timestamp_formatted": "0:02:31",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential or urban neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential or urban neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, stone wall, greenery, Korean text subtitles.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 152.0,
+      "timestamp_formatted": "0:02:32",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential or urban neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential or urban neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Paved road\n   - Residential buildings\n   - Stone wall\n   - Staircase\n   - Korean text on a building\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 153.0,
+      "timestamp_formatted": "0:02:33",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, stairway, garage entrance, potted plants.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 154.0,
+      "timestamp_formatted": "0:02:34",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood with buildings lining the street.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood with buildings lining the street.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, stairs, plants, and a garage entrance.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 155.0,
+      "timestamp_formatted": "0:02:35",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential or urban neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential or urban neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, garage entrance, stairs, and a traffic cone.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 156.0,
+      "timestamp_formatted": "0:02:36",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, greenery, Korean text on a building, subtitles at the bottom.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 157.0,
+      "timestamp_formatted": "0:02:37",
+      "activity": "The scene captures a quiet street, possibly with someone walking or observing the surroundings.",
+      "location": "Outdoor, in a residential neighborhood with buildings and narrow streets.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a quiet street, possibly with someone walking or observing the surroundings.\n2. **Location**: Outdoor, in a residential neighborhood with buildings and narrow streets.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Residential buildings, a sloped street, stairs, and a traffic cone.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 158.0,
+      "timestamp_formatted": "0:02:38",
+      "activity": "The scene captures a quiet street, possibly with someone narrating or reflecting.",
+      "location": "Outdoor, in a residential neighborhood with apartment buildings.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a quiet street, possibly with someone narrating or reflecting.\n2. **Location**: Outdoor, in a residential neighborhood with apartment buildings.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Apartment buildings, a sloping street, utility poles, and a small staircase.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 159.0,
+      "timestamp_formatted": "0:02:39",
+      "activity": "The scene shows a quiet street, possibly indicating a transition or establishing shot.",
+      "location": "Outdoor, in a residential or urban neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street, possibly indicating a transition or establishing shot.\n2. **Location**: Outdoor, in a residential or urban neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, parked cars, Korean signage.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 160.0,
+      "timestamp_formatted": "0:02:40",
+      "activity": "The scene shows a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Sloped street, residential buildings, parked bicycles, power lines, and a garage entrance.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 161.0,
+      "timestamp_formatted": "0:02:41",
+      "activity": "The scene captures a quiet street with no visible activity.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a quiet street with no visible activity.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Residential buildings, a narrow street, power lines, and a few plants.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 162.0,
+      "timestamp_formatted": "0:02:42",
+      "activity": "The scene appears to be an introduction or establishing shot with text overlay.",
+      "location": "Indoor setting, likely a room with tiled walls.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be an introduction or establishing shot with text overlay.\n2. **Location**: Indoor setting, likely a room with tiled walls.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Hanging light fixture, window blinds, tiled wall, text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 164.0,
+      "timestamp_formatted": "0:02:44",
+      "activity": "The scene introduces a location, likely a restaurant or cafe.",
+      "location": "Indoor setting, possibly a small dining area or kitchen.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene introduces a location, likely a restaurant or cafe.\n2. **Location**: Indoor setting, possibly a small dining area or kitchen.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Window blinds, tiled wall, hanging light, text overlay with location details.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 165.0,
+      "timestamp_formatted": "0:02:45",
+      "activity": "The scene appears to be an introduction or establishing shot of a location.",
+      "location": "Indoor, likely a restaurant or café.",
+      "mood": "Calm and inviting.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be an introduction or establishing shot of a location.\n2. **Location**: Indoor, likely a restaurant or café.\n3. **Mood**: Calm and inviting.\n4. **Key Elements**: Blinds, tiled wall, stacked glasses, table, text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 166.0,
+      "timestamp_formatted": "0:02:46",
+      "activity": "The scene shows a close-up of a food presentation, specifically sliced tomatoes arranged in a decorative manner.",
+      "location": "Indoor, likely in a dining setting such as a restaurant or home.",
+      "mood": "Calm and focused, with an emphasis on culinary aesthetics.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a food presentation, specifically sliced tomatoes arranged in a decorative manner.\n2. **Location**: Indoor, likely in a dining setting such as a restaurant or home.\n3. **Mood**: Calm and focused, with an emphasis on culinary aesthetics.\n4. **Key Elements**: Sliced tomatoes arranged like a flower, a decorative plate, additional small dishes, text with a rating.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 169.0,
+      "timestamp_formatted": "0:02:49",
+      "activity": "The scene shows a close-up of a tomato sliced and arranged in a decorative manner on a plate.",
+      "location": "Indoor, likely in a dining or kitchen setting.",
+      "mood": "Calm and aesthetically pleasing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a tomato sliced and arranged in a decorative manner on a plate.\n2. **Location**: Indoor, likely in a dining or kitchen setting.\n3. **Mood**: Calm and aesthetically pleasing.\n4. **Key Elements**: Sliced tomato arranged like a flower, white plate with a gold rim, text overlay with ratings.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 170.0,
+      "timestamp_formatted": "0:02:50",
+      "activity": "The scene shows a display of Korean dishes, likely for a food review or presentation.",
+      "location": "Indoor, likely in a restaurant or dining setting.",
+      "mood": "The atmosphere is inviting and appetizing.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a display of Korean dishes, likely for a food review or presentation.\n2. **Location**: Indoor, likely in a restaurant or dining setting.\n3. **Mood**: The atmosphere is inviting and appetizing.\n4. **Key Elements**: \n   - A large plate of bulgogi pancake (파전)\n   - A bowl of rice (공기밥)\n   - Small side dishes\n   - Text with ratings and descriptions\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 173.0,
+      "timestamp_formatted": "0:02:53",
+      "activity": "A dish is being presented, likely for a food review or cooking show.",
+      "location": "Indoor, possibly a restaurant or kitchen setting.",
+      "mood": "Calm and focused on the culinary presentation.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: A dish is being presented, likely for a food review or cooking show.\n2. **Location**: Indoor, possibly a restaurant or kitchen setting.\n3. **Mood**: Calm and focused on the culinary presentation.\n4. **Key Elements**: Plate with tofu dish, garnishes (green onions, chili), soy-based sauce, text overlay in Korean.\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 175.0,
+      "timestamp_formatted": "0:02:55",
+      "activity": "The scene shows a close-up of a plated dish, likely being presented or reviewed.",
+      "location": "Indoor, possibly in a restaurant or dining setting.",
+      "mood": "Calm and focused, with an emphasis on culinary presentation.",
+      "key_elements": [],
+      "scene_type": "Food closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a plated dish, likely being presented or reviewed.\n2. **Location**: Indoor, possibly in a restaurant or dining setting.\n3. **Mood**: Calm and focused, with an emphasis on culinary presentation.\n4. **Key Elements**: \n   - A plate with fried tofu in sauce\n   - Garnishes including green onions and chili\n   - A side dish with sliced red vegetables\n   - Text overlay in Korean\n5. **Scene Type**: Food closeup."
+    },
+    {
+      "timestamp": 177.0,
+      "timestamp_formatted": "0:02:57",
+      "activity": "A person is adjusting their face mask while looking at the camera.",
+      "location": "Indoor, likely a living room or hallway.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is adjusting their face mask while looking at the camera.\n2. **Location**: Indoor, likely a living room or hallway.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Person wearing a black mask, staircase, sofa, wall with light switch.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 185.0,
+      "timestamp_formatted": "0:03:05",
+      "activity": "The scene shows someone ascending a staircase.",
+      "location": "Indoor, likely in a residential or commercial building.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows someone ascending a staircase.\n2. **Location**: Indoor, likely in a residential or commercial building.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Wooden staircase, handrail, text overlay in Korean, plant.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 186.0,
+      "timestamp_formatted": "0:03:06",
+      "activity": "The scene shows someone ascending a staircase.",
+      "location": "Indoor, likely in a residential or commercial building.",
+      "mood": "Neutral and straightforward.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows someone ascending a staircase.\n2. **Location**: Indoor, likely in a residential or commercial building.\n3. **Mood**: Neutral and straightforward.\n4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 187.0,
+      "timestamp_formatted": "0:03:07",
+      "activity": "Someone is ascending a staircase.",
+      "location": "Indoor, likely in a building or house.",
+      "mood": "Neutral and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is ascending a staircase.\n2. **Location**: Indoor, likely in a building or house.\n3. **Mood**: Neutral and focused.\n4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 188.0,
+      "timestamp_formatted": "0:03:08",
+      "activity": "The scene shows someone ascending a staircase.",
+      "location": "Indoor, likely in a residential or office building.",
+      "mood": "Neutral and functional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows someone ascending a staircase.\n2. **Location**: Indoor, likely in a residential or office building.\n3. **Mood**: Neutral and functional.\n4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 189.0,
+      "timestamp_formatted": "0:03:09",
+      "activity": "The scene shows someone ascending a staircase.",
+      "location": "Indoor, likely in a residential or office building.",
+      "mood": "Neutral and functional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows someone ascending a staircase.\n2. **Location**: Indoor, likely in a residential or office building.\n3. **Mood**: Neutral and functional.\n4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 190.0,
+      "timestamp_formatted": "0:03:10",
+      "activity": "The scene shows a view of a staircase, possibly indicating movement or transition.",
+      "location": "Indoor setting, likely in a residential or office building.",
+      "mood": "Neutral and calm.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a staircase, possibly indicating movement or transition.\n2. **Location**: Indoor setting, likely in a residential or office building.\n3. **Mood**: Neutral and calm.\n4. **Key Elements**: Wooden stairs, white walls, upward perspective.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 192.0,
+      "timestamp_formatted": "0:03:12",
+      "activity": "The scene appears to be static, with no visible activity occurring.",
+      "location": "Indoor, likely a residential space such as a hallway or entryway.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static, with no visible activity occurring.\n2. **Location**: Indoor, likely a residential space such as a hallway or entryway.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Wooden floor\n   - White door\n   - Small table with a yellow cloth\n   - Wall with baseboard\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 193.0,
+      "timestamp_formatted": "0:03:13",
+      "activity": "The scene appears to be static with no visible activity.",
+      "location": "Indoor, likely a corner of a room.",
+      "mood": "Calm and minimalistic.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static with no visible activity.\n2. **Location**: Indoor, likely a corner of a room.\n3. **Mood**: Calm and minimalistic.\n4. **Key Elements**: Wooden floor, white door, small table with a yellow cloth, vase with dried plants.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 194.0,
+      "timestamp_formatted": "0:03:14",
+      "activity": "The scene appears to be static, with no visible activity occurring.",
+      "location": "Indoor, likely a room in a house or apartment.",
+      "mood": "Calm and simple.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static, with no visible activity occurring.\n2. **Location**: Indoor, likely a room in a house or apartment.\n3. **Mood**: Calm and simple.\n4. **Key Elements**: \n   - Plain wall\n   - Wooden floor\n   - Small table with a yellow cloth\n   - Vase with dried flowers\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 196.0,
+      "timestamp_formatted": "0:03:16",
+      "activity": "The scene appears to be a static shot focusing on a corner of a room.",
+      "location": "Indoor, likely a cozy room or living space.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot focusing on a corner of a room.\n2. **Location**: Indoor, likely a cozy room or living space.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Window with light coming through\n   - A bouquet of dried flowers\n   - A fluffy white chair or cushion\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 197.0,
+      "timestamp_formatted": "0:03:17",
+      "activity": "The scene is static, showing a corner of a room.",
+      "location": "Indoor, likely a personal or creative space.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene is static, showing a corner of a room.\n2. **Location**: Indoor, likely a personal or creative space.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: \n   - Poster with a man's head and the text \"THE FUTURE BELONGS TO THE CURIOUS\"\n   - Window with grid pattern\n   - Chair with a white fur covering\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 198.0,
+      "timestamp_formatted": "0:03:18",
+      "activity": "The scene shows a wall with a poster.",
+      "location": "Indoor, likely in a home or office.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a wall with a poster.\n2. **Location**: Indoor, likely in a home or office.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: \n   - Poster with a man's portrait and the phrase \"THE FUTURE BELONGS TO THE CURIOUS\"\n   - Window with natural light\n   - Light-colored wall\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 200.0,
+      "timestamp_formatted": "0:03:20",
+      "activity": "The scene appears to be static with no visible activity occurring.",
+      "location": "Indoor, likely a hallway or corridor in a residential setting.",
+      "mood": "Calm and neutral.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be static with no visible activity occurring.\n2. **Location**: Indoor, likely a hallway or corridor in a residential setting.\n3. **Mood**: Calm and neutral.\n4. **Key Elements**: \n   - White door\n   - Light switch\n   - Wall\n   - Floor mat\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 201.0,
+      "timestamp_formatted": "0:03:21",
+      "activity": "The scene appears to be a quiet moment in a hallway, possibly with someone entering or exploring the space.",
+      "location": "Indoor, residential hallway.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a hallway, possibly with someone entering or exploring the space.\n2. **Location**: Indoor, residential hallway.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: \n   - White door\n   - Wooden floor\n   - Wall shelf with a framed heart artwork\n   - Vase with dried flowers\n   - Staircase\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 202.0,
+      "timestamp_formatted": "0:03:22",
+      "activity": "The scene appears to be a static shot of a hallway.",
+      "location": "Indoor, likely a residential home.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot of a hallway.\n2. **Location**: Indoor, likely a residential home.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Staircase, hallway cabinet, decorative vase with dried flowers, artwork with a heart, Korean text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 203.0,
+      "timestamp_formatted": "0:03:23",
+      "activity": "The scene appears to be a quiet moment, possibly someone exploring or entering a part of a house.",
+      "location": "Indoor, likely a hallway or entryway in a home.",
+      "mood": "Calm and introspective.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment, possibly someone exploring or entering a part of a house.\n2. **Location**: Indoor, likely a hallway or entryway in a home.\n3. **Mood**: Calm and introspective.\n4. **Key Elements**: \n   - Framed artwork with a heart\n   - Small shelf with a vase of dried flowers\n   - Wooden staircase\n   - Subtitled text in Korean\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 204.0,
+      "timestamp_formatted": "0:03:24",
+      "activity": "The scene appears to be a static shot focusing on a decorative area.",
+      "location": "Indoor, likely a hallway or entryway.",
+      "mood": "Calm and minimalistic.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a static shot focusing on a decorative area.\n2. **Location**: Indoor, likely a hallway or entryway.\n3. **Mood**: Calm and minimalistic.\n4. **Key Elements**: \n   - Wall art with a heart design\n   - Small shelf\n   - Dried plant in a bottle\n   - Cabinet\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 205.0,
+      "timestamp_formatted": "0:03:25",
+      "activity": "The scene shows a static interior setup, likely for decorative purposes.",
+      "location": "Indoor, possibly a hallway or small room.",
+      "mood": "Calm and minimalist.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a static interior setup, likely for decorative purposes.\n2. **Location**: Indoor, possibly a hallway or small room.\n3. **Mood**: Calm and minimalist.\n4. **Key Elements**: \n   - Framed artwork with a red heart\n   - Wooden shelf\n   - Vase with dried flowers\n   - Wine bottle used as a vase\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 206.0,
+      "timestamp_formatted": "0:03:26",
+      "activity": "The scene shows a static display of artwork on a shelf.",
+      "location": "Indoor, likely a home or gallery space.",
+      "mood": "Calm and minimalist.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a static display of artwork on a shelf.\n2. **Location**: Indoor, likely a home or gallery space.\n3. **Mood**: Calm and minimalist.\n4. **Key Elements**: \n   - Artwork featuring a heart and figures\n   - Wooden shelf\n   - Dried plant arrangement\n   - White wall background\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 207.0,
+      "timestamp_formatted": "0:03:27",
+      "activity": "The scene shows a static view of a decorated wall.",
+      "location": "Indoor, likely a home or office.",
+      "mood": "Calm and artistic.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a static view of a decorated wall.\n2. **Location**: Indoor, likely a home or office.\n3. **Mood**: Calm and artistic.\n4. **Key Elements**: \n   - A wooden shelf\n   - Artwork with a red heart\n   - Dried plant arrangement\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 208.0,
+      "timestamp_formatted": "0:03:28",
+      "activity": "The scene appears to show a transition or movement from one room to another.",
+      "location": "Indoor, likely in a home or apartment.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene appears to show a transition or movement from one room to another.\n2. **Location**: Indoor, likely in a home or apartment.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Bookshelf, books, doorway, curtain, window with light coming through.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 209.0,
+      "timestamp_formatted": "0:03:29",
+      "activity": "The scene appears to be a quiet moment in a living space, possibly transitioning between activities.",
+      "location": "Indoor, in a living room area.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a living space, possibly transitioning between activities.\n2. **Location**: Indoor, in a living room area.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Bookshelf, sofa with pillows, floor lamp, tripod, wall art.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 210.0,
+      "timestamp_formatted": "0:03:30",
+      "activity": "The scene shows a transition from a dimly lit room to a brighter area.",
+      "location": "Indoor, likely a home or library with bookshelves.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a transition from a dimly lit room to a brighter area.\n2. **Location**: Indoor, likely a home or library with bookshelves.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: Bookshelves, books, curtain, table with a red tablecloth.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 211.0,
+      "timestamp_formatted": "0:03:31",
+      "activity": "The scene shows a quiet, possibly contemplative moment in a hallway or study area.",
+      "location": "Indoor, likely a home or library space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet, possibly contemplative moment in a hallway or study area.\n2. **Location**: Indoor, likely a home or library space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Bookshelf filled with books, a standing mirror, a lamp, and a plant.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 212.0,
+      "timestamp_formatted": "0:03:32",
+      "activity": "The scene appears to show a door being opened or closed.",
+      "location": "Indoor, possibly in a residential or office setting.",
+      "mood": "Neutral or transitional.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene appears to show a door being opened or closed.\n2. **Location**: Indoor, possibly in a residential or office setting.\n3. **Mood**: Neutral or transitional.\n4. **Key Elements**: Wooden door, door frame, glimpse of a room interior.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 213.0,
+      "timestamp_formatted": "0:03:33",
+      "activity": "The scene shows a tidy bedroom setup with a workspace.",
+      "location": "Indoor, in a bedroom.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a tidy bedroom setup with a workspace.\n2. **Location**: Indoor, in a bedroom.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Bed with pink bedding, wooden desk with a laptop, chair, decorative items, and a balcony area.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 214.0,
+      "timestamp_formatted": "0:03:34",
+      "activity": "The scene shows a workspace setup, possibly for remote work or study.",
+      "location": "Indoor, in a bedroom or small apartment.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.\n2. **Location**: Indoor, in a bedroom or small apartment.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Laptop, bed with pink bedding, table with a patterned cloth, potted plants, and a window with sheer curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 215.0,
+      "timestamp_formatted": "0:03:35",
+      "activity": "The scene shows a workspace setup, possibly for remote work or content creation.",
+      "location": "Indoor, likely a bedroom or small apartment.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly for remote work or content creation.\n2. **Location**: Indoor, likely a bedroom or small apartment.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Laptop, bed, curtains, table with a patterned cloth, and a mirror.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 216.0,
+      "timestamp_formatted": "0:03:36",
+      "activity": "A workspace is set up, likely for remote work or study.",
+      "location": "Indoor, in a bedroom or personal workspace.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace is set up, likely for remote work or study.\n2. **Location**: Indoor, in a bedroom or personal workspace.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Laptop, bed, table with patterned cloth, mirror, and decorative items.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 217.0,
+      "timestamp_formatted": "0:03:37",
+      "activity": "A workspace is set up, possibly for remote work or study.",
+      "location": "Indoor, likely a home office or bedroom.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace is set up, possibly for remote work or study.\n2. **Location**: Indoor, likely a home office or bedroom.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Laptop, mouse, decorative cacti, mirror, headphones.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 218.0,
+      "timestamp_formatted": "0:03:38",
+      "activity": "A workspace setup is being shown, likely for remote work or study.",
+      "location": "Indoor, possibly a bedroom or home office.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A workspace setup is being shown, likely for remote work or study.\n2. **Location**: Indoor, possibly a bedroom or home office.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Laptop, mouse, small plants, mirror, bed.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 219.0,
+      "timestamp_formatted": "0:03:39",
+      "activity": "A laptop is open on a table, possibly being used for work or leisure.",
+      "location": "Indoor, likely a home or personal workspace.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A laptop is open on a table, possibly being used for work or leisure.\n2. **Location**: Indoor, likely a home or personal workspace.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Laptop with a colorful desktop, patterned tablecloth, mirror, computer mouse.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 220.0,
+      "timestamp_formatted": "0:03:40",
+      "activity": "The scene shows a workspace setup, possibly indicating someone is preparing to work or study.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a workspace setup, possibly indicating someone is preparing to work or study.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Laptop, computer mouse, helmet, patterned tablecloth, and a window or door with a view of a wooden deck.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 221.0,
+      "timestamp_formatted": "0:03:41",
+      "activity": "The scene shows a view from inside looking out onto a small patio or balcony area.",
+      "location": "Indoor setting leading to an outdoor balcony or patio.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view from inside looking out onto a small patio or balcony area.\n2. **Location**: Indoor setting leading to an outdoor balcony or patio.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: \n   - Wooden deck tiles\n   - White decorative stones\n   - Red chair\n   - Red container with items inside\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 222.0,
+      "timestamp_formatted": "0:03:42",
+      "activity": "The scene shows a quiet, unoccupied space.",
+      "location": "Indoor, likely a small balcony or sunroom.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a quiet, unoccupied space.\n2. **Location**: Indoor, likely a small balcony or sunroom.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Folding chair, exercise ball, wooden floor tiles, sheer curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 223.0,
+      "timestamp_formatted": "0:03:43",
+      "activity": "The scene appears to be a setup for a home workout or relaxation area.",
+      "location": "Indoor, likely a home or apartment space with a focus on exercise or leisure.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a setup for a home workout or relaxation area.\n2. **Location**: Indoor, likely a home or apartment space with a focus on exercise or leisure.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Exercise ball, yoga mat, shelving with workout equipment, potted plant, sheer curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 224.0,
+      "timestamp_formatted": "0:03:44",
+      "activity": "The scene shows a home workout or relaxation space.",
+      "location": "Indoor, likely a home gym or personal exercise area.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a home workout or relaxation space.\n2. **Location**: Indoor, likely a home gym or personal exercise area.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Exercise ball, yoga mat, kettlebell, potted plant, storage shelf.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 225.0,
+      "timestamp_formatted": "0:03:45",
+      "activity": "The scene shows a home workout space setup.",
+      "location": "Indoor, likely a home gym or exercise area.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a home workout space setup.\n2. **Location**: Indoor, likely a home gym or exercise area.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Exercise ball, yoga mat, shelving unit with plants and workout equipment, patterned chair, brick wall.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 226.0,
+      "timestamp_formatted": "0:03:46",
+      "activity": "The scene shows a home workout or fitness area setup.",
+      "location": "Indoor, likely a home gym or personal exercise space.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a home workout or fitness area setup.\n2. **Location**: Indoor, likely a home gym or personal exercise space.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Exercise ball, yoga mats, kettlebell, potted plant, shelving unit.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 227.0,
+      "timestamp_formatted": "0:03:47",
+      "activity": "The scene shows a setup for relaxation or exercise.",
+      "location": "Indoor, possibly a home balcony or sunroom.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a setup for relaxation or exercise.\n2. **Location**: Indoor, possibly a home balcony or sunroom.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Folding chair, exercise ball, shelving unit with plants and workout equipment, yoga mats.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 228.0,
+      "timestamp_formatted": "0:03:48",
+      "activity": "The scene appears to be a setup or arrangement of a home workout or relaxation area.",
+      "location": "Indoor, likely a home or apartment space.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a setup or arrangement of a home workout or relaxation area.\n2. **Location**: Indoor, likely a home or apartment space.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Exercise ball, folding chair, shelving unit with various items, wooden floor tiles, sheer curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 229.0,
+      "timestamp_formatted": "0:03:49",
+      "activity": "The scene appears to show a quiet indoor space, possibly set up for relaxation or exercise.",
+      "location": "Indoor, likely a home or personal gym area.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to show a quiet indoor space, possibly set up for relaxation or exercise.\n2. **Location**: Indoor, likely a home or personal gym area.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Brick wall, large plant, shelving unit with exercise equipment, white curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 230.0,
+      "timestamp_formatted": "0:03:50",
+      "activity": "The scene appears to be a setup or showcase of a home gym area.",
+      "location": "Indoor, likely a home gym or workout space.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a setup or showcase of a home gym area.\n2. **Location**: Indoor, likely a home gym or workout space.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: Exercise equipment (kettlebell, yoga mat, exercise ball), brick wall, potted plant, sheer curtains.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 231.0,
+      "timestamp_formatted": "0:03:51",
+      "activity": "The scene appears to be a setup for a home workout or relaxation area.",
+      "location": "Indoor, likely a home gym or personal exercise space.",
+      "mood": "Calm and organized.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a setup for a home workout or relaxation area.\n2. **Location**: Indoor, likely a home gym or personal exercise space.\n3. **Mood**: Calm and organized.\n4. **Key Elements**: \n   - Yoga mats\n   - Potted plant\n   - Kettlebell\n   - Resistance bands\n   - Brick wall\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 232.0,
+      "timestamp_formatted": "0:03:52",
+      "activity": "The scene appears to be a setup or decoration display.",
+      "location": "Indoor, likely a living room or similar space.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a setup or decoration display.\n2. **Location**: Indoor, likely a living room or similar space.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Large green plant, brick wall, wooden shelf, lantern, bottle.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 233.0,
+      "timestamp_formatted": "0:03:53",
+      "activity": "The scene appears to involve a conversation or narration, possibly with someone off-screen.",
+      "location": "Indoor setting, likely a room with curtains.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue or narration.",
+      "raw_analysis": "1. **Activity**: The scene appears to involve a conversation or narration, possibly with someone off-screen.\n2. **Location**: Indoor setting, likely a room with curtains.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: \n   - Sheer curtains\n   - A dark cylindrical object (possibly a furniture piece or decor)\n   - Subtitles in Korean\n5. **Scene Type**: Dialogue or narration."
+    },
+    {
+      "timestamp": 234.0,
+      "timestamp_formatted": "0:03:54",
+      "activity": "The scene shows a close-up of a lace curtain.",
+      "location": "Indoor, likely in a home or cozy setting.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a lace curtain.\n2. **Location**: Indoor, likely in a home or cozy setting.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Lace curtain, light filtering through, intricate patterns.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 235.0,
+      "timestamp_formatted": "0:03:55",
+      "activity": "A person is standing or moving slightly, possibly preparing to walk.",
+      "location": "Indoor, likely a home or apartment with wooden flooring.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is standing or moving slightly, possibly preparing to walk.\n2. **Location**: Indoor, likely a home or apartment with wooden flooring.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Wooden floor tiles, bare feet, a knitted blanket or fabric, a textured object (possibly a pouf or cushion).\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 236.0,
+      "timestamp_formatted": "0:03:56",
+      "activity": "A person is speaking directly to the camera, possibly explaining or discussing something.",
+      "location": "Indoor, likely a home or casual setting with a brick wall and plants.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.\n2. **Location**: Indoor, likely a home or casual setting with a brick wall and plants.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Person speaking, brick wall, potted plants, shelving with various items, text overlay.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 239.0,
+      "timestamp_formatted": "0:03:59",
+      "activity": "A person is speaking, possibly engaged in a conversation or monologue.",
+      "location": "Outdoor setting, likely a patio or balcony.",
+      "mood": "Relaxed and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue",
+      "raw_analysis": "1. **Activity**: A person is speaking, possibly engaged in a conversation or monologue.\n2. **Location**: Outdoor setting, likely a patio or balcony.\n3. **Mood**: Relaxed and casual.\n4. **Key Elements**: \n   - Person speaking\n   - Brick wall\n   - Potted plant\n   - Shelving with various items (kettlebell, bottle, lamp)\n5. **Scene Type**: Dialogue"
+    },
+    {
+      "timestamp": 241.0,
+      "timestamp_formatted": "0:04:01",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or video message.",
+      "location": "Outdoor setting, likely a patio or balcony area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.\n2. **Location**: Outdoor setting, likely a patio or balcony area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: \n   - Person sitting and speaking\n   - Brick wall background\n   - Large green plant\n   - Shelving with various items\n   - Text overlay at the bottom\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 579.0,
+      "timestamp_formatted": "0:09:39",
+      "activity": "A person is speaking directly to the camera, possibly recording a vlog or an interview.",
+      "location": "Outdoor setting, likely a patio or balcony area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/monologue.",
+      "raw_analysis": "1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or an interview.\n2. **Location**: Outdoor setting, likely a patio or balcony area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: \n   - Person seated and speaking\n   - Brick wall background\n   - Potted plant\n   - Shelving with various items\n   - Exercise equipment\n5. **Scene Type**: Dialogue/monologue."
+    },
+    {
+      "timestamp": 643.0,
+      "timestamp_formatted": "0:10:43",
+      "activity": "A person is working on a laptop, possibly editing a video.",
+      "location": "Indoor, likely a cozy cafe or home office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Work or study session.",
+      "raw_analysis": "1. **Activity**: A person is working on a laptop, possibly editing a video.\n2. **Location**: Indoor, likely a cozy cafe or home office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Laptop, person, coffee cup, earphones, lamp.\n5. **Scene Type**: Work or study session."
+    },
+    {
+      "timestamp": 644.0,
+      "timestamp_formatted": "0:10:44",
+      "activity": "Two people are working on laptops, possibly editing a video.",
+      "location": "Indoor setting, likely a cozy office or home workspace.",
+      "mood": "Focused and intimate.",
+      "key_elements": [],
+      "scene_type": "Work session.",
+      "raw_analysis": "1. **Activity**: Two people are working on laptops, possibly editing a video.\n2. **Location**: Indoor setting, likely a cozy office or home workspace.\n3. **Mood**: Focused and intimate.\n4. **Key Elements**: Laptops, a person holding cables, a cup, and papers on the table.\n5. **Scene Type**: Work session."
+    },
+    {
+      "timestamp": 645.0,
+      "timestamp_formatted": "0:10:45",
+      "activity": "Someone is working on video editing on a laptop.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Focused and productive.",
+      "key_elements": [],
+      "scene_type": "Work/creative process.",
+      "raw_analysis": "1. **Activity**: Someone is working on video editing on a laptop.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Focused and productive.\n4. **Key Elements**: Laptop with editing software, a second laptop, a mouse, and papers with notes.\n5. **Scene Type**: Work/creative process."
+    },
+    {
+      "timestamp": 646.0,
+      "timestamp_formatted": "0:10:46",
+      "activity": "A person is working on video editing on a laptop.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Focused and productive.",
+      "key_elements": [],
+      "scene_type": "Work/creative process.",
+      "raw_analysis": "1. **Activity**: A person is working on video editing on a laptop.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Focused and productive.\n4. **Key Elements**: Laptop with video editing software, another laptop, a person handling cables, a mouse.\n5. **Scene Type**: Work/creative process."
+    },
+    {
+      "timestamp": 647.0,
+      "timestamp_formatted": "0:10:47",
+      "activity": "A person is working on video editing on a laptop.",
+      "location": "Indoor, likely a cozy workspace or home office.",
+      "mood": "Focused and intimate.",
+      "key_elements": [],
+      "scene_type": "Work/creative process.",
+      "raw_analysis": "1. **Activity**: A person is working on video editing on a laptop.\n2. **Location**: Indoor, likely a cozy workspace or home office.\n3. **Mood**: Focused and intimate.\n4. **Key Elements**: Laptop with video editing software, another laptop, a person, a mouse, and a cozy seating area.\n5. **Scene Type**: Work/creative process."
+    },
+    {
+      "timestamp": 648.0,
+      "timestamp_formatted": "0:10:48",
+      "activity": "A person is working on video editing on a laptop.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Focused and productive.",
+      "key_elements": [],
+      "scene_type": "Work/Study session.",
+      "raw_analysis": "1. **Activity**: A person is working on video editing on a laptop.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Focused and productive.\n4. **Key Elements**: Laptop with video editing software, another laptop, a mouse, papers, and a cup.\n5. **Scene Type**: Work/Study session."
+    },
+    {
+      "timestamp": 649.0,
+      "timestamp_formatted": "0:10:49",
+      "activity": "A person is looking at a refrigerator, possibly deciding what to take or checking its contents.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday life moment.",
+      "raw_analysis": "1. **Activity**: A person is looking at a refrigerator, possibly deciding what to take or checking its contents.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Red refrigerator with magnets and notes, person wearing a mask, hanging light fixture, table with items.\n5. **Scene Type**: Everyday life moment."
+    },
+    {
+      "timestamp": 650.0,
+      "timestamp_formatted": "0:10:50",
+      "activity": "A person is examining or interacting with a refrigerator.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is examining or interacting with a refrigerator.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Red refrigerator, person wearing a mask, colorful magnets or markers, hanging light fixture.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 651.0,
+      "timestamp_formatted": "0:10:51",
+      "activity": "A person is looking at a refrigerator, possibly reading or contemplating something on it.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is looking at a refrigerator, possibly reading or contemplating something on it.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: Red refrigerator with magnets and photos, person wearing a mask, blue hanging lamp, yellow walls.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 652.0,
+      "timestamp_formatted": "0:10:52",
+      "activity": "A woman is standing in front of a refrigerator, seemingly contemplating or reading something.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and contemplative.",
+      "key_elements": [],
+      "scene_type": "Dialogue or contemplation.",
+      "raw_analysis": "1. **Activity**: A woman is standing in front of a refrigerator, seemingly contemplating or reading something.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and contemplative.\n4. **Key Elements**: \n   - Woman wearing a mask\n   - Red refrigerator with magnets and photos\n   - Blue hanging lamp\n   - Text overlay in Korean\n5. **Scene Type**: Dialogue or contemplation."
+    },
+    {
+      "timestamp": 653.0,
+      "timestamp_formatted": "0:10:53",
+      "activity": "A person is interacting with items on a refrigerator, possibly arranging or examining them.",
+      "location": "Indoor, likely in a kitchen or living area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Everyday interaction.",
+      "raw_analysis": "1. **Activity**: A person is interacting with items on a refrigerator, possibly arranging or examining them.\n2. **Location**: Indoor, likely in a kitchen or living area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Red refrigerator, colorful markers, a person wearing a mask, decorative lamp, wall decorations.\n5. **Scene Type**: Everyday interaction."
+    },
+    {
+      "timestamp": 654.0,
+      "timestamp_formatted": "0:10:54",
+      "activity": "A person is standing near a refrigerator, holding a marker.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Dialogue or interaction.",
+      "raw_analysis": "1. **Activity**: A person is standing near a refrigerator, holding a marker.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Red refrigerator, markers on the fridge, person wearing a mask, hanging light fixture, yellow wall.\n5. **Scene Type**: Dialogue or interaction."
+    },
+    {
+      "timestamp": 655.0,
+      "timestamp_formatted": "0:10:55",
+      "activity": "A person is looking at or interacting with items on a refrigerator.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Interaction.",
+      "raw_analysis": "1. **Activity**: A person is looking at or interacting with items on a refrigerator.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Refrigerator with markers and notes, a person wearing a mask, a hanging light fixture, a poster on the fridge.\n5. **Scene Type**: Interaction."
+    },
+    {
+      "timestamp": 656.0,
+      "timestamp_formatted": "0:10:56",
+      "activity": "A person is interacting with items on a refrigerator, possibly organizing or looking at notes.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is interacting with items on a refrigerator, possibly organizing or looking at notes.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Red refrigerator, colorful markers, a person wearing a mask, a hanging light fixture, wall decorations.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 657.0,
+      "timestamp_formatted": "0:10:57",
+      "activity": "A person is standing near a refrigerator, possibly interacting with it or someone off-camera.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue or casual interaction.",
+      "raw_analysis": "1. **Activity**: A person is standing near a refrigerator, possibly interacting with it or someone off-camera.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Red refrigerator with magnets, person wearing a mask, hanging blue lantern, wall decorations.\n5. **Scene Type**: Dialogue or casual interaction."
+    },
+    {
+      "timestamp": 658.0,
+      "timestamp_formatted": "0:10:58",
+      "activity": "A person is walking down a dimly lit street, possibly talking on the phone.",
+      "location": "Outdoor, in a residential area at night.",
+      "mood": "Calm and slightly mysterious.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking down a dimly lit street, possibly talking on the phone.\n2. **Location**: Outdoor, in a residential area at night.\n3. **Mood**: Calm and slightly mysterious.\n4. **Key Elements**: Person with a large bag, streetlight, parked cars, narrow street.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 659.0,
+      "timestamp_formatted": "0:10:59",
+      "activity": "A person is walking down a dimly lit street at night.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and slightly mysterious.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking down a dimly lit street at night.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and slightly mysterious.\n4. **Key Elements**: Street lamp, parked cars, person with a large bag, narrow street.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 664.0,
+      "timestamp_formatted": "0:11:04",
+      "activity": "A person is standing in the street with arms outstretched, possibly posing or expressing excitement.",
+      "location": "Outdoor, in a residential street at night.",
+      "mood": "The atmosphere is lively and playful.",
+      "key_elements": [],
+      "scene_type": "Candid moment.",
+      "raw_analysis": "1. **Activity**: A person is standing in the street with arms outstretched, possibly posing or expressing excitement.\n2. **Location**: Outdoor, in a residential street at night.\n3. **Mood**: The atmosphere is lively and playful.\n4. **Key Elements**: \n   - Person with arms outstretched\n   - Street lighting\n   - Residential buildings\n   - Another person in the background\n   - Text overlay in Korean\n5. **Scene Type**: Candid moment."
+    },
+    {
+      "timestamp": 668.0,
+      "timestamp_formatted": "0:11:08",
+      "activity": "A person is walking down a dimly lit street at night, possibly engaging in conversation.",
+      "location": "Outdoor, in a residential neighborhood.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Dialogue.",
+      "raw_analysis": "1. **Activity**: A person is walking down a dimly lit street at night, possibly engaging in conversation.\n2. **Location**: Outdoor, in a residential neighborhood.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Streetlight, person wearing a mask, large handbag, parked cars, residential buildings.\n5. **Scene Type**: Dialogue."
+    },
+    {
+      "timestamp": 677.0,
+      "timestamp_formatted": "0:11:17",
+      "activity": "A person is walking down a dimly lit street.",
+      "location": "Outdoor, in an urban alley or narrow street.",
+      "mood": "Calm and slightly mysterious.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is walking down a dimly lit street.\n2. **Location**: Outdoor, in an urban alley or narrow street.\n3. **Mood**: Calm and slightly mysterious.\n4. **Key Elements**: Streetlights, parked cars, a person walking, buildings, Korean text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 678.0,
+      "timestamp_formatted": "0:11:18",
+      "activity": "The scene captures a view of a cityscape with a prominent tower in the background.",
+      "location": "Outdoor, urban area with buildings and a tower, likely a city street.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene captures a view of a cityscape with a prominent tower in the background.\n2. **Location**: Outdoor, urban area with buildings and a tower, likely a city street.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: \n   - Tower in the background\n   - Urban buildings\n   - Power lines\n   - Hills with trees\n   - Text overlay (\"my 184\")\n5. **Scene Type**: Establishing shot."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Establishing shot.",
+        118
+      ],
+      [
+        "Transition.",
+        26
+      ],
+      [
+        "Dialogue.",
+        19
+      ],
+      [
+        "Food closeup.",
+        6
+      ],
+      [
+        "Transition",
+        4
+      ]
+    ],
+    "locations": [
+      "Outdoor urban setting, likely in a city with a recognizable tower.",
+      "Indoor, likely a living room or personal space.",
+      "Indoor, likely a home office or living room.",
+      "Indoor, likely a home office or study area.",
+      "Indoor, possibly a café or restaurant.",
+      "Indoor, likely in a dining or kitchen setting.",
+      "Indoor, likely a living room.",
+      "Outdoor, urban street in Seoul.",
+      "Outdoor urban setting, likely a city street in Seoul.",
+      "Indoor, at a train station platform."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and serene.",
+        32
+      ],
+      [
+        "Calm and quiet.",
+        27
+      ],
+      [
+        "Calm and focused.",
+        16
+      ],
+      [
+        "Calm and intimate.",
+        15
+      ],
+      [
+        "Calm and organized.",
+        13
+      ]
+    ]
+  }
+}

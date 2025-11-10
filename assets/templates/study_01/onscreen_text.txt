@@ -1,0 +1,1234 @@
+==================================================
+ON-SCREEN TEXT EXTRACTION
+==================================================
+
+[00:00:00]
+- 6
+(op fo sd
+
+[00:00:03]
+a
+~ % %@
+(야 ~ ~
+
+[00:00:09]
+.                                           ~
+오늘은 제가 하루 종일 시험공부 * 모습을 보여드리려고 합니다
+
+[00:00:12]
+| _ os
+오늘은 제가 하루 종일 NGS? 하는 모습을 보여드리려고 함니다
+
+[00:00:15]
+오늘은 제가 하루 종일 시험공부 하는 ree 보여드리려고 합니다
+
+[00:00:18]
+a       지금 ZAI 이유는..
+A    —      \ 7
+
+[00:00:21]
+| Fees 0,
+
+[00:00:24]
+Sad aa 산책을 0
+
+[00:00:27]
+=
+6 갤 , 일단로제 산책을 나가야 되는데
+
+[00:00:30]
+"나갈 준비를 하면서 역사 강의를 보도록 하겠습니다
+
+[00:00:33]
+ie 000 놀
+나갈 글 를 하면서 역사 ae 보도록 하겠습니다
+
+[00:00:36]
+도   [ 이 노비 굴이 ol BG
+
+[00:00:39]
+인 이 Bea   Fa
+
+[00:00:42]
+다음쿨가 드디어 71s Ae
+
+[00:00:45]
+이선 0009 그
+
+[00:00:48]
+pain
+
+[00:00:51]
+|
+내일은 종일 al 예정이라 혼공할 시간이 많이 Oke
+
+[00:00:54]
+ai ie                          Zi       a
+내일흔.종일 나  pee 예정이라 혼공할 시간이 많이 QMaEE
+
+[00:00:57]
+OO! 꼬르 ators Ol 자진미 Si
+
+[00:01:00]
+o No ate aust lore ee
+
+[00:01:03]
+제 0 「으                           wy 7
+" |   a |
+~ 그래서 정신 차리고~공부 하려고 합니다!
+
+[00:01:06]
+. ae                            “
+w           '
+그래세팅일 책상에서 공부하는 모습이 나올 예정일리써
+
+[00:01:09]
+Mv
+‘    ~
+“근래세팅일웨상에서 공부하는 모습이 나올 예정의라세
+
+[00:01:12]
+pales of | Seon) 수 도《잇찌만 죄때한 XHO| SO! HIROH lea AU er
+이                            \
+
+[00:01:15]
+.    『
+보시븐뿐들은 지루 하실 수도 있지만*뛰때않미있게 핸보레병피파!
+
+[00:01:24]
+120 | 더 a ao 4
+ol? SPH] 1 7]
+
+[00:01:27]
+”             Wer
+이제 뭘 할거냐면.. 밥을 먹고 로제 산책을 갈거예요         |
+
+[00:01:30]
+이제 뭘 할거냐면.. 밥을 먹고 로제 산책을 갈거예요           ;
+
+[00:01:33]
+AL eee
+도올 점심 먹으러 가볼기요 -태
+
+[00:01:39]
+" - > -  그  요 모두들..
+그  |     |
+
+[00:01:48]
+{   -
+
+[00:01:51]
+” oe   , ~  /   |  ‘          개
+a. Ber CHIE 머그
+:             2 ?  2e2  국고 an
+
+[00:01:54]
+>  \~         엄마         /   |
+~           |              ) 아.. 진짜 예쁘네?! ，
+
+[00:01:57]
+"       , o>        a
+이  ^         | ：           |
+
+[00:02:00]
+가                         |
+“^       Uy =    /      } 、
+
+[00:02:03]
+Prone a1 eds ine ‘ a.
+
+[00:02:09]
+<< 여호이히도 of 느//3ㅋ |아ㅅ      er   7
+00   gee eZ HUA Zena...  |    a
+” _ Bailes          =     a:     ==         그
+
+[00:02:12]
+|            “   :  이 2.   0"   am            Se fe        toc
+1                                       —— =       SSS     |
+tC Oe   1 em             ~
+
+[00:02:15]
+| ‘nea emer
+~   Sy COU ie 고
+ee
+
+[00:02:18]
+ao eee eS yy Se Hee oS Se PN
+4     yoke Rae Set ie as ae 시 eee
+xt                -                 a ES See: MEGS  iS aS 8 ee eu ase aa
+&       We ME, Be pee ei, 『
+~          ,                       밥 먹고 로제랑 산책 나왔어요 20 2 어 ~      7
+,  17}           1                       :      "elt:   Se sage  ay 나 ee ace 제            『
+°                                이 호 오호 기 TAN cai SRR ie SM A        Vis
+Qasr
+
+[00:02:21]
+년      '         .:       를 ;        다시 오이 이이 으으 Pe ae ee
+~                          wT [로 BRIS Ee VE IG 7 SS 아 Rye
+
+rs ipa             |       we Ge ee 대이 시계
+oC              바/먼고 STAM APAH ET OPO] Qe 아오 트라이 0 EC Re SS
+
+              '밥린          TATAHS ERG FOTO a 이오 owe ia eee SES
+
+ope       ON DEER ANS RA eS a ee eee
+
+을 Usa eo 이오 으시
+
+[00:02:24]
+So eae eae - ： ~ rr ee
+oe 300 <, ~. Lie ene me BR os   2
+           시 Fe 시구 eke ere   Bs ea 수스 606 A See OO LAS ANG Oe   ~ 그
+ae 「 ee So ee 수 ex So 가 FoRFQ Sea
+ROE See el oH Ad ae ak HPD |더무*조은 거간아요 Saree
+스   ee 달씨가 KIA SH Ades oO WTA Sige 다가 tee 6  eo
+Be ee 부스 SS Bi Shc ti ote   Ee aha S  ale Ss ee
+가 이오스 간소 aie cea ;   Re Sapper ee
+SUN       아세 a ce 아이         Ee
+
+[00:02:27]
+.    이 ag
+Seas 라오 애애          Fag
+GN oS ae 0 CS  moat
+|             “Shey             ~ ri BS ee as See STE eh"          aw
+-       ed         . 겨리 iy tAH OPT Lo ae ee "eS         114,
+-        120 새기 ele, pasos Ne RS, MG Saas
+:    oe ae I Wi ees: 00003 ee tO ‘ah Peres ot pe lata Se
+a eee 개 시가 개
+
+cae bees 보스 VA     6 00
+
+“epee
+
+[00:02:30]
+…      Ss 1” : |   후 a | \   |
+ "ow 2 집에 가서 공부를 BAIA 해야돼요!
+
+[00:02:33]
+ed 진이 가서 공부를 박시기 해야되요!
+
+[00:02:36]
+^       a as   a
+，        re 써 orc, .\
+
+[00:02:39]
+. Hg
+
+[00:02:42]
+es 할 Sgiele wz)
+
+[00:02:48]
+ne)  _—
+
+[00:02:51]
+”_
+Se     ¢ LHe 12 ki
+Rio         '
+AN
+
+[00:02:54]
+개           「 al
+a fe Lu2 12 고
+이    NS
+
+[00:02:57]
+ne
+
+[00:03:00]
+4
+
+[00:03:03]
+ae
+：  + Sea Fee
+4
+
+[00:03:06]
+, 0000 Lic? 20000   |
+|           aoe 1 이져브8
+cote       —
+.
+
+[00:03:09]
+q =        BRS) 『[ Fo] 수행평가가 2개인.      =     |
+이 ae >a
+fon; 4                ~ BK@
+
+[00:03:12]
+기   Aga Ao] Geo    :
+Peres 2
+'         | 1           시. 나토 제      a
+
+[00:03:15]
+ES              N
+-» 아침에는 수행평가 준비를 진짜 빨리 하고
+
+[00:03:18]
+~ ,- EXC cee
+                4               (        &
+        Ly :           10      VAS "§s
+
+[00:03:27]
+\       . es 월  aml    8         a |
+1 미술은 수행평가 100%잖아요 |
+vo            도      -     =   =F      |
+
+[00:03:30]
+' .       1        ye
+:          Al 3044   11112
+『       -  See 스행이라       —
+14           | ee 하거는이.
+
+[00:03:33]
+그래서 이게 30점 짜리 논술형 수행이라서 좀 잘봐야 하거든요.
+ON ee,     =
+
+[00:03:36]
+그래서 이게 30점 짜리 논술형 수행이라서 좀 잘봐야 하거든요.
+
+[00:03:39]
+DA 0”
+
+[00:03:42]
+,                     er”
+Oo} GENE obec cigar je
+y            >               a
+
+[00:03:45]
+6
+[2
+OF} 때텍                               Ale
+a
+：
+더
+uw A
+|7
+ct
+을 가                         =
+X
+,  GELS,
+acl
+= 5
+[꺼
+es
+니
+et
+
+[00:03:48]
+. , . 운선압기는 좀 뒤에 하고 애를 먼저 해보도록 하자! ES
+
+[00:03:51]
+Be      |     ‘
+
+[00:03:54]
+~ AY
+
+[00:03:57]
+| (BERT SOI Sor
+
+[00:04:00]
+, 8 09 병0 | 비견 [느바 -구ㅎㅡ 01
+    on } ye            an
+
+[00:04:03]
+a.) 319 HA | 비패느바 -구ㅎㅡ 7
+| \ RE     2 Raye’ a    2.
+
+[00:04:06]
+| 자 네이버해 uel re Bt 일려주렴
+
+[00:04:09]
+. 제가지금 아까말랬지만 수랭평가가 27) 있거든요!
+02 ) 그 ~
+
+[00:04:12]
+7 0200 ~ 제
+|              애보다 중요한 국어 FYE 있거든요
+
+[00:04:15]
+!               미술 “ay Ao 모자르다고! II
+
+[00:04:18]
+|              미술 때문에 HONS, Alte XS chat! 1
+2 tgp
+
+[00:04:21]
+| 마음은 급한데 미술도'쪼키인첩케어킷\때문에 일단 후다닥 준비합핀다:
+
+[00:04:24]
+ㆍ 마음은 급한데 미술도 soy 0, "일단 후다닥 준비합페타:
+
+[00:04:27]
+ㆍ 마음은 급한데 OS SRO 일단 후다닥 준비합핀따;
+
+[00:04:30]
+| OT Rd
+
+[00:04:39]
+‘              일단"역사 먼저 암기핸 보겠습니다”
+
+[00:04:42]
+!
+
+|    late A
+
+_       june tab, ww   ~
+서는 펑즈이변짜깐목이때미있어지.엄청 종아하컷는토러
+
+[00:04:45]
+|                      a.      a
+저는 Ty NOH) Os ATE OAH UIC! OLA Oth Al Nalee
+     ~                                  .            =    o>                         |
+
+[00:04:48]
+re                             |      놈 에     - aaa
+oy                                 ; R                    =
+See 막성5 ee ed et al Bea.
+
+[00:04:51]
+ty                               »                      0000 가스
+orale pti soe ACHE er? [eh lEoH 01 PROF.
+
+[00:04:54]
+|                          Gee              y
+y we                       SA
+n Yee               —=
+'                AAI) SpMagH e, Segre)
+hp OF                   .        ne          ㆍ                    ~
+
+[00:04:57]
+_         7          — .   ㆍ     ^
+:                             민안》바보한는데
+
+[00:05:00]
+ME PSURCENUML TE URGNOIRS 성리가 되는 것 같0091
+
+[00:05:03]
+att                                                         그         sz               ——————
+주   ‘ *                    , *              —           ^. _          ”
+SS '     30015.        SS
+*                     에고 빠1피가. hs te) eae       느           é          =
+버                        iz     SUNT O. 기가. 되는 같아
+
+[00:05:06]
+gu]                 노노 Wate 지이 ww 1
+-   0 akon |상대응 Tern 109야전 SAR bc
+Tee 공부하다가 발견 했는데                          |
+Hae DAM > OAM  \e
+ee Cg 오    MKie\
+
+[00:05:09]
+dys 40 [ets Oem [BA MOES a HS
+PPAR 예규,
+He DAA AAA La
+So     asa rtul
+
+[00:05:12]
+Www oan
+Ne) SOO LEN TO
+                           \
+= 병부 Sete eeellllla  ee
+,           n     a | ㅣ 속았   440      650
+|   ve we se cee 2480
+ander
+
+[00:05:15]
+-     Of = 아가 방달아다
+사가 악문이 발달아다
+—                           2 조산 aI chop YES 문화 00) 나타나다
+|      9     SS are
+험 범위가요    eee
+-                            시험 범위                    |
+
+[00:05:18]
+SHIT Raa a                                              a
+he 조선 a
+~~                                           u
+
+[00:05:21]
+0 .        = FF Stop 성도 x ld ied he                                        4. 사상과 문화     이이                                                                      Ma:
+Set 후          B+ opie                               =m 고나                000                                  서구
+'    2 81958 oy Zep,     =e. 고대 a  양안 AMI3e 2097) emma     7     |                     국민 :
+>                    ”                 ~                        ~
+tae                       1 인국 을                     2)                                   we
+—                         =             ae ne ee                       &
+에                            a                        |                       안국사주제 맘구하기  f                                                                                          ae
+
+[00:05:24]
+9       ㆍ 이    902 조선 사대에 새로운 운화 경향이 나타나다                  re GENUS ES 강제로 geo;       때
+~       ae BEAL 224 By!                             항일 의병 활등과 SIG 55 coc,
+ㆍ    오아          그     ：           ee )) 있어나다
+at   .   are
+z  a
+i.                                          Jt         =
+‘                                        고        7    …
+
+[00:05:27]
+.       fh    pont  endl  4     rr                         ams. By 의병 BE sigs eee
+)     WY      mu         L.     7-9 2
+
+:                                                           £0. 로
+때                                                   고 —-—— ae
+
+[00:05:33]
+때   - 』〉 pall oa
+Titi fll        ek ais
+
+[00:05:36]
+"
+6 )
+van ,
+
+|
+
+ 4
+
+3 i
+[4
+
+4
+
+[00:05:39]
+oe 4  내일 수학 \\S \)
+학원 1209”
+일가 셔  rr.
+님
+
+[00:05:42]
+-         a                                                |           '       00   222 수
+ws je     > ’       oa   t 0             .                                       oe                         jel                                               7 고
+
+[00:05:45]
+" 이렇게 약간 정신력, 집중력이 흐트러졌을 때는 수학만큼 좋은게 없습니다  ;
+
+[00:05:48]
+ay 이렇게 약간 정신력, 집중력이 흐트러졌을 때는 수학만큼 좋은게 없습니다
+baer pe           a    으으 재래
+RO ~          - . 그 2져
+
+[00:05:51]
+가우 ee” a) ,      eae             a    se      ,
+"     '       pi ree                                .  t .               id
+
+[00:05:54]
+me             0   |
+roe | 그 그아도 키아 디그. 9  a
+
+[00:05:57]
+Se NY                        으
+~       i                 시간은 많고요         ~
+
+[00:06:03]
+fF     」                      |               ^               ‘         ‘        \'                      Ppa      -
+aie   oe oa Boa  배                    .                             ^      :     '                       4    om
+가가 Se ke Se a gs oe A rl
+
+[00:06:06]
+0 460진오가이트이는 했지만 없판피)새변까지 공부 할,거니까 많다고-선0
+i                                                          al           le te ele
+
+[00:06:09]
+7    20      를                  “ae Op ae ry HY.
+        ~  sf                                    ete
+4   y ven  ~ hana  e   '      a    ：
+
+[00:06:12]
+~ |
+
+[00:06:15]
+sre alge 여는 마가렛트인데 무슨 TOMEI .
+
+[00:06:18]
+^ ^ ~” |
+~ immer 3} 다가깃드이더 무슨 맛 이었더라:
+
+[00:06:21]
+ee ee      ~ a             int   \          '         yh              ae 1 후
+
+[00:06:27]
+~ a's      =
+ePID MERA OF 마지든데 시엄기간에만 에너지 음료 마십니다
+ae — , athe eu    =]
+
+[00:06:30]
+Po ea NOIOIMOMTETROGRCPAILICE 0
+:      3        oS a (uigtza: Pginie i A                      :
+)       , 「     Sf   :               "    0 !          . a ~
+
+[00:06:33]
+>, §        a
+저는 BANE AO gtd 24] SOLON Sp 1
+a                 ‘UND IS
+.
+
+[00:06:36]
+Ow      ~~ 00
+여러분은 어떤 =" 댓글로 a toy 주세요
+,              술                   나
+
+[00:06:39]
+gale VIL ee
+
+ee: +f       ~ / |           i      _      ==
+ㆍ 서이스 ~ ‘ons, aw cre   ,   yO        stole one   하 :
+Se SAY SS Meee SU 몽 SIS, Ol Ry Sg CUS aA.
+
+[00:06:42]
+Sa Sa) SEL, AAO) 피임 몬 GAIL, Ul) 말복 SEN SE es.
+
+[00:06:45]
+_ Say oa, ASO) 2) S IER, UW) HS ge 해봐라... 확410
+/  {|         + sgpruys                                   . ~  as, a
+
+[00:06:48]
+ㄷ    Le       ~           3,            7
+
+[00:06:51]
+『, ao A at toon 에
+
+[00:06:54]
+Os 0) Mable =o ey
+
+[00:06:57]
+는              —_.:
+국어는 사실 이번 중간고사 범위에는 문법이나 그런게 많이 없어서
+
+[00:07:00]
+국어는 사실 이번 중간고사 범위에는 문범이나 그런게 많이 없어서
+
+[00:07:03]
+2 Ao] Zyoh se 2 Zoo 때ㄱ  =
+
+[00:07:06]
+y      :    alo =    y
+「 주
+
+[00:07:09]
+Of Viytlor ~-LEa AIRE 7) 20200) 0) 으
+= = 네야 rae   7 글 A[ZFP| =
+
+[00:07:12]
+|. ~. 때
+
+[00:07:15]
+EE 공부를 자습서랑 교과서랑 족보닷컴으로 할겁니다!
+~”
+
+[00:07:18]
+|                      n/p | 가        =
+저는 공부를 자습서랑 교과서랑 족보닷컴으로 할겁니다!
+
+[00:07:21]
+_ SN 5.472)
+VUr   Oy
+
+[00:07:24]
+제가 내일은 친구랑 같이 스카에 가기로 BASS Te
+
+[00:07:27]
+|              제가 내일은 친구랑 같이 스카에 가기로 RASS Be
+
+[00:07:30]
+‘a                   HF
+근데 친구랑 스카를 가본 적이 없단 말이여으 밸래빼
+
+[00:07:36]
+|      애 ,              nn.       = By 칼송니마
+Foor as weg! al oso) ome. 깃                ‘
+amy Oe te ae               oy
+^     =
+daa,                    "^        ~
+
+[00:07:39]
+후기) Lee ANCHO AERA OIAIRSR MHL 더 능률이 오르눈
+es                          1       nn   때       _ 328       벽
+
+[00:07:42]
+a - 베때
+~ 그 , ron,
+이] 2080             SS  hy =
+아짐:          -
+
+[00:07:45]
+"해                         |      Was  로 기 MERA
+
+[00:07:48]
+i 11              Ap     Is |Win, Na
+
+[00:07:51]
+~     Bhs 임가시 유은이랑 Sel 망 Sa ~ ~
+
+[00:07:54]
+{1        -0 제
+00  a ~
+
+[00:07:57]
+0 -       본     mi ZAM sou | ~ ~
+
+[00:08:00]
+~            !   | SIVA Qo) Ht 예렉케 AU) 등교 SSE]     ^
+
+[00:08:03]
+|           ('                      20 ^              ~          —       "개
+a   Ish OR He 99101 7) Sa GS    a
+
+[00:08:06]
+SIME MOB WE CSN ZN 29, Se   ~ ^
+
+[00:08:09]
+220 *
+
+[00:08:12]
+이
+
+[00:08:18]
+시 -ㄱ2  '끌이리5배배번프“0                      ~         -
+[        버버프*이아키!         Died      ee =a          .
+wIGed 32 OS
+Brel eye}
+「 “세                   때
+
+[00:08:21]
+0 Sal Se Sole) Real GSe Sa 넘치고다리 밤
+~~.
+
+[00:08:24]
+05000 8S ary S gee) Hee) awe ~
+「 “세    뇨
+
+[00:08:27]
+1                  {                   ~       ee                  =             rel eh   ree                 ,
+내      |          |.   ,    Cc        O
+「 “때      .
+
+[00:08:30]
+여기서-아 Xo Fa Gey (ONOMOI 71h Arb 느 &
+
+[00:08:33]
+iy |    i     이 이 eR     ~
+of 71 4-OF PSYO ET az HHOMONOYO) iae Lad rl
+
+[00:08:36]
+| -402째
+
+[00:08:39]
+~            유은) 나 내일 스카 가기로 했어 APR.
+
+[00:08:42]
+”_ ”/져    유은) 아직 엄마 허락은 안 받았지만.
+
+[00:08:45]
+. |        | . _     |        |       oe a                        F a 기  에    |       Ra a        :          대
+
+[00:08:48]
+|             NO) SFA ey 디기 앙크!                    ~——
+
+[00:08:51]
+5                  내        \
+     (wD
+
+   |          a                   s          ac
+| 1               OTSA 저녁 밥 태기 QA)          —
+
+[00:08:57]
+아흐 a ©  10                    .             ..     i     .          ,
+  년 x y .                     __              ：  ：            _  ^
+if  고 로       !  ㅣ 님      a
+awa                         ~   aoe   ~    o
+4        때                     ^   ” ” A ^  4
+
+[00:09:06]
+-- ~ 때 〉`  md       0                          =    ;       a
+~ re IY   ^                                  ,             --………ㅡ~…
+
+[00:09:09]
+i  ae \ 분 "“ {           :                                     그 ~            —
+peg                    oe                s                         (J
+Bete sor scot 지극은 BAGO 음아프피그 함니다
+.    a oar |    J               =, |  “a ㆍ      '         -  a      ~ =
+
+[00:09:12]
+~ ':아까는 어려운 SRI Sry Ofc ia AAROS 읍에미리그 gue
+
+[00:09:15]
+4 MI    a.     ae     r ‘    > ‘a oe an -  i . 아사” 4
+
+[00:09:18]
+om
+Bp EP BEE, A
+aN         NED er, |
+
+[00:09:21]
+i       “ed     8
+
+[00:09:24]
+,    ㆍ  Ben ee                 es   ~         ~  고
+/ aA                     ae
+
+[00:09:27]
+ONE Bb        Cee 에이 gare gale ^ --
+^ 1                           |
+
+[00:09:30]
+eee | )     여러분 역사는 반복이 정말 중요한 것같아요 뿌
+            ㅣ
+
+[00:09:33]
+pie) ah    교과서를 한.. 10번씩은 읽어 바야 0
+726
+
+[00:09:36]
+ane:      교과서를 한. 10번씩은 ojo] eo} |,
+
+[00:09:39]
+| LH:     = O      (그       00 으0 (0) =o] 2 /-(0ㅇ
+‘  ai                                         ag
+
+[00:09:42]
+SS ose
+
+[00:09:45]
+/    as if            |            ~ ：        000
+, 1 )      FS MSS OAM OT QL eh              |
+
+[00:09:48]
+i   ae i fe ：  a “a                              be aca              ~ ^    oe  ：    ^        ：             기         ~
+ve ace %   [eee SMA O a 있숨니다        |
+「     ~ ge    『        -                                   <£
+
+[00:09:51]
+ae 00 g  $2-So.. SUR 막이디사의우그 잇승니다    |
+’ 2 호                  ~
+ra
+
+[00:09:54]
+~   - 4 개     ~
+otf) | /
+4 ^)         중얼         ㆍ
+중얼ㅜ중      .    ~    |
+rt     (01      email             i
+4                   a
+
+yeas, --   —
+
+9]                 =
+
+MSM Ley
+
+.       ^
+
+[00:09:57]
+/  0 1  ,                                  _
+
+[00:10:00]
+~    —
+mF i   더                                         -
+4
+
+[00:10:03]
+ies az al
+Me was
+
+[00:10:06]
+Mes! ys  |
+‘,
+
+[00:10:09]
+~. Se Bee          Pr               ~
+or 7/ riod        => SS 더해 steer,     a! (애  ,           Lins
+narra Aree                     내             Co
+fo    ,
+"'      !
+
+[00:10:12]
+Peery cele 지가 지금 엄청난 도전을 해모러고 하는디오 |      !
+
+[00:10:15]
+느 ~ -사> ~ 세
+wie! 4 0 시구
+Py 짓0『7안더 고과서 사진을 보내주고 퀴즈를 내달라고 할겁니다
+
+[00:10:18]
+때 . 10 - 200 eee
+ee   =         s _                  Baal            mele                    -. ~           호
+
+PY AGPTSe] 고과서 사진을 보내주고 퀴즈를 내달라고 할겁니다
+
+4. ~ |) 매매 0              —                           '
+
+[00:10:21]
+0000 잔디 aA 사진을 모내주고 퀴즈를 내달라고 할겁니다
+
+[00:10:27]
+OTE er SS 공무 oy -
+
+[00:10:30]
+~ * > a4                              I                 |     ~~
+^ `이렇게 교과서 AFAI BlO1 Al LOE a1 Of IHTGROR SESE yg
+
+[00:10:33]
+가  ea, 예기 UGOR Ua  과 HOLM.      -
+er  AA 교과서 사진 Bl old alos ergo     Ss
+
+[00:10:36]
+bund     pee aal, 3      -       레이
+a  on
+ab     _            !
+
+A     ,   :
+
+[00:10:42]
+pot       if
+a              5                                                '                       (          hei
+분       비요  AS  `         ]               o   |     |
+
+[00:10:45]
+"                                a, 2        적                ~                    oS
+MAAS            해       ;       a
+
+[00:10:48]
+때 0 2
+
+[00:10:57]
+7 - rma paca laa “REL.  =
+
+[00:11:00]
+wrens      Sonn           '노^
+가 러나헤    이엇  ore 개 WM
+
+[00:11:03]
+^     기     “~ ~~  —
+214 Th 라 Se tae  _ ~ as AF:
+
+[00:11:09]
+이의  <4 ce        a  a     = arg 7 =. cei  -   ：    .
+1220           ~"      …
+
+[00:11:12]
+ni   소거                                    inn                Hi
+
+[00:11:18]
+：                               「 a                                         a              Fv one -
+"            ‘                 a                                  Oe 그 사저     ir el Ae
+
+[00:11:21]
+LL  |  we, |     —s      —
+[oe Oe
+7   7   ,          14151 27 | 112031405 | 37 | 1 213 4 5
+8 | 2341!  18 |11121.3.415' | 28 |0112091416'| 38  1 213 4
+9  1234 15  1? 111121131141151  29 | 11121131141.51|| 39 | 12 3 4 5
+10| 1 234 i: || 20 111121131141151 | 30 111121314115! | 49 Wars as |
+eee
+
+[00:11:24]
+바벨        on                       ~ _  다    .       \ 4
+
+[00:11:30]
+[ i, a | |  ite          스니  3 가
+
+[00:11:33]
+22 2 놀 < … «
+
+[00:11:36]
+나이                             아내    때    다                                                 로                                       |         |      Aer 고
+노            ~    자오 \ ae                   e          CS 버               on           "
+= oO              wi                            oo     ce      oes Fd                   | 그
+
+[00:11:39]
+0                  <       s  |       4                  ® — *
+a                       &Z Fan 0”                    a     ： sow "
+, #            '           ^         Kg |... 새오0
+at ¢":     a           '    .        — aa 0 ~           Lal
+>  .                                            ca
+
+[00:11:42]
+이 .                         —                         ” A              Le
+
+[00:11:45]
+-                      "       = :                              wee PE
+
+[00:11:48]
+4    al
+
+[00:11:51]
+a                   a
+a  °                          “개 ~              ~ 지으 … "~ =         |        ：
+”                              ,          =    ae     7%             a             수   술     _
+
+[00:11:54]
+- 수... a 에 “
+*, SIA) Sass Al oy ares Pp
+
+[00:11:57]
+ㆍ  이제 Seige ：
+
+[00:12:00]
+ae naga SS
+
+[00:12:03]
+ㅋ매…애며아04000
+
+[00:12:06]
+~
+ane
+wer       ~                the:           oa      s
+4                                            =
+
+[00:12:09]
+Bair 두개니까 BOS
+
+[00:12:12]
+ma. <- AG             a
+
+[00:12:15]
+더            of                              orien Sine EI,       때
+” wale   a           «+ 2            —            ;          —=           -          =            | 허 a   aa
+^         | ㆍ 68                     as   ~                         |
+오태         와  ~       ‘
+
+[00:12:18]
+sae     e Ss    — wre bel Qua NFAT
+me eer Cle Hl) Seah SLAY lor "가비
+
+[00:12:21]
+니시다
+=“        1 eee ney wee   e
+ee =  | ~   ,   ! eH oe    -  Se  .
+we We
+" if   }    ,  C ‘ r     ™
+^  “ £ A
+,,
+
+[00:12:24]
+We !제리오       는       0      전  시
+‘      1 글!    개.도세:         로         ~.           a
+
+27 72:  | 개동생의 유혹에떠없입배아     태아
+
+o    Ae            ~”      ~     ) 공부 Ape
+
+[00:12:27]
+at,’ «7%
+
+[00:12:30]
+aig a
+
+[00:12:33]
+oom OM .… ~
+
+[00:12:36]
+기 Say ㆍ
+\ BO TAME) Mewes) 때는 그 임늬마!
+
+[00:12:39]
+i\ i ~     구 여개    So
+
+[00:12:42]
+|      4         °    >
+!   tone, .    af    ,
+| Ae SZzol 모르겠고 불닭이 제일 좋아
+~         .
+
+[00:12:45]
+1. 00 고
+PAO 달갈이고 모르겠고 불닭이 제일 좋아
+
+[00:12:48]
+tt    :         엄마) 몸에 안 좋잖아~              a
+N@
+
+[00:12:51]
+ㅣ fees   >        을 건데?        ee
+|' , 00 cast
+
+[00:12:54]
+uf    >     가 FA
+
+[00:12:57]
+|          APY Ale) SAY PATI] SI) 월로              ~
+NL    ‘                                                ^
+
+[00:13:00]
+는
+개 |   |
+ATE) (Ale) OFA) QRZ] SD) 월보      개
+Ny                             ^
+
+[00:13:03]
+——
+…           |            ~
+~ 때   =                      ^
+QL    \
+
+[00:13:06]
+.                      0                                                    이이 오이 en lg pee
+0         야식먹고 다시 공부를 Ajab ies
+
+[00:13:09]
+> SPAR Llp — 2)
+
+[00:13:12]
+이이 이올 저2 ee
+>     BES, ee OA TE =
+
+[00:13:15]
+wv            aL ae
+Ci oes 85 Se AS Sole
+
+[00:13:18]
+| 4    yp q     ae      |
+_  ye 을 빨리 찾을 수 2/71 IESE RS rs ziolte)
+&)
+
+[00:13:21]
+>»   S| | Sn
+국어 지문을 빨리 찾을 수 있게 인덱뜨를'붙여줄거예요
+
+[00:13:27]
+ai       \            '
+ㆍ 04) .. 아
+ee is
+
+[00:13:30]
+| |       !        1 |
+|                              He,        4          |
+i   {       「,
+:                 ey            2                 소소 이그
+We                   a                        0      j       "
+EN
+.            ~
+~”
+
+[00:13:33]
+ere      4      Vy     plod
+.     1       ;      |
+시 A                            taal           ! . . 재래 195
+,      고    3                                  MEESTER 이 ™
+다 많이     :                   |
+
+[00:13:36]
+we eg. 끝내지는 않아서요.. (공부)더 하고 잘거기는 합니다
+~ ...°.°®©«»”YF
+
+[00:13:42]
+제가 캐나다 가서 한국 공부를 안 하다가 하려니까
+2  , ,
+~ ~ "
+
+[00:13:45]
+개         —..
+
+[00:13:48]
+-마=|1드 74 가. | 0 =
+A eg ee ht
+
+[00:13:51]
+= dig              ~    ny       '
+79 LL AOL AE LA Ol paid PH ©
+                                          —-
+
+[00:13:54]
+7 UL OL ZI ELA ol pA 으
+
+[00:13:57]
+. ㆍ 를 저는캐나다에서풍분히높았으니까. 1 |
+
+[00:14:00]
+,  (지금) 더 열심히 할 수 있다고 생각합니다 、 |
+an | ne
+
+[00:14:03]
+ff
+eo         x    \     Ww
+_        =            patency
+0000
+
+[00:14:06]
+더 a | …           < ! 「       때              을.     =
+
+[00:14:09]
+|        7                           _.                                             Stat Ly
+—_ 0
+
+[00:14:12]
+Sree  sf
+> _
+
+[00:14:15]
+고색 에토끈 1고이
+ㅜㅜ ~ 이오 SH in eae:
+
+[00:14:18]
+fii                                    |
+@일다오늘 공부는 끝내보자 -
+
+[00:14:21]
+개                     0 ㆍ                     =               |
+                Ie     i we | ee                   로 주              | |
+|               ee 이 이                  73
+x         a        , Boe                   7 3
+if                 ae              1 고      | ㅣ.   |                            홈                   ;
+      ier          ae     |               a      .
+-                      nc) nn ㅣ _                      1
+
+[00:14:24]
+'        Ba OK           22        |
+"      00 | 0     ;     =   ~~  |
+RSS,      Cs        =         >
+
+[00:14:27]
+지가 하루죽일 어떻게 보내는지 여러분들께 보여드렸거든요 ㅣ
+
+[00:14:30]
+도             | 0            23         |
+Ewe Rees 고부데이지만 재미있게 보셨나요?
+
+[00:14:33]
+별 Hy 한 공부데이지 만 재미있게 보섰나요2 !
+
+[00:14:36]
+¢         0 |,      Se               ==           |
+ 연성#봐주400라싼합니다! 여러분들도 모두 시험 화이팅입미다!!! |
+
+[00:14:39]
+ae SMR SSEICH 여러분들도 모두 시혐 화이팅입니다!!! : 、
+
+[00:14:42]
+ola    32H  @|                   ‘                                            OD
+Leeroy    nelloeum2uni                       Subscribe!                  AED 속이 8, HEF cae, |
+비즈니스메일 helloeum2uni@sandlsox,co,kr                          .                              °
+
+[00:14:45]
+인스티-그램 @helloeum2uni                  X=
+
+스티-그       rehoeumeZun                                         ~
+-      seins                    Sulsscrilse!                구독고 Folk 부탁 드려요 !
+비즈니스머일 elloeum2uni@sandlsox,co,kr                    .                       °
+
+[00:14:51]
+인스티-그램 @helloeum2uni                     X=
+
+스티-그       Aelio    meun                                         ~
+-      inl                    Sulsscrilse!                구독고 Fob hs 부탁-트려요 !
+비즈니스머일 elloeum2uni@sandlsox,co,kr                    ,                       °
+
+[00:14:54]
+인스티-그램 @helloeum2uni                  {X=
+
+스터-그       eli    meun                                         ~~
+|      eels                    Subscrilse!                구독고- Fors SEP cela |
+비즈니스머일 helloeum2uni@sandlsox,co,kr                    ,                       °
+
+[00:14:57]
+인스티-그램 @helloeum2uni                  오언
+
+스터-그       elo    meun                                         ~
+-      nel                    Subscrilse!                그독고 Fors SEP cela |
+비즈니스머일 elloeum2uni@sandlsox,co,kr                    ,                       °
+
+[00:15:00]
+인스티-그램 @helloeum2uni                  {X=
+
+스터-그       elo    meun                                         ~
+-      eel                    Subscrilse!                그독고 Hors SEP cela !
+비즈니스머일 elloeum2uni@sandlsox,co,kr                    ,                       °
+

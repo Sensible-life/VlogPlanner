@@ -1,0 +1,1593 @@
+{
+  "total_scenes": 153,
+  "scenes": [
+    {
+      "timestamp": 1.0,
+      "timestamp_formatted": "0:00:01",
+      "activity": "A person is walking or jogging.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking or jogging.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: White sneakers, dark pavement, text overlay (\"Day1\"), Korean text.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 2.0,
+      "timestamp_formatted": "0:00:02",
+      "activity": "A person is walking, and the camera captures their feet in motion.",
+      "location": "Outdoor, likely on a sidewalk or street.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking, and the camera captures their feet in motion.\n2. **Location**: Outdoor, likely on a sidewalk or street.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Foot in a white shoe, pavement, shadow, text overlay (\"Day1\").\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 4.0,
+      "timestamp_formatted": "0:00:04",
+      "activity": "The scene shows someone walking, likely documenting their steps.",
+      "location": "Outdoor, on a paved walkway.",
+      "mood": "Casual and anticipatory.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows someone walking, likely documenting their steps.\n2. **Location**: Outdoor, on a paved walkway.\n3. **Mood**: Casual and anticipatory.\n4. **Key Elements**: Paved ground, text overlay (\"Day 1\"), person's feet, shadow.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 5.0,
+      "timestamp_formatted": "0:00:05",
+      "activity": "A person is using a treadmill, likely starting a workout.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and motivated.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a treadmill, likely starting a workout.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and motivated.\n4. **Key Elements**: Treadmill, person's leg in workout attire, \"Day 1\" text, Korean text overlay.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 6.0,
+      "timestamp_formatted": "0:00:06",
+      "activity": "A person is using a treadmill.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and active.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a treadmill.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and active.\n4. **Key Elements**: Treadmill control panel, stop button, QR code, person's foot in a sneaker.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 7.0,
+      "timestamp_formatted": "0:00:07",
+      "activity": "Someone is using a stair stepper or treadmill machine.",
+      "location": "Indoor, likely a gym or fitness center.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "Activity/fitness.",
+      "raw_analysis": "1. **Activity**: Someone is using a stair stepper or treadmill machine.\n2. **Location**: Indoor, likely a gym or fitness center.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Control panel with buttons, stop button, QR code, Korean text subtitle.\n5. **Scene Type**: Activity/fitness."
+    },
+    {
+      "timestamp": 8.0,
+      "timestamp_formatted": "0:00:08",
+      "activity": "The scene shows a close-up of a treadmill, likely indicating someone is about to start or is currently exercising.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a treadmill, likely indicating someone is about to start or is currently exercising.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Treadmill, control panel, cup holder, Korean text overlay.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 9.0,
+      "timestamp_formatted": "0:00:09",
+      "activity": "A person is using a stair stepper machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Fitness/exercise.",
+      "raw_analysis": "1. **Activity**: A person is using a stair stepper machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Stair stepper machine, person's legs in athletic wear, control panel, Korean text subtitle.\n5. **Scene Type**: Fitness/exercise."
+    },
+    {
+      "timestamp": 10.0,
+      "timestamp_formatted": "0:00:10",
+      "activity": "A person is using a stair stepper machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a stair stepper machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Stair stepper machine, person’s legs, athletic shoes, control panel.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 11.0,
+      "timestamp_formatted": "0:00:11",
+      "activity": "A person is using a treadmill.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a treadmill.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Treadmills, person exercising, fitness watch, gym equipment.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 12.0,
+      "timestamp_formatted": "0:00:12",
+      "activity": "A person is checking their smartwatch while using a treadmill.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is checking their smartwatch while using a treadmill.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Smartwatch, treadmill display, hand, digital readouts.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 13.0,
+      "timestamp_formatted": "0:00:13",
+      "activity": "A person is checking their smartwatch while using a treadmill.",
+      "location": "Indoor, likely a gym or home workout area.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "\"Fitness tracking\" or \"exercise monitoring.\"",
+      "raw_analysis": "1. **Activity**: A person is checking their smartwatch while using a treadmill.\n2. **Location**: Indoor, likely a gym or home workout area.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Smartwatch displaying workout stats, treadmill control panel, person's wrist.\n5. **Scene Type**: \"Fitness tracking\" or \"exercise monitoring.\""
+    },
+    {
+      "timestamp": 14.0,
+      "timestamp_formatted": "0:00:14",
+      "activity": "A person is checking their smartwatch while exercising.",
+      "location": "Indoor, likely a gym or fitness center.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is checking their smartwatch while exercising.\n2. **Location**: Indoor, likely a gym or fitness center.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Smartwatch displaying fitness data, exercise machine console, hand.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 15.0,
+      "timestamp_formatted": "0:00:15",
+      "activity": "A person is checking their smartwatch while using a fitness machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "Fitness tracking.",
+      "raw_analysis": "1. **Activity**: A person is checking their smartwatch while using a fitness machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Smartwatch, fitness machine display, hand, digital readouts.\n5. **Scene Type**: Fitness tracking."
+    },
+    {
+      "timestamp": 16.0,
+      "timestamp_formatted": "0:00:16",
+      "activity": "The scene shows a treadmill display during a workout session.",
+      "location": "Indoor, likely in a gym or home workout area.",
+      "mood": "Focused and routine.",
+      "key_elements": [],
+      "scene_type": "\"Exercise equipment closeup\"",
+      "raw_analysis": "1. **Activity**: The scene shows a treadmill display during a workout session.\n2. **Location**: Indoor, likely in a gym or home workout area.\n3. **Mood**: Focused and routine.\n4. **Key Elements**: Treadmill display, time elapsed, heart rate, workout settings, Korean text overlay.\n5. **Scene Type**: \"Exercise equipment closeup\""
+    },
+    {
+      "timestamp": 17.0,
+      "timestamp_formatted": "0:00:17",
+      "activity": "A person is walking, holding a bag and some items.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking, holding a bag and some items.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Brown bag, beige shirt, headphones, pavement.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 19.0,
+      "timestamp_formatted": "0:00:19",
+      "activity": "A person is walking, possibly heading somewhere.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking, possibly heading somewhere.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Person holding a bag, asphalt ground, crosswalk lines, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 21.0,
+      "timestamp_formatted": "0:00:21",
+      "activity": "A person is preparing a drink by adding contents from a packet into a mug.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Routine activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing a drink by adding contents from a packet into a mug.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Mug, packet, office chair, desk, computer keyboard.\n5. **Scene Type**: Routine activity."
+    },
+    {
+      "timestamp": 25.0,
+      "timestamp_formatted": "0:00:25",
+      "activity": "A person is stirring a drink in a mug with a handheld frother.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is stirring a drink in a mug with a handheld frother.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Mug, handheld frother, smartwatch, keyboard, panda blanket.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 30.0,
+      "timestamp_formatted": "0:00:30",
+      "activity": "A person is sitting at a desk, possibly working or preparing something.",
+      "location": "Indoor office or workspace.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Everyday work or preparation scene.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly working or preparing something.\n2. **Location**: Indoor office or workspace.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Person wearing a smartwatch\n   - Desk with a lid and a pot\n   - Green chair with a panda-patterned blanket\n   - Keyboard or device\n5. **Scene Type**: Everyday work or preparation scene."
+    },
+    {
+      "timestamp": 33.0,
+      "timestamp_formatted": "0:00:33",
+      "activity": "A person is sitting at a desk, holding and eating a protein bar.",
+      "location": "Indoor, likely an office or home office setting.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday life moment.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, holding and eating a protein bar.\n2. **Location**: Indoor, likely an office or home office setting.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Protein bar, keyboard, smartwatch, potted plant, panda-patterned blanket.\n5. **Scene Type**: Everyday life moment."
+    },
+    {
+      "timestamp": 39.0,
+      "timestamp_formatted": "0:00:39",
+      "activity": "A person is drinking from a cup, possibly taking a break.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Casual moment.",
+      "raw_analysis": "1. **Activity**: A person is drinking from a cup, possibly taking a break.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Person with a smartwatch, cup, office chair, desk, potted plant.\n5. **Scene Type**: Casual moment."
+    },
+    {
+      "timestamp": 43.0,
+      "timestamp_formatted": "0:00:43",
+      "activity": "A person is sitting at a desk, holding a cup, possibly drinking.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday office moment.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, holding a cup, possibly drinking.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Keyboard, wristwatch, cup, potted plant, chair with a blanket.\n5. **Scene Type**: Everyday office moment."
+    },
+    {
+      "timestamp": 51.0,
+      "timestamp_formatted": "0:00:51",
+      "activity": "A person is leaning on a counter or table, possibly preparing or organizing something.",
+      "location": "Indoor, likely a living room or a small apartment space.",
+      "mood": "Calm and intimate.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is leaning on a counter or table, possibly preparing or organizing something.\n2. **Location**: Indoor, likely a living room or a small apartment space.\n3. **Mood**: Calm and intimate.\n4. **Key Elements**: Sofa, floor lamp, computer monitor, curtains, person.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 59.0,
+      "timestamp_formatted": "0:00:59",
+      "activity": "A person is standing near a counter, possibly preparing or holding something.",
+      "location": "Indoor, likely a living room or a cozy corner of a home.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Everyday life moment.",
+      "raw_analysis": "1. **Activity**: A person is standing near a counter, possibly preparing or holding something.\n2. **Location**: Indoor, likely a living room or a cozy corner of a home.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Sofa, lamp, exercise equipment, smartphone, person in casual attire.\n5. **Scene Type**: Everyday life moment."
+    },
+    {
+      "timestamp": 60.0,
+      "timestamp_formatted": "0:01:00",
+      "activity": "A person is washing an onion under running water.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Routine activity.",
+      "raw_analysis": "1. **Activity**: A person is washing an onion under running water.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Onion, running water, kitchen sink, soap dispenser, person wearing a watch.\n5. **Scene Type**: Routine activity."
+    },
+    {
+      "timestamp": 75.0,
+      "timestamp_formatted": "0:01:15",
+      "activity": "A cooking process is underway, possibly involving the use of a kitchen appliance.",
+      "location": "Indoor, in a kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: A cooking process is underway, possibly involving the use of a kitchen appliance.\n2. **Location**: Indoor, in a kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: \n   - Kitchen appliance (possibly a blender or food processor)\n   - Induction cooktop\n   - Hexagonal tile backsplash\n   - Dim lighting\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 82.0,
+      "timestamp_formatted": "0:01:22",
+      "activity": "Sliced onions are being stirred in a pot, likely for cooking.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: Sliced onions are being stirred in a pot, likely for cooking.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Pot, sliced onions, stirring utensil, stovetop.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 86.0,
+      "timestamp_formatted": "0:01:26",
+      "activity": "A person is preparing food, specifically peeling or cutting carrots.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: A person is preparing food, specifically peeling or cutting carrots.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Carrots, cutting board, sink, soap dispenser, person wearing a watch.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 96.0,
+      "timestamp_formatted": "0:01:36",
+      "activity": "A person is writing in a notebook while holding a plush toy.",
+      "location": "Indoor, likely a study or personal workspace.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is writing in a notebook while holding a plush toy.\n2. **Location**: Indoor, likely a study or personal workspace.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Notebook, pen, plush toy, smartwatch, keyboard.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 103.0,
+      "timestamp_formatted": "0:01:43",
+      "activity": "A person is typing on a keyboard.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Work or study scene.",
+      "raw_analysis": "1. **Activity**: A person is typing on a keyboard.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Keyboard, plush toy (Hello Kitty), desk, chair.\n5. **Scene Type**: Work or study scene."
+    },
+    {
+      "timestamp": 108.0,
+      "timestamp_formatted": "0:01:48",
+      "activity": "Someone is adding ingredients into a cooking pot on a stove.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: Someone is adding ingredients into a cooking pot on a stove.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Cooking pot, stove, hand with a watch, cardboard container, tiled wall.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 111.0,
+      "timestamp_formatted": "0:01:51",
+      "activity": "Meat and onions are being mixed or cooked in a pot.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Practical and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: Meat and onions are being mixed or cooked in a pot.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Practical and focused.\n4. **Key Elements**: Pot, meat, onions, mixing tool.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 113.0,
+      "timestamp_formatted": "0:01:53",
+      "activity": "A person is adding sliced vegetables into a cooking appliance.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: A person is adding sliced vegetables into a cooking appliance.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Cooking appliance, plate with vegetables, person’s hands, countertop.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 117.0,
+      "timestamp_formatted": "0:01:57",
+      "activity": "Someone is preparing or handling food, possibly using a kitchen appliance.",
+      "location": "Indoor, likely a kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Food preparation.",
+      "raw_analysis": "1. **Activity**: Someone is preparing or handling food, possibly using a kitchen appliance.\n2. **Location**: Indoor, likely a kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Kitchen appliance (possibly an air fryer), person's hands, countertop, hexagonal tile backsplash.\n5. **Scene Type**: Food preparation."
+    },
+    {
+      "timestamp": 118.0,
+      "timestamp_formatted": "0:01:58",
+      "activity": "A person is using a kitchen appliance, possibly a blender or food processor.",
+      "location": "Indoor kitchen.",
+      "mood": "Functional and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: A person is using a kitchen appliance, possibly a blender or food processor.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Functional and focused.\n4. **Key Elements**: Kitchen appliance, person's hand, smartwatch, stovetop, tiled backsplash.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 119.0,
+      "timestamp_formatted": "0:01:59",
+      "activity": "Cooking or preparing a dish in a slow cooker.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: Cooking or preparing a dish in a slow cooker.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Slow cooker, chopped vegetables, chunks of meat, stovetop, lid.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 121.0,
+      "timestamp_formatted": "0:02:01",
+      "activity": "Someone is preparing a stew or curry by stirring ingredients in a pot.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Practical and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking demonstration.",
+      "raw_analysis": "1. **Activity**: Someone is preparing a stew or curry by stirring ingredients in a pot.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Practical and focused.\n4. **Key Elements**: Pot with stew, stovetop, stirring utensil, text overlay.\n5. **Scene Type**: Cooking demonstration."
+    },
+    {
+      "timestamp": 123.0,
+      "timestamp_formatted": "0:02:03",
+      "activity": "A stew or soup is being cooked and stirred in a pot.",
+      "location": "Indoor kitchen setting.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Cooking/food preparation.",
+      "raw_analysis": "1. **Activity**: A stew or soup is being cooked and stirred in a pot.\n2. **Location**: Indoor kitchen setting.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Pot with stew, stovetop, visible ingredients like carrots and meat, cooking utensil.\n5. **Scene Type**: Cooking/food preparation."
+    },
+    {
+      "timestamp": 124.0,
+      "timestamp_formatted": "0:02:04",
+      "activity": "A person is lifting the lid off a pot on a stovetop.",
+      "location": "Indoor kitchen.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking action.",
+      "raw_analysis": "1. **Activity**: A person is lifting the lid off a pot on a stovetop.\n2. **Location**: Indoor kitchen.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Pot with a glass lid, stovetop, hand, cooking food.\n5. **Scene Type**: Cooking action."
+    },
+    {
+      "timestamp": 125.0,
+      "timestamp_formatted": "0:02:05",
+      "activity": "A person is relaxing on a couch, reading a book.",
+      "location": "Indoor, likely a living room.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is relaxing on a couch, reading a book.\n2. **Location**: Indoor, likely a living room.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Couch, book, Hello Kitty pillow, person.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 138.0,
+      "timestamp_formatted": "0:02:18",
+      "activity": "A person is relaxing and reading a book.",
+      "location": "Indoor, on a couch.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Intimate/relaxation moment.",
+      "raw_analysis": "1. **Activity**: A person is relaxing and reading a book.\n2. **Location**: Indoor, on a couch.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Person holding a book, gray couch, Hello Kitty pillow, subtitles in Korean.\n5. **Scene Type**: Intimate/relaxation moment."
+    },
+    {
+      "timestamp": 139.0,
+      "timestamp_formatted": "0:02:19",
+      "activity": "A person is preparing to use a blender.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing to use a blender.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Blender, countertop, lamp, books, cushions.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 140.0,
+      "timestamp_formatted": "0:02:20",
+      "activity": "A person is preparing or using a blender.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and domestic.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing or using a blender.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and domestic.\n4. **Key Elements**: Blender, countertop, person, lamp, chair.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 144.0,
+      "timestamp_formatted": "0:02:24",
+      "activity": "A person is preparing coffee using a coffee machine.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Routine activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing coffee using a coffee machine.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Coffee machine, countertop, person, text overlay (\"Day 2\"), subtitles in Korean.\n5. **Scene Type**: Routine activity."
+    },
+    {
+      "timestamp": 145.0,
+      "timestamp_formatted": "0:02:25",
+      "activity": "A person is preparing coffee using a coffee machine.",
+      "location": "Indoor, likely a kitchen or a similar setting.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Everyday routine.",
+      "raw_analysis": "1. **Activity**: A person is preparing coffee using a coffee machine.\n2. **Location**: Indoor, likely a kitchen or a similar setting.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Coffee machine, glass cup, person in casual attire, countertop.\n5. **Scene Type**: Everyday routine."
+    },
+    {
+      "timestamp": 162.0,
+      "timestamp_formatted": "0:02:42",
+      "activity": "A person is preparing or serving a drink, possibly coffee.",
+      "location": "Indoor, likely a kitchen or living area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing or serving a drink, possibly coffee.\n2. **Location**: Indoor, likely a kitchen or living area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Glass of coffee, countertop, lamp, person.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 163.0,
+      "timestamp_formatted": "0:02:43",
+      "activity": "A person is preparing or serving a drink, possibly coffee.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing or serving a drink, possibly coffee.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Glass of coffee, person in casual attire, countertop, water bottle.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 164.0,
+      "timestamp_formatted": "0:02:44",
+      "activity": "A person is pouring a dark liquid, possibly coffee, from a bottle into a glass.",
+      "location": "Indoor, likely a kitchen or living area.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is pouring a dark liquid, possibly coffee, from a bottle into a glass.\n2. **Location**: Indoor, likely a kitchen or living area.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Bottle, glass, table, lamp, computer chair.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 168.0,
+      "timestamp_formatted": "0:02:48",
+      "activity": "A person is holding and possibly opening or closing a white bottle.",
+      "location": "Indoor, likely a kitchen or living area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is holding and possibly opening or closing a white bottle.\n2. **Location**: Indoor, likely a kitchen or living area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: White bottle, person in a pink top, countertop, lamp, and a chair.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 171.0,
+      "timestamp_formatted": "0:02:51",
+      "activity": "The scene appears to be a still moment with no visible activity occurring.",
+      "location": "Indoor, likely a living room or office space.",
+      "mood": "Calm and quiet.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a still moment with no visible activity occurring.\n2. **Location**: Indoor, likely a living room or office space.\n3. **Mood**: Calm and quiet.\n4. **Key Elements**: \n   - Red book on a table\n   - Marble-patterned wall\n   - Green couch\n   - White lamp\n   - Door in the background\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 173.0,
+      "timestamp_formatted": "0:02:53",
+      "activity": "Someone is placing or removing a backpack from a table.",
+      "location": "Indoor, likely a study or office space.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is placing or removing a backpack from a table.\n2. **Location**: Indoor, likely a study or office space.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Backpack, table, book, lamp, chair.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 174.0,
+      "timestamp_formatted": "0:02:54",
+      "activity": "A person is standing or walking, with a focus on their feet.",
+      "location": "Indoor, likely inside a train or subway car.",
+      "mood": "Neutral and mundane.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is standing or walking, with a focus on their feet.\n2. **Location**: Indoor, likely inside a train or subway car.\n3. **Mood**: Neutral and mundane.\n4. **Key Elements**: Sneakers, socks, metallic floor, textured wall.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 175.0,
+      "timestamp_formatted": "0:02:55",
+      "activity": "A person is walking, possibly in a transit area.",
+      "location": "Indoor, likely in a subway or train station.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking, possibly in a transit area.\n2. **Location**: Indoor, likely in a subway or train station.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Sneakers, tiled floor, metal wall, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 176.0,
+      "timestamp_formatted": "0:02:56",
+      "activity": "Someone is holding and possibly reading a book.",
+      "location": "Indoor, likely in a public transportation setting like a subway or train.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is holding and possibly reading a book.\n2. **Location**: Indoor, likely in a public transportation setting like a subway or train.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Hand holding a book, text on the book, metallic background, Korean subtitle.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 177.0,
+      "timestamp_formatted": "0:02:57",
+      "activity": "A person is holding and possibly reading a book while walking.",
+      "location": "Indoor, likely in a hallway or corridor.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is holding and possibly reading a book while walking.\n2. **Location**: Indoor, likely in a hallway or corridor.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, hand holding the book, watch on the wrist, floor.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 178.0,
+      "timestamp_formatted": "0:02:58",
+      "activity": "A person is holding and flipping through a book.",
+      "location": "Indoor, possibly in a hallway or near an entrance.",
+      "mood": "Casual and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is holding and flipping through a book.\n2. **Location**: Indoor, possibly in a hallway or near an entrance.\n3. **Mood**: Casual and focused.\n4. **Key Elements**: Open book, backpack, person’s hand, text overlay in Korean.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 179.0,
+      "timestamp_formatted": "0:02:59",
+      "activity": "Someone is holding an open book, possibly reading or showing it.",
+      "location": "Indoor, likely in a hallway or near an entrance.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or informational.",
+      "raw_analysis": "1. **Activity**: Someone is holding an open book, possibly reading or showing it.\n2. **Location**: Indoor, likely in a hallway or near an entrance.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book with text, backpack, person holding the book, door or window in the background, Korean subtitles.\n5. **Scene Type**: Dialogue or informational."
+    },
+    {
+      "timestamp": 182.0,
+      "timestamp_formatted": "0:03:02",
+      "activity": "A person is using an ice maker to fill a cup.",
+      "location": "Indoor, likely a kitchen or break room.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is using an ice maker to fill a cup.\n2. **Location**: Indoor, likely a kitchen or break room.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Ice maker, hand, cup, countertop.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 186.0,
+      "timestamp_formatted": "0:03:06",
+      "activity": "A person is sitting at a desk, possibly preparing to eat or drink something.",
+      "location": "Indoor office or workspace setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Casual interaction or routine task.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly preparing to eat or drink something.\n2. **Location**: Indoor office or workspace setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: White bottle, keyboard, striped package, person in a sweater.\n5. **Scene Type**: Casual interaction or routine task."
+    },
+    {
+      "timestamp": 187.0,
+      "timestamp_formatted": "0:03:07",
+      "activity": "A person is sitting at a desk, possibly preparing to eat or drink.",
+      "location": "Indoor, likely an office or study area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue or casual interaction.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly preparing to eat or drink.\n2. **Location**: Indoor, likely an office or study area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Water bottle, keyboard, person in a sweater, text overlay.\n5. **Scene Type**: Dialogue or casual interaction."
+    },
+    {
+      "timestamp": 188.0,
+      "timestamp_formatted": "0:03:08",
+      "activity": "A person is unwrapping or handling an item, possibly a snack or a device.",
+      "location": "Indoor, likely an office or a workspace.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is unwrapping or handling an item, possibly a snack or a device.\n2. **Location**: Indoor, likely an office or a workspace.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Keyboard, water bottle, person’s hands, item being unwrapped, text overlay.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 190.0,
+      "timestamp_formatted": "0:03:10",
+      "activity": "A person is watching a video review about protein bars on a screen.",
+      "location": "Indoor, likely in an office or home setting.",
+      "mood": "Informative and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue/Informational.",
+      "raw_analysis": "1. **Activity**: A person is watching a video review about protein bars on a screen.\n2. **Location**: Indoor, likely in an office or home setting.\n3. **Mood**: Informative and casual.\n4. **Key Elements**: Computer screen displaying a video, a person partially visible, a water bottle, a table.\n5. **Scene Type**: Dialogue/Informational."
+    },
+    {
+      "timestamp": 194.0,
+      "timestamp_formatted": "0:03:14",
+      "activity": "A person is sitting at a desk, possibly working or taking a break.",
+      "location": "Indoor office or workspace.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue or work-related scene.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly working or taking a break.\n2. **Location**: Indoor office or workspace.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Keyboard, white bottle, person in a sweater, smartwatch, desk.\n5. **Scene Type**: Dialogue or work-related scene."
+    },
+    {
+      "timestamp": 200.0,
+      "timestamp_formatted": "0:03:20",
+      "activity": "A person is eating or preparing to eat a meal.",
+      "location": "Indoor, likely an office or a break room.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual dining moment.",
+      "raw_analysis": "1. **Activity**: A person is eating or preparing to eat a meal.\n2. **Location**: Indoor, likely an office or a break room.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Food container, person in a sweater, digital watch, text overlay with time, subtitles in Korean.\n5. **Scene Type**: Casual dining moment."
+    },
+    {
+      "timestamp": 208.0,
+      "timestamp_formatted": "0:03:28",
+      "activity": "A person is eating a meal using chopsticks.",
+      "location": "Indoor, likely an office or conference room.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual dining.",
+      "raw_analysis": "1. **Activity**: A person is eating a meal using chopsticks.\n2. **Location**: Indoor, likely an office or conference room.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Bento box, chopsticks, office chair, sweater.\n5. **Scene Type**: Casual dining."
+    },
+    {
+      "timestamp": 213.0,
+      "timestamp_formatted": "0:03:33",
+      "activity": "A person is eating a meal using chopsticks.",
+      "location": "Indoor, likely an office or meeting room.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual dining moment.",
+      "raw_analysis": "1. **Activity**: A person is eating a meal using chopsticks.\n2. **Location**: Indoor, likely an office or meeting room.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Chopsticks, food containers, a person in a sweater, office chair.\n5. **Scene Type**: Casual dining moment."
+    },
+    {
+      "timestamp": 216.0,
+      "timestamp_formatted": "0:03:36",
+      "activity": "A person is writing in a notebook.",
+      "location": "Indoor, likely at a desk or table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is writing in a notebook.\n2. **Location**: Indoor, likely at a desk or table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Notebook, pen, hand with painted nails, text overlay showing \"AM 11:30\".\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 220.0,
+      "timestamp_formatted": "0:03:40",
+      "activity": "A person is standing on a sidewalk, possibly preparing to walk or observing their surroundings.",
+      "location": "Outdoor, on a city street or sidewalk.",
+      "mood": "Calm and observational.",
+      "key_elements": [],
+      "scene_type": "Transition or establishing shot.",
+      "raw_analysis": "1. **Activity**: A person is standing on a sidewalk, possibly preparing to walk or observing their surroundings.\n2. **Location**: Outdoor, on a city street or sidewalk.\n3. **Mood**: Calm and observational.\n4. **Key Elements**: \n   - White sneakers\n   - Sidewalk and curb\n   - Street drain\n   - Yellow leaves or small fruits\n5. **Scene Type**: Transition or establishing shot."
+    },
+    {
+      "timestamp": 221.0,
+      "timestamp_formatted": "0:03:41",
+      "activity": "A person is standing on a sidewalk, possibly preparing to leave or start walking.",
+      "location": "Outdoor, on a city street sidewalk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is standing on a sidewalk, possibly preparing to leave or start walking.\n2. **Location**: Outdoor, on a city street sidewalk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Sneakers, sidewalk, street curb, storm drain, yellow leaves.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 222.0,
+      "timestamp_formatted": "0:03:42",
+      "activity": "A person is standing on a sidewalk, possibly preparing to leave or start walking.",
+      "location": "Outdoor, on a city street sidewalk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is standing on a sidewalk, possibly preparing to leave or start walking.\n2. **Location**: Outdoor, on a city street sidewalk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Sneakers, sidewalk, street drain, yellow leaves, text overlay (\"PM 5:00\").\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 223.0,
+      "timestamp_formatted": "0:03:43",
+      "activity": "A person is standing on a sidewalk, possibly preparing to walk.",
+      "location": "Outdoor, on a city street or sidewalk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is standing on a sidewalk, possibly preparing to walk.\n2. **Location**: Outdoor, on a city street or sidewalk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Sneakers, sidewalk, street drain, yellow leaves, text overlay (\"PM 5:00\").\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 224.0,
+      "timestamp_formatted": "0:03:44",
+      "activity": "A person is standing on a sidewalk, possibly preparing to step off the curb.",
+      "location": "Outdoor, on a city street sidewalk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is standing on a sidewalk, possibly preparing to step off the curb.\n2. **Location**: Outdoor, on a city street sidewalk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Sneakers, sidewalk, curb, street drain, yellow leaves.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 225.0,
+      "timestamp_formatted": "0:03:45",
+      "activity": "A person is writing or drawing in a notebook.",
+      "location": "Indoor, likely a desk or workspace.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "\"Study/work session\"",
+      "raw_analysis": "1. **Activity**: A person is writing or drawing in a notebook.\n2. **Location**: Indoor, likely a desk or workspace.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Notebook, keyboard, pen, vertical mouse, smartphone stand.\n5. **Scene Type**: \"Study/work session\""
+    },
+    {
+      "timestamp": 241.0,
+      "timestamp_formatted": "0:04:01",
+      "activity": "A person is sitting at a desk, possibly watching or browsing content on a computer screen.",
+      "location": "Indoor, likely a home office or study room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Dialogue or browsing.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly watching or browsing content on a computer screen.\n2. **Location**: Indoor, likely a home office or study room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitor, office chair, desk, curtain, lamp.\n5. **Scene Type**: Dialogue or browsing."
+    },
+    {
+      "timestamp": 262.0,
+      "timestamp_formatted": "0:04:22",
+      "activity": "A person is sitting at a desk, possibly watching videos or studying on a computer.",
+      "location": "Indoor, likely a home office or study room.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study/work scene.",
+      "raw_analysis": "1. **Activity**: A person is sitting at a desk, possibly watching videos or studying on a computer.\n2. **Location**: Indoor, likely a home office or study room.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Computer monitor, office chair, desk, curtain, desk lamp.\n5. **Scene Type**: Study/work scene."
+    },
+    {
+      "timestamp": 263.0,
+      "timestamp_formatted": "0:04:23",
+      "activity": "A person is typing on a keyboard.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Focused and productive.",
+      "key_elements": [],
+      "scene_type": "Work/study session.",
+      "raw_analysis": "1. **Activity**: A person is typing on a keyboard.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Focused and productive.\n4. **Key Elements**: Keyboard, person's hands, plush toy with a red bow, text \"Day3\".\n5. **Scene Type**: Work/study session."
+    },
+    {
+      "timestamp": 271.0,
+      "timestamp_formatted": "0:04:31",
+      "activity": "A person is typing on a keyboard.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Work or study scene.",
+      "raw_analysis": "1. **Activity**: A person is typing on a keyboard.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Keyboard, person's hands, plush toy with a red bow, desk.\n5. **Scene Type**: Work or study scene."
+    },
+    {
+      "timestamp": 281.0,
+      "timestamp_formatted": "0:04:41",
+      "activity": "A person is closing a book.",
+      "location": "Indoor, likely a desk or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is closing a book.\n2. **Location**: Indoor, likely a desk or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book titled \"CHANGEABLE\", person's hands, keyboard, red object.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 282.0,
+      "timestamp_formatted": "0:04:42",
+      "activity": "A person is flipping through the pages of a book.",
+      "location": "Indoor, likely at a desk or table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "\"Reading/Study moment\"",
+      "raw_analysis": "1. **Activity**: A person is flipping through the pages of a book.\n2. **Location**: Indoor, likely at a desk or table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book, hands, keyboard, red object, Korean text subtitles.\n5. **Scene Type**: \"Reading/Study moment\""
+    },
+    {
+      "timestamp": 293.0,
+      "timestamp_formatted": "0:04:53",
+      "activity": "A person is reading a book and taking notes.",
+      "location": "Indoor, likely at a desk or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study or work-focused closeup.",
+      "raw_analysis": "1. **Activity**: A person is reading a book and taking notes.\n2. **Location**: Indoor, likely at a desk or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, person's hands, pen, keyboard.\n5. **Scene Type**: Study or work-focused closeup."
+    },
+    {
+      "timestamp": 302.0,
+      "timestamp_formatted": "0:05:02",
+      "activity": "A person is placing or retrieving a green container from a table.",
+      "location": "Indoor setting, possibly a study or lounge area.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is placing or retrieving a green container from a table.\n2. **Location**: Indoor setting, possibly a study or lounge area.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Black backpack, green container, headphones, book.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 306.0,
+      "timestamp_formatted": "0:05:06",
+      "activity": "A person is writing in a notebook with a pink pen.",
+      "location": "Indoor office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is writing in a notebook with a pink pen.\n2. **Location**: Indoor office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Notebook, pink pen, office desk, person in a pink shirt.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 312.0,
+      "timestamp_formatted": "0:05:12",
+      "activity": "Someone is carrying a plastic bag containing food items.",
+      "location": "Indoor, likely in a kitchen or dining area.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: Someone is carrying a plastic bag containing food items.\n2. **Location**: Indoor, likely in a kitchen or dining area.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Hand holding a plastic bag, food containers, floor surface.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 316.0,
+      "timestamp_formatted": "0:05:16",
+      "activity": "A person is preparing to eat a meal using chopsticks and a spoon.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is preparing to eat a meal using chopsticks and a spoon.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Chopsticks, spoon, food container, potted plant, smartwatch.\n5. **Scene Type**: Everyday activity."
+    },
+    {
+      "timestamp": 321.0,
+      "timestamp_formatted": "0:05:21",
+      "activity": "A person is eating a meal, possibly a poke bowl.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual dining moment.",
+      "raw_analysis": "1. **Activity**: A person is eating a meal, possibly a poke bowl.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Bowl of food, small sauce containers, smartwatch, potted plant, office chair.\n5. **Scene Type**: Casual dining moment."
+    },
+    {
+      "timestamp": 326.0,
+      "timestamp_formatted": "0:05:26",
+      "activity": "A person is reading a book.",
+      "location": "Indoor, likely a study or library setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Intimate/close-up.",
+      "raw_analysis": "1. **Activity**: A person is reading a book.\n2. **Location**: Indoor, likely a study or library setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, person's hands, pink checkered shirt, white table.\n5. **Scene Type**: Intimate/close-up."
+    },
+    {
+      "timestamp": 340.0,
+      "timestamp_formatted": "0:05:40",
+      "activity": "A person is walking on a sidewalk.",
+      "location": "Outdoor, likely on a city street.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a sidewalk.\n2. **Location**: Outdoor, likely on a city street.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Sidewalk, sneaker, leg, timestamp \"PM 5:00\".\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 341.0,
+      "timestamp_formatted": "0:05:41",
+      "activity": "A person is walking on a wet pavement.",
+      "location": "Outdoor, likely on a city sidewalk.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a wet pavement.\n2. **Location**: Outdoor, likely on a city sidewalk.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: Wet pavement, white sneakers, time overlay (\"PM 5:00\"), Korean text.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 342.0,
+      "timestamp_formatted": "0:05:42",
+      "activity": "A person is walking on a sidewalk.",
+      "location": "Outdoor, on a city street or sidewalk.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a sidewalk.\n2. **Location**: Outdoor, on a city street or sidewalk.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Sidewalk, curb, person's foot, text overlay (\"PM 5:00\").\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 343.0,
+      "timestamp_formatted": "0:05:43",
+      "activity": "A person is walking on a sidewalk.",
+      "location": "Outdoor, on a city street or sidewalk.",
+      "mood": "Casual and everyday.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a sidewalk.\n2. **Location**: Outdoor, on a city street or sidewalk.\n3. **Mood**: Casual and everyday.\n4. **Key Elements**: Sidewalk tiles, a shoe, a curb, a fallen leaf, and the text \"PM 5:00\".\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 344.0,
+      "timestamp_formatted": "0:05:44",
+      "activity": "A person is performing Pilates exercises on a reformer machine.",
+      "location": "Indoor, likely a fitness studio or gym.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Fitness/exercise.",
+      "raw_analysis": "1. **Activity**: A person is performing Pilates exercises on a reformer machine.\n2. **Location**: Indoor, likely a fitness studio or gym.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Pilates reformer machine, person exercising, ceiling lights, exercise equipment.\n5. **Scene Type**: Fitness/exercise."
+    },
+    {
+      "timestamp": 358.0,
+      "timestamp_formatted": "0:05:58",
+      "activity": "The scene shows a book placed on a bed.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a book placed on a bed.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: \n   - Book titled \"CHANGEABLE\"\n   - Plush blanket or stuffed animal\n   - Bed\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 360.0,
+      "timestamp_formatted": "0:06:00",
+      "activity": "Someone is holding a book, possibly about to read or show it.",
+      "location": "Indoor, likely a bedroom or living room.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition or detail shot.",
+      "raw_analysis": "1. **Activity**: Someone is holding a book, possibly about to read or show it.\n2. **Location**: Indoor, likely a bedroom or living room.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: \n   - A hand holding a book\n   - A blue book with text and an illustration\n   - A plush toy in the background\n   - Subtitles at the bottom\n5. **Scene Type**: Transition or detail shot."
+    },
+    {
+      "timestamp": 361.0,
+      "timestamp_formatted": "0:06:01",
+      "activity": "Someone is holding a book while lying on a bed.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: Someone is holding a book while lying on a bed.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Blue book with text\n   - Hand holding the book\n   - Teddy bear or plush toy\n   - Bed\n   - Subtitles in Korean\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 362.0,
+      "timestamp_formatted": "0:06:02",
+      "activity": "A person is reading a book while sitting in bed.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book while sitting in bed.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Book, large stuffed animal, bed, person.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 376.0,
+      "timestamp_formatted": "0:06:16",
+      "activity": "A person is reading a book while sitting in bed.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and cozy.",
+      "key_elements": [],
+      "scene_type": "Intimate/quiet moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book while sitting in bed.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and cozy.\n4. **Key Elements**: Book, large stuffed animal, bed, person.\n5. **Scene Type**: Intimate/quiet moment."
+    },
+    {
+      "timestamp": 377.0,
+      "timestamp_formatted": "0:06:17",
+      "activity": "The scene shows a person walking or jogging.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Energetic and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: The scene shows a person walking or jogging.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Energetic and casual.\n4. **Key Elements**: Person in athletic wear, pavement, bag, text \"Day4\".\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 381.0,
+      "timestamp_formatted": "0:06:21",
+      "activity": "A person is walking, possibly documenting their day.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Casual and informal.",
+      "key_elements": [],
+      "scene_type": "Transition or vlog-style documentation.",
+      "raw_analysis": "1. **Activity**: A person is walking, possibly documenting their day.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Casual and informal.\n4. **Key Elements**: Person in black outfit, tote bag, text \"Day4\".\n5. **Scene Type**: Transition or vlog-style documentation."
+    },
+    {
+      "timestamp": 382.0,
+      "timestamp_formatted": "0:06:22",
+      "activity": "A person is exercising on a stair climber machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Fitness/exercise.",
+      "raw_analysis": "1. **Activity**: A person is exercising on a stair climber machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Stair climber machine, person in athletic wear, gym equipment, motivational signage.\n5. **Scene Type**: Fitness/exercise."
+    },
+    {
+      "timestamp": 403.0,
+      "timestamp_formatted": "0:06:43",
+      "activity": "A person is typing on a keyboard.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Work-related activity.",
+      "raw_analysis": "1. **Activity**: A person is typing on a keyboard.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Keyboard, person's hands, computer mouse, snack wrapper.\n5. **Scene Type**: Work-related activity."
+    },
+    {
+      "timestamp": 408.0,
+      "timestamp_formatted": "0:06:48",
+      "activity": "A person is eating from a bowl with a fork.",
+      "location": "Indoor, likely an office or workspace.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Everyday moment.",
+      "raw_analysis": "1. **Activity**: A person is eating from a bowl with a fork.\n2. **Location**: Indoor, likely an office or workspace.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Bowl of food, fork, potted plant, window blinds, text overlay showing time.\n5. **Scene Type**: Everyday moment."
+    },
+    {
+      "timestamp": 412.0,
+      "timestamp_formatted": "0:06:52",
+      "activity": "A person is reading a book.",
+      "location": "Indoor, likely at a desk or table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book.\n2. **Location**: Indoor, likely at a desk or table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, person's hand, text in Korean, page number 132.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 415.0,
+      "timestamp_formatted": "0:06:55",
+      "activity": "A person is walking on a wet surface.",
+      "location": "Outdoor, likely on a sidewalk or street.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a wet surface.\n2. **Location**: Outdoor, likely on a sidewalk or street.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: Wet pavement, white sneaker, timestamp \"PM 5:00\".\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 417.0,
+      "timestamp_formatted": "0:06:57",
+      "activity": "A person is walking along a road.",
+      "location": "Outdoor, on a street or road.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking along a road.\n2. **Location**: Outdoor, on a street or road.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: Foot in a sneaker, yellow road line, asphalt surface, text overlay (\"PM 5:00\").\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 418.0,
+      "timestamp_formatted": "0:06:58",
+      "activity": "A person is walking on a road or path.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Casual and routine.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a road or path.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Casual and routine.\n4. **Key Elements**: White sneaker, yellow line, asphalt surface, text \"PM 5:00\".\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 419.0,
+      "timestamp_formatted": "0:06:59",
+      "activity": "A person is writing in a notebook.",
+      "location": "Indoor, likely a study or office space.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study/work scene.",
+      "raw_analysis": "1. **Activity**: A person is writing in a notebook.\n2. **Location**: Indoor, likely a study or office space.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Notebook, pen, keyboard, desk, pencil case.\n5. **Scene Type**: Study/work scene."
+    },
+    {
+      "timestamp": 437.0,
+      "timestamp_formatted": "0:07:17",
+      "activity": "A person is writing in a planner or journal.",
+      "location": "Indoor, likely at a desk or table.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Close-up/detail shot.",
+      "raw_analysis": "1. **Activity**: A person is writing in a planner or journal.\n2. **Location**: Indoor, likely at a desk or table.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Planner with handwritten notes, pen, keyboard, subtitles in Korean.\n5. **Scene Type**: Close-up/detail shot."
+    },
+    {
+      "timestamp": 450.0,
+      "timestamp_formatted": "0:07:30",
+      "activity": "A person is exercising on the floor using a foam roller.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Casual/Everyday activity.",
+      "raw_analysis": "1. **Activity**: A person is exercising on the floor using a foam roller.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Foam roller, bed with white bedding, bedside table, person in pajamas.\n5. **Scene Type**: Casual/Everyday activity."
+    },
+    {
+      "timestamp": 462.0,
+      "timestamp_formatted": "0:07:42",
+      "activity": "A person appears to be stretching or exercising on the floor.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person appears to be stretching or exercising on the floor.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Bed with white bedding, bedside table with items, person on the floor, foam roller.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 463.0,
+      "timestamp_formatted": "0:07:43",
+      "activity": "A person is cracking an egg into a baking dish.",
+      "location": "Indoor, likely a kitchen or dining area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Cooking preparation.",
+      "raw_analysis": "1. **Activity**: A person is cracking an egg into a baking dish.\n2. **Location**: Indoor, likely a kitchen or dining area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Hands, egg, baking dish, countertop, lamp.\n5. **Scene Type**: Cooking preparation."
+    },
+    {
+      "timestamp": 467.0,
+      "timestamp_formatted": "0:07:47",
+      "activity": "The scene appears to be a quiet moment in a home or office setting.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and serene.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a quiet moment in a home or office setting.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and serene.\n4. **Key Elements**: Computer monitor, desk chair, lamp, curtains, and a plant.\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 468.0,
+      "timestamp_formatted": "0:07:48",
+      "activity": "A person is reading a book at a desk.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study session.",
+      "raw_analysis": "1. **Activity**: A person is reading a book at a desk.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book, computer monitor, keyboard, timer, glass of green drink.\n5. **Scene Type**: Study session."
+    },
+    {
+      "timestamp": 472.0,
+      "timestamp_formatted": "0:07:52",
+      "activity": "A person is reading a book.",
+      "location": "Indoor, likely a study or home office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book.\n2. **Location**: Indoor, likely a study or home office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book, hands, keyboard, timer, book stand.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 484.0,
+      "timestamp_formatted": "0:08:04",
+      "activity": "A person is reading a book placed on a stand.",
+      "location": "Indoor, likely a study or office space.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study/work scene.",
+      "raw_analysis": "1. **Activity**: A person is reading a book placed on a stand.\n2. **Location**: Indoor, likely a study or office space.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book on a stand, hands, keyboard, timer.\n5. **Scene Type**: Study/work scene."
+    },
+    {
+      "timestamp": 487.0,
+      "timestamp_formatted": "0:08:07",
+      "activity": "A person is reading a book placed on a stand.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study or reading scene.",
+      "raw_analysis": "1. **Activity**: A person is reading a book placed on a stand.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, book stand, keyboard, timer, glass of drink.\n5. **Scene Type**: Study or reading scene."
+    },
+    {
+      "timestamp": 495.0,
+      "timestamp_formatted": "0:08:15",
+      "activity": "A person is adjusting a book on a stand, possibly preparing to read.",
+      "location": "Indoor, likely a study or home office.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study/reading setup.",
+      "raw_analysis": "1. **Activity**: A person is adjusting a book on a stand, possibly preparing to read.\n2. **Location**: Indoor, likely a study or home office.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book on a stand, keyboard, timer, hands adjusting the book.\n5. **Scene Type**: Study/reading setup."
+    },
+    {
+      "timestamp": 501.0,
+      "timestamp_formatted": "0:08:21",
+      "activity": "A person is reading a book and taking notes.",
+      "location": "Indoor, likely a home office or study area.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study or work session.",
+      "raw_analysis": "1. **Activity**: A person is reading a book and taking notes.\n2. **Location**: Indoor, likely a home office or study area.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Book on a stand, keyboard, timer, glass of tea.\n5. **Scene Type**: Study or work session."
+    },
+    {
+      "timestamp": 506.0,
+      "timestamp_formatted": "0:08:26",
+      "activity": "A person is walking on a paved surface.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Calm and casual.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a paved surface.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Calm and casual.\n4. **Key Elements**: White sneaker, asphalt pavement, Korean text overlay.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 508.0,
+      "timestamp_formatted": "0:08:28",
+      "activity": "A person is walking on a paved surface.",
+      "location": "Outdoor, likely on a street or sidewalk.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking on a paved surface.\n2. **Location**: Outdoor, likely on a street or sidewalk.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Paved ground, sneaker, leg, Korean text.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 509.0,
+      "timestamp_formatted": "0:08:29",
+      "activity": "A person is using a leg press machine for exercise.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a leg press machine for exercise.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Leg press machine, person exercising, gym equipment, digital clock, motivational posters.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 521.0,
+      "timestamp_formatted": "0:08:41",
+      "activity": "A person is performing an exercise on a leg press machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Exercise demonstration.",
+      "raw_analysis": "1. **Activity**: A person is performing an exercise on a leg press machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Leg press machine, athletic clothing, sneakers, gym equipment.\n5. **Scene Type**: Exercise demonstration."
+    },
+    {
+      "timestamp": 526.0,
+      "timestamp_formatted": "0:08:46",
+      "activity": "A person is performing a weightlifting exercise, likely a deadlift.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Fitness/workout.",
+      "raw_analysis": "1. **Activity**: A person is performing a weightlifting exercise, likely a deadlift.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Weightlifting equipment, barbell, weight plates, person exercising.\n5. **Scene Type**: Fitness/workout."
+    },
+    {
+      "timestamp": 549.0,
+      "timestamp_formatted": "0:09:09",
+      "activity": "A person is using a gym machine for a workout.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a gym machine for a workout.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Gym machine, person exercising, workout attire, overhead lighting.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 565.0,
+      "timestamp_formatted": "0:09:25",
+      "activity": "Someone is reading a book at a table.",
+      "location": "Indoor, likely a café.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: Someone is reading a book at a table.\n2. **Location**: Indoor, likely a café.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Open book, wooden table, text in Korean.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 567.0,
+      "timestamp_formatted": "0:09:27",
+      "activity": "A person is reading a book, with their hand resting on the page.",
+      "location": "Indoor, likely in a café.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book, with their hand resting on the page.\n2. **Location**: Indoor, likely in a café.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Open book, person's hand with painted nails, wooden table, Korean text.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 568.0,
+      "timestamp_formatted": "0:09:28",
+      "activity": "A person is reading a book.",
+      "location": "Indoor, likely a café or library.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book.\n2. **Location**: Indoor, likely a café or library.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, wooden table, person wearing a character-themed shirt, blurred background with lights.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 569.0,
+      "timestamp_formatted": "0:09:29",
+      "activity": "A person is reading a book.",
+      "location": "Indoor, likely a café.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is reading a book.\n2. **Location**: Indoor, likely a café.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: \n   - Open book\n   - Table\n   - Person wearing a character-themed shirt\n   - Café interior\n   - Text overlay in Korean\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 573.0,
+      "timestamp_formatted": "0:09:33",
+      "activity": "A person is typing on a laptop keyboard.",
+      "location": "Indoor, likely at a desk or table.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Close-up.",
+      "raw_analysis": "1. **Activity**: A person is typing on a laptop keyboard.\n2. **Location**: Indoor, likely at a desk or table.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Laptop with a keyboard, person's hands with nail art and bandages, wooden surface, glass with liquid.\n5. **Scene Type**: Close-up."
+    },
+    {
+      "timestamp": 592.0,
+      "timestamp_formatted": "0:09:52",
+      "activity": "A person is typing on a laptop keyboard.",
+      "location": "Indoor, likely at a desk or table.",
+      "mood": "Focused and casual.",
+      "key_elements": [],
+      "scene_type": "Dialogue or work-related activity.",
+      "raw_analysis": "1. **Activity**: A person is typing on a laptop keyboard.\n2. **Location**: Indoor, likely at a desk or table.\n3. **Mood**: Focused and casual.\n4. **Key Elements**: Laptop, hands with bandaged fingers, glass, wooden surface.\n5. **Scene Type**: Dialogue or work-related activity."
+    },
+    {
+      "timestamp": 608.0,
+      "timestamp_formatted": "0:10:08",
+      "activity": "A person is walking while holding a book.",
+      "location": "Indoor, possibly in a hallway or corridor.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking while holding a book.\n2. **Location**: Indoor, possibly in a hallway or corridor.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Book, shadow, tiled floor, sneakers.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 609.0,
+      "timestamp_formatted": "0:10:09",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze or describe the content of this video frame."
+    },
+    {
+      "timestamp": 610.0,
+      "timestamp_formatted": "0:10:10",
+      "activity": "A person is walking while holding a book.",
+      "location": "Indoor setting, possibly a hallway or corridor.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: A person is walking while holding a book.\n2. **Location**: Indoor setting, possibly a hallway or corridor.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: \n   - Book in hand\n   - Sneakers\n   - Tiled floor\n   - Shadow on the ground\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 611.0,
+      "timestamp_formatted": "0:10:11",
+      "activity": "A person is walking while holding a book.",
+      "location": "Indoor, possibly a hallway or corridor.",
+      "mood": "Casual and relaxed.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is walking while holding a book.\n2. **Location**: Indoor, possibly a hallway or corridor.\n3. **Mood**: Casual and relaxed.\n4. **Key Elements**: Book, person's legs, tiled floor, Korean text subtitle.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 612.0,
+      "timestamp_formatted": "0:10:12",
+      "activity": "A person is sitting on the floor, reading a book.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate/relaxation moment.",
+      "raw_analysis": "1. **Activity**: A person is sitting on the floor, reading a book.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Book, bed with white bedding, nightstand, person's feet, massage roller.\n5. **Scene Type**: Intimate/relaxation moment."
+    },
+    {
+      "timestamp": 619.0,
+      "timestamp_formatted": "0:10:19",
+      "activity": "A person is lying on the floor, using a foam roller while reading a book.",
+      "location": "Indoor, likely a living room or bedroom.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is lying on the floor, using a foam roller while reading a book.\n2. **Location**: Indoor, likely a living room or bedroom.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Foam roller, open book, person in pajamas, wooden floor.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 623.0,
+      "timestamp_formatted": "0:10:23",
+      "activity": "A person is lying on the floor, possibly reading or flipping through a book.",
+      "location": "Indoor, likely a home or personal space.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate moment.",
+      "raw_analysis": "1. **Activity**: A person is lying on the floor, possibly reading or flipping through a book.\n2. **Location**: Indoor, likely a home or personal space.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Book, foam roller, person’s hands, wooden floor.\n5. **Scene Type**: Intimate moment."
+    },
+    {
+      "timestamp": 624.0,
+      "timestamp_formatted": "0:10:24",
+      "activity": "A person is reviewing or studying a document or planner.",
+      "location": "Indoor, likely a home or office setting.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Study or planning session.",
+      "raw_analysis": "1. **Activity**: A person is reviewing or studying a document or planner.\n2. **Location**: Indoor, likely a home or office setting.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open planner or book, pen, person in striped shirt, curtain.\n5. **Scene Type**: Study or planning session."
+    },
+    {
+      "timestamp": 631.0,
+      "timestamp_formatted": "0:10:31",
+      "activity": "A person is studying or reviewing material in a notebook.",
+      "location": "Indoor, likely a study room or office.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Study session.",
+      "raw_analysis": "1. **Activity**: A person is studying or reviewing material in a notebook.\n2. **Location**: Indoor, likely a study room or office.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Notebook, pen, person's hands, striped shirt, text overlay.\n5. **Scene Type**: Study session."
+    },
+    {
+      "timestamp": 642.0,
+      "timestamp_formatted": "0:10:42",
+      "activity": "A person is reading a book.",
+      "location": "Indoor, likely on public transportation.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Transition.",
+      "raw_analysis": "1. **Activity**: A person is reading a book.\n2. **Location**: Indoor, likely on public transportation.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Open book, hand with nail art, text overlay showing time \"AM 7:30\", Korean text.\n5. **Scene Type**: Transition."
+    },
+    {
+      "timestamp": 647.0,
+      "timestamp_formatted": "0:10:47",
+      "activity": "The scene appears to be a still moment, possibly indicating a transition or pause in the video.",
+      "location": "Indoor setting, likely in a building hallway or entrance area.",
+      "mood": "Neutral and calm, with no visible activity or people.",
+      "key_elements": [],
+      "scene_type": "Transition or establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene appears to be a still moment, possibly indicating a transition or pause in the video.\n2. **Location**: Indoor setting, likely in a building hallway or entrance area.\n3. **Mood**: Neutral and calm, with no visible activity or people.\n4. **Key Elements**: \n   - Brick wall\n   - Concrete floor with tactile paving\n   - Metal railings\n   - Time display (\"PM 6:00\")\n5. **Scene Type**: Transition or establishing shot."
+    },
+    {
+      "timestamp": 649.0,
+      "timestamp_formatted": "0:10:49",
+      "activity": "The scene shows someone descending a staircase.",
+      "location": "Indoor, likely in a public or commercial building.",
+      "mood": "Calm and routine.",
+      "key_elements": [],
+      "scene_type": "Transition",
+      "raw_analysis": "1. **Activity**: The scene shows someone descending a staircase.\n2. **Location**: Indoor, likely in a public or commercial building.\n3. **Mood**: Calm and routine.\n4. **Key Elements**: \n   - Staircase with yellow safety markings\n   - Brick wall\n   - Metal handrails\n   - Time display (\"PM 6:00\")\n   - Korean subtitles\n5. **Scene Type**: Transition"
+    },
+    {
+      "timestamp": 650.0,
+      "timestamp_formatted": "0:10:50",
+      "activity": "The scene shows a view of a corridor or hallway.",
+      "location": "Indoor, likely in a building or transit area.",
+      "mood": "Neutral and functional.",
+      "key_elements": [],
+      "scene_type": "Establishing shot.",
+      "raw_analysis": "1. **Activity**: The scene shows a view of a corridor or hallway.\n2. **Location**: Indoor, likely in a building or transit area.\n3. **Mood**: Neutral and functional.\n4. **Key Elements**: Brick wall, metal handrails, tactile paving, doors, timestamp \"PM 6:00\".\n5. **Scene Type**: Establishing shot."
+    },
+    {
+      "timestamp": 652.0,
+      "timestamp_formatted": "0:10:52",
+      "activity": "Someone is adjusting the weight on a gym machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: Someone is adjusting the weight on a gym machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Weight stack, adjustment pin, gym equipment, text in Korean.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 653.0,
+      "timestamp_formatted": "0:10:53",
+      "activity": "The scene shows a close-up of a weight stack on a gym machine, possibly being adjusted or used.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and utilitarian.",
+      "key_elements": [],
+      "scene_type": "Equipment closeup.",
+      "raw_analysis": "1. **Activity**: The scene shows a close-up of a weight stack on a gym machine, possibly being adjusted or used.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and utilitarian.\n4. **Key Elements**: Weight stack with labeled plates, adjustment pin, metal rods, and a cable.\n5. **Scene Type**: Equipment closeup."
+    },
+    {
+      "timestamp": 655.0,
+      "timestamp_formatted": "0:10:55",
+      "activity": "Adjusting weights on a gym machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and determined.",
+      "key_elements": [],
+      "scene_type": "Fitness/exercise setup.",
+      "raw_analysis": "1. **Activity**: Adjusting weights on a gym machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and determined.\n4. **Key Elements**: Weight stack, adjustment pin, gym equipment, flooring with speckled pattern.\n5. **Scene Type**: Fitness/exercise setup."
+    },
+    {
+      "timestamp": 656.0,
+      "timestamp_formatted": "0:10:56",
+      "activity": "A person is using a gym machine for exercise.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is using a gym machine for exercise.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Exercise machine, person exercising, gym equipment, mirrors, athletic shoes.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 663.0,
+      "timestamp_formatted": "0:11:03",
+      "activity": "A person is exercising using a seated row machine.",
+      "location": "Indoor gym or fitness center.",
+      "mood": "Focused and energetic.",
+      "key_elements": [],
+      "scene_type": "Action.",
+      "raw_analysis": "1. **Activity**: A person is exercising using a seated row machine.\n2. **Location**: Indoor gym or fitness center.\n3. **Mood**: Focused and energetic.\n4. **Key Elements**: Seated row machine, person wearing headphones, gym equipment, mirrored wall, overhead lighting.\n5. **Scene Type**: Action."
+    },
+    {
+      "timestamp": 666.0,
+      "timestamp_formatted": "0:11:06",
+      "activity": "A person is exercising on a gym machine.",
+      "location": "Indoor gym.",
+      "mood": "Focused and calm.",
+      "key_elements": [],
+      "scene_type": "Exercise/training.",
+      "raw_analysis": "1. **Activity**: A person is exercising on a gym machine.\n2. **Location**: Indoor gym.\n3. **Mood**: Focused and calm.\n4. **Key Elements**: Exercise machine, person with headphones, towel, modern ceiling lights.\n5. **Scene Type**: Exercise/training."
+    },
+    {
+      "timestamp": 670.0,
+      "timestamp_formatted": "0:11:10",
+      "activity": "A person is lying on a bed, reading a book.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Calm and relaxed.",
+      "key_elements": [],
+      "scene_type": "Intimate/relaxation moment.",
+      "raw_analysis": "1. **Activity**: A person is lying on a bed, reading a book.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Calm and relaxed.\n4. **Key Elements**: Person, book, bed, pillow, patterned shorts.\n5. **Scene Type**: Intimate/relaxation moment."
+    },
+    {
+      "timestamp": 679.0,
+      "timestamp_formatted": "0:11:19",
+      "activity": "A person is lying in bed, holding a phone, possibly reading or watching something.",
+      "location": "Indoor, likely a bedroom.",
+      "mood": "Relaxed and cozy.",
+      "key_elements": [],
+      "scene_type": "Intimate/relaxation moment.",
+      "raw_analysis": "1. **Activity**: A person is lying in bed, holding a phone, possibly reading or watching something.\n2. **Location**: Indoor, likely a bedroom.\n3. **Mood**: Relaxed and cozy.\n4. **Key Elements**: \n   - Person lying on a bed\n   - Large teddy bear\n   - Phone\n   - Pillow\n   - Pajamas with a playful pattern\n5. **Scene Type**: Intimate/relaxation moment."
+    },
+    {
+      "timestamp": 686.0,
+      "timestamp_formatted": "0:11:26",
+      "activity": "",
+      "location": "",
+      "mood": "",
+      "key_elements": [],
+      "scene_type": "",
+      "raw_analysis": "I'm unable to analyze the video frame as it appears too dark to discern any details. If you can adjust the brightness or provide a clearer image, I can help further."
+    },
+    {
+      "timestamp": 687.0,
+      "timestamp_formatted": "0:11:27",
+      "activity": "A person is typing on a keyboard, possibly concluding a video or task.",
+      "location": "Indoor, likely a home office or personal workspace.",
+      "mood": "Calm and focused.",
+      "key_elements": [],
+      "scene_type": "Conclusion.",
+      "raw_analysis": "1. **Activity**: A person is typing on a keyboard, possibly concluding a video or task.\n2. **Location**: Indoor, likely a home office or personal workspace.\n3. **Mood**: Calm and focused.\n4. **Key Elements**: Keyboard, person's hands, plush toy with a red bow, text overlay saying \"Thank you.\"\n5. **Scene Type**: Conclusion."
+    }
+  ],
+  "summary": {
+    "most_common_scene_types": [
+      [
+        "Transition.",
+        32
+      ],
+      [
+        "Intimate moment.",
+        13
+      ],
+      [
+        "Action.",
+        11
+      ],
+      [
+        "Everyday activity.",
+        11
+      ],
+      [
+        "Establishing shot.",
+        5
+      ]
+    ],
+    "locations": [
+      "Outdoor, likely on a street or sidewalk.",
+      "Outdoor, likely on a sidewalk or street.",
+      "Outdoor, on a paved walkway.",
+      "Indoor gym or fitness center.",
+      "Indoor, likely a gym or fitness center.",
+      "Indoor, likely a gym or home workout area.",
+      "Indoor, likely in a gym or home workout area.",
+      "Indoor, likely an office or workspace.",
+      "Indoor office setting.",
+      "Indoor office or workspace."
+    ],
+    "dominant_moods": [
+      [
+        "Calm and focused.",
+        38
+      ],
+      [
+        "Calm and casual.",
+        20
+      ],
+      [
+        "Calm and relaxed.",
+        12
+      ],
+      [
+        "Focused and energetic.",
+        11
+      ],
+      [
+        "Casual and relaxed.",
+        10
+      ]
+    ]
+  }
+}

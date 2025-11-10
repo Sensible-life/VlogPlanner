@@ -1,0 +1,109 @@
+{
+  "template_name": "Conversational Travel and Fitness Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "Introduction at the airport, setting the scene for travel.",
+      "key_elements": [
+        "airport arrival",
+        "setting expectations"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1107,
+      "description": "Main content focusing on travel experiences, fitness routines, and personal reflections.",
+      "segments": [
+        {
+          "type": "travel_experience",
+          "description": "Exploring new places, visiting cafes, and local experiences.",
+          "typical_duration": 400
+        },
+        {
+          "type": "fitness_routine",
+          "description": "Daily workout routines and fitness tips.",
+          "typical_duration": 300
+        },
+        {
+          "type": "personal_reflection",
+          "description": "Sharing thoughts and feelings about the journey and experiences.",
+          "typical_duration": 200
+        },
+        {
+          "type": "cultural_observation",
+          "description": "Observations about local culture and lifestyle.",
+          "typical_duration": 207
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "Wrap-up of the day's experiences and a farewell.",
+      "key_elements": [
+        "summary of the day",
+        "goodbye message"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#a28d7b",
+      "#d6dcd6",
+      "#1f1b17"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Decreasing",
+    "pacing": "Fast",
+    "average_shot_length": 1.4,
+    "scene_changes": 907,
+    "camera_work": [
+      "handheld",
+      "panning"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining travel experiences and fitness routines"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Location names and brief descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Travel and Fitness Blend",
+      "description": "Seamless integration of travel experiences with fitness routines.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Cultural Insights",
+      "description": "Observations and reflections on local culture and lifestyle.",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel vlogs",
+    "Fitness and lifestyle content"
+  ]
+}

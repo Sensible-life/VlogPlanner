@@ -1,0 +1,138 @@
+{
+  "template_name": "Korean Study and Daily Routine Vlog",
+  "category": "study_productivity",
+  "structure": {
+    "opening": {
+      "duration_seconds": 30,
+      "description": "The vlog begins with a person making a bed and introducing the day's plan, focusing on studying and preparing for exams.",
+      "key_elements": [
+        "bed making",
+        "introduction to study day",
+        "calm and casual mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 840,
+      "description": "The main content consists of a series of study sessions, personal care routines, casual interactions, and product showcases, interspersed with dialogue and intimate moments.",
+      "segments": [
+        {
+          "type": "personal care routine",
+          "description": "A person applies skincare products and prepares for the day.",
+          "typical_duration": 60,
+          "scene_activity": "Applying skincare products",
+          "location": "Indoor, likely a bedroom",
+          "mood": "Calm and routine-focused"
+        },
+        {
+          "type": "study session",
+          "description": "The person engages in focused study sessions, often showing books and notes.",
+          "typical_duration": 180,
+          "scene_activity": "Studying or reviewing educational materials",
+          "location": "Indoor, likely a study room",
+          "mood": "Focused and calm"
+        },
+        {
+          "type": "dialogue",
+          "description": "The person speaks directly to the camera, explaining study plans and daily activities.",
+          "typical_duration": 120,
+          "scene_activity": "Speaking to the camera",
+          "location": "Indoor, likely a personal room",
+          "mood": "Casual and friendly"
+        },
+        {
+          "type": "domestic scene",
+          "description": "Casual interactions during meals or with a pet, creating a relaxed atmosphere.",
+          "typical_duration": 90,
+          "scene_activity": "Eating meals or interacting with a pet",
+          "location": "Indoor, dining area or living room",
+          "mood": "Calm and casual"
+        },
+        {
+          "type": "product showcase",
+          "description": "The person showcases various products, such as energy drinks and gummy candies.",
+          "typical_duration": 60,
+          "scene_activity": "Showing and discussing products",
+          "location": "Indoor, likely a bedroom or casual setting",
+          "mood": "Casual and informal"
+        },
+        {
+          "type": "intimate moment",
+          "description": "The person shares close interactions with a pet, creating a warm and affectionate mood.",
+          "typical_duration": 60,
+          "scene_activity": "Interacting closely with a pet",
+          "location": "Indoor, likely an elevator or personal space",
+          "mood": "Intimate and affectionate"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 30,
+      "description": "The vlog concludes with a reflective dialogue about the day's productivity and an end screen inviting viewers to watch more content.",
+      "key_elements": [
+        "reflection on study",
+        "end screen with social media links"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#1f191b",
+      "#b1b3a8",
+      "#8d896e"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 6.5,
+    "scene_changes": 138,
+    "camera_work": [
+      "static shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and explanatory",
+      "content_type": "Explaining study plans and daily activities"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Supplementary information and translations"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Study and Routine",
+      "description": "Alternating between study sessions and daily routines",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Product Showcases",
+      "description": "Highlighting and discussing various personal products",
+      "frequency": "Occasional"
+    }
+  ],
+  "recommended_use_cases": [
+    "Study motivation",
+    "Daily routine inspiration"
+  ]
+}

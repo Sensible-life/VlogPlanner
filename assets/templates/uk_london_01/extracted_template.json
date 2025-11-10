@@ -1,0 +1,109 @@
+{
+  "template_name": "Conversational Korean Daily Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "Introduction with conversational tone, setting the day's mood",
+      "key_elements": [
+        "greeting",
+        "overview of the day"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1488,
+      "description": "Main content with various daily activities and interactions",
+      "segments": [
+        {
+          "type": "activity",
+          "description": "Engaging in daily activities and routines",
+          "typical_duration": 600
+        },
+        {
+          "type": "interaction",
+          "description": "Conversational interactions with others",
+          "typical_duration": 400
+        },
+        {
+          "type": "reflection",
+          "description": "Personal reflections and thoughts",
+          "typical_duration": 300
+        },
+        {
+          "type": "miscellaneous",
+          "description": "Random moments and observations",
+          "typical_duration": 188
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "Wrap-up with closing thoughts and farewell",
+      "key_elements": [
+        "summary",
+        "goodbye"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#7e6c66",
+      "#160f11",
+      "#e1dad8"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.4,
+    "scene_changes": 1148,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and daily reflections"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional clarifications"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Conversational Segments",
+      "description": "Frequent conversational segments with a casual tone",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Daily Routine Activities",
+      "description": "Regular depiction of daily routine activities",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily life documentation",
+    "Casual vlogging"
+  ]
+}

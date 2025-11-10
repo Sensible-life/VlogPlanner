@@ -1,0 +1,115 @@
+{
+  "template_name": "Calm Korean Daily Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "Introduction with bright visuals and low energy speech",
+      "key_elements": [
+        "bright visuals",
+        "low energy",
+        "initial greetings"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1467,
+      "description": "Main content with fast pacing, stable brightness, and calm mood",
+      "segments": [
+        {
+          "type": "routine activity",
+          "description": "Daily activities and interactions",
+          "typical_duration": 300
+        },
+        {
+          "type": "food and cooking",
+          "description": "Preparing and eating meals",
+          "typical_duration": 300
+        },
+        {
+          "type": "personal reflections",
+          "description": "Sharing thoughts and experiences",
+          "typical_duration": 300
+        },
+        {
+          "type": "outdoor scenes",
+          "description": "Scenes from outside activities",
+          "typical_duration": 300
+        },
+        {
+          "type": "transitions",
+          "description": "Quick transitions between segments",
+          "typical_duration": 267
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "Conclusion with medium brightness and low energy",
+      "key_elements": [
+        "farewell message",
+        "calm visuals"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#a89b90",
+      "#1c1212",
+      "#8b6d57"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.4,
+    "scene_changes": 1167,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Medium",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Calm",
+    "music_ratio": 0.5,
+    "speech_ratio": 0.4,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 3,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Casual chat and daily reflections"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Occasional translations and highlights"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Fast-paced transitions",
+      "description": "Quick cuts and transitions between different daily activities",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Calm music overlay",
+      "description": "Background music that maintains a calm mood",
+      "frequency": "Constant"
+    }
+  ],
+  "recommended_use_cases": [
+    "daily life documentation",
+    "calm and relaxing content"
+  ]
+}

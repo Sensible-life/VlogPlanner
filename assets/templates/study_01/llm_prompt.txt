@@ -1,0 +1,1781 @@
+# Video Analysis Report
+
+## Basic Information
+- Duration: 0:15:00
+- Resolution: 1920x1080
+- FPS: 30.0
+
+## Visual Features
+- Dominant Colors: #1f191b, #b1b3a8, #8d896e
+- Brightness Trend: Stable
+- Scene Changes: 138
+- Average Shot Length: 6.5s
+
+## Audio Features
+- Dominant Mood: Conversational
+- Music Ratio: 30%
+- Speech Ratio: 60%
+- Ambient Ratio: 10%
+
+## Content Overview
+- Language: ko
+- Transcript Segments: 223
+- Content Length: 3502 characters
+
+## Overall Characteristics
+Visual Style:
+- Colors: #1f191b, #b1b3a8, #8d896e
+- Brightness: Stable
+- Pacing: Medium
+
+Audio Style:
+- Mood: Conversational
+- Music Prominence: Low
+- Speech Prominence: Medium
+
+## Scene Context Analysis (GPT-4o Vision)
+Total Scenes Analyzed: 138
+
+### Overall Video Content Summary
+Most Common Scene Types:
+  - Dialogue.: 21 occurrences
+  - Study session.: 13 occurrences
+  - Intimate moment.: 10 occurrences
+  - Food closeup.: 7 occurrences
+  - Product closeup.: 6 occurrences
+
+Dominant Moods:
+  - Calm and focused.: 18 scenes
+  - Casual and relaxed.: 17 scenes
+  - Calm and casual.: 14 scenes
+  - Focused and calm.: 11 scenes
+  - Calm and leisurely.: 8 scenes
+
+### Detailed Scene-by-Scene Context
+(Use this data to create accurate, specific body segments)
+
+**Scene 1** [0:00:05]:
+  - Activity: A person is making a bed.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday routine.
+  - Full Analysis: 1. **Activity**: A person is making a bed.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person in pajamas, bed, open door, phone, text overlay saying "HELLO :)"
+5. **Scene Type**: Everyday routine.
+
+**Scene 2** [0:00:08]:
+  - Activity: A person is making a bed.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and routine.
+  - Scene Type: Routine activity.
+  - Full Analysis: 1. **Activity**: A person is making a bed.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Person in pajamas, bed, open door, phone, decorative wall hanging.
+5. **Scene Type**: Routine activity.
+
+**Scene 3** [0:00:09]:
+  - Activity: A person is speaking to the camera, possibly explaining or introducing something.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue/Introduction.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or introducing something.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Person in pajamas
+   - Smartphone or camera
+   - Bed
+   - Open door
+5. **Scene Type**: Dialogue/Introduction.
+
+**Scene 4** [0:00:18]:
+  - Activity: A person is applying a skincare product to their face.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Calm and routine-focused.
+  - Scene Type: Personal care routine.
+  - Full Analysis: 1. **Activity**: A person is applying a skincare product to their face.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Calm and routine-focused.
+4. **Key Elements**: Person in pajamas, open door, neutral-colored walls, text overlay in Korean.
+5. **Scene Type**: Personal care routine.
+
+**Scene 5** [0:00:24]:
+  - Activity: A person is applying skincare or makeup while looking at a device, possibly recording or video chatting.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Calm and personal.
+  - Scene Type: Personal routine or vlog.
+  - Full Analysis: 1. **Activity**: A person is applying skincare or makeup while looking at a device, possibly recording or video chatting.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Calm and personal.
+4. **Key Elements**: Person in pajamas, smartphone or camera, bed, open door.
+5. **Scene Type**: Personal routine or vlog.
+
+**Scene 6** [0:00:42]:
+  - Activity: A person is applying skincare or makeup to their face.
+  - Location: Indoor, likely a bedroom.
+  - Mood: Calm and casual.
+  - Scene Type: Personal care routine.
+  - Full Analysis: 1. **Activity**: A person is applying skincare or makeup to their face.
+2. **Location**: Indoor, likely a bedroom.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person in pajamas, smartphone on a stand, bed, wall decor.
+5. **Scene Type**: Personal care routine.
+
+**Scene 7** [0:01:19]:
+  - Activity: A person is adjusting their hair while looking at a screen.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Personal moment.
+  - Full Analysis: 1. **Activity**: A person is adjusting their hair while looking at a screen.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person, tablet or laptop, bed, wall decoration.
+5. **Scene Type**: Personal moment.
+
+**Scene 8** [0:01:32]:
+  - Activity: A person is speaking to the camera, possibly vlogging or recording a video message.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly vlogging or recording a video message.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person, tablet or phone, bed, door, text on screen.
+5. **Scene Type**: Dialogue.
+
+**Scene 9** [0:01:33]:
+  - Activity: A person is looking directly at the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely a bedroom or living space.
+  - Mood: Casual and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom or living space.
+3. **Mood**: Casual and intimate.
+4. **Key Elements**: Person, smartphone, bed, wall decor.
+5. **Scene Type**: Dialogue.
+
+**Scene 10** [0:01:34]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Intimate and casual.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: 
+   - Person looking at the camera
+   - Bed in the background
+   - Doorway
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 11** [0:01:35]:
+  - Activity: Two people are having a meal at a dining table.
+  - Location: Indoor, in a kitchen or dining area of a home.
+  - Mood: Calm and casual.
+  - Scene Type: Domestic scene.
+  - Full Analysis: 1. **Activity**: Two people are having a meal at a dining table.
+2. **Location**: Indoor, in a kitchen or dining area of a home.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Dining table, two people, bowls of food, a dog, kitchen items.
+5. **Scene Type**: Domestic scene.
+
+**Scene 12** [0:01:44]:
+  - Activity: Two people are sitting at a dining table, with one person talking and the other eating.
+  - Location: Indoor, in a living/dining room area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are sitting at a dining table, with one person talking and the other eating.
+2. **Location**: Indoor, in a living/dining room area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Dining table, two people, a dog, a soda can, and a bottle.
+5. **Scene Type**: Dialogue.
+
+**Scene 13** [0:01:53]:
+  - Activity: Two people are sitting at a dining table eating, while a dog stands nearby.
+  - Location: Indoor, in a dining area of a home.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are sitting at a dining table eating, while a dog stands nearby.
+2. **Location**: Indoor, in a dining area of a home.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Dining table, two people, a dog, bowls of food, a bottle, and a can of soda.
+5. **Scene Type**: Dialogue.
+
+**Scene 14** [0:01:54]:
+  - Activity: Two people are sitting at a dining table, possibly having a meal, while a dog stands nearby.
+  - Location: Indoor, likely a dining area in a home.
+  - Mood: Calm and casual.
+  - Scene Type: Domestic interaction.
+  - Full Analysis: 1. **Activity**: Two people are sitting at a dining table, possibly having a meal, while a dog stands nearby.
+2. **Location**: Indoor, likely a dining area in a home.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Two people seated at a table
+   - A large dog standing
+   - Bowls with food on the table
+   - A bottle and a can on the table
+5. **Scene Type**: Domestic interaction.
+
+**Scene 15** [0:01:55]:
+  - Activity: Two people are sitting at a dining table, possibly having a meal or snack.
+  - Location: Indoor, likely a dining area in a home.
+  - Mood: Calm and casual.
+  - Scene Type: Casual domestic moment.
+  - Full Analysis: 1. **Activity**: Two people are sitting at a dining table, possibly having a meal or snack.
+2. **Location**: Indoor, likely a dining area in a home.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Golden retriever dog
+   - Dining table with chairs
+   - Bowls of food on the table
+   - Beverage can
+5. **Scene Type**: Casual domestic moment.
+
+**Scene 16** [0:02:06]:
+  - Activity: Two people are sitting at a table, eating and possibly having a conversation.
+  - Location: Indoor, likely a dining area in a home.
+  - Mood: The atmosphere appears calm and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are sitting at a table, eating and possibly having a conversation.
+2. **Location**: Indoor, likely a dining area in a home.
+3. **Mood**: The atmosphere appears calm and casual.
+4. **Key Elements**: 
+   - Two people
+   - Bowls of food
+   - Open book or magazine
+   - Soda can
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue.
+
+**Scene 17** [0:02:09]:
+  - Activity: Two people are eating a meal at a table.
+  - Location: Indoor, likely a dining area or kitchen.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are eating a meal at a table.
+2. **Location**: Indoor, likely a dining area or kitchen.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Two people, bowls of food, a can of soda, and text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 18** [0:02:12]:
+  - Activity: Two people are having a meal together while looking at a book or magazine.
+  - Location: Indoor, likely a dining area in a home.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: Two people are having a meal together while looking at a book or magazine.
+2. **Location**: Indoor, likely a dining area in a home.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Bowls of food, open book, soda can, phone.
+5. **Scene Type**: Dialogue.
+
+**Scene 19** [0:02:18]:
+  - Activity: A dog is walking and sniffing around in a grassy area.
+  - Location: Outdoor, likely in a garden or park.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: A dog is walking and sniffing around in a grassy area.
+2. **Location**: Outdoor, likely in a garden or park.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog with a harness, grass, flowers, and a paved path.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 20** [0:02:19]:
+  - Activity: A dog is exploring or sniffing around in a grassy area.
+  - Location: Outdoor, likely a garden or park.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor exploration.
+  - Full Analysis: 1. **Activity**: A dog is exploring or sniffing around in a grassy area.
+2. **Location**: Outdoor, likely a garden or park.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog with a harness, grass, flowers, text overlay.
+5. **Scene Type**: Casual outdoor exploration.
+
+**Scene 21** [0:02:20]:
+  - Activity: A dog is exploring or sniffing around in a garden area.
+  - Location: Outdoor garden or yard.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor exploration.
+  - Full Analysis: 1. **Activity**: A dog is exploring or sniffing around in a garden area.
+2. **Location**: Outdoor garden or yard.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog with a harness, grass, flowers, leash.
+5. **Scene Type**: Casual outdoor exploration.
+
+**Scene 22** [0:02:21]:
+  - Activity: A dog is exploring or sniffing around in a grassy area.
+  - Location: Outdoor garden or park.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor exploration.
+  - Full Analysis: 1. **Activity**: A dog is exploring or sniffing around in a grassy area.
+2. **Location**: Outdoor garden or park.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog with a harness, grass, flowers, tree.
+5. **Scene Type**: Casual outdoor exploration.
+
+**Scene 23** [0:02:22]:
+  - Activity: A dog is exploring or sniffing around a grassy area.
+  - Location: Outdoor, likely in a park or garden.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor exploration.
+  - Full Analysis: 1. **Activity**: A dog is exploring or sniffing around a grassy area.
+2. **Location**: Outdoor, likely in a park or garden.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog, grass, tree, pathway, leash.
+5. **Scene Type**: Casual outdoor exploration.
+
+**Scene 24** [0:02:23]:
+  - Activity: A dog is being walked along a path.
+  - Location: Outdoor, in a park or garden area.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: A dog is being walked along a path.
+2. **Location**: Outdoor, in a park or garden area.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog with a harness, grassy path, trees, bushes.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 25** [0:02:24]:
+  - Activity: A dog is being walked on a leash in a park.
+  - Location: Outdoor, in a park or garden area.
+  - Mood: Calm and peaceful.
+  - Scene Type: Casual outdoor activity.
+  - Full Analysis: 1. **Activity**: A dog is being walked on a leash in a park.
+2. **Location**: Outdoor, in a park or garden area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Dog, leash, trees, bushes, pathway.
+5. **Scene Type**: Casual outdoor activity.
+
+**Scene 26** [0:02:25]:
+  - Activity: A dog is being walked on a leash in a park.
+  - Location: Outdoor, in a park or garden area.
+  - Mood: Calm and peaceful.
+  - Scene Type: Casual outdoor walk.
+  - Full Analysis: 1. **Activity**: A dog is being walked on a leash in a park.
+2. **Location**: Outdoor, in a park or garden area.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: Dog on a leash, trees, bushes, park bench, playground equipment.
+5. **Scene Type**: Casual outdoor walk.
+
+**Scene 27** [0:02:26]:
+  - Activity: A dog is being walked on a leash in a park.
+  - Location: Outdoor park setting.
+  - Mood: Calm and leisurely.
+  - Scene Type: Leisure activity.
+  - Full Analysis: 1. **Activity**: A dog is being walked on a leash in a park.
+2. **Location**: Outdoor park setting.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog, leash, trees, bushes, park bench.
+5. **Scene Type**: Leisure activity.
+
+**Scene 28** [0:02:27]:
+  - Activity: A dog is walking and sniffing around in a park.
+  - Location: Outdoor, in a park or garden area.
+  - Mood: Calm and leisurely.
+  - Scene Type: Casual outdoor moment.
+  - Full Analysis: 1. **Activity**: A dog is walking and sniffing around in a park.
+2. **Location**: Outdoor, in a park or garden area.
+3. **Mood**: Calm and leisurely.
+4. **Key Elements**: Dog with a harness, trees, bushes, paved walkway.
+5. **Scene Type**: Casual outdoor moment.
+
+**Scene 29** [0:02:28]:
+  - Activity: A person is looking directly at the camera, possibly recording a video or taking a selfie.
+  - Location: Indoor setting, likely a public place such as a restaurant or cafe.
+  - Mood: Neutral and casual.
+  - Scene Type: Dialogue or personal vlog.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly recording a video or taking a selfie.
+2. **Location**: Indoor setting, likely a public place such as a restaurant or cafe.
+3. **Mood**: Neutral and casual.
+4. **Key Elements**: 
+   - Person wearing a gray hoodie
+   - Earbuds in ears
+   - Decorative wall paneling
+   - Metal railing
+5. **Scene Type**: Dialogue or personal vlog.
+
+**Scene 30** [0:02:33]:
+  - Activity: A person is speaking directly to the camera.
+  - Location: Indoor, likely a public transportation setting like a subway or train.
+  - Mood: Casual and conversational.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera.
+2. **Location**: Indoor, likely a public transportation setting like a subway or train.
+3. **Mood**: Casual and conversational.
+4. **Key Elements**: Person wearing a gray hoodie, earbuds, metal railing, brown patterned wall, Korean text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 31** [0:02:34]:
+  - Activity: A person is sitting closely with a dog, possibly taking a selfie or video.
+  - Location: Indoor, likely in a bathroom or similar space with tiled walls.
+  - Mood: Intimate and calm.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is sitting closely with a dog, possibly taking a selfie or video.
+2. **Location**: Indoor, likely in a bathroom or similar space with tiled walls.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: Person in a gray hoodie, golden retriever, tiled wall, metal railing.
+5. **Scene Type**: Intimate moment.
+
+**Scene 32** [0:02:35]:
+  - Activity: A person is taking a selfie with a dog.
+  - Location: Indoor, possibly a hallway or entrance area.
+  - Mood: Intimate and friendly.
+  - Scene Type: Casual interaction.
+  - Full Analysis: 1. **Activity**: A person is taking a selfie with a dog.
+2. **Location**: Indoor, possibly a hallway or entrance area.
+3. **Mood**: Intimate and friendly.
+4. **Key Elements**: Person in a gray hoodie, golden retriever, marble wall, handrail, Korean text overlay.
+5. **Scene Type**: Casual interaction.
+
+**Scene 33** [0:02:36]:
+  - Activity: A person is sitting closely with a dog, possibly engaging in a friendly interaction.
+  - Location: Indoor, likely in an elevator.
+  - Mood: Intimate and cheerful.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person is sitting closely with a dog, possibly engaging in a friendly interaction.
+2. **Location**: Indoor, likely in an elevator.
+3. **Mood**: Intimate and cheerful.
+4. **Key Elements**: Person in a gray hoodie, golden retriever, elevator buttons, text overlay.
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 34** [0:02:37]:
+  - Activity: A person is sitting next to a dog, possibly talking or interacting with it.
+  - Location: Indoor, likely inside an elevator.
+  - Mood: Calm and friendly.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is sitting next to a dog, possibly talking or interacting with it.
+2. **Location**: Indoor, likely inside an elevator.
+3. **Mood**: Calm and friendly.
+4. **Key Elements**: Person in a gray hoodie, golden retriever, elevator buttons, handrail.
+5. **Scene Type**: Intimate moment.
+
+**Scene 35** [0:02:38]:
+  - Activity: A person is sitting closely with a dog, possibly engaging in a moment of affection or communication.
+  - Location: Indoor, inside an elevator.
+  - Mood: Intimate and calm.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is sitting closely with a dog, possibly engaging in a moment of affection or communication.
+2. **Location**: Indoor, inside an elevator.
+3. **Mood**: Intimate and calm.
+4. **Key Elements**: Person wearing a gray hoodie, golden retriever, elevator buttons, AirPods, metal railing.
+5. **Scene Type**: Intimate moment.
+
+**Scene 36** [0:02:39]:
+  - Activity: A person is affectionately kissing a dog.
+  - Location: Indoor, likely in an elevator.
+  - Mood: Intimate and joyful.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is affectionately kissing a dog.
+2. **Location**: Indoor, likely in an elevator.
+3. **Mood**: Intimate and joyful.
+4. **Key Elements**: Person wearing earbuds, a happy dog, elevator buttons, text in Korean.
+5. **Scene Type**: Intimate moment.
+
+**Scene 37** [0:02:40]:
+  - Activity: A person is affectionately kissing a dog.
+  - Location: Indoor, likely in an elevator.
+  - Mood: Intimate and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is affectionately kissing a dog.
+2. **Location**: Indoor, likely in an elevator.
+3. **Mood**: Intimate and affectionate.
+4. **Key Elements**: Person wearing earbuds, golden retriever dog, elevator buttons, text in Korean.
+5. **Scene Type**: Intimate moment.
+
+**Scene 38** [0:02:41]:
+  - Activity: A person is sitting next to a dog, possibly taking a selfie or video together.
+  - Location: Indoor, likely inside an elevator.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is sitting next to a dog, possibly taking a selfie or video together.
+2. **Location**: Indoor, likely inside an elevator.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Person wearing earbuds, a golden retriever, elevator buttons, text overlay in Korean.
+5. **Scene Type**: Intimate moment.
+
+**Scene 39** [0:02:42]:
+  - Activity: A person is sitting next to a dog, possibly taking a selfie or video together.
+  - Location: Indoor, likely in an elevator.
+  - Mood: Calm and affectionate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is sitting next to a dog, possibly taking a selfie or video together.
+2. **Location**: Indoor, likely in an elevator.
+3. **Mood**: Calm and affectionate.
+4. **Key Elements**: Person, dog, elevator buttons, text overlay.
+5. **Scene Type**: Intimate moment.
+
+**Scene 40** [0:02:43]:
+  - Activity: A person is gently petting a dog.
+  - Location: Indoor, likely in a living room or bedroom.
+  - Mood: Calm and intimate.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is gently petting a dog.
+2. **Location**: Indoor, likely in a living room or bedroom.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Dog, person's hand, yellow blanket, chair in the background.
+5. **Scene Type**: Intimate moment.
+
+**Scene 41** [0:03:03]:
+  - Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+  - Location: Indoor, likely a personal room or study area.
+  - Mood: Casual and friendly.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Indoor, likely a personal room or study area.
+3. **Mood**: Casual and friendly.
+4. **Key Elements**: Person with raised hands, books, tablet, window with curtains.
+5. **Scene Type**: Dialogue.
+
+**Scene 42** [0:03:12]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a study or personal workspace.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a study or personal workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, books, desk, window with curtains, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 43** [0:03:23]:
+  - Activity: A person is gesturing with their hands, possibly explaining or demonstrating something.
+  - Location: Indoor, likely a study or work area.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or instructional.
+  - Full Analysis: 1. **Activity**: A person is gesturing with their hands, possibly explaining or demonstrating something.
+2. **Location**: Indoor, likely a study or work area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, books, tablet, pencil case, curtain.
+5. **Scene Type**: Dialogue or instructional.
+
+**Scene 44** [0:03:24]:
+  - Activity: A person is sitting at a desk, possibly preparing to study or work.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Study preparation.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly preparing to study or work.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Desk, books, tablet, pencil case, curtain.
+5. **Scene Type**: Study preparation.
+
+**Scene 45** [0:03:26]:
+  - Activity: A person is speaking to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a study or personal workspace.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a study or personal workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person holding a folder or document
+   - Desk with books and notebooks
+   - Curtains in the background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 46** [0:03:37]:
+  - Activity: A person is captured in a candid moment, possibly moving or reacting to something.
+  - Location: Indoor setting, likely a room with natural light coming through a window.
+  - Mood: Casual and relaxed atmosphere.
+  - Scene Type: Candid moment.
+  - Full Analysis: 1. **Activity**: A person is captured in a candid moment, possibly moving or reacting to something.
+2. **Location**: Indoor setting, likely a room with natural light coming through a window.
+3. **Mood**: Casual and relaxed atmosphere.
+4. **Key Elements**: 
+   - Person wearing a white shirt
+   - Bright, soft lighting
+   - Curtains in the background
+   - Decorative text overlay
+5. **Scene Type**: Candid moment.
+
+**Scene 47** [0:03:38]:
+  - Activity: A person is looking down, possibly focused on an activity or object out of frame.
+  - Location: Indoor, likely a room with natural light coming through a window.
+  - Mood: Calm and introspective.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is looking down, possibly focused on an activity or object out of frame.
+2. **Location**: Indoor, likely a room with natural light coming through a window.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Person with short hair, white shirt, bright lighting, decorative text overlay.
+5. **Scene Type**: Intimate moment.
+
+**Scene 48** [0:03:39]:
+  - Activity: A person is sitting at a desk, possibly organizing or looking through items.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Everyday life moment.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly organizing or looking through items.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, desk, stack of books or notebooks, tablet, window with curtains.
+5. **Scene Type**: Everyday life moment.
+
+**Scene 49** [0:03:40]:
+  - Activity: A person is looking down, possibly engaged in a task or thought.
+  - Location: Indoor, likely a room with curtains.
+  - Mood: Calm and introspective.
+  - Scene Type: Intimate moment.
+  - Full Analysis: 1. **Activity**: A person is looking down, possibly engaged in a task or thought.
+2. **Location**: Indoor, likely a room with curtains.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Person with short hair, white shirt, curtains, decorative text overlay.
+5. **Scene Type**: Intimate moment.
+
+**Scene 50** [0:03:41]:
+  - Activity: A person is showing a piece of paper to the camera, possibly explaining or discussing its contents.
+  - Location: Indoor, likely a study or bedroom.
+  - Mood: Informative and casual.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is showing a piece of paper to the camera, possibly explaining or discussing its contents.
+2. **Location**: Indoor, likely a study or bedroom.
+3. **Mood**: Informative and casual.
+4. **Key Elements**: Person holding paper, books on a shelf, desk, window with curtains.
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 51** [0:03:45]:
+  - Activity: A person is speaking while holding a piece of paper, possibly explaining or teaching something.
+  - Location: Indoor, likely a study or home office.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue/Instruction.
+  - Full Analysis: 1. **Activity**: A person is speaking while holding a piece of paper, possibly explaining or teaching something.
+2. **Location**: Indoor, likely a study or home office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, paper, stack of books/notebooks, desk, tablet.
+5. **Scene Type**: Dialogue/Instruction.
+
+**Scene 52** [0:03:51]:
+  - Activity: A person is sitting at a desk, possibly talking or explaining something.
+  - Location: Indoor, likely a home office or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly talking or explaining something.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, desk, stack of books, tablet, window with curtains.
+5. **Scene Type**: Dialogue.
+
+**Scene 53** [0:03:57]:
+  - Activity: A person is sitting at a desk, possibly studying or working on something.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Study/work scene.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly studying or working on something.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, desk, books, chair, window with curtains.
+5. **Scene Type**: Study/work scene.
+
+**Scene 54** [0:03:58]:
+  - Activity: A person is sitting at a desk, possibly engaged in studying or working.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or study/work scene.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly engaged in studying or working.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, desk, stack of books/notebooks, tablet, window with curtains.
+5. **Scene Type**: Dialogue or study/work scene.
+
+**Scene 55** [0:04:09]:
+  - Activity: A person is studying or working at a desk, possibly discussing or explaining something.
+  - Location: Indoor, likely a home office or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is studying or working at a desk, possibly discussing or explaining something.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Desk, books, notebook, window with curtains, electronic device.
+5. **Scene Type**: Dialogue.
+
+**Scene 56** [0:04:29]:
+  - Activity: A person is expressing frustration or tiredness while sitting at a desk.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Frustrated or overwhelmed.
+  - Scene Type: Dialogue or reaction.
+  - Full Analysis: 1. **Activity**: A person is expressing frustration or tiredness while sitting at a desk.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Frustrated or overwhelmed.
+4. **Key Elements**: Person, desk, open book, stack of papers, window with sheer curtains.
+5. **Scene Type**: Dialogue or reaction.
+
+**Scene 57** [0:04:34]:
+  - Activity: A person is looking directly at the camera, possibly engaged in a conversation or explanation.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Intimate and focused.
+  - Scene Type: Dialogue or vlog-style interaction.
+  - Full Analysis: 1. **Activity**: A person is looking directly at the camera, possibly engaged in a conversation or explanation.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Intimate and focused.
+4. **Key Elements**: Person, book or notebook, stack of papers, window with sheer curtains.
+5. **Scene Type**: Dialogue or vlog-style interaction.
+
+**Scene 58** [0:04:42]:
+  - Activity: A person is studying or writing in a notebook.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or writing in a notebook.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Notebook, pen, stack of books, bed, window with curtains.
+5. **Scene Type**: Study session.
+
+**Scene 59** [0:04:58]:
+  - Activity: A person is studying or reading, focusing intently on a book or notebook.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reading, focusing intently on a book or notebook.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, open book/notebook, pen, window with sheer curtains.
+5. **Scene Type**: Study session.
+
+**Scene 60** [0:05:04]:
+  - Activity: Someone is reviewing or organizing study notes.
+  - Location: Indoor, likely a study area or desk.
+  - Mood: Focused and studious.
+  - Scene Type: Study or organization scene.
+  - Full Analysis: 1. **Activity**: Someone is reviewing or organizing study notes.
+2. **Location**: Indoor, likely a study area or desk.
+3. **Mood**: Focused and studious.
+4. **Key Elements**: Yellow sticky notes with handwritten text, a book or document underneath, Korean text.
+5. **Scene Type**: Study or organization scene.
+
+**Scene 61** [0:05:14]:
+  - Activity: The scene shows a close-up of a book or magazine page, likely being read or studied.
+  - Location: Indoor, possibly in a study or classroom setting.
+  - Mood: Informative and focused.
+  - Scene Type: Informational close-up.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a book or magazine page, likely being read or studied.
+2. **Location**: Indoor, possibly in a study or classroom setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: 
+   - Text in Korean
+   - Images of historical architecture
+   - Page numbers and section headings
+   - Subtitle overlay at the bottom
+5. **Scene Type**: Informational close-up.
+
+**Scene 62** [0:05:17]:
+  - Activity: A person is pointing at sections of a book, possibly indicating specific content.
+  - Location: Indoor, likely in a study or reading area.
+  - Mood: Informative and focused.
+  - Scene Type: Instructional or educational moment.
+  - Full Analysis: 1. **Activity**: A person is pointing at sections of a book, possibly indicating specific content.
+2. **Location**: Indoor, likely in a study or reading area.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Open book with text, pointing finger, Korean text, colorful pages.
+5. **Scene Type**: Instructional or educational moment.
+
+**Scene 63** [0:05:20]:
+  - Activity: A person is flipping through the pages of a book.
+  - Location: Indoor, likely in a study or reading area.
+  - Mood: Focused and studious.
+  - Scene Type: Transition.
+  - Full Analysis: 1. **Activity**: A person is flipping through the pages of a book.
+2. **Location**: Indoor, likely in a study or reading area.
+3. **Mood**: Focused and studious.
+4. **Key Elements**: Hand, book, text in Korean, colorful page borders.
+5. **Scene Type**: Transition.
+
+**Scene 64** [0:05:21]:
+  - Activity: The scene shows a close-up of a book or magazine page being examined.
+  - Location: Indoor, likely in a study or reading area.
+  - Mood: Informative and focused.
+  - Scene Type: "Text closeup"
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a book or magazine page being examined.
+2. **Location**: Indoor, likely in a study or reading area.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Text in Korean, section headings, page numbers, decorative elements.
+5. **Scene Type**: "Text closeup"
+
+**Scene 65** [0:05:22]:
+  - Activity: The scene shows a close-up of an open book, likely being examined or studied.
+  - Location: Indoor, possibly in a study or classroom setting.
+  - Mood: Informative and focused.
+  - Scene Type: Educational content or study scene.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of an open book, likely being examined or studied.
+2. **Location**: Indoor, possibly in a study or classroom setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Open book with text in Korean, headings and numbered lists, red text overlay.
+5. **Scene Type**: Educational content or study scene.
+
+**Scene 66** [0:05:28]:
+  - Activity: A person is flipping through the pages of a book.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Focused and studious.
+  - Scene Type: "Study/Research" scene.
+  - Full Analysis: 1. **Activity**: A person is flipping through the pages of a book.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Focused and studious.
+4. **Key Elements**: Hand, book with Korean text, page numbers, subtitles in Korean.
+5. **Scene Type**: "Study/Research" scene.
+
+**Scene 67** [0:05:29]:
+  - Activity: The scene shows a close-up of a book or document, likely being read or reviewed.
+  - Location: Indoor, possibly in a study or classroom setting.
+  - Mood: Informative and focused.
+  - Scene Type: Document closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a book or document, likely being read or reviewed.
+2. **Location**: Indoor, possibly in a study or classroom setting.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: 
+   - Text in Korean
+   - Sections labeled II and III
+   - Page numbers and topics
+   - Subtitle text at the bottom
+5. **Scene Type**: Document closeup.
+
+**Scene 68** [0:05:30]:
+  - Activity: A person is sitting at a desk, possibly adjusting something near the window.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Calm and casual.
+  - Scene Type: Everyday life moment.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly adjusting something near the window.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person, desk, window with curtains, bed, wall decorations.
+5. **Scene Type**: Everyday life moment.
+
+**Scene 69** [0:06:10]:
+  - Activity: A person is eating something, possibly a snack or meal.
+  - Location: Indoor setting, likely a home or apartment.
+  - Mood: Calm and casual.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is eating something, possibly a snack or meal.
+2. **Location**: Indoor setting, likely a home or apartment.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person eating, white shirt, window with curtains, Korean text.
+5. **Scene Type**: Food closeup.
+
+**Scene 70** [0:06:15]:
+  - Activity: A person is applying or examining a skincare product on their hand.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Calm and casual.
+  - Scene Type: Personal care routine.
+  - Full Analysis: 1. **Activity**: A person is applying or examining a skincare product on their hand.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person, skincare product, bed, window with curtains, stack of books.
+5. **Scene Type**: Personal care routine.
+
+**Scene 71** [0:06:27]:
+  - Activity: A person is holding and possibly discussing an energy drink.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and focused.
+  - Scene Type: Dialogue or personal vlog.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly discussing an energy drink.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Energy drink can, person, books or papers, bed.
+5. **Scene Type**: Dialogue or personal vlog.
+
+**Scene 72** [0:06:33]:
+  - Activity: A person is showcasing a can of Monster energy drink to the camera.
+  - Location: Indoor, likely a room or a casual setting.
+  - Mood: Informal and relaxed.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is showcasing a can of Monster energy drink to the camera.
+2. **Location**: Indoor, likely a room or a casual setting.
+3. **Mood**: Informal and relaxed.
+4. **Key Elements**: 
+   - Monster energy drink can
+   - Person's hands
+   - Subtitles in Korean
+   - Window with blinds in the background
+5. **Scene Type**: Product showcase.
+
+**Scene 73** [0:06:34]:
+  - Activity: A person is showing a can with a colorful design to the camera.
+  - Location: Indoor, possibly a home or casual setting.
+  - Mood: Casual and informal.
+  - Scene Type: Product showcase or review.
+  - Full Analysis: 1. **Activity**: A person is showing a can with a colorful design to the camera.
+2. **Location**: Indoor, possibly a home or casual setting.
+3. **Mood**: Casual and informal.
+4. **Key Elements**: 
+   - Colorful can with a skeleton design
+   - Person's hand holding the can
+   - Blurred background
+5. **Scene Type**: Product showcase or review.
+
+**Scene 74** [0:06:35]:
+  - Activity: A person is holding and showing a can of energy drink to the camera.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Casual and informal.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is holding and showing a can of energy drink to the camera.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Casual and informal.
+4. **Key Elements**: Energy drink can, person, bed, desk, books.
+5. **Scene Type**: Product showcase.
+
+**Scene 75** [0:06:36]:
+  - Activity: A person is holding and examining a can with colorful artwork.
+  - Location: Indoor setting.
+  - Mood: Curious and casual.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is holding and examining a can with colorful artwork.
+2. **Location**: Indoor setting.
+3. **Mood**: Curious and casual.
+4. **Key Elements**: Hands, can with vibrant design, Korean text.
+5. **Scene Type**: Product closeup.
+
+**Scene 76** [0:06:37]:
+  - Activity: A person is holding and possibly reviewing a can of Monster Energy drink.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Product review.
+  - Full Analysis: 1. **Activity**: A person is holding and possibly reviewing a can of Monster Energy drink.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Monster Energy drink can, person, desk, books, window with curtains.
+5. **Scene Type**: Product review.
+
+**Scene 77** [0:06:39]:
+  - Activity: A person is doing homework or studying, writing in a notebook.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and contemplative.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is doing homework or studying, writing in a notebook.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and contemplative.
+4. **Key Elements**: Person writing, notebook, bed, window with curtains, wall lamp.
+5. **Scene Type**: Study session.
+
+**Scene 78** [0:06:47]:
+  - Activity: A person is speaking or explaining something to the camera.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking or explaining something to the camera.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person wearing a white shirt, books and magazines on a desk, curtains in the background, earphones.
+5. **Scene Type**: Dialogue.
+
+**Scene 79** [0:06:52]:
+  - Activity: A person is presenting a book, possibly discussing its content.
+  - Location: Indoor, likely a study or bedroom.
+  - Mood: Informative and focused.
+  - Scene Type: Dialogue/Presentation.
+  - Full Analysis: 1. **Activity**: A person is presenting a book, possibly discussing its content.
+2. **Location**: Indoor, likely a study or bedroom.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Person, book with colorful cover, curtains, text overlay in Korean.
+5. **Scene Type**: Dialogue/Presentation.
+
+**Scene 80** [0:06:55]:
+  - Activity: A person is showing or discussing a book, possibly related to studying.
+  - Location: Indoor, likely a room or study area.
+  - Mood: Focused and educational.
+  - Scene Type: Dialogue or educational explanation.
+  - Full Analysis: 1. **Activity**: A person is showing or discussing a book, possibly related to studying.
+2. **Location**: Indoor, likely a room or study area.
+3. **Mood**: Focused and educational.
+4. **Key Elements**: Person, book, curtains, text overlay in Korean.
+5. **Scene Type**: Dialogue or educational explanation.
+
+**Scene 81** [0:06:56]:
+  - Activity: A person is speaking, possibly explaining or teaching something.
+  - Location: Indoor, likely a study or bedroom.
+  - Mood: Informative and focused.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is speaking, possibly explaining or teaching something.
+2. **Location**: Indoor, likely a study or bedroom.
+3. **Mood**: Informative and focused.
+4. **Key Elements**: Person wearing earphones, open book, stack of books, window with curtains.
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 82** [0:07:15]:
+  - Activity: A person is studying or reviewing educational materials.
+  - Location: Indoor, likely a study room or home office.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reviewing educational materials.
+2. **Location**: Indoor, likely a study room or home office.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Person holding a book, stack of books on a desk, window with curtains, text overlay in Korean.
+5. **Scene Type**: Study session.
+
+**Scene 83** [0:07:23]:
+  - Activity: A person is studying or reading a book.
+  - Location: Indoor, likely a home or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reading a book.
+2. **Location**: Indoor, likely a home or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Open book, stack of books, window with curtains, chair.
+5. **Scene Type**: Study session.
+
+**Scene 84** [0:07:40]:
+  - Activity: A person is studying or reviewing materials at a desk.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reviewing materials at a desk.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Books, desk, chair, window with curtains, writing materials.
+5. **Scene Type**: Study session.
+
+**Scene 85** [0:07:46]:
+  - Activity: A person is preparing to eat a meal at a dining table.
+  - Location: Indoor, likely in a home dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dining scene.
+  - Full Analysis: 1. **Activity**: A person is preparing to eat a meal at a dining table.
+2. **Location**: Indoor, likely in a home dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person in a white t-shirt
+   - Dining table with food
+   - Bowl of rice and a dish with food
+   - Can of Sprite
+   - Television in the background
+5. **Scene Type**: Dining scene.
+
+**Scene 86** [0:08:34]:
+  - Activity: A person is sitting at a table, possibly discussing or explaining something while having a meal.
+  - Location: Indoor, likely a home dining area or kitchen.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a table, possibly discussing or explaining something while having a meal.
+2. **Location**: Indoor, likely a home dining area or kitchen.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person with a bowl of rice
+   - Television in the background
+   - Table with food
+   - Remote control
+5. **Scene Type**: Dialogue.
+
+**Scene 87** [0:08:39]:
+  - Activity: A person is sitting at a table, possibly talking or explaining something while having a meal.
+  - Location: Indoor, likely a dining area in a home.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a table, possibly talking or explaining something while having a meal.
+2. **Location**: Indoor, likely a dining area in a home.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person sitting at the table
+   - Plate of food
+   - Can of Sprite
+   - Television in the background
+   - Dining table
+5. **Scene Type**: Dialogue.
+
+**Scene 88** [0:08:48]:
+  - Activity: A person is eating a meal at a table.
+  - Location: Indoor, likely a dining area in a home.
+  - Mood: Calm and casual.
+  - Scene Type: Dining scene.
+  - Full Analysis: 1. **Activity**: A person is eating a meal at a table.
+2. **Location**: Indoor, likely a dining area in a home.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person eating, bowl of rice, plate of food, table, window with curtains.
+5. **Scene Type**: Dining scene.
+
+**Scene 89** [0:08:52]:
+  - Activity: A person is setting up or adjusting a camera or device, possibly preparing for a study session or video call.
+  - Location: Indoor, likely a study or bedroom.
+  - Mood: Focused and calm.
+  - Scene Type: Setup or preparation.
+  - Full Analysis: 1. **Activity**: A person is setting up or adjusting a camera or device, possibly preparing for a study session or video call.
+2. **Location**: Indoor, likely a study or bedroom.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: 
+   - Person in a white t-shirt with a cat design
+   - Books and notebooks on the desk
+   - Tablet or laptop displaying content
+   - Pen and stationery
+   - Bookshelf in the background
+5. **Scene Type**: Setup or preparation.
+
+**Scene 90** [0:08:53]:
+  - Activity: A person is adjusting a camera or device while sitting at a desk.
+  - Location: Indoor, likely a study or bedroom.
+  - Mood: Casual and focused.
+  - Scene Type: Vlog or study session.
+  - Full Analysis: 1. **Activity**: A person is adjusting a camera or device while sitting at a desk.
+2. **Location**: Indoor, likely a study or bedroom.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Person, desk, books, tablet, drink can.
+5. **Scene Type**: Vlog or study session.
+
+**Scene 91** [0:08:54]:
+  - Activity: A person is reaching for something on a desk while looking at the camera.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and focused.
+  - Scene Type: Dialogue or study session.
+  - Full Analysis: 1. **Activity**: A person is reaching for something on a desk while looking at the camera.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and focused.
+4. **Key Elements**: Tablet, books, notepad, pen, person.
+5. **Scene Type**: Dialogue or study session.
+
+**Scene 92** [0:09:15]:
+  - Activity: A person is studying or reviewing material at a desk.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and slightly fatigued.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reviewing material at a desk.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and slightly fatigued.
+4. **Key Elements**: Open book, highlighter, smartphone, stack of books.
+5. **Scene Type**: Study session.
+
+**Scene 93** [0:09:16]:
+  - Activity: A person appears to be expressing frustration or exhaustion while sitting at a desk.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: The atmosphere is tired and overwhelmed.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person appears to be expressing frustration or exhaustion while sitting at a desk.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: The atmosphere is tired and overwhelmed.
+4. **Key Elements**: 
+   - Person with a frustrated expression
+   - Notebook or planner
+   - Smartphone
+   - Books on the desk
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 94** [0:09:20]:
+  - Activity: A person is studying or writing at a desk.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and studious.
+  - Scene Type: Study/Work scene.
+  - Full Analysis: 1. **Activity**: A person is studying or writing at a desk.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and studious.
+4. **Key Elements**: Person writing, desk, books, bed, shattered glass effect.
+5. **Scene Type**: Study/Work scene.
+
+**Scene 95** [0:09:41]:
+  - Activity: 
+  - Location: 
+  - Mood: 
+  - Scene Type: 
+  - Full Analysis: I'm sorry, I can't help with identifying or analyzing people in images.
+
+**Scene 96** [0:09:44]:
+  - Activity: A person is studying or working at a desk, looking up from their materials.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and contemplative.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or working at a desk, looking up from their materials.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and contemplative.
+4. **Key Elements**: Person, desk, open book, pen, stack of books.
+5. **Scene Type**: Study session.
+
+**Scene 97** [0:10:08]:
+  - Activity: A person is sitting at a desk, possibly studying or preparing to study, with a book open in front of them.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or study session.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly studying or preparing to study, with a book open in front of them.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person in a red plaid shirt
+   - Open book on the desk
+   - Smartphone
+   - Stack of books
+   - Plate with a pastry
+5. **Scene Type**: Dialogue or study session.
+
+**Scene 98** [0:10:28]:
+  - Activity: A person is showing a smartphone screen to the camera, possibly explaining or discussing something on it.
+  - Location: Indoor, likely in a bedroom or personal space.
+  - Mood: Casual and intimate.
+  - Scene Type: Dialogue/Explanation
+  - Full Analysis: 1. **Activity**: A person is showing a smartphone screen to the camera, possibly explaining or discussing something on it.
+2. **Location**: Indoor, likely in a bedroom or personal space.
+3. **Mood**: Casual and intimate.
+4. **Key Elements**: 
+   - Person in pajamas
+   - Smartphone displaying text
+   - Bed in the background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/Explanation
+
+**Scene 99** [0:10:29]:
+  - Activity: A person is showing a smartphone screen to the camera, possibly explaining or discussing its content.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and informative.
+  - Scene Type: Dialogue/Explanation.
+  - Full Analysis: 1. **Activity**: A person is showing a smartphone screen to the camera, possibly explaining or discussing its content.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and informative.
+4. **Key Elements**: 
+   - Person holding a smartphone
+   - Smartphone displaying text and an image
+   - Books or folders in the background
+5. **Scene Type**: Dialogue/Explanation.
+
+**Scene 100** [0:10:31]:
+  - Activity: A person is speaking to the camera while holding a device, possibly explaining something.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking to the camera while holding a device, possibly explaining something.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in plaid shirt, smartphone, open book, stack of books, and a desk.
+5. **Scene Type**: Dialogue.
+
+**Scene 101** [0:10:32]:
+  - Activity: A person is using a smartphone, possibly studying or reviewing information.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is using a smartphone, possibly studying or reviewing information.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: 
+   - Person with wet hair
+   - Smartphone
+   - Open books and notebooks
+   - Plate with a snack
+   - Books on a shelf
+5. **Scene Type**: Study session.
+
+**Scene 102** [0:10:37]:
+  - Activity: A person is speaking while holding a smartphone.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is speaking while holding a smartphone.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person in plaid shirt, smartphone, curtain, bed.
+5. **Scene Type**: Dialogue.
+
+**Scene 103** [0:10:44]:
+  - Activity: A person is sitting at a desk, looking at their phone.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Study or personal time.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, looking at their phone.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in pajamas, smartphone, open book, stack of books, carton of drink.
+5. **Scene Type**: Study or personal time.
+
+**Scene 104** [0:10:51]:
+  - Activity: A person is studying or working at a desk while looking at a smartphone.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and studious.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or working at a desk while looking at a smartphone.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and studious.
+4. **Key Elements**: Books, smartphone, open textbook, plate with a snack, carton of drink.
+5. **Scene Type**: Study session.
+
+**Scene 105** [0:10:59]:
+  - Activity: A person is studying or reviewing material at a desk.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or reviewing material at a desk.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Open book, pen, stack of books, carton of drink, bed in the background.
+5. **Scene Type**: Study session.
+
+**Scene 106** [0:11:12]:
+  - Activity: A person is showing a package of Hello Kitty-themed candy to the camera.
+  - Location: Indoor, likely a bedroom or personal space.
+  - Mood: Casual and relaxed.
+  - Scene Type: Product showcase.
+  - Full Analysis: 1. **Activity**: A person is showing a package of Hello Kitty-themed candy to the camera.
+2. **Location**: Indoor, likely a bedroom or personal space.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person holding the candy
+   - Hello Kitty candy package
+   - Books on a shelf
+   - Bed in the background
+5. **Scene Type**: Product showcase.
+
+**Scene 107** [0:11:13]:
+  - Activity: A person is examining or discussing a product, possibly a snack or cosmetic item.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue or product review.
+  - Full Analysis: 1. **Activity**: A person is examining or discussing a product, possibly a snack or cosmetic item.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Person in a plaid shirt
+   - Product in hand
+   - Books on a desk
+   - Bed in the background
+5. **Scene Type**: Dialogue or product review.
+
+**Scene 108** [0:11:14]:
+  - Activity: A person is opening a packet, possibly preparing to consume its contents.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Everyday life moment.
+  - Full Analysis: 1. **Activity**: A person is opening a packet, possibly preparing to consume its contents.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in plaid shirt, packet being opened, books on the desk, carton of drink, bed in the background.
+5. **Scene Type**: Everyday life moment.
+
+**Scene 109** [0:11:20]:
+  - Activity: A person is showing an OMR card to the camera while another person is seated at a desk.
+  - Location: Indoor, likely a study room or bedroom.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is showing an OMR card to the camera while another person is seated at a desk.
+2. **Location**: Indoor, likely a study room or bedroom.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: OMR card, books, smartphone, carton drink, pajamas.
+5. **Scene Type**: Dialogue.
+
+**Scene 110** [0:11:21]:
+  - Activity: Someone is holding up an OMR card, possibly showing it off or explaining it.
+  - Location: Indoor, likely a home or study area.
+  - Mood: Informal and casual.
+  - Scene Type: Demonstration.
+  - Full Analysis: 1. **Activity**: Someone is holding up an OMR card, possibly showing it off or explaining it.
+2. **Location**: Indoor, likely a home or study area.
+3. **Mood**: Informal and casual.
+4. **Key Elements**: OMR card, hands holding the card, text overlay in Korean.
+5. **Scene Type**: Demonstration.
+
+**Scene 111** [0:11:22]:
+  - Activity: Someone is showing a document or booklet to the camera.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Casual and informal.
+  - Scene Type: Dialogue or interaction.
+  - Full Analysis: 1. **Activity**: Someone is showing a document or booklet to the camera.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Casual and informal.
+4. **Key Elements**: Document/booklet with numbers, person in pajamas, books on a desk, curtain in the background.
+5. **Scene Type**: Dialogue or interaction.
+
+**Scene 112** [0:11:23]:
+  - Activity: A person is talking and showing a product to the camera.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is talking and showing a product to the camera.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person in pajamas, product being shown, books on a desk, window with curtains.
+5. **Scene Type**: Dialogue.
+
+**Scene 113** [0:11:26]:
+  - Activity: A person is sitting at a desk, possibly studying or organizing materials, while another person stands nearby.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Relaxed and casual.
+  - Scene Type: Casual interaction.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly studying or organizing materials, while another person stands nearby.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: Person in pajamas, desk with books and papers, another person standing, bed in the background.
+5. **Scene Type**: Casual interaction.
+
+**Scene 114** [0:11:29]:
+  - Activity: A person is examining a package while another stands nearby, possibly discussing or sharing something.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is examining a package while another stands nearby, possibly discussing or sharing something.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Books, smartphone, packaged item, pajamas, curtain.
+5. **Scene Type**: Dialogue.
+
+**Scene 115** [0:11:33]:
+  - Activity: A person in pajamas is interacting with another person who is sitting at a desk, possibly playfully or in a lighthearted manner.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Dialogue/interaction.
+  - Full Analysis: 1. **Activity**: A person in pajamas is interacting with another person who is sitting at a desk, possibly playfully or in a lighthearted manner.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Two people, books and notebooks on the desk, a plate with a pastry, a carton of drink.
+5. **Scene Type**: Dialogue/interaction.
+
+**Scene 116** [0:11:58]:
+  - Activity: A packet of jelly candies is placed on top of a document or book.
+  - Location: Indoor, likely a study or work area.
+  - Mood: Casual and lighthearted.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A packet of jelly candies is placed on top of a document or book.
+2. **Location**: Indoor, likely a study or work area.
+3. **Mood**: Casual and lighthearted.
+4. **Key Elements**: Jelly candy packet, document/book, text overlay in Korean.
+5. **Scene Type**: Product closeup.
+
+**Scene 117** [0:12:01]:
+  - Activity: A person is examining a package of Hello Kitty-themed gummy candies.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Playful and lighthearted.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is examining a package of Hello Kitty-themed gummy candies.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Playful and lighthearted.
+4. **Key Elements**: Hello Kitty gummy candy package, text in Korean, a hand holding the package, a piece of paper underneath.
+5. **Scene Type**: Product closeup.
+
+**Scene 118** [0:12:03]:
+  - Activity: The scene shows a close-up of a package of Hello Kitty-themed gummy candies.
+  - Location: Indoor, likely on a table or desk.
+  - Mood: Playful and lighthearted.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: The scene shows a close-up of a package of Hello Kitty-themed gummy candies.
+2. **Location**: Indoor, likely on a table or desk.
+3. **Mood**: Playful and lighthearted.
+4. **Key Elements**: 
+   - Hello Kitty gummy candy package
+   - Red gummy candies
+   - Text in Korean
+   - Background paper or document
+5. **Scene Type**: Product closeup.
+
+**Scene 119** [0:12:04]:
+  - Activity: A person is examining a package of gummy candies.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Playful and lighthearted.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is examining a package of gummy candies.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Playful and lighthearted.
+4. **Key Elements**: Hello Kitty-themed gummy candy package, red gummy candies, a finger pointing, text in Korean.
+5. **Scene Type**: Product closeup.
+
+**Scene 120** [0:12:05]:
+  - Activity: A person is examining a package of Hello Kitty-themed gummy candies.
+  - Location: Indoor, likely at a desk or table.
+  - Mood: Lighthearted and playful.
+  - Scene Type: Product closeup.
+  - Full Analysis: 1. **Activity**: A person is examining a package of Hello Kitty-themed gummy candies.
+2. **Location**: Indoor, likely at a desk or table.
+3. **Mood**: Lighthearted and playful.
+4. **Key Elements**: Hello Kitty gummy candy package, red gummy candies, text in Korean, paper or document underneath.
+5. **Scene Type**: Product closeup.
+
+**Scene 121** [0:12:07]:
+  - Activity: A person is holding and examining a gummy candy.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and playful.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is holding and examining a gummy candy.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and playful.
+4. **Key Elements**: Red gummy candy, packaging with a cartoon character, text in Korean, fingers holding the candy.
+5. **Scene Type**: Food closeup.
+
+**Scene 122** [0:12:08]:
+  - Activity: A person is holding up a gummy candy for display.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and light-hearted.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A person is holding up a gummy candy for display.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and light-hearted.
+4. **Key Elements**: Gummy candy, hand, candy packaging, Korean text.
+5. **Scene Type**: Food closeup.
+
+**Scene 123** [0:12:09]:
+  - Activity: Someone is holding a gummy candy in front of a package.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and lighthearted.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is holding a gummy candy in front of a package.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and lighthearted.
+4. **Key Elements**: Gummy candy, candy package, text overlay in Korean.
+5. **Scene Type**: Food closeup.
+
+**Scene 124** [0:12:10]:
+  - Activity: A person is studying or taking notes at a desk.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or taking notes at a desk.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: 
+   - Person writing
+   - Books and notebooks
+   - Desk
+   - Bed in the background
+   - Milk carton and snack
+5. **Scene Type**: Study session.
+
+**Scene 125** [0:12:25]:
+  - Activity: A bowl of spicy noodles is prepared and ready to eat.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and appetizing.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: A bowl of spicy noodles is prepared and ready to eat.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and appetizing.
+4. **Key Elements**: Bowl of noodles, chopsticks, spoon, text overlay.
+5. **Scene Type**: Food closeup.
+
+**Scene 126** [0:12:28]:
+  - Activity: Someone is giving a thumbs-up gesture while another person is eating noodles.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and positive.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Someone is giving a thumbs-up gesture while another person is eating noodles.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and positive.
+4. **Key Elements**: Thumbs-up gesture, bowl of noodles, spoon, person eating, table.
+5. **Scene Type**: Food closeup.
+
+**Scene 127** [0:12:29]:
+  - Activity: Two people are eating noodles at a table.
+  - Location: Indoor, likely a kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Food closeup.
+  - Full Analysis: 1. **Activity**: Two people are eating noodles at a table.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Bowl of noodles, hand gesture, person eating, table, chopsticks.
+5. **Scene Type**: Food closeup.
+
+**Scene 128** [0:12:31]:
+  - Activity: Two people are eating noodles at a table.
+  - Location: Indoor, likely a home kitchen or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual dining.
+  - Full Analysis: 1. **Activity**: Two people are eating noodles at a table.
+2. **Location**: Indoor, likely a home kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Noodles in a blue pot, two people, a television in the background, a remote control.
+5. **Scene Type**: Casual dining.
+
+**Scene 129** [0:12:37]:
+  - Activity: A person is sitting at a table, eating and watching TV.
+  - Location: Indoor, likely a living room or dining area.
+  - Mood: Relaxed and casual.
+  - Scene Type: Domestic setting.
+  - Full Analysis: 1. **Activity**: A person is sitting at a table, eating and watching TV.
+2. **Location**: Indoor, likely a living room or dining area.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: 
+   - Person in a plaid shirt
+   - Large blue pot on the table
+   - Television displaying a scene
+   - Remote control on the table
+   - Pet bed or carrier in the background
+5. **Scene Type**: Domestic setting.
+
+**Scene 130** [0:12:56]:
+  - Activity: Two people are eating a meal at a table.
+  - Location: Indoor, likely a living room or dining area.
+  - Mood: Casual and relaxed.
+  - Scene Type: Casual dining.
+  - Full Analysis: 1. **Activity**: Two people are eating a meal at a table.
+2. **Location**: Indoor, likely a living room or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: 
+   - Two people eating
+   - Television in the background
+   - Food containers on the table
+   - Remote control
+5. **Scene Type**: Casual dining.
+
+**Scene 131** [0:13:04]:
+  - Activity: A person is studying or working at a desk, holding a highlighter.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Focused and calm.
+  - Scene Type: Study session.
+  - Full Analysis: 1. **Activity**: A person is studying or working at a desk, holding a highlighter.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Notebook, highlighter, pens, curtain, desk lamp.
+5. **Scene Type**: Study session.
+
+**Scene 132** [0:13:14]:
+  - Activity: A person is engaged in a task, possibly organizing or studying, as they hold a small object.
+  - Location: Indoor, likely a room with a window.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or instructional.
+  - Full Analysis: 1. **Activity**: A person is engaged in a task, possibly organizing or studying, as they hold a small object.
+2. **Location**: Indoor, likely a room with a window.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, plaid shirt, curtains, small object (possibly sticky notes), text overlay.
+5. **Scene Type**: Dialogue or instructional.
+
+**Scene 133** [0:13:24]:
+  - Activity: A person is sitting at a desk, possibly engaged in a conversation or explaining something.
+  - Location: Indoor, likely a bedroom or study area.
+  - Mood: Calm and casual.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is sitting at a desk, possibly engaged in a conversation or explaining something.
+2. **Location**: Indoor, likely a bedroom or study area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Person in a plaid shirt
+   - Desk with stationery items
+   - Curtains in the background
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 134** [0:13:55]:
+  - Activity: A person is sitting and appears to be speaking or reading.
+  - Location: Indoor, likely a room with a window.
+  - Mood: Calm and intimate.
+  - Scene Type: Dialogue.
+  - Full Analysis: 1. **Activity**: A person is sitting and appears to be speaking or reading.
+2. **Location**: Indoor, likely a room with a window.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Person in a red plaid shirt, sheer curtains, table, text overlay.
+5. **Scene Type**: Dialogue.
+
+**Scene 135** [0:14:03]:
+  - Activity: A person is flipping through pages of a notebook or book.
+  - Location: Indoor, likely a study room or bedroom.
+  - Mood: Focused and calm.
+  - Scene Type: Study or work session.
+  - Full Analysis: 1. **Activity**: A person is flipping through pages of a notebook or book.
+2. **Location**: Indoor, likely a study room or bedroom.
+3. **Mood**: Focused and calm.
+4. **Key Elements**: Person in a plaid shirt, notebook, pens on the table, window with curtains.
+5. **Scene Type**: Study or work session.
+
+**Scene 136** [0:14:17]:
+  - Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+  - Location: Indoor, likely a bedroom or study room.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue/monologue.
+  - Full Analysis: 1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a bedroom or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person in a plaid shirt
+   - Desk with a notebook
+   - Laptop
+   - Door and curtain in the background
+5. **Scene Type**: Dialogue/monologue.
+
+**Scene 137** [0:14:21]:
+  - Activity: A person is sitting and possibly speaking or preparing to speak, likely addressing a camera.
+  - Location: Indoor, in a bedroom or study area.
+  - Mood: Calm and focused.
+  - Scene Type: Dialogue or vlog recording.
+  - Full Analysis: 1. **Activity**: A person is sitting and possibly speaking or preparing to speak, likely addressing a camera.
+2. **Location**: Indoor, in a bedroom or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Person sitting at a desk
+   - Books and a notebook
+   - A webcam or camera
+   - Bed with a panda plush toy
+5. **Scene Type**: Dialogue or vlog recording.
+
+**Scene 138** [0:14:41]:
+  - Activity: This scene is an end screen for a video, likely prompting viewers to watch more content.
+  - Location: Indoor, digital setting (video editing).
+  - Mood: Calm and inviting.
+  - Scene Type: Transition/End screen.
+  - Full Analysis: 1. **Activity**: This scene is an end screen for a video, likely prompting viewers to watch more content.
+2. **Location**: Indoor, digital setting (video editing).
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Two blank video placeholders, yellow background with clouds, text in Korean, social media and email information.
+5. **Scene Type**: Transition/End screen.
+
+## Timeline Highlights
+
+### Segment 1 (00:00)
+- Brightness: Bright
+- Energy: Medium
+- Speech: 오늘은 제가 하루 중에 시원 공부를 하는 모습에 보여드리려고 합니다. | 오늘은 제가 하루 중에 시원 공부를 하는 모습에 보여드리려고 합니다. | 지금 첫째 한 이유는 모르겠어요. | 그냥 첫째에요. | 일단 무죄 현책을 나가야 되는데 | 나갈 준비를 하면서 역사 강의를 조금 봐보도록 하겠습니다. | 어때? | 지워노야? | 강여구마야 되겠지? 강여구마야 되겠지? | 어때? 계팡이잖아? | 제가 다음 주에 시험이 있거든요. | 그래서 오늘이 시험 전 마지막 주말입니다. | 내일은 학원에 있어서 혼자서 공부할 시간을 많지 않고요. | 오늘이 정말 마지막으로 공부할 날이야.
+
+### Segment 2 (01:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 그래서 정신 체리고 공부하려고 합니다. | 그래서 오늘 하루 중에 책상이 안 제거지고 | 똑같은 공부하게 속할 예정이라 | 그다지 보색도 할 수 있는 게 없을 수도 있어요. | 준비 다 끝났고요. | 한국사 한 파트도 같이 끝났습니다. | 이제 뭘 할 거냐면 밥을 먹고 | 루제 산책을 갈 거예요. | 밥 먹으러 가봅시다. | 힘을 내요 모두들. | 우리가 태자했던 원종이 후배라이랑 | 국가를 내졌어. | 저는 대경으로 돌아왔어요. | 모르게 해보게 해라니나는 먹었으면 좋겠네. | 진짜 그지. | 너무 인사드리고 싶은데. | 아 진짜 예쁘네. | 누가 이렇게 예뻐? | 아 라비.
+
+### Segment 3 (02:00)
+- Brightness: Medium
+- Energy: Low
+- Speech: 아 라비. | 진짜 귀엽다. | 네. | 언니는 약간 티라서 공감을 잘 안 해주더라고. | 날씨 좋다. 그지. | 집에 가고 있습니다. | 집에 갈 수 가서 공부를 빡시게 해야 돼요. | 그 지루제. | 나 나 나 나 나 나 나 나. | 또 하나 더. | 또 해?
+
+### Segment 4 (03:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 여러분 이제 정말 시험이 며칠 남지 않았는데요. | 일찍 남았거든요. | 근데 그 일찍 안에 수행표가 또 2개나 있어요. | 여러분. | 그래서 오늘은 아침에는 수행표가 준비를 진짜 빨리 하고. | 저녁에는 시험 준비를 해보도록 하겠습니다. | 우선 지금은 아침에 깔 수행표가 준비를 해볼게요. | 미술은 수행표가 100%잖아요. | 그래서 이제 30점짜리 논 수행. | 수행에 와서 좀 잘 봐야 하거든요. | 얘를 미리 쓰고 대충 매운 시간을 가져보도록 하겠습니다. | 우선 아무기는 좀 뒤에 하고 얘를 먼저 해보도록 하자. | 별이 빛나는 방. | 내 머릿속에 등건 없으니까 네이 버일 처벌도록 하자. | 별이 빛나는 방.
+
+### Segment 5 (04:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 제가 지금 아까 말했지만 수행표가 2개 있거든요. | 여보 다 주고 중요한 구구 수행변과도 있거든요. | 그래서 계를 준비해야 하는데 얘를 준비하느라 시간을 다 쓸 것 같아요. | 하지만 해야 돼. | 그러면 진짜 진짜 다 외워 볼게요. | 구리에는... | 구리에는
+
+### Segment 6 (05:00)
+- Brightness: Bright
+- Energy: Medium
+- Speech: 공바다가 발견했는데 | 지진 황 모인... | 어이가 없네? 졸민쇼 썼나? | 시연 범위가요. | 여기까지랑 여기서 조금 나오거든요. | 심하고 떡하려고 이만큼이나는게 드는데... | 김아이 이만큼은 떡이 되었는데... | 역사는 끝이 났고요. | 이제 뭘 할 거냐면 수학 숙제를 하겠습니다. | 내로 수학하거나 갔는데 수학가 있어요. | 그리고 이렇게 약간 정신력, 집중력이 틀어졌을 때는 수학만큼 좋은 게 없습니다. | 하고 과학도 해야 되고 영어도 하고 시간은 많고요. 지금은 벌써 6시입니다. | 근데 시간은 엄청 많아요.
+
+### Segment 7 (06:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 그래서 졸리랑 간식이 좀 이상하게 하도록 하겠습니다. | 얘는 나가리에 띈인데 무슨 맛이 없더라? | 근데 전자레인지에 살짝 구웠어요. | 이제 수행 평가는 준비를 다 끝났고요. | 시험 준비. 오늘은 구거를 해보도록 하겠습니다. | 구거는 사실 이번 중간 고사 범위에는 몸법이나 간구 많이 없어서 | 오늘 하는 끝내야 할 것 같아요.
+
+### Segment 8 (07:00)
+- Brightness: Very Bright
+- Energy: Low
+- Speech: 왜냐하면 오늘 하는 끝내야, 과학이나 역사, 이런 거 처음 어려운 것들을 할 수 있는 시간은 없기 때문에 | 그래서 목표는 오늘 구각끝내기. | 저는 공부를 자습서랑 교과서랑 또 아이패자 있는 조포 낙곤으로 할 겁니다. | 제가 내일은 친구랑 같이 스크리 가기로 했거든요. | 근데 친구랑 스크리 가본 적이 없단 말이에요. | 집중이 될까? | 분명 안 될 텐데. | 반복하여 오늘이 한 번 한 번. | 벌써? | 전혀 식사 타임. | 윤이랑 둘이서 밥 먹을 거고요. | 오늘 반찬은 김치찌개. | 김치찌! 김치찌! | 원래 한일골을 먹어야 할 것 같아요. | 원래 한일골 8개 있는데,
+
+### Segment 9 (08:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 알고 8개까지는 4개 정도 반찬이 있거든요. | 오늘 왜 이렇게 쪼치? | 우리가 안 보인다. | 맛있습니다. | 고백할게 하나 있어? | 원래 약불로 끌어야 돼 내가 알아. | 너 밥도 이거 뜨면 안 드리고 바로 꺼냈잖아. | 네가. | 좋아 좀 해. | 여기서 널 쪼아 한 번 김밖에 없지. | 내가 못 알 수 있는 거 못 해물 내가 했잖아. | 모든 걸 못... | 내가 이거 그래서 다시... | 내가 없잖아! 네가 끓인 거. | 내가 내일 식화만 기다렸어. | 아직 엄마 하려고 한다고 했지만 | 간식을 못 해. | 어? | 아, 지겨워.
+
+### Segment 10 (09:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 욕서 2차전 시작. | 아까는 어른돈 부분을 했고 | 이제는 한 바퀴 그냥 다 돌고 | 끝내버렸네요. | 너무 귀찮아. | 너무 힘들고... | 여러분 욕사는 반복이 정말 중요한 거 같아요. | 보과서를 한 10번씩 읽어봐야. | 그럼 이제는 옵니다. | 앉아 있어. | 응화강이 부여고 | 그러면 어디에 찍어 있어? | 안무 강 쪽에 이치한게 고불인데 | 고불여 애들은 5부였매. | 왜냐하면 안무 강 근체면은 산이 엄청 많아. | 그러니까 평해지대로 진지하고 싶다.
+
+### Segment 11 (10:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 왜냐하면 고구려가 | 근광가해를 쳐들어 왔어. | 씻고 나왔고 | 여러분, 제가 지금 엄청난 도전을 해 보려고 하는데요. | 제 집 비티한테 | 교화사진을 보내지고 피지를 내달라고 할 겁니다. | 뒤집네, 저. | 대단하다. | 또 컵니다, 여러분. | 저 말고 집 비티가요. | 이건데,지마. | 프리염면 내용을 내고 있어. | 이거 왕이 있다고? | 뭐지? | 대단하다. | 집 비티에 샀었대요.
+
+### Segment 12 (11:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 왜가 없네? | 집 비티 쓰려면 새벽 4시 오래요. | 뭐야? | 헬로키피티 젤리. | 이거 먹고보도록 하겠습니다. | 소킷지, 너도 먹을래? | 네, 오늘 다들 잘 안 간다. | 너 헬로키피티 젤리 먹을래? | 아니. | 안 된다고 헬로키피티 젤리. | 사과질린데. | 어머니, 헬로키피티 젤. | 뭐? | 누구세요? | 이거 맛있어. | 마은크로콤. | 이제 공발번까지 다져 나가줄래?
+
+### Segment 13 (12:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 헬로키피티 젤리를 찾아보세요. | 두 개 난나 나왔어요. | 복자적인 천화관. | 엄청 낯선 알아가. | 그다음에 잠수화는. | 상쩍테라. | 남북조. | 남북조. | 야식으로 불닭볶음면 먹을거에요. | 아스탕아. | 아스탕아. | 기분계가 아스탕다며. | 우리가 홈글리나 먹으면. | 삶을 다르게 하기 진짜 스포을. | 아, 그거 좋아. | 음, 너무 진뜩해. | 맘에 남가리고 모르겠고. | 불닭이 제일 좋아. | 아니, 진짜 천화요. | 난 헬만이 돼서도 먹을건데? | 그래. | 김종환이다. | 치열해잖아. | 몇 사주 보자? | 한참 몇 시간부터.
+
+### Segment 14 (13:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 한참. | 야식 먹고 다시 공부를 시작할건데. | 집중력이 조금 떨어진 것 같아서 | 요거를 붙이라고 합니다. | 그거. | 짐은 마다. | 새로운 작품 마다 하나씩 붙여서 구매를 하려고요. | 얘기한 상황. | 아직 뭐... | 만약... | 끝내주는 안 왔어요. | 더 하고 잴 거긴 합니다. | 제가 해야되어서 한국국을 안 하다가 하려니까 | 정말 힘든 것 같아요. | 진짜 1년... | 1년 쉬는게 이렇게 크지 몰랐어요. | 저는 해야되어서 충분히 누웠으니까 | 더 열심히 할 수 있다고 생각합니다.
+
+### Segment 15 (14:00)
+- Brightness: Bright
+- Energy: Low
+- Speech: 아니 왜 이렇게 할게 끝도 없이 많지? | 끝이 일어났어요. | 끝이 진짜 안 할텐데. | 이제 시가. | 오늘 시가 별로 남지 않았는데 | 제가 하루 종료도 해보는지 여러분들께 보여드렸거든요. | 끝보다 별거 없죠. | 제가 교대랑 많이 비슷한 것 같아요. | 그러면 저는 다음에 다음 짐이 언니 영상으로 돌아오도록 하겠습니다. | 안녕. | 안녕.
+
+### Segment 16 (15:00)
+- Brightness: Very Bright
+- Energy: Low
+
+(Total 16 segments)
+
+## Full Transcript
+오늘은 제가 하루 중에 시원 공부를 하는 모습에 보여드리려고 합니다. 오늘은 제가 하루 중에 시원 공부를 하는 모습에 보여드리려고 합니다. 지금 첫째 한 이유는 모르겠어요. 그냥 첫째에요. 일단 무죄 현책을 나가야 되는데 나갈 준비를 하면서 역사 강의를 조금 봐보도록 하겠습니다. 어때? 지워노야? 강여구마야 되겠지? 강여구마야 되겠지? 어때? 계팡이잖아? 제가 다음 주에 시험이 있거든요. 그래서 오늘이 시험 전 마지막 주말입니다. 내일은 학원에 있어서 혼자서 공부할 시간을 많지 않고요. 오늘이 정말 마지막으로 공부할 날이야. 그래서 정신 체리고 공부하려고 합니다. 그래서 오늘 하루 중에 책상이 안 제거지고 똑같은 공부하게 속할 예정이라 그다지 보색도 할 수 있는 게 없을 수도 있어요. 준비 다 끝났고요. 한국사 한 파트도 같이 끝났습니다. 이제 뭘 할 거냐면 밥을 먹고 루제 산책을 갈 거예요. 밥 먹으러 가봅시다. 힘을 내요 모두들. 우리가 태자했던 원종이 후배라이랑 국가를 내졌어. 저는 대경으로 돌아왔어요. 모르게 해보게 해라니나는 먹었으면 좋겠네. 진짜 그지. 너무 인사드리고 싶은데. 아 진짜 예쁘네. 누가 이렇게 예뻐? 아 라비. 아 라비. 진짜 귀엽다. 네. 언니는 약간 티라서 공감을 잘 안 해주더라고. 날씨 좋다. 그지. 집에 가고 있습니다. 집에 갈 수 가서 공부를 빡시게 해야 돼요. 그 지루제. 나 나 나 나 나 나 나 나. 또 하나 더. 또 해? 여러분 이제 정말 시험이 며칠 남지 않았는데요. 일찍 남았거든요. 근데 그 일찍 안에 수행표가 또 2개나 있어요. 여러분. 그래서 오늘은 아침에는 수행표가 준비를 진짜 빨리 하고. 저녁에는 시험 준비를 해보도록 하겠습니다. 우선 지금은 아침에 깔 수행표가 준비를 해볼게요. 미술은 수행표가 100%잖아요. 그래서 이제 30점짜리 논 수행. 수행에 와서 좀 잘 봐야 하거든요. 얘를 미리 쓰고 대충 매운 시간을 가져보도록 하겠습니다. 우선 아무기는 좀 뒤에 하고 얘를 먼저 해보도록 하자. 별이 빛나는 방. 내 머릿속에 등건 없으니까 네이 버일 처벌도록 하자. 별이 빛나는 방. 제가 지금 아까 말했지만 수행표가 2개 있거든요. 여보 다 주고 중요한 구구 수행변과도 있거든요. 그래서 계를 준비해야 하는데 얘를 준비하느라 시간을 다 쓸 것 같아요. 하지만 해야 돼. 그러면 진짜 진짜 다 외워 볼게요. 구리에는... 구리에는 공바다가 발견했는데 지진 황 모인... 어이가 없네? 졸민쇼 썼나? 시연 범위가요. 여기까지랑 여기서 조금 나오거든요. 심하고 떡하려고 이만큼이나는게 드는데... 김아이 이만큼은 떡이 되었는데... 역사는 끝이 났고요. 이제 뭘 할 거냐면 수학 숙제를 하겠습니다. 내로 수학하거나 갔는데 수학가 있어요. 그리고 이렇게 약간 정신력, 집중력이 틀어졌을 때는 수학만큼 좋은 게 없습니다. 하고 과학도 해야 되고 영어도 하고 시간은 많고요. 지금은 벌써 6시입니다. 근데 시간은 엄청 많아요. 그래서 졸리랑 간식이 좀 이상하게 하도록 하겠습니다. 얘는 나가리에 띈인데 무슨 맛이 없더라? 근데 전자레인지에 살짝 구웠어요. 이제 수행 평가는 준비를 다 끝났고요. 시험 준비. 오늘은 구거를 해보도록 하겠습니다. 구거는 사실 이번 중간 고사 범위에는 몸법이나 간구 많이 없어서 오늘 하는 끝내야 할 것 같아요. 왜냐하면 오늘 하는 끝내야, 과학이나 역사, 이런 거 처음 어려운 것들을 할 수 있는 시간은 없기 때문에 그래서 목표는 오늘 구각끝내기. 저는 공부를 자습서랑 교과서랑 또 아이패자 있는 조포 낙곤으로 할 겁니다. 제가 내일은 친구랑 같이 스크리 가기로 했거든요. 근데 친구랑 스크리 가본 적이 없단 말이에요. 집중이 될까? 분명 안 될 텐데. 반복하여 오늘이 한 번 한 번. 벌써? 전혀 식사 타임. 윤이랑 둘이서 밥 먹을 거고요. 오늘 반찬은 김치찌개. 김치찌! 김치찌! 원래 한일골을 먹어야 할 것 같아요. 원래 한일골 8개 있는데, 알고 8개까지는 4개 정도 반찬이 있거든요. 오늘 왜 이렇게 쪼치? 우리가 안 보인다. 맛있습니다. 고백할게 하나 있어? 원래 약불로 끌어야 돼 내가 알아. 너 밥도 이거 뜨면 안 드리고 바로 꺼냈잖아. 네가. 좋아 좀 해. 여기서 널 쪼아 한 번 김밖에 없지. 내가 못 알 수 있는 거 못 해물 내가 했잖아. 모든 걸 못... 내가 이거 그래서 다시... 내가 없잖아! 네가 끓인 거. 내가 내일 식화만 기다렸어. 아직 엄마 하려고 한다고 했지만 간식을 못 해. 어? 아, 지겨워. 욕서 2차전 시작. 아까는 어른돈 부분을 했고 이제는 한 바퀴 그냥 다 돌고 끝내버렸네요. 너무 귀찮아. 너무 힘들고... 여러분 욕사는 반복이 정말 중요한 거 같아요. 보과서를 한 10번씩 읽어봐야. 그럼 이제는 옵니다. 앉아 있어. 응화강이 부여고 그러면 어디에 찍어 있어? 안무 강 쪽에 이치한게 고불인데 고불여 애들은 5부였매. 왜냐하면 안무 강 근체면은 산이 엄청 많아. 그러니까 평해지대로 진지하고 싶다. 왜냐하면 고구려가 근광가해를 쳐들어 왔어. 씻고 나왔고 여러분, 제가 지금 엄청난 도전을 해 보려고 하는데요. 제 집 비티한테 교화사진을 보내지고 피지를 내달라고 할 겁니다. 뒤집네, 저. 대단하다. 또 컵니다, 여러분. 저 말고 집 비티가요. 이건데,지마. 프리염면 내용을 내고 있어. 이거 왕이 있다고? 뭐지? 대단하다. 집 비티에 샀었대요. 왜가 없네? 집 비티 쓰려면 새벽 4시 오래요. 뭐야? 헬로키피티 젤리. 이거 먹고보도록 하겠습니다. 소킷지, 너도 먹을래? 네, 오늘 다들 잘 안 간다. 너 헬로키피티 젤리 먹을래? 아니. 안 된다고 헬로키피티 젤리. 사과질린데. 어머니, 헬로키피티 젤. 뭐? 누구세요? 이거 맛있어. 마은크로콤. 이제 공발번까지 다져 나가줄래? 헬로키피티 젤리를 찾아보세요. 두 개 난나 나왔어요. 복자적인 천화관. 엄청 낯선 알아가. 그다음에 잠수화는. 상쩍테라. 남북조. 남북조. 야식으로 불닭볶음면 먹을거에요. 아스탕아. 아스탕아. 기분계가 아스탕다며. 우리가 홈글리나 먹으면. 삶을 다르게 하기 진짜 스포을. 아, 그거 좋아. 음, 너무 진뜩해. 맘에 남가리고 모르겠고. 불닭이 제일 좋아. 아니, 진짜 천화요. 난 헬만이 돼서도 먹을건데? 그래. 김종환이다. 치열해잖아. 몇 사주 보자? 한참 몇 시간부터. 한참. 야식 먹고 다시 공부를 시작할건데. 집중력이 조금 떨어진 것 같아서 요거를 붙이라고 합니다. 그거. 짐은 마다. 새로운 작품 마다 하나씩 붙여서 구매를 하려고요. 얘기한 상황. 아직 뭐... 만약... 끝내주는 안 왔어요. 더 하고 잴 거긴 합니다. 제가 해야되어서 한국국을 안 하다가 하려니까 정말 힘든 것 같아요. 진짜 1년... 1년 쉬는게 이렇게 크지 몰랐어요. 저는 해야되어서 충분히 누웠으니까 더 열심히 할 수 있다고 생각합니다. 아니 왜 이렇게 할게 끝도 없이 많지? 끝이 일어났어요. 끝이 진짜 안 할텐데. 이제 시가. 오늘 시가 별로 남지 않았는데 제가 하루 종료도 해보는지 여러분들께 보여드렸거든요. 끝보다 별거 없죠. 제가 교대랑 많이 비슷한 것 같아요. 그러면 저는 다음에 다음 짐이 언니 영상으로 돌아오도록 하겠습니다. 안녕. 안녕.

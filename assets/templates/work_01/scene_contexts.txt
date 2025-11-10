@@ -1,0 +1,3604 @@
+============================================================
+SCENE CONTEXT ANALYSIS
+============================================================
+
+Scene 1: 0:00:01
+----------------------------------------
+Activity: The scene captures a cityscape view with a focus on a prominent tower in the background.
+Location: Outdoor urban setting, likely in a city with a recognizable tower.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a cityscape view with a focus on a prominent tower in the background.
+2. **Location**: Outdoor urban setting, likely in a city with a recognizable tower.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Tower, residential buildings, power lines, trees, text overlay ("my '18").
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 2: 0:00:05
+----------------------------------------
+Activity: A person is adjusting their hair, possibly preparing for a video recording.
+Location: Indoor, likely a living room or personal space.
+Mood: Casual and relaxed.
+Type: Introduction.
+
+Full Analysis:
+1. **Activity**: A person is adjusting their hair, possibly preparing for a video recording.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Person in a white outfit, sofa with cushions, wall art, text overlay ("my 1st V-log").
+5. **Scene Type**: Introduction.
+
+============================================================
+
+Scene 3: 0:00:08
+----------------------------------------
+Activity: A person is adjusting their hair while looking at something, possibly a mirror.
+Location: Indoor, likely a living room or personal space.
+Mood: Calm and focused.
+Type: Personal preparation or lifestyle moment.
+
+Full Analysis:
+1. **Activity**: A person is adjusting their hair while looking at something, possibly a mirror.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person in a white outfit, sofa with cushions, wall art, text overlay.
+5. **Scene Type**: Personal preparation or lifestyle moment.
+
+============================================================
+
+Scene 4: 0:00:09
+----------------------------------------
+Activity: A person is adjusting their hair while looking down.
+Location: Indoor, likely a living room or personal space.
+Mood: Calm and introspective.
+Type: Dialogue or personal reflection.
+
+Full Analysis:
+1. **Activity**: A person is adjusting their hair while looking down.
+2. **Location**: Indoor, likely a living room or personal space.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: Person, sofa with patterned blanket, wall art, text overlay.
+5. **Scene Type**: Dialogue or personal reflection.
+
+============================================================
+
+Scene 5: 0:00:10
+----------------------------------------
+Activity: A person is focused on using a computer or laptop.
+Location: Indoor, likely a home office or living room.
+Mood: Calm and focused.
+Type: Dialogue or work/study scene.
+
+Full Analysis:
+1. **Activity**: A person is focused on using a computer or laptop.
+2. **Location**: Indoor, likely a home office or living room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Computer/laptop, person, sofa with cushions, wall art, door.
+5. **Scene Type**: Dialogue or work/study scene.
+
+============================================================
+
+Scene 6: 0:00:11
+----------------------------------------
+Activity: A person is focused on working at a desk, possibly using a computer.
+Location: Indoor, likely a home office or study area.
+Mood: Calm and focused.
+Type: Work/study scene.
+
+Full Analysis:
+1. **Activity**: A person is focused on working at a desk, possibly using a computer.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Person, laptop, desk, couch, wall art.
+5. **Scene Type**: Work/study scene.
+
+============================================================
+
+Scene 7: 0:00:15
+----------------------------------------
+Activity: The scene focuses on a close-up of a countertop setup, likely in a dining or kitchen area.
+Location: Indoor, possibly a café or restaurant.
+Mood: Calm and inviting.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene focuses on a close-up of a countertop setup, likely in a dining or kitchen area.
+2. **Location**: Indoor, possibly a café or restaurant.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Napkin dispenser, stacked glasses, condiment bottles, tiled wall.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 8: 0:00:16
+----------------------------------------
+Activity: A beautifully arranged tomato is presented on a plate, possibly as part of a culinary presentation.
+Location: Indoor, likely in a dining or kitchen setting.
+Mood: Calm and artistic, with a focus on culinary aesthetics.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: A beautifully arranged tomato is presented on a plate, possibly as part of a culinary presentation.
+2. **Location**: Indoor, likely in a dining or kitchen setting.
+3. **Mood**: Calm and artistic, with a focus on culinary aesthetics.
+4. **Key Elements**: Tomato arranged like a rose, white plate with a gold rim, a small bowl with fortune cookies, decorative text overlay.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 9: 0:00:17
+----------------------------------------
+Activity: A person is working on a laptop while talking on the phone.
+Location: Indoor, likely a living room.
+Mood: Calm and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is working on a laptop while talking on the phone.
+2. **Location**: Indoor, likely a living room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, phone, sofa, potted plant, guitar.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 10: 0:00:20
+----------------------------------------
+Activity: The scene captures a quiet street view with minimal pedestrian and vehicle activity.
+Location: Outdoor, urban street in Seoul.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a quiet street view with minimal pedestrian and vehicle activity.
+2. **Location**: Outdoor, urban street in Seoul.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Street, buildings, trees, pedestrians, vehicles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 11: 0:00:23
+----------------------------------------
+Activity: People are casually walking and vehicles are moving along a city street.
+Location: Outdoor urban setting, likely a city street in Seoul.
+Mood: Calm and everyday.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: People are casually walking and vehicles are moving along a city street.
+2. **Location**: Outdoor urban setting, likely a city street in Seoul.
+3. **Mood**: Calm and everyday.
+4. **Key Elements**: Pedestrians, vehicles, tall buildings, trees, street signs.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 12: 0:00:29
+----------------------------------------
+Activity: A train is arriving or departing at a station.
+Location: Indoor, at a train station platform.
+Mood: Transitional and routine.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A train is arriving or departing at a station.
+2. **Location**: Indoor, at a train station platform.
+3. **Mood**: Transitional and routine.
+4. **Key Elements**: Train doors, KORAIL logo, platform, signage, subtitles.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 13: 0:00:30
+----------------------------------------
+Activity: The scene shows a train door closing, likely indicating travel.
+Location: Indoor, inside a train or subway station.
+Mood: Calm and transitional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a train door closing, likely indicating travel.
+2. **Location**: Indoor, inside a train or subway station.
+3. **Mood**: Calm and transitional.
+4. **Key Elements**: Train doors, KORAIL logo, directional arrows, safety signs.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 14: 0:00:31
+----------------------------------------
+Activity: The scene shows a view of a train door, likely indicating travel.
+Location: This is taking place indoors, inside a train.
+Mood: The atmosphere is calm and transitional.
+Type: Transition
+
+Full Analysis:
+1. **Activity**: The scene shows a view of a train door, likely indicating travel.
+2. **Location**: This is taking place indoors, inside a train.
+3. **Mood**: The atmosphere is calm and transitional.
+4. **Key Elements**: 
+   - Train door with KORAIL logo
+   - Safety signs
+   - Subtitles indicating a phone ringing
+   - Text overlay about going to a co-working space
+5. **Scene Type**: Transition
+
+============================================================
+
+Scene 15: 0:00:33
+----------------------------------------
+Activity: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.
+Location: Indoor, inside a train.
+Mood: Calm and transitional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.
+2. **Location**: Indoor, inside a train.
+3. **Mood**: Calm and transitional.
+4. **Key Elements**: Train door, KORAIL logo, safety signs, subtitles.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 16: 0:00:34
+----------------------------------------
+Activity: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.
+Location: Indoor, inside a train.
+Mood: Calm and transitional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.
+2. **Location**: Indoor, inside a train.
+3. **Mood**: Calm and transitional.
+4. **Key Elements**: Train door, safety signs, KORAIL logo, subtitles.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 17: 0:00:35
+----------------------------------------
+Activity: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.
+Location: Indoor, inside a train.
+Mood: Calm and transitional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a train door with subtitles indicating someone is on their way to a co-working space.
+2. **Location**: Indoor, inside a train.
+3. **Mood**: Calm and transitional.
+4. **Key Elements**: Train doors, KORAIL logo, safety signs, subtitles.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 18: 0:00:36
+----------------------------------------
+Activity: The scene shows a view of train doors, likely indicating travel or commuting.
+Location: This is taking place indoors, inside a train.
+Mood: The atmosphere feels calm and routine.
+Type: Transition
+
+Full Analysis:
+1. **Activity**: The scene shows a view of train doors, likely indicating travel or commuting.
+2. **Location**: This is taking place indoors, inside a train.
+3. **Mood**: The atmosphere feels calm and routine.
+4. **Key Elements**: 
+   - Train doors with KORAIL branding
+   - Safety signs
+   - Subtitles indicating a journey to a co-working space
+5. **Scene Type**: Transition
+
+============================================================
+
+Scene 19: 0:00:38
+----------------------------------------
+Activity: The scene shows a train door closing, indicating travel.
+Location: This is taking place inside a train, likely in a subway or railway station.
+Mood: The atmosphere is transitional and anticipatory.
+Type: Transition
+
+Full Analysis:
+1. **Activity**: The scene shows a train door closing, indicating travel.
+2. **Location**: This is taking place inside a train, likely in a subway or railway station.
+3. **Mood**: The atmosphere is transitional and anticipatory.
+4. **Key Elements**: 
+   - Train doors with KORAIL branding
+   - Signage indicating no leaning on doors
+   - Subtitles mentioning "On the way to co-working space"
+   - Sound cue: "(phone rings)"
+5. **Scene Type**: Transition
+
+============================================================
+
+Scene 20: 0:00:39
+----------------------------------------
+Activity: The scene shows a stationary train with closed doors.
+Location: Indoor, inside a train station or subway platform.
+Mood: Calm and static.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a stationary train with closed doors.
+2. **Location**: Indoor, inside a train station or subway platform.
+3. **Mood**: Calm and static.
+4. **Key Elements**: Train doors, KORAIL logo, no entry signs, platform reflection.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 21: 0:00:40
+----------------------------------------
+Activity: The scene shows a stationary train with closed doors.
+Location: Indoor, inside a train station.
+Mood: Calm and static.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a stationary train with closed doors.
+2. **Location**: Indoor, inside a train station.
+3. **Mood**: Calm and static.
+4. **Key Elements**: Train doors, KORAIL logo, safety signs, reflection on glass.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 22: 0:00:41
+----------------------------------------
+Activity: The scene shows an empty train car, possibly between stops.
+Location: Indoor, inside a train.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows an empty train car, possibly between stops.
+2. **Location**: Indoor, inside a train.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Train seats, metal doors, handrails, windows.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 23: 0:00:42
+----------------------------------------
+Activity: The scene shows a stationary subway train with closed doors.
+Location: Indoor, inside a subway train.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a stationary subway train with closed doors.
+2. **Location**: Indoor, inside a subway train.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Subway doors, empty seats, metal handrails, windows.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 24: 0:00:43
+----------------------------------------
+Activity: The scene shows a subway train door, possibly about to open.
+Location: Indoor, inside a subway train.
+Mood: Calm and quiet.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a subway train door, possibly about to open.
+2. **Location**: Indoor, inside a subway train.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Subway door, seating area, handrails, windows, Korean text.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 25: 0:00:44
+----------------------------------------
+Activity: The scene shows a subway or train door about to open.
+Location: Indoor, inside a subway or train carriage.
+Mood: Calm and routine.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a subway or train door about to open.
+2. **Location**: Indoor, inside a subway or train carriage.
+3. **Mood**: Calm and routine.
+4. **Key Elements**: Train door, window, seating area, metal handrails, Korean subtitles.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 26: 0:00:45
+----------------------------------------
+Activity: The scene shows the interior of a moving train.
+Location: Indoor, inside a train carriage.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows the interior of a moving train.
+2. **Location**: Indoor, inside a train carriage.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Train window, empty seats, handrails, Korean text on the window.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 27: 0:00:46
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential or urban neighborhood.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential or urban neighborhood.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Steep asphalt road
+   - Residential buildings
+   - Parked cars
+   - Utility pole
+   - Air conditioning unit
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 28: 0:00:47
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, parked car, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 29: 0:00:48
+----------------------------------------
+Activity: A person is walking up a quiet street.
+Location: Outdoor, residential neighborhood.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is walking up a quiet street.
+2. **Location**: Outdoor, residential neighborhood.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Sloped street, parked car, residential buildings, trees, person walking.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 30: 0:00:49
+----------------------------------------
+Activity: A person is walking up a steep street.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is walking up a steep street.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Steep road, parked cars, residential buildings, person walking, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 31: 0:00:50
+----------------------------------------
+Activity: A person is walking up a residential street.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is walking up a residential street.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Sloped street, parked cars, residential buildings, trees, person walking.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 32: 0:00:51
+----------------------------------------
+Activity: A person is walking up a sloped street.
+Location: Outdoor, in a residential neighborhood.
+Mood: Quiet and calm.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is walking up a sloped street.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Quiet and calm.
+4. **Key Elements**: Sloped street, parked cars, residential buildings, person walking, Korean subtitles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 33: 0:00:53
+----------------------------------------
+Activity: A person is walking down a narrow street.
+Location: Outdoor, in an urban alley or side street.
+Mood: Quiet and calm.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is walking down a narrow street.
+2. **Location**: Outdoor, in an urban alley or side street.
+3. **Mood**: Quiet and calm.
+4. **Key Elements**: Person walking, parked cars, tiled sidewalk, street.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 34: 0:00:55
+----------------------------------------
+Activity: The scene shows someone walking along a street, possibly using a phone.
+Location: Outdoor, on a sidewalk next to a road.
+Mood: Calm and casual.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows someone walking along a street, possibly using a phone.
+2. **Location**: Outdoor, on a sidewalk next to a road.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Asphalt road, sidewalk, smartphone, subtitles in Korean.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 35: 0:00:58
+----------------------------------------
+Activity: A person is holding a smartphone, possibly using a map application.
+Location: Outdoor, likely on a street or sidewalk.
+Mood: Focused and purposeful.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is holding a smartphone, possibly using a map application.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Focused and purposeful.
+4. **Key Elements**: Smartphone, hand, map application, asphalt, sidewalk.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 36: 0:00:59
+----------------------------------------
+Activity: A person is using a smartphone to navigate using a map application.
+Location: Outdoor, likely on a street or sidewalk.
+Mood: Focused and purposeful.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is using a smartphone to navigate using a map application.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Focused and purposeful.
+4. **Key Elements**: Smartphone displaying a map, hand holding the phone, wet pavement, metal grate.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 37: 0:01:00
+----------------------------------------
+Activity: A person is using a smartphone, possibly navigating with a map application.
+Location: Outdoor, likely on a street or sidewalk.
+Mood: Focused and purposeful.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is using a smartphone, possibly navigating with a map application.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Focused and purposeful.
+4. **Key Elements**: Smartphone, hand, map on screen, pavement, drainage grate.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 38: 0:01:01
+----------------------------------------
+Activity: A person is using a smartphone, possibly navigating with a map application.
+Location: Outdoor, likely on a street or sidewalk.
+Mood: Focused and purposeful.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is using a smartphone, possibly navigating with a map application.
+2. **Location**: Outdoor, likely on a street or sidewalk.
+3. **Mood**: Focused and purposeful.
+4. **Key Elements**: Smartphone, hand, sleeve, map application, text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 39: 0:01:02
+----------------------------------------
+Activity: Someone is holding a smartphone, possibly reading or typing a message.
+Location: Indoor setting, likely on a carpeted floor.
+Mood: Focused and casual.
+Type: Transition or detail shot.
+
+Full Analysis:
+1. **Activity**: Someone is holding a smartphone, possibly reading or typing a message.
+2. **Location**: Indoor setting, likely on a carpeted floor.
+3. **Mood**: Focused and casual.
+4. **Key Elements**: Smartphone, hand, carpet, clothing with visible stitching, Korean text subtitle.
+5. **Scene Type**: Transition or detail shot.
+
+============================================================
+
+Scene 40: 0:01:04
+----------------------------------------
+Activity: A person is looking at a map on their smartphone.
+Location: Indoor setting.
+Mood: Focused and slightly confused.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is looking at a map on their smartphone.
+2. **Location**: Indoor setting.
+3. **Mood**: Focused and slightly confused.
+4. **Key Elements**: Smartphone displaying a map, hand holding the phone, text overlay in Korean, blurred shoes.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 41: 0:01:07
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Steep road, brick buildings, trees, utility poles, and a yellow bollard.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 42: 0:01:08
+----------------------------------------
+Activity: The scene captures a quiet, empty street with no visible activity.
+Location: Outdoor, residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a quiet, empty street with no visible activity.
+2. **Location**: Outdoor, residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Steep, winding road
+   - Brick buildings
+   - Trees and shrubs
+   - Utility wires overhead
+   - Korean text at the bottom
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 43: 0:01:09
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood with buildings lining the street.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood with buildings lining the street.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Paved road
+   - Residential buildings
+   - Trees and plants
+   - Utility poles and wires
+   - Korean text at the bottom
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 44: 0:01:10
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood with sloped streets.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood with sloped streets.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, brick buildings, trees, power lines, Korean subtitles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 45: 0:01:11
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Paved road
+   - Residential buildings
+   - Trees and shrubs
+   - Stone walls
+   - Subtitles in a non-English language
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 46: 0:01:12
+----------------------------------------
+Activity: A person is pointing towards the end of a narrow street.
+Location: Outdoor, in a residential urban area.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is pointing towards the end of a narrow street.
+2. **Location**: Outdoor, in a residential urban area.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Finger pointing, narrow street, brick buildings, trees, utility poles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 47: 0:01:13
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood with narrow streets and buildings.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood with narrow streets and buildings.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, brick buildings, trees, and a small scooter in the distance.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 48: 0:01:14
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, brick buildings, trees, utility poles, Korean text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 49: 0:01:15
+----------------------------------------
+Activity: The scene shows a static shot of a brick wall with text overlay.
+Location: Outdoor, likely in an urban area.
+Mood: Neutral and static.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a static shot of a brick wall with text overlay.
+2. **Location**: Outdoor, likely in an urban area.
+3. **Mood**: Neutral and static.
+4. **Key Elements**: Brick wall, Korean text overlay, muted colors.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 50: 0:01:16
+----------------------------------------
+Activity: The scene appears to be an introduction or transition, possibly indicating arrival at a location.
+Location: Outdoor, in front of a brick wall.
+Mood: Neutral and straightforward.
+Type: Transition
+
+Full Analysis:
+1. **Activity**: The scene appears to be an introduction or transition, possibly indicating arrival at a location.
+2. **Location**: Outdoor, in front of a brick wall.
+3. **Mood**: Neutral and straightforward.
+4. **Key Elements**: 
+   - Brick wall
+   - Korean text overlay
+   - Subtitles in Korean
+5. **Scene Type**: Transition
+
+============================================================
+
+Scene 51: 0:01:17
+----------------------------------------
+Activity: The scene appears to be static, with no visible activity occurring.
+Location: Outdoor setting, likely in an urban area with brick architecture.
+Mood: Calm and neutral.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static, with no visible activity occurring.
+2. **Location**: Outdoor setting, likely in an urban area with brick architecture.
+3. **Mood**: Calm and neutral.
+4. **Key Elements**: 
+   - Brick wall
+   - Steps
+   - Korean text subtitle
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 52: 0:01:18
+----------------------------------------
+Activity: The scene appears to be a static shot focusing on the architecture.
+Location: This is taking place outdoors, likely in an urban or architectural setting.
+Mood: The atmosphere is calm and contemplative.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot focusing on the architecture.
+2. **Location**: This is taking place outdoors, likely in an urban or architectural setting.
+3. **Mood**: The atmosphere is calm and contemplative.
+4. **Key Elements**: 
+   - Brick walls
+   - Steps
+   - Text overlay
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 53: 0:01:19
+----------------------------------------
+Activity: The scene is currently empty, with no visible activity occurring.
+Location: This is an outdoor setting, likely an alley or courtyard with brick walls.
+Mood: The atmosphere is calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene is currently empty, with no visible activity occurring.
+2. **Location**: This is an outdoor setting, likely an alley or courtyard with brick walls.
+3. **Mood**: The atmosphere is calm and quiet.
+4. **Key Elements**: 
+   - Brick walls
+   - Brick floor
+   - Steps
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 54: 0:01:20
+----------------------------------------
+Activity: The scene shows a view of a brick staircase leading upwards.
+Location: Outdoor, likely in a garden or courtyard area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a view of a brick staircase leading upwards.
+2. **Location**: Outdoor, likely in a garden or courtyard area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Brick staircase, brick walls, foliage at the top, natural light.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 55: 0:01:21
+----------------------------------------
+Activity: The scene shows a view of a brick staircase leading upwards.
+Location: Outdoor, possibly in a garden or courtyard area.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a view of a brick staircase leading upwards.
+2. **Location**: Outdoor, possibly in a garden or courtyard area.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Brick stairs, brick walls, greenery at the top, natural light.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 56: 0:01:22
+----------------------------------------
+Activity: The scene shows a view of brick stairs leading upwards.
+Location: Outdoor, likely in a garden or courtyard area.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a view of brick stairs leading upwards.
+2. **Location**: Outdoor, likely in a garden or courtyard area.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Brick stairs, brick walls, plants at the top, natural light.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 57: 0:01:23
+----------------------------------------
+Activity: The scene appears to be a static shot of a brick stairway.
+Location: Outdoor, likely in a garden or courtyard area.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot of a brick stairway.
+2. **Location**: Outdoor, likely in a garden or courtyard area.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick stairs
+   - Brick walls
+   - Greenery and plants
+   - Natural light
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 58: 0:01:24
+----------------------------------------
+Activity: The scene appears to be static with no visible activity occurring.
+Location: Outdoor setting, likely a garden or courtyard area with brick walls.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static with no visible activity occurring.
+2. **Location**: Outdoor setting, likely a garden or courtyard area with brick walls.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick walls
+   - Brick flooring
+   - Green foliage and plants
+   - Vines on the wall
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 59: 0:01:25
+----------------------------------------
+Activity: The scene appears to be static with no visible activity occurring.
+Location: Outdoor setting, likely a garden or courtyard with brick walls.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static with no visible activity occurring.
+2. **Location**: Outdoor setting, likely a garden or courtyard with brick walls.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick wall
+   - Green and brown foliage
+   - Brick pavement
+   - Ivy or climbing plants
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 60: 0:01:26
+----------------------------------------
+Activity: The scene appears to be a static shot focusing on a brick wall and foliage.
+Location: Outdoor, likely in a garden or park area.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot focusing on a brick wall and foliage.
+2. **Location**: Outdoor, likely in a garden or park area.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Brick wall
+   - Overgrown foliage
+   - Subtitles in a non-English language
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 61: 0:01:27
+----------------------------------------
+Activity: The scene shows a static view of a brick wall with overgrown foliage.
+Location: Outdoor, likely in a garden or park area.
+Mood: Calm and slightly neglected.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a static view of a brick wall with overgrown foliage.
+2. **Location**: Outdoor, likely in a garden or park area.
+3. **Mood**: Calm and slightly neglected.
+4. **Key Elements**: Brick wall, overgrown plants, vines, Korean text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 62: 0:01:28
+----------------------------------------
+Activity: The scene appears to be static with no visible activity occurring.
+Location: Outdoor setting, likely the entrance or exterior of a building.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static with no visible activity occurring.
+2. **Location**: Outdoor setting, likely the entrance or exterior of a building.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick wall
+   - Window
+   - Shrubs or bushes
+   - Pathway
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 63: 0:01:29
+----------------------------------------
+Activity: The scene shows a static view of a garden area.
+Location: Outdoor, likely in a residential or office building courtyard.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a static view of a garden area.
+2. **Location**: Outdoor, likely in a residential or office building courtyard.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Dense shrubbery and plants
+   - Brick wall
+   - Building window
+   - Korean text overlay
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 64: 0:01:30
+----------------------------------------
+Activity: The scene appears to be a static shot of an outdoor area, possibly part of a building's exterior.
+Location: Outdoor, likely near a building entrance or courtyard.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot of an outdoor area, possibly part of a building's exterior.
+2. **Location**: Outdoor, likely near a building entrance or courtyard.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick wall
+   - Windows
+   - Bushes/plants
+   - Paved walkway
+   - Korean text overlay
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 65: 0:01:31
+----------------------------------------
+Activity: The scene appears to be a static or slow-moving shot of an outdoor area.
+Location: Outdoor, likely a courtyard or garden area with brick walls.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static or slow-moving shot of an outdoor area.
+2. **Location**: Outdoor, likely a courtyard or garden area with brick walls.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick walls
+   - Bushes or shrubs
+   - Stone pathway
+   - Text overlay in Korean
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 66: 0:01:32
+----------------------------------------
+Activity: The scene appears to be static, with no visible activity occurring.
+Location: Outdoor setting, likely a residential or urban area with brick buildings.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static, with no visible activity occurring.
+2. **Location**: Outdoor setting, likely a residential or urban area with brick buildings.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick building
+   - Staircase
+   - Bushes and small trees
+   - Windows
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 67: 0:01:33
+----------------------------------------
+Activity: The scene appears to be a static shot of an outdoor area, possibly setting up a location.
+Location: Outdoor, likely in a residential area with brick walls and a garden.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot of an outdoor area, possibly setting up a location.
+2. **Location**: Outdoor, likely in a residential area with brick walls and a garden.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick wall
+   - Bushes and plants
+   - Window
+   - Stairs
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 68: 0:01:34
+----------------------------------------
+Activity: The scene appears to be a static shot with no visible activity.
+Location: Outdoor setting, likely in a residential area.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot with no visible activity.
+2. **Location**: Outdoor setting, likely in a residential area.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Brick wall
+   - Staircase
+   - Window
+   - Dry bushes
+   - Subtitles at the bottom
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 69: 0:01:35
+----------------------------------------
+Activity: The scene appears to be a static or transitioning shot with no visible activity.
+Location: Outdoor, likely near a building or house.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static or transitioning shot with no visible activity.
+2. **Location**: Outdoor, likely near a building or house.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Brick wall, windows, white wall, Korean subtitles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 70: 0:01:36
+----------------------------------------
+Activity: The scene appears to be static, with no visible activity taking place.
+Location: This is an outdoor setting, likely near a residential or commercial building.
+Mood: The atmosphere is calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static, with no visible activity taking place.
+2. **Location**: This is an outdoor setting, likely near a residential or commercial building.
+3. **Mood**: The atmosphere is calm and quiet.
+4. **Key Elements**: 
+   - Brick wall
+   - Window
+   - Bushes/plants
+   - Steps
+   - Subtitles in yellow text
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 71: 0:01:37
+----------------------------------------
+Activity: The scene shows a quiet outdoor area, possibly a transitional moment in the video.
+Location: Outdoor, near a building entrance with stairs.
+Mood: Calm and contemplative.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet outdoor area, possibly a transitional moment in the video.
+2. **Location**: Outdoor, near a building entrance with stairs.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: Brick wall, stairs, handrail, plants, Korean text.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 72: 0:01:38
+----------------------------------------
+Activity: The scene shows a quiet outdoor setting with no visible activity.
+Location: Outdoor, likely in a garden or park area with steps leading upwards.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet outdoor setting with no visible activity.
+2. **Location**: Outdoor, likely in a garden or park area with steps leading upwards.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Stone steps
+   - Brick and white railing
+   - Greenery and flowers
+   - Trees in the background
+   - Korean text at the bottom
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 73: 0:01:39
+----------------------------------------
+Activity: The scene shows a quiet outdoor setting with no visible human activity.
+Location: Outdoor, likely in a garden or park area with a staircase.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet outdoor setting with no visible human activity.
+2. **Location**: Outdoor, likely in a garden or park area with a staircase.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Staircase, brick wall, greenery, white flowers, trees.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 74: 0:01:40
+----------------------------------------
+Activity: The scene shows a to-do list with instructions for sanitizing and cleaning upon entry.
+Location: Indoor, likely near an entrance or hallway.
+Mood: Informative and precautionary.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a to-do list with instructions for sanitizing and cleaning upon entry.
+2. **Location**: Indoor, likely near an entrance or hallway.
+3. **Mood**: Informative and precautionary.
+4. **Key Elements**: 
+   - To-do list with instructions
+   - Cartoon character illustration
+   - Purple wall
+   - Partial view of a mirror
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 75: 0:01:43
+----------------------------------------
+Activity: The scene shows a cozy living room setup, possibly preparing for relaxation or leisure.
+Location: Indoor, in a living room.
+Mood: Calm and inviting.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a cozy living room setup, possibly preparing for relaxation or leisure.
+2. **Location**: Indoor, in a living room.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: 
+   - Sofa with cushions
+   - Electric heater
+   - Coffee table with magazines
+   - Potted plants
+   - Guitar against the wall
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 76: 0:01:45
+----------------------------------------
+Activity: The scene appears to show a cozy living space, possibly being showcased or prepared for relaxation.
+Location: Indoor, likely a living room or lounge area.
+Mood: Calm and inviting.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to show a cozy living space, possibly being showcased or prepared for relaxation.
+2. **Location**: Indoor, likely a living room or lounge area.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: 
+   - Sofa with cushions
+   - Space heater
+   - Coffee table with magazines
+   - Acoustic guitar
+   - Potted plants
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 77: 0:01:46
+----------------------------------------
+Activity: The scene shows a cozy indoor setting, possibly someone relaxing or working from home.
+Location: Indoor, likely a living room or home office.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a cozy indoor setting, possibly someone relaxing or working from home.
+2. **Location**: Indoor, likely a living room or home office.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: 
+   - Television displaying a mug
+   - Space heater
+   - Potted plants
+   - Laptop on a small table
+   - Brick wall with framed art
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 78: 0:01:47
+----------------------------------------
+Activity: The scene shows a workspace setup, possibly for remote work or study.
+Location: Indoor, likely a home office or study room.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: 
+   - Computer monitor on a desk
+   - Television displaying a coffee cup
+   - Space heater
+   - Indoor plants
+   - Wooden desk and chairs
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 79: 0:01:48
+----------------------------------------
+Activity: The scene shows a workspace setup, possibly for remote work or study.
+Location: Indoor, likely a home office or study room.
+Mood: Calm and focused.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Computer monitor on a desk
+   - Large wall map
+   - Television displaying a coffee cup
+   - Office chairs
+   - Notebooks and water bottles
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 80: 0:01:49
+----------------------------------------
+Activity: The scene shows a workspace setup, possibly for remote work or study.
+Location: Indoor, likely a home office or study room.
+Mood: Calm and focused.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.
+2. **Location**: Indoor, likely a home office or study room.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: 
+   - Computer monitor on a desk
+   - Wall-mounted wooden world map
+   - Television displaying a steaming mug
+   - Office chair
+   - Water bottle and other desk items
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 81: 0:01:50
+----------------------------------------
+Activity: Two people are taking a selfie in front of a mirror.
+Location: Indoor, likely in a cozy room or apartment.
+Mood: Intimate and relaxed.
+Type: Casual moment.
+
+Full Analysis:
+1. **Activity**: Two people are taking a selfie in front of a mirror.
+2. **Location**: Indoor, likely in a cozy room or apartment.
+3. **Mood**: Intimate and relaxed.
+4. **Key Elements**: Camera, mirror, face mask, wall art, table lamp.
+5. **Scene Type**: Casual moment.
+
+============================================================
+
+Scene 82: 0:01:51
+----------------------------------------
+Activity: Two people are taking a mirror selfie, with one holding a camera.
+Location: Indoor, possibly a cozy room or small apartment.
+Mood: Intimate and casual.
+Type: Casual interaction.
+
+Full Analysis:
+1. **Activity**: Two people are taking a mirror selfie, with one holding a camera.
+2. **Location**: Indoor, possibly a cozy room or small apartment.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: 
+   - Camera
+   - Mirror
+   - Wall art
+   - Table fan
+   - Mask worn by one person
+5. **Scene Type**: Casual interaction.
+
+============================================================
+
+Scene 83: 0:01:52
+----------------------------------------
+Activity: Two people are taking a mirror selfie, with one holding a camera and the other posing.
+Location: Indoor, likely in a cozy room or café.
+Mood: Casual and playful.
+Type: Casual interaction.
+
+Full Analysis:
+1. **Activity**: Two people are taking a mirror selfie, with one holding a camera and the other posing.
+2. **Location**: Indoor, likely in a cozy room or café.
+3. **Mood**: Casual and playful.
+4. **Key Elements**: Mirror, camera, wall decorations, face mask, text overlay.
+5. **Scene Type**: Casual interaction.
+
+============================================================
+
+Scene 84: 0:01:53
+----------------------------------------
+Activity: Two people are taking a mirror selfie.
+Location: Indoor, likely in a cozy room or apartment.
+Mood: Intimate and casual.
+Type: Casual moment.
+
+Full Analysis:
+1. **Activity**: Two people are taking a mirror selfie.
+2. **Location**: Indoor, likely in a cozy room or apartment.
+3. **Mood**: Intimate and casual.
+4. **Key Elements**: Mirror, camera, masks, wall art, lamp.
+5. **Scene Type**: Casual moment.
+
+============================================================
+
+Scene 85: 0:01:54
+----------------------------------------
+Activity: Two people are taking a selfie or photo together in front of a mirror.
+Location: Indoor, likely a home or cozy room.
+Mood: Casual and intimate.
+Type: Casual interaction.
+
+Full Analysis:
+1. **Activity**: Two people are taking a selfie or photo together in front of a mirror.
+2. **Location**: Indoor, likely a home or cozy room.
+3. **Mood**: Casual and intimate.
+4. **Key Elements**: Two people, camera, mirror, wall decorations, lamp.
+5. **Scene Type**: Casual interaction.
+
+============================================================
+
+Scene 86: 0:01:55
+----------------------------------------
+Activity: The scene appears to be a casual moment in a kitchen, possibly involving a conversation.
+Location: Indoor, in a kitchen.
+Mood: Calm and homely.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a casual moment in a kitchen, possibly involving a conversation.
+2. **Location**: Indoor, in a kitchen.
+3. **Mood**: Calm and homely.
+4. **Key Elements**: Red refrigerator, white refrigerator, countertop with appliances, hanging plants, text subtitles.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 87: 0:01:56
+----------------------------------------
+Activity: The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.
+Location: Indoor, in a kitchen.
+Mood: The atmosphere is calm and homely.
+Type: Establishing shot
+
+Full Analysis:
+1. **Activity**: The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.
+2. **Location**: Indoor, in a kitchen.
+3. **Mood**: The atmosphere is calm and homely.
+4. **Key Elements**: 
+   - Red refrigerator with magnets and notes
+   - White refrigerator
+   - Air fryer and toaster on the counter
+   - Shelves with books and decorative items
+   - Subtitled text at the bottom
+5. **Scene Type**: Establishing shot
+
+============================================================
+
+Scene 88: 0:01:57
+----------------------------------------
+Activity: The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.
+Location: Indoor, specifically a kitchen.
+Mood: The atmosphere is calm and homely.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a casual moment in a kitchen, possibly involving conversation or preparation.
+2. **Location**: Indoor, specifically a kitchen.
+3. **Mood**: The atmosphere is calm and homely.
+4. **Key Elements**: 
+   - Red refrigerator with magnets and photos
+   - White refrigerator
+   - Air fryer on the counter
+   - Bookshelf with books and decor
+   - Subtitled text at the bottom
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 89: 0:01:58
+----------------------------------------
+Activity: The scene shows a kitchen area with a focus on two refrigerators.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and homely.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a kitchen area with a focus on two refrigerators.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and homely.
+4. **Key Elements**: 
+   - Red refrigerator with magnets and photos
+   - White refrigerator with a calendar on top
+   - Hanging plants
+   - Shelving with books or magazines
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 90: 0:01:59
+----------------------------------------
+Activity: The scene appears to show a still moment in a kitchen or dining area.
+Location: Indoor, likely a kitchen or dining room.
+Mood: Calm and domestic.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to show a still moment in a kitchen or dining area.
+2. **Location**: Indoor, likely a kitchen or dining room.
+3. **Mood**: Calm and domestic.
+4. **Key Elements**: Refrigerator with magnets, a small appliance on top of another appliance, hanging baskets, and a stack of books or papers.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 91: 0:02:00
+----------------------------------------
+Activity: A person appears to be reacting or expressing emotion, possibly in conversation.
+Location: Indoor, likely a home or office setting.
+Mood: The atmosphere seems tense or emotional.
+Type: Dialogue
+
+Full Analysis:
+1. **Activity**: A person appears to be reacting or expressing emotion, possibly in conversation.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: The atmosphere seems tense or emotional.
+4. **Key Elements**: 
+   - Person with raised arms
+   - Laptop on a table
+   - Lamp
+   - Hanging light fixture
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue
+
+============================================================
+
+Scene 92: 0:02:01
+----------------------------------------
+Activity: A person is turning away from a table, possibly reacting to something or someone.
+Location: Indoor, likely a dining or living room.
+Mood: The atmosphere seems tense or confrontational.
+Type: Dialogue or confrontation.
+
+Full Analysis:
+1. **Activity**: A person is turning away from a table, possibly reacting to something or someone.
+2. **Location**: Indoor, likely a dining or living room.
+3. **Mood**: The atmosphere seems tense or confrontational.
+4. **Key Elements**: 
+   - Person in a light sweater
+   - Wooden table with a laptop
+   - Hanging lamp
+   - Wine bottles on a shelf
+5. **Scene Type**: Dialogue or confrontation.
+
+============================================================
+
+Scene 93: 0:02:02
+----------------------------------------
+Activity: A person is adjusting their hair while standing near a table with a laptop.
+Location: Indoor, likely a home or cozy café setting.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is adjusting their hair while standing near a table with a laptop.
+2. **Location**: Indoor, likely a home or cozy café setting.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Laptop on the table, hanging lamp, bottles on a shelf, window with light.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 94: 0:02:03
+----------------------------------------
+Activity: A person is sitting at a table, possibly working or having a conversation.
+Location: Indoor, likely a café or a cozy dining area.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table, possibly working or having a conversation.
+2. **Location**: Indoor, likely a café or a cozy dining area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Person wearing a mask
+   - Laptop on the table
+   - Hanging lamp
+   - Bottles on a shelf
+   - Text on the screen
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 95: 0:02:04
+----------------------------------------
+Activity: A person is sitting at a table, possibly engaged in a video call or working on a laptop.
+Location: Indoor, likely a home or small office setting.
+Mood: Calm and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table, possibly engaged in a video call or working on a laptop.
+2. **Location**: Indoor, likely a home or small office setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, person wearing a mask, table with papers, decorative lamp, bottles on a shelf.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 96: 0:02:05
+----------------------------------------
+Activity: A person is sitting at a table, possibly working on a laptop.
+Location: Indoor, likely a home or small office.
+Mood: Calm and focused.
+Type: Dialogue or work-related scene.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table, possibly working on a laptop.
+2. **Location**: Indoor, likely a home or small office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, table, person wearing a mask, wall decor, wine bottles on a shelf.
+5. **Scene Type**: Dialogue or work-related scene.
+
+============================================================
+
+Scene 97: 0:02:07
+----------------------------------------
+Activity: A person is sitting at a table, working on a laptop.
+Location: Indoor, likely a home or small café.
+Mood: Calm and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table, working on a laptop.
+2. **Location**: Indoor, likely a home or small café.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, table, lamp, wine bottles, person wearing a mask.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 98: 0:02:08
+----------------------------------------
+Activity: A person is working on a laptop.
+Location: Indoor, likely a home or café setting.
+Mood: Calm and focused.
+Type: Dialogue or work-focused scene.
+
+Full Analysis:
+1. **Activity**: A person is working on a laptop.
+2. **Location**: Indoor, likely a home or café setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, person wearing a mask, table, lamp, bottles on a shelf.
+5. **Scene Type**: Dialogue or work-focused scene.
+
+============================================================
+
+Scene 99: 0:02:09
+----------------------------------------
+Activity: A person is working on a laptop.
+Location: Indoor, likely a cafe or home setting.
+Mood: Calm and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is working on a laptop.
+2. **Location**: Indoor, likely a cafe or home setting.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, person wearing a mask, wooden table, bottles on a shelf, blue sofa.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 100: 0:02:10
+----------------------------------------
+Activity: A person is sitting at a table, possibly engaged in a conversation or working on a laptop.
+Location: Indoor, likely a café or a casual dining area.
+Mood: Calm and relaxed.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table, possibly engaged in a conversation or working on a laptop.
+2. **Location**: Indoor, likely a café or a casual dining area.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: 
+   - Person wearing a mask
+   - Laptop on the table
+   - Bottles on a shelf
+   - Smartphone on the table
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 101: 0:02:11
+----------------------------------------
+Activity: A person is sitting at a table using a laptop.
+Location: Indoor, likely a café or casual workspace.
+Mood: Calm and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table using a laptop.
+2. **Location**: Indoor, likely a café or casual workspace.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, smartphone, person wearing a mask, bottles on a shelf.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 102: 0:02:15
+----------------------------------------
+Activity: A person is sitting at a table using a laptop.
+Location: Indoor, likely a café or casual dining area.
+Mood: Calm and focused.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is sitting at a table using a laptop.
+2. **Location**: Indoor, likely a café or casual dining area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, person wearing a mask, wooden table, bottles on a shelf.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 103: 0:02:16
+----------------------------------------
+Activity: The scene appears to be a setup for a conversation or a casual moment, possibly involving someone off-screen.
+Location: Indoor, likely a cozy room or small café.
+Mood: Calm and intimate.
+Type: Dialogue setup.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a setup for a conversation or a casual moment, possibly involving someone off-screen.
+2. **Location**: Indoor, likely a cozy room or small café.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Blue couch, wooden table, smartphone, hanging blue object.
+5. **Scene Type**: Dialogue setup.
+
+============================================================
+
+Scene 104: 0:02:17
+----------------------------------------
+Activity: The scene appears to be a quiet moment in a room, possibly involving a conversation.
+Location: Indoor, likely a cozy living room or café corner.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment in a room, possibly involving a conversation.
+2. **Location**: Indoor, likely a cozy living room or café corner.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Table, lamp, window, decorative branches, subtitles.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 105: 0:02:18
+----------------------------------------
+Activity: The scene appears to be a quiet moment in a room, possibly with someone speaking off-screen.
+Location: Indoor, likely a cozy living room or study.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment in a room, possibly with someone speaking off-screen.
+2. **Location**: Indoor, likely a cozy living room or study.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Bookshelf with books, window with natural light, table lamp, decorative vase.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 106: 0:02:19
+----------------------------------------
+Activity: The scene appears to be a quiet moment in a room, possibly involving a conversation or contemplation.
+Location: Indoor, likely a cozy living room or study area.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment in a room, possibly involving a conversation or contemplation.
+2. **Location**: Indoor, likely a cozy living room or study area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Window with natural light, table lamp, bookshelf, chair, and a laptop.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 107: 0:02:20
+----------------------------------------
+Activity: Someone is using a laptop at a table, possibly working or studying.
+Location: Indoor, likely a home or cozy office space.
+Mood: Calm and intimate.
+Type: Dialogue or work/study scene.
+
+Full Analysis:
+1. **Activity**: Someone is using a laptop at a table, possibly working or studying.
+2. **Location**: Indoor, likely a home or cozy office space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Laptop, table, lamp, window, bookshelf.
+5. **Scene Type**: Dialogue or work/study scene.
+
+============================================================
+
+Scene 108: 0:02:23
+----------------------------------------
+Activity: The scene appears to be a casual moment in a room, possibly involving conversation or reflection.
+Location: Indoor, likely a cozy living room or study area.
+Mood: Calm and intimate.
+Type: Dialogue or intimate setting.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a casual moment in a room, possibly involving conversation or reflection.
+2. **Location**: Indoor, likely a cozy living room or study area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Refrigerator, window with light coming through, table lamp, chairs, books or magazines.
+5. **Scene Type**: Dialogue or intimate setting.
+
+============================================================
+
+Scene 109: 0:02:24
+----------------------------------------
+Activity: The scene appears to be a quiet moment in a kitchen or dining area.
+Location: Indoor, likely a kitchen or dining room.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment in a kitchen or dining area.
+2. **Location**: Indoor, likely a kitchen or dining room.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Refrigerator with photos and notes, a small calendar, hanging plants, and a shelf with books.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 110: 0:02:25
+----------------------------------------
+Activity: The scene appears to capture a moment on a street, possibly transitioning or establishing a setting.
+Location: Outdoor, on a paved street.
+Mood: Calm and neutral.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to capture a moment on a street, possibly transitioning or establishing a setting.
+2. **Location**: Outdoor, on a paved street.
+3. **Mood**: Calm and neutral.
+4. **Key Elements**: Asphalt road, manhole cover, shadow, Korean subtitles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 111: 0:02:26
+----------------------------------------
+Activity: The scene appears to be a moment of walking or moving along a street.
+Location: Outdoor, on a paved street or alley.
+Mood: Calm and quiet.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a moment of walking or moving along a street.
+2. **Location**: Outdoor, on a paved street or alley.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Manhole cover, paved road, shadow, Korean subtitles.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 112: 0:02:27
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, on a paved street in a residential or urban area.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, on a paved street in a residential or urban area.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Paved road, manhole cover, sidewalk, building walls.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 113: 0:02:28
+----------------------------------------
+Activity: The scene shows a quiet street, possibly indicating someone walking or exploring the area.
+Location: Outdoor, in a residential neighborhood with narrow streets.
+Mood: Calm and peaceful.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street, possibly indicating someone walking or exploring the area.
+2. **Location**: Outdoor, in a residential neighborhood with narrow streets.
+3. **Mood**: Calm and peaceful.
+4. **Key Elements**: 
+   - Asphalt road
+   - Stone walls
+   - Residential buildings
+   - Staircase
+   - Subtitles in a foreign language
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 114: 0:02:29
+----------------------------------------
+Activity: The scene shows a view down a quiet street, possibly from a moving vehicle or person walking.
+Location: Outdoor, residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a view down a quiet street, possibly from a moving vehicle or person walking.
+2. **Location**: Outdoor, residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, stone wall, utility pole, Korean subtitles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 115: 0:02:30
+----------------------------------------
+Activity: The scene shows a quiet street, possibly as part of a walking or travel sequence.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street, possibly as part of a walking or travel sequence.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, brick walls, stairway, utility pole, and greenery.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 116: 0:02:31
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential or urban neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential or urban neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, stone wall, greenery, Korean text subtitles.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 117: 0:02:32
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential or urban neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential or urban neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Paved road
+   - Residential buildings
+   - Stone wall
+   - Staircase
+   - Korean text on a building
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 118: 0:02:33
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, stairway, garage entrance, potted plants.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 119: 0:02:34
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood with buildings lining the street.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood with buildings lining the street.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, stairs, plants, and a garage entrance.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 120: 0:02:35
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential or urban neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential or urban neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, garage entrance, stairs, and a traffic cone.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 121: 0:02:36
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, greenery, Korean text on a building, subtitles at the bottom.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 122: 0:02:37
+----------------------------------------
+Activity: The scene captures a quiet street, possibly with someone walking or observing the surroundings.
+Location: Outdoor, in a residential neighborhood with buildings and narrow streets.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a quiet street, possibly with someone walking or observing the surroundings.
+2. **Location**: Outdoor, in a residential neighborhood with buildings and narrow streets.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Residential buildings, a sloped street, stairs, and a traffic cone.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 123: 0:02:38
+----------------------------------------
+Activity: The scene captures a quiet street, possibly with someone narrating or reflecting.
+Location: Outdoor, in a residential neighborhood with apartment buildings.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a quiet street, possibly with someone narrating or reflecting.
+2. **Location**: Outdoor, in a residential neighborhood with apartment buildings.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Apartment buildings, a sloping street, utility poles, and a small staircase.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 124: 0:02:39
+----------------------------------------
+Activity: The scene shows a quiet street, possibly indicating a transition or establishing shot.
+Location: Outdoor, in a residential or urban neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street, possibly indicating a transition or establishing shot.
+2. **Location**: Outdoor, in a residential or urban neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, parked cars, Korean signage.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 125: 0:02:40
+----------------------------------------
+Activity: The scene shows a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Sloped street, residential buildings, parked bicycles, power lines, and a garage entrance.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 126: 0:02:41
+----------------------------------------
+Activity: The scene captures a quiet street with no visible activity.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a quiet street with no visible activity.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Residential buildings, a narrow street, power lines, and a few plants.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 127: 0:02:42
+----------------------------------------
+Activity: The scene appears to be an introduction or establishing shot with text overlay.
+Location: Indoor setting, likely a room with tiled walls.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be an introduction or establishing shot with text overlay.
+2. **Location**: Indoor setting, likely a room with tiled walls.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Hanging light fixture, window blinds, tiled wall, text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 128: 0:02:44
+----------------------------------------
+Activity: The scene introduces a location, likely a restaurant or cafe.
+Location: Indoor setting, possibly a small dining area or kitchen.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene introduces a location, likely a restaurant or cafe.
+2. **Location**: Indoor setting, possibly a small dining area or kitchen.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Window blinds, tiled wall, hanging light, text overlay with location details.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 129: 0:02:45
+----------------------------------------
+Activity: The scene appears to be an introduction or establishing shot of a location.
+Location: Indoor, likely a restaurant or café.
+Mood: Calm and inviting.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be an introduction or establishing shot of a location.
+2. **Location**: Indoor, likely a restaurant or café.
+3. **Mood**: Calm and inviting.
+4. **Key Elements**: Blinds, tiled wall, stacked glasses, table, text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 130: 0:02:46
+----------------------------------------
+Activity: The scene shows a close-up of a food presentation, specifically sliced tomatoes arranged in a decorative manner.
+Location: Indoor, likely in a dining setting such as a restaurant or home.
+Mood: Calm and focused, with an emphasis on culinary aesthetics.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a close-up of a food presentation, specifically sliced tomatoes arranged in a decorative manner.
+2. **Location**: Indoor, likely in a dining setting such as a restaurant or home.
+3. **Mood**: Calm and focused, with an emphasis on culinary aesthetics.
+4. **Key Elements**: Sliced tomatoes arranged like a flower, a decorative plate, additional small dishes, text with a rating.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 131: 0:02:49
+----------------------------------------
+Activity: The scene shows a close-up of a tomato sliced and arranged in a decorative manner on a plate.
+Location: Indoor, likely in a dining or kitchen setting.
+Mood: Calm and aesthetically pleasing.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a close-up of a tomato sliced and arranged in a decorative manner on a plate.
+2. **Location**: Indoor, likely in a dining or kitchen setting.
+3. **Mood**: Calm and aesthetically pleasing.
+4. **Key Elements**: Sliced tomato arranged like a flower, white plate with a gold rim, text overlay with ratings.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 132: 0:02:50
+----------------------------------------
+Activity: The scene shows a display of Korean dishes, likely for a food review or presentation.
+Location: Indoor, likely in a restaurant or dining setting.
+Mood: The atmosphere is inviting and appetizing.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a display of Korean dishes, likely for a food review or presentation.
+2. **Location**: Indoor, likely in a restaurant or dining setting.
+3. **Mood**: The atmosphere is inviting and appetizing.
+4. **Key Elements**: 
+   - A large plate of bulgogi pancake (파전)
+   - A bowl of rice (공기밥)
+   - Small side dishes
+   - Text with ratings and descriptions
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 133: 0:02:53
+----------------------------------------
+Activity: A dish is being presented, likely for a food review or cooking show.
+Location: Indoor, possibly a restaurant or kitchen setting.
+Mood: Calm and focused on the culinary presentation.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: A dish is being presented, likely for a food review or cooking show.
+2. **Location**: Indoor, possibly a restaurant or kitchen setting.
+3. **Mood**: Calm and focused on the culinary presentation.
+4. **Key Elements**: Plate with tofu dish, garnishes (green onions, chili), soy-based sauce, text overlay in Korean.
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 134: 0:02:55
+----------------------------------------
+Activity: The scene shows a close-up of a plated dish, likely being presented or reviewed.
+Location: Indoor, possibly in a restaurant or dining setting.
+Mood: Calm and focused, with an emphasis on culinary presentation.
+Type: Food closeup.
+
+Full Analysis:
+1. **Activity**: The scene shows a close-up of a plated dish, likely being presented or reviewed.
+2. **Location**: Indoor, possibly in a restaurant or dining setting.
+3. **Mood**: Calm and focused, with an emphasis on culinary presentation.
+4. **Key Elements**: 
+   - A plate with fried tofu in sauce
+   - Garnishes including green onions and chili
+   - A side dish with sliced red vegetables
+   - Text overlay in Korean
+5. **Scene Type**: Food closeup.
+
+============================================================
+
+Scene 135: 0:02:57
+----------------------------------------
+Activity: A person is adjusting their face mask while looking at the camera.
+Location: Indoor, likely a living room or hallway.
+Mood: Calm and casual.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is adjusting their face mask while looking at the camera.
+2. **Location**: Indoor, likely a living room or hallway.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person wearing a black mask, staircase, sofa, wall with light switch.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 136: 0:03:05
+----------------------------------------
+Activity: The scene shows someone ascending a staircase.
+Location: Indoor, likely in a residential or commercial building.
+Mood: Calm and focused.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows someone ascending a staircase.
+2. **Location**: Indoor, likely in a residential or commercial building.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Wooden staircase, handrail, text overlay in Korean, plant.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 137: 0:03:06
+----------------------------------------
+Activity: The scene shows someone ascending a staircase.
+Location: Indoor, likely in a residential or commercial building.
+Mood: Neutral and straightforward.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows someone ascending a staircase.
+2. **Location**: Indoor, likely in a residential or commercial building.
+3. **Mood**: Neutral and straightforward.
+4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 138: 0:03:07
+----------------------------------------
+Activity: Someone is ascending a staircase.
+Location: Indoor, likely in a building or house.
+Mood: Neutral and focused.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: Someone is ascending a staircase.
+2. **Location**: Indoor, likely in a building or house.
+3. **Mood**: Neutral and focused.
+4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 139: 0:03:08
+----------------------------------------
+Activity: The scene shows someone ascending a staircase.
+Location: Indoor, likely in a residential or office building.
+Mood: Neutral and functional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows someone ascending a staircase.
+2. **Location**: Indoor, likely in a residential or office building.
+3. **Mood**: Neutral and functional.
+4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 140: 0:03:09
+----------------------------------------
+Activity: The scene shows someone ascending a staircase.
+Location: Indoor, likely in a residential or office building.
+Mood: Neutral and functional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows someone ascending a staircase.
+2. **Location**: Indoor, likely in a residential or office building.
+3. **Mood**: Neutral and functional.
+4. **Key Elements**: Wooden stairs, white walls, Korean text overlay.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 141: 0:03:10
+----------------------------------------
+Activity: The scene shows a view of a staircase, possibly indicating movement or transition.
+Location: Indoor setting, likely in a residential or office building.
+Mood: Neutral and calm.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a view of a staircase, possibly indicating movement or transition.
+2. **Location**: Indoor setting, likely in a residential or office building.
+3. **Mood**: Neutral and calm.
+4. **Key Elements**: Wooden stairs, white walls, upward perspective.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 142: 0:03:12
+----------------------------------------
+Activity: The scene appears to be static, with no visible activity occurring.
+Location: Indoor, likely a residential space such as a hallway or entryway.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static, with no visible activity occurring.
+2. **Location**: Indoor, likely a residential space such as a hallway or entryway.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: 
+   - Wooden floor
+   - White door
+   - Small table with a yellow cloth
+   - Wall with baseboard
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 143: 0:03:13
+----------------------------------------
+Activity: The scene appears to be static with no visible activity.
+Location: Indoor, likely a corner of a room.
+Mood: Calm and minimalistic.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static with no visible activity.
+2. **Location**: Indoor, likely a corner of a room.
+3. **Mood**: Calm and minimalistic.
+4. **Key Elements**: Wooden floor, white door, small table with a yellow cloth, vase with dried plants.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 144: 0:03:14
+----------------------------------------
+Activity: The scene appears to be static, with no visible activity occurring.
+Location: Indoor, likely a room in a house or apartment.
+Mood: Calm and simple.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static, with no visible activity occurring.
+2. **Location**: Indoor, likely a room in a house or apartment.
+3. **Mood**: Calm and simple.
+4. **Key Elements**: 
+   - Plain wall
+   - Wooden floor
+   - Small table with a yellow cloth
+   - Vase with dried flowers
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 145: 0:03:16
+----------------------------------------
+Activity: The scene appears to be a static shot focusing on a corner of a room.
+Location: Indoor, likely a cozy room or living space.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot focusing on a corner of a room.
+2. **Location**: Indoor, likely a cozy room or living space.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Window with light coming through
+   - A bouquet of dried flowers
+   - A fluffy white chair or cushion
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 146: 0:03:17
+----------------------------------------
+Activity: The scene is static, showing a corner of a room.
+Location: Indoor, likely a personal or creative space.
+Mood: Calm and contemplative.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene is static, showing a corner of a room.
+2. **Location**: Indoor, likely a personal or creative space.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: 
+   - Poster with a man's head and the text "THE FUTURE BELONGS TO THE CURIOUS"
+   - Window with grid pattern
+   - Chair with a white fur covering
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 147: 0:03:18
+----------------------------------------
+Activity: The scene shows a wall with a poster.
+Location: Indoor, likely in a home or office.
+Mood: Calm and contemplative.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a wall with a poster.
+2. **Location**: Indoor, likely in a home or office.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: 
+   - Poster with a man's portrait and the phrase "THE FUTURE BELONGS TO THE CURIOUS"
+   - Window with natural light
+   - Light-colored wall
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 148: 0:03:20
+----------------------------------------
+Activity: The scene appears to be static with no visible activity occurring.
+Location: Indoor, likely a hallway or corridor in a residential setting.
+Mood: Calm and neutral.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be static with no visible activity occurring.
+2. **Location**: Indoor, likely a hallway or corridor in a residential setting.
+3. **Mood**: Calm and neutral.
+4. **Key Elements**: 
+   - White door
+   - Light switch
+   - Wall
+   - Floor mat
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 149: 0:03:21
+----------------------------------------
+Activity: The scene appears to be a quiet moment in a hallway, possibly with someone entering or exploring the space.
+Location: Indoor, residential hallway.
+Mood: Calm and introspective.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment in a hallway, possibly with someone entering or exploring the space.
+2. **Location**: Indoor, residential hallway.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: 
+   - White door
+   - Wooden floor
+   - Wall shelf with a framed heart artwork
+   - Vase with dried flowers
+   - Staircase
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 150: 0:03:22
+----------------------------------------
+Activity: The scene appears to be a static shot of a hallway.
+Location: Indoor, likely a residential home.
+Mood: Calm and quiet.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot of a hallway.
+2. **Location**: Indoor, likely a residential home.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Staircase, hallway cabinet, decorative vase with dried flowers, artwork with a heart, Korean text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 151: 0:03:23
+----------------------------------------
+Activity: The scene appears to be a quiet moment, possibly someone exploring or entering a part of a house.
+Location: Indoor, likely a hallway or entryway in a home.
+Mood: Calm and introspective.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment, possibly someone exploring or entering a part of a house.
+2. **Location**: Indoor, likely a hallway or entryway in a home.
+3. **Mood**: Calm and introspective.
+4. **Key Elements**: 
+   - Framed artwork with a heart
+   - Small shelf with a vase of dried flowers
+   - Wooden staircase
+   - Subtitled text in Korean
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 152: 0:03:24
+----------------------------------------
+Activity: The scene appears to be a static shot focusing on a decorative area.
+Location: Indoor, likely a hallway or entryway.
+Mood: Calm and minimalistic.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a static shot focusing on a decorative area.
+2. **Location**: Indoor, likely a hallway or entryway.
+3. **Mood**: Calm and minimalistic.
+4. **Key Elements**: 
+   - Wall art with a heart design
+   - Small shelf
+   - Dried plant in a bottle
+   - Cabinet
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 153: 0:03:25
+----------------------------------------
+Activity: The scene shows a static interior setup, likely for decorative purposes.
+Location: Indoor, possibly a hallway or small room.
+Mood: Calm and minimalist.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a static interior setup, likely for decorative purposes.
+2. **Location**: Indoor, possibly a hallway or small room.
+3. **Mood**: Calm and minimalist.
+4. **Key Elements**: 
+   - Framed artwork with a red heart
+   - Wooden shelf
+   - Vase with dried flowers
+   - Wine bottle used as a vase
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 154: 0:03:26
+----------------------------------------
+Activity: The scene shows a static display of artwork on a shelf.
+Location: Indoor, likely a home or gallery space.
+Mood: Calm and minimalist.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a static display of artwork on a shelf.
+2. **Location**: Indoor, likely a home or gallery space.
+3. **Mood**: Calm and minimalist.
+4. **Key Elements**: 
+   - Artwork featuring a heart and figures
+   - Wooden shelf
+   - Dried plant arrangement
+   - White wall background
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 155: 0:03:27
+----------------------------------------
+Activity: The scene shows a static view of a decorated wall.
+Location: Indoor, likely a home or office.
+Mood: Calm and artistic.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a static view of a decorated wall.
+2. **Location**: Indoor, likely a home or office.
+3. **Mood**: Calm and artistic.
+4. **Key Elements**: 
+   - A wooden shelf
+   - Artwork with a red heart
+   - Dried plant arrangement
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 156: 0:03:28
+----------------------------------------
+Activity: The scene appears to show a transition or movement from one room to another.
+Location: Indoor, likely in a home or apartment.
+Mood: Calm and quiet.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene appears to show a transition or movement from one room to another.
+2. **Location**: Indoor, likely in a home or apartment.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Bookshelf, books, doorway, curtain, window with light coming through.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 157: 0:03:29
+----------------------------------------
+Activity: The scene appears to be a quiet moment in a living space, possibly transitioning between activities.
+Location: Indoor, in a living room area.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a quiet moment in a living space, possibly transitioning between activities.
+2. **Location**: Indoor, in a living room area.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Bookshelf, sofa with pillows, floor lamp, tripod, wall art.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 158: 0:03:30
+----------------------------------------
+Activity: The scene shows a transition from a dimly lit room to a brighter area.
+Location: Indoor, likely a home or library with bookshelves.
+Mood: Calm and quiet.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene shows a transition from a dimly lit room to a brighter area.
+2. **Location**: Indoor, likely a home or library with bookshelves.
+3. **Mood**: Calm and quiet.
+4. **Key Elements**: Bookshelves, books, curtain, table with a red tablecloth.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 159: 0:03:31
+----------------------------------------
+Activity: The scene shows a quiet, possibly contemplative moment in a hallway or study area.
+Location: Indoor, likely a home or library space.
+Mood: Calm and intimate.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet, possibly contemplative moment in a hallway or study area.
+2. **Location**: Indoor, likely a home or library space.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Bookshelf filled with books, a standing mirror, a lamp, and a plant.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 160: 0:03:32
+----------------------------------------
+Activity: The scene appears to show a door being opened or closed.
+Location: Indoor, possibly in a residential or office setting.
+Mood: Neutral or transitional.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: The scene appears to show a door being opened or closed.
+2. **Location**: Indoor, possibly in a residential or office setting.
+3. **Mood**: Neutral or transitional.
+4. **Key Elements**: Wooden door, door frame, glimpse of a room interior.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 161: 0:03:33
+----------------------------------------
+Activity: The scene shows a tidy bedroom setup with a workspace.
+Location: Indoor, in a bedroom.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a tidy bedroom setup with a workspace.
+2. **Location**: Indoor, in a bedroom.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Bed with pink bedding, wooden desk with a laptop, chair, decorative items, and a balcony area.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 162: 0:03:34
+----------------------------------------
+Activity: The scene shows a workspace setup, possibly for remote work or study.
+Location: Indoor, in a bedroom or small apartment.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a workspace setup, possibly for remote work or study.
+2. **Location**: Indoor, in a bedroom or small apartment.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Laptop, bed with pink bedding, table with a patterned cloth, potted plants, and a window with sheer curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 163: 0:03:35
+----------------------------------------
+Activity: The scene shows a workspace setup, possibly for remote work or content creation.
+Location: Indoor, likely a bedroom or small apartment.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a workspace setup, possibly for remote work or content creation.
+2. **Location**: Indoor, likely a bedroom or small apartment.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Laptop, bed, curtains, table with a patterned cloth, and a mirror.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 164: 0:03:36
+----------------------------------------
+Activity: A workspace is set up, likely for remote work or study.
+Location: Indoor, in a bedroom or personal workspace.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A workspace is set up, likely for remote work or study.
+2. **Location**: Indoor, in a bedroom or personal workspace.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Laptop, bed, table with patterned cloth, mirror, and decorative items.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 165: 0:03:37
+----------------------------------------
+Activity: A workspace is set up, possibly for remote work or study.
+Location: Indoor, likely a home office or bedroom.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A workspace is set up, possibly for remote work or study.
+2. **Location**: Indoor, likely a home office or bedroom.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Laptop, mouse, decorative cacti, mirror, headphones.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 166: 0:03:38
+----------------------------------------
+Activity: A workspace setup is being shown, likely for remote work or study.
+Location: Indoor, possibly a bedroom or home office.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A workspace setup is being shown, likely for remote work or study.
+2. **Location**: Indoor, possibly a bedroom or home office.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Laptop, mouse, small plants, mirror, bed.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 167: 0:03:39
+----------------------------------------
+Activity: A laptop is open on a table, possibly being used for work or leisure.
+Location: Indoor, likely a home or personal workspace.
+Mood: Calm and casual.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A laptop is open on a table, possibly being used for work or leisure.
+2. **Location**: Indoor, likely a home or personal workspace.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Laptop with a colorful desktop, patterned tablecloth, mirror, computer mouse.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 168: 0:03:40
+----------------------------------------
+Activity: The scene shows a workspace setup, possibly indicating someone is preparing to work or study.
+Location: Indoor, likely a home office or study area.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a workspace setup, possibly indicating someone is preparing to work or study.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Laptop, computer mouse, helmet, patterned tablecloth, and a window or door with a view of a wooden deck.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 169: 0:03:41
+----------------------------------------
+Activity: The scene shows a view from inside looking out onto a small patio or balcony area.
+Location: Indoor setting leading to an outdoor balcony or patio.
+Mood: Calm and casual.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a view from inside looking out onto a small patio or balcony area.
+2. **Location**: Indoor setting leading to an outdoor balcony or patio.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Wooden deck tiles
+   - White decorative stones
+   - Red chair
+   - Red container with items inside
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 170: 0:03:42
+----------------------------------------
+Activity: The scene shows a quiet, unoccupied space.
+Location: Indoor, likely a small balcony or sunroom.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a quiet, unoccupied space.
+2. **Location**: Indoor, likely a small balcony or sunroom.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Folding chair, exercise ball, wooden floor tiles, sheer curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 171: 0:03:43
+----------------------------------------
+Activity: The scene appears to be a setup for a home workout or relaxation area.
+Location: Indoor, likely a home or apartment space with a focus on exercise or leisure.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a setup for a home workout or relaxation area.
+2. **Location**: Indoor, likely a home or apartment space with a focus on exercise or leisure.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Exercise ball, yoga mat, shelving with workout equipment, potted plant, sheer curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 172: 0:03:44
+----------------------------------------
+Activity: The scene shows a home workout or relaxation space.
+Location: Indoor, likely a home gym or personal exercise area.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a home workout or relaxation space.
+2. **Location**: Indoor, likely a home gym or personal exercise area.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Exercise ball, yoga mat, kettlebell, potted plant, storage shelf.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 173: 0:03:45
+----------------------------------------
+Activity: The scene shows a home workout space setup.
+Location: Indoor, likely a home gym or exercise area.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a home workout space setup.
+2. **Location**: Indoor, likely a home gym or exercise area.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Exercise ball, yoga mat, shelving unit with plants and workout equipment, patterned chair, brick wall.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 174: 0:03:46
+----------------------------------------
+Activity: The scene shows a home workout or fitness area setup.
+Location: Indoor, likely a home gym or personal exercise space.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a home workout or fitness area setup.
+2. **Location**: Indoor, likely a home gym or personal exercise space.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Exercise ball, yoga mats, kettlebell, potted plant, shelving unit.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 175: 0:03:47
+----------------------------------------
+Activity: The scene shows a setup for relaxation or exercise.
+Location: Indoor, possibly a home balcony or sunroom.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a setup for relaxation or exercise.
+2. **Location**: Indoor, possibly a home balcony or sunroom.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Folding chair, exercise ball, shelving unit with plants and workout equipment, yoga mats.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 176: 0:03:48
+----------------------------------------
+Activity: The scene appears to be a setup or arrangement of a home workout or relaxation area.
+Location: Indoor, likely a home or apartment space.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a setup or arrangement of a home workout or relaxation area.
+2. **Location**: Indoor, likely a home or apartment space.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Exercise ball, folding chair, shelving unit with various items, wooden floor tiles, sheer curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 177: 0:03:49
+----------------------------------------
+Activity: The scene appears to show a quiet indoor space, possibly set up for relaxation or exercise.
+Location: Indoor, likely a home or personal gym area.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to show a quiet indoor space, possibly set up for relaxation or exercise.
+2. **Location**: Indoor, likely a home or personal gym area.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Brick wall, large plant, shelving unit with exercise equipment, white curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 178: 0:03:50
+----------------------------------------
+Activity: The scene appears to be a setup or showcase of a home gym area.
+Location: Indoor, likely a home gym or workout space.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a setup or showcase of a home gym area.
+2. **Location**: Indoor, likely a home gym or workout space.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: Exercise equipment (kettlebell, yoga mat, exercise ball), brick wall, potted plant, sheer curtains.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 179: 0:03:51
+----------------------------------------
+Activity: The scene appears to be a setup for a home workout or relaxation area.
+Location: Indoor, likely a home gym or personal exercise space.
+Mood: Calm and organized.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a setup for a home workout or relaxation area.
+2. **Location**: Indoor, likely a home gym or personal exercise space.
+3. **Mood**: Calm and organized.
+4. **Key Elements**: 
+   - Yoga mats
+   - Potted plant
+   - Kettlebell
+   - Resistance bands
+   - Brick wall
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 180: 0:03:52
+----------------------------------------
+Activity: The scene appears to be a setup or decoration display.
+Location: Indoor, likely a living room or similar space.
+Mood: Calm and cozy.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene appears to be a setup or decoration display.
+2. **Location**: Indoor, likely a living room or similar space.
+3. **Mood**: Calm and cozy.
+4. **Key Elements**: Large green plant, brick wall, wooden shelf, lantern, bottle.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 181: 0:03:53
+----------------------------------------
+Activity: The scene appears to involve a conversation or narration, possibly with someone off-screen.
+Location: Indoor setting, likely a room with curtains.
+Mood: Calm and intimate.
+Type: Dialogue or narration.
+
+Full Analysis:
+1. **Activity**: The scene appears to involve a conversation or narration, possibly with someone off-screen.
+2. **Location**: Indoor setting, likely a room with curtains.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: 
+   - Sheer curtains
+   - A dark cylindrical object (possibly a furniture piece or decor)
+   - Subtitles in Korean
+5. **Scene Type**: Dialogue or narration.
+
+============================================================
+
+Scene 182: 0:03:54
+----------------------------------------
+Activity: The scene shows a close-up of a lace curtain.
+Location: Indoor, likely in a home or cozy setting.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene shows a close-up of a lace curtain.
+2. **Location**: Indoor, likely in a home or cozy setting.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: Lace curtain, light filtering through, intricate patterns.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 183: 0:03:55
+----------------------------------------
+Activity: A person is standing or moving slightly, possibly preparing to walk.
+Location: Indoor, likely a home or apartment with wooden flooring.
+Mood: Calm and relaxed.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is standing or moving slightly, possibly preparing to walk.
+2. **Location**: Indoor, likely a home or apartment with wooden flooring.
+3. **Mood**: Calm and relaxed.
+4. **Key Elements**: Wooden floor tiles, bare feet, a knitted blanket or fabric, a textured object (possibly a pouf or cushion).
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 184: 0:03:56
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly explaining or discussing something.
+Location: Indoor, likely a home or casual setting with a brick wall and plants.
+Mood: Calm and casual.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly explaining or discussing something.
+2. **Location**: Indoor, likely a home or casual setting with a brick wall and plants.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Person speaking, brick wall, potted plants, shelving with various items, text overlay.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 185: 0:03:59
+----------------------------------------
+Activity: A person is speaking, possibly engaged in a conversation or monologue.
+Location: Outdoor setting, likely a patio or balcony.
+Mood: Relaxed and casual.
+Type: Dialogue
+
+Full Analysis:
+1. **Activity**: A person is speaking, possibly engaged in a conversation or monologue.
+2. **Location**: Outdoor setting, likely a patio or balcony.
+3. **Mood**: Relaxed and casual.
+4. **Key Elements**: 
+   - Person speaking
+   - Brick wall
+   - Potted plant
+   - Shelving with various items (kettlebell, bottle, lamp)
+5. **Scene Type**: Dialogue
+
+============================================================
+
+Scene 186: 0:04:01
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or video message.
+Location: Outdoor setting, likely a patio or balcony area.
+Mood: Calm and casual.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or video message.
+2. **Location**: Outdoor setting, likely a patio or balcony area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Person sitting and speaking
+   - Brick wall background
+   - Large green plant
+   - Shelving with various items
+   - Text overlay at the bottom
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 187: 0:09:39
+----------------------------------------
+Activity: A person is speaking directly to the camera, possibly recording a vlog or an interview.
+Location: Outdoor setting, likely a patio or balcony area.
+Mood: Calm and casual.
+Type: Dialogue/monologue.
+
+Full Analysis:
+1. **Activity**: A person is speaking directly to the camera, possibly recording a vlog or an interview.
+2. **Location**: Outdoor setting, likely a patio or balcony area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: 
+   - Person seated and speaking
+   - Brick wall background
+   - Potted plant
+   - Shelving with various items
+   - Exercise equipment
+5. **Scene Type**: Dialogue/monologue.
+
+============================================================
+
+Scene 188: 0:10:43
+----------------------------------------
+Activity: A person is working on a laptop, possibly editing a video.
+Location: Indoor, likely a cozy cafe or home office.
+Mood: Calm and focused.
+Type: Work or study session.
+
+Full Analysis:
+1. **Activity**: A person is working on a laptop, possibly editing a video.
+2. **Location**: Indoor, likely a cozy cafe or home office.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Laptop, person, coffee cup, earphones, lamp.
+5. **Scene Type**: Work or study session.
+
+============================================================
+
+Scene 189: 0:10:44
+----------------------------------------
+Activity: Two people are working on laptops, possibly editing a video.
+Location: Indoor setting, likely a cozy office or home workspace.
+Mood: Focused and intimate.
+Type: Work session.
+
+Full Analysis:
+1. **Activity**: Two people are working on laptops, possibly editing a video.
+2. **Location**: Indoor setting, likely a cozy office or home workspace.
+3. **Mood**: Focused and intimate.
+4. **Key Elements**: Laptops, a person holding cables, a cup, and papers on the table.
+5. **Scene Type**: Work session.
+
+============================================================
+
+Scene 190: 0:10:45
+----------------------------------------
+Activity: Someone is working on video editing on a laptop.
+Location: Indoor, likely a home office or study area.
+Mood: Focused and productive.
+Type: Work/creative process.
+
+Full Analysis:
+1. **Activity**: Someone is working on video editing on a laptop.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Focused and productive.
+4. **Key Elements**: Laptop with editing software, a second laptop, a mouse, and papers with notes.
+5. **Scene Type**: Work/creative process.
+
+============================================================
+
+Scene 191: 0:10:46
+----------------------------------------
+Activity: A person is working on video editing on a laptop.
+Location: Indoor, likely a home or office setting.
+Mood: Focused and productive.
+Type: Work/creative process.
+
+Full Analysis:
+1. **Activity**: A person is working on video editing on a laptop.
+2. **Location**: Indoor, likely a home or office setting.
+3. **Mood**: Focused and productive.
+4. **Key Elements**: Laptop with video editing software, another laptop, a person handling cables, a mouse.
+5. **Scene Type**: Work/creative process.
+
+============================================================
+
+Scene 192: 0:10:47
+----------------------------------------
+Activity: A person is working on video editing on a laptop.
+Location: Indoor, likely a cozy workspace or home office.
+Mood: Focused and intimate.
+Type: Work/creative process.
+
+Full Analysis:
+1. **Activity**: A person is working on video editing on a laptop.
+2. **Location**: Indoor, likely a cozy workspace or home office.
+3. **Mood**: Focused and intimate.
+4. **Key Elements**: Laptop with video editing software, another laptop, a person, a mouse, and a cozy seating area.
+5. **Scene Type**: Work/creative process.
+
+============================================================
+
+Scene 193: 0:10:48
+----------------------------------------
+Activity: A person is working on video editing on a laptop.
+Location: Indoor, likely a home office or study area.
+Mood: Focused and productive.
+Type: Work/Study session.
+
+Full Analysis:
+1. **Activity**: A person is working on video editing on a laptop.
+2. **Location**: Indoor, likely a home office or study area.
+3. **Mood**: Focused and productive.
+4. **Key Elements**: Laptop with video editing software, another laptop, a mouse, papers, and a cup.
+5. **Scene Type**: Work/Study session.
+
+============================================================
+
+Scene 194: 0:10:49
+----------------------------------------
+Activity: A person is looking at a refrigerator, possibly deciding what to take or checking its contents.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and casual.
+Type: Everyday life moment.
+
+Full Analysis:
+1. **Activity**: A person is looking at a refrigerator, possibly deciding what to take or checking its contents.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Red refrigerator with magnets and notes, person wearing a mask, hanging light fixture, table with items.
+5. **Scene Type**: Everyday life moment.
+
+============================================================
+
+Scene 195: 0:10:50
+----------------------------------------
+Activity: A person is examining or interacting with a refrigerator.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and casual.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is examining or interacting with a refrigerator.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Red refrigerator, person wearing a mask, colorful magnets or markers, hanging light fixture.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 196: 0:10:51
+----------------------------------------
+Activity: A person is looking at a refrigerator, possibly reading or contemplating something on it.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and contemplative.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is looking at a refrigerator, possibly reading or contemplating something on it.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: Red refrigerator with magnets and photos, person wearing a mask, blue hanging lamp, yellow walls.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 197: 0:10:52
+----------------------------------------
+Activity: A woman is standing in front of a refrigerator, seemingly contemplating or reading something.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and contemplative.
+Type: Dialogue or contemplation.
+
+Full Analysis:
+1. **Activity**: A woman is standing in front of a refrigerator, seemingly contemplating or reading something.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and contemplative.
+4. **Key Elements**: 
+   - Woman wearing a mask
+   - Red refrigerator with magnets and photos
+   - Blue hanging lamp
+   - Text overlay in Korean
+5. **Scene Type**: Dialogue or contemplation.
+
+============================================================
+
+Scene 198: 0:10:53
+----------------------------------------
+Activity: A person is interacting with items on a refrigerator, possibly arranging or examining them.
+Location: Indoor, likely in a kitchen or living area.
+Mood: Calm and focused.
+Type: Everyday interaction.
+
+Full Analysis:
+1. **Activity**: A person is interacting with items on a refrigerator, possibly arranging or examining them.
+2. **Location**: Indoor, likely in a kitchen or living area.
+3. **Mood**: Calm and focused.
+4. **Key Elements**: Red refrigerator, colorful markers, a person wearing a mask, decorative lamp, wall decorations.
+5. **Scene Type**: Everyday interaction.
+
+============================================================
+
+Scene 199: 0:10:54
+----------------------------------------
+Activity: A person is standing near a refrigerator, holding a marker.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Casual and relaxed.
+Type: Dialogue or interaction.
+
+Full Analysis:
+1. **Activity**: A person is standing near a refrigerator, holding a marker.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Casual and relaxed.
+4. **Key Elements**: Red refrigerator, markers on the fridge, person wearing a mask, hanging light fixture, yellow wall.
+5. **Scene Type**: Dialogue or interaction.
+
+============================================================
+
+Scene 200: 0:10:55
+----------------------------------------
+Activity: A person is looking at or interacting with items on a refrigerator.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and casual.
+Type: Interaction.
+
+Full Analysis:
+1. **Activity**: A person is looking at or interacting with items on a refrigerator.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Refrigerator with markers and notes, a person wearing a mask, a hanging light fixture, a poster on the fridge.
+5. **Scene Type**: Interaction.
+
+============================================================
+
+Scene 201: 0:10:56
+----------------------------------------
+Activity: A person is interacting with items on a refrigerator, possibly organizing or looking at notes.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and casual.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is interacting with items on a refrigerator, possibly organizing or looking at notes.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Red refrigerator, colorful markers, a person wearing a mask, a hanging light fixture, wall decorations.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 202: 0:10:57
+----------------------------------------
+Activity: A person is standing near a refrigerator, possibly interacting with it or someone off-camera.
+Location: Indoor, likely a kitchen or dining area.
+Mood: Calm and casual.
+Type: Dialogue or casual interaction.
+
+Full Analysis:
+1. **Activity**: A person is standing near a refrigerator, possibly interacting with it or someone off-camera.
+2. **Location**: Indoor, likely a kitchen or dining area.
+3. **Mood**: Calm and casual.
+4. **Key Elements**: Red refrigerator with magnets, person wearing a mask, hanging blue lantern, wall decorations.
+5. **Scene Type**: Dialogue or casual interaction.
+
+============================================================
+
+Scene 203: 0:10:58
+----------------------------------------
+Activity: A person is walking down a dimly lit street, possibly talking on the phone.
+Location: Outdoor, in a residential area at night.
+Mood: Calm and slightly mysterious.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is walking down a dimly lit street, possibly talking on the phone.
+2. **Location**: Outdoor, in a residential area at night.
+3. **Mood**: Calm and slightly mysterious.
+4. **Key Elements**: Person with a large bag, streetlight, parked cars, narrow street.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 204: 0:10:59
+----------------------------------------
+Activity: A person is walking down a dimly lit street at night.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and slightly mysterious.
+Type: Transition.
+
+Full Analysis:
+1. **Activity**: A person is walking down a dimly lit street at night.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and slightly mysterious.
+4. **Key Elements**: Street lamp, parked cars, person with a large bag, narrow street.
+5. **Scene Type**: Transition.
+
+============================================================
+
+Scene 205: 0:11:04
+----------------------------------------
+Activity: A person is standing in the street with arms outstretched, possibly posing or expressing excitement.
+Location: Outdoor, in a residential street at night.
+Mood: The atmosphere is lively and playful.
+Type: Candid moment.
+
+Full Analysis:
+1. **Activity**: A person is standing in the street with arms outstretched, possibly posing or expressing excitement.
+2. **Location**: Outdoor, in a residential street at night.
+3. **Mood**: The atmosphere is lively and playful.
+4. **Key Elements**: 
+   - Person with arms outstretched
+   - Street lighting
+   - Residential buildings
+   - Another person in the background
+   - Text overlay in Korean
+5. **Scene Type**: Candid moment.
+
+============================================================
+
+Scene 206: 0:11:08
+----------------------------------------
+Activity: A person is walking down a dimly lit street at night, possibly engaging in conversation.
+Location: Outdoor, in a residential neighborhood.
+Mood: Calm and intimate.
+Type: Dialogue.
+
+Full Analysis:
+1. **Activity**: A person is walking down a dimly lit street at night, possibly engaging in conversation.
+2. **Location**: Outdoor, in a residential neighborhood.
+3. **Mood**: Calm and intimate.
+4. **Key Elements**: Streetlight, person wearing a mask, large handbag, parked cars, residential buildings.
+5. **Scene Type**: Dialogue.
+
+============================================================
+
+Scene 207: 0:11:17
+----------------------------------------
+Activity: A person is walking down a dimly lit street.
+Location: Outdoor, in an urban alley or narrow street.
+Mood: Calm and slightly mysterious.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: A person is walking down a dimly lit street.
+2. **Location**: Outdoor, in an urban alley or narrow street.
+3. **Mood**: Calm and slightly mysterious.
+4. **Key Elements**: Streetlights, parked cars, a person walking, buildings, Korean text overlay.
+5. **Scene Type**: Establishing shot.
+
+============================================================
+
+Scene 208: 0:11:18
+----------------------------------------
+Activity: The scene captures a view of a cityscape with a prominent tower in the background.
+Location: Outdoor, urban area with buildings and a tower, likely a city street.
+Mood: Calm and serene.
+Type: Establishing shot.
+
+Full Analysis:
+1. **Activity**: The scene captures a view of a cityscape with a prominent tower in the background.
+2. **Location**: Outdoor, urban area with buildings and a tower, likely a city street.
+3. **Mood**: Calm and serene.
+4. **Key Elements**: 
+   - Tower in the background
+   - Urban buildings
+   - Power lines
+   - Hills with trees
+   - Text overlay ("my 184")
+5. **Scene Type**: Establishing shot.
+
+============================================================
+

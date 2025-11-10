@@ -1,0 +1,163 @@
+{
+  "template_name": "Casual Office and Daily Life Vlog",
+  "category": "daily_routine",
+  "structure": {
+    "opening": {
+      "duration_seconds": 10,
+      "description": "The vlog starts with a person taking a mirror selfie, waving at the camera, and providing a brief personal update.",
+      "key_elements": [
+        "mirror selfie",
+        "personal update",
+        "casual mood"
+      ]
+    },
+    "body": {
+      "duration_seconds": 730,
+      "description": "The main content of the vlog covers various daily activities, including office work, food preparation, personal grooming, and casual interactions.",
+      "segments": [
+        {
+          "type": "Personal Grooming",
+          "description": "A person is applying makeup and styling their hair in a bedroom or dressing room.",
+          "typical_duration": 15,
+          "scene_activity": "Applying makeup and styling hair",
+          "location": "Indoor, bedroom or dressing room",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "Office Work",
+          "description": "Scenes showing a person working on a computer, reviewing code, and participating in office meetings.",
+          "typical_duration": 180,
+          "scene_activity": "Working on computer, reviewing code",
+          "location": "Indoor office setting",
+          "mood": "Focused and professional"
+        },
+        {
+          "type": "Outdoor Interaction",
+          "description": "People walking outdoors, engaging in casual conversation or vlogging.",
+          "typical_duration": 20,
+          "scene_activity": "Walking and talking",
+          "location": "Outdoor, urban area",
+          "mood": "Casual and relaxed"
+        },
+        {
+          "type": "Food Preparation",
+          "description": "A person preparing ingredients and cooking in a kitchen.",
+          "typical_duration": 30,
+          "scene_activity": "Preparing ingredients and cooking",
+          "location": "Indoor kitchen",
+          "mood": "Calm and focused"
+        },
+        {
+          "type": "Dining Scene",
+          "description": "A person enjoying a meal and toasting with a drink.",
+          "typical_duration": 25,
+          "scene_activity": "Eating and toasting",
+          "location": "Indoor, kitchen or dining area",
+          "mood": "Relaxed and intimate"
+        },
+        {
+          "type": "Shopping Sequence",
+          "description": "A person shopping in a convenience store, selecting and purchasing items.",
+          "typical_duration": 20,
+          "scene_activity": "Shopping and purchasing",
+          "location": "Indoor, convenience store",
+          "mood": "Casual and routine"
+        },
+        {
+          "type": "Pet Interaction",
+          "description": "Scenes featuring a cat interacting with the environment and receiving attention.",
+          "typical_duration": 15,
+          "scene_activity": "Cat interacting and being fed",
+          "location": "Indoor, living or dining area",
+          "mood": "Calm and domestic"
+        },
+        {
+          "type": "Exercise Scene",
+          "description": "A person exercising on a stationary bike in a home setting.",
+          "typical_duration": 20,
+          "scene_activity": "Exercising on stationary bike",
+          "location": "Indoor, home gym area",
+          "mood": "Energetic and focused"
+        },
+        {
+          "type": "Social Interaction",
+          "description": "A group of people gathered in an office setting for a meeting or introduction.",
+          "typical_duration": 30,
+          "scene_activity": "Meeting and introduction",
+          "location": "Indoor office setting",
+          "mood": "Professional and welcoming"
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 20,
+      "description": "The vlog ends with a person waving goodbye to the camera in a cheerful manner.",
+      "key_elements": [
+        "farewell wave",
+        "cheerful mood",
+        "personal touch"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#1c191a",
+      "#bfc0b2",
+      "#908d85"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Medium",
+    "average_shot_length": 2.7,
+    "scene_changes": 284,
+    "camera_work": [
+      "handheld",
+      "static shots"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 3,
+    "social": 4,
+    "content_focus": 4,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational and personal",
+      "content_type": "Sharing daily activities and thoughts"
+    },
+    "onscreen_text": {
+      "presence": "Moderate",
+      "style": "Minimalist captions",
+      "content_type": "Contextual information and timestamps"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Personal Updates",
+      "description": "Frequent personal updates and reflections throughout the vlog.",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Casual Interactions",
+      "description": "Casual interactions with people and pets, providing a relaxed atmosphere.",
+      "frequency": "Frequent"
+    }
+  ],
+  "recommended_use_cases": [
+    "Daily routine sharing",
+    "Office life documentation"
+  ]
+}

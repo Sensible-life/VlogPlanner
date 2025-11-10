@@ -1,0 +1,114 @@
+{
+  "template_name": "Conversational Travel Vlog",
+  "category": "travel",
+  "structure": {
+    "opening": {
+      "duration_seconds": 60,
+      "description": "Introduction to the travel destination and initial impressions",
+      "key_elements": [
+        "greeting",
+        "destination introduction"
+      ]
+    },
+    "body": {
+      "duration_seconds": 1423,
+      "description": "Exploration of various locations and experiences in the travel destination",
+      "segments": [
+        {
+          "type": "location exploration",
+          "description": "Visiting and describing different tourist spots",
+          "typical_duration": 300
+        },
+        {
+          "type": "food experience",
+          "description": "Trying local food and sharing opinions",
+          "typical_duration": 200
+        },
+        {
+          "type": "personal reflection",
+          "description": "Sharing personal thoughts and reflections on the experience",
+          "typical_duration": 180
+        },
+        {
+          "type": "cultural insight",
+          "description": "Discussing cultural aspects and historical insights",
+          "typical_duration": 150
+        },
+        {
+          "type": "shopping and souvenirs",
+          "description": "Shopping experiences and buying souvenirs",
+          "typical_duration": 120
+        }
+      ]
+    },
+    "closing": {
+      "duration_seconds": 60,
+      "description": "Wrapping up the travel experience and saying goodbye",
+      "key_elements": [
+        "farewell",
+        "final thoughts"
+      ]
+    }
+  },
+  "visual_signature": {
+    "color_palette": [
+      "#685956",
+      "#b4aaa6",
+      "#342b30"
+    ],
+    "brightness": "Medium",
+    "brightness_trend": "Stable",
+    "pacing": "Fast",
+    "average_shot_length": 1.7,
+    "scene_changes": 931,
+    "camera_work": [
+      "handheld shots",
+      "close-ups"
+    ]
+  },
+  "audio_signature": {
+    "music_prominence": "Low",
+    "speech_prominence": "Medium",
+    "ambient_prominence": "Low",
+    "mood": "Conversational",
+    "music_ratio": 0.3,
+    "speech_ratio": 0.6,
+    "ambient_ratio": 0.1
+  },
+  "emotion_tone": {
+    "brightness": 3,
+    "energy": 2,
+    "social": 4,
+    "content_focus": 3,
+    "environment": 3
+  },
+  "narration_style": {
+    "voice_dialogue": {
+      "presence": "Frequent",
+      "style": "Conversational",
+      "content_type": "Explaining and sharing experiences"
+    },
+    "onscreen_text": {
+      "presence": "Minimal",
+      "style": "Minimalist captions",
+      "content_type": "Emotional descriptions"
+    },
+    "primary_communication": "Voice"
+  },
+  "key_patterns": [
+    {
+      "pattern_name": "Frequent Scene Changes",
+      "description": "Quick transitions between different scenes and locations",
+      "frequency": "Frequent"
+    },
+    {
+      "pattern_name": "Conversational Speech",
+      "description": "Casual and engaging dialogue throughout the vlog",
+      "frequency": "Constant"
+    }
+  ],
+  "recommended_use_cases": [
+    "Travel documentation",
+    "Cultural exploration"
+  ]
+}

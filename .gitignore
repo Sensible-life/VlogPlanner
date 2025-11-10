@@ -47,6 +47,9 @@ app.*.map.json
 # Generated response files
 responses/
 
+# Template extraction data (contains large video/media files and outputs)
+template_extract/
+
 # Environment variables (API keys)
 .env
 assets/.env

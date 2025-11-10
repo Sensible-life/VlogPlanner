@@ -3,7 +3,20 @@ import '../../../constants/app_colors.dart';
 import '../../../constants/app_styles.dart';
 
 class EnvironmentTab extends StatefulWidget {
-  const EnvironmentTab({super.key});
+  final Function(String)? onEquipmentChanged;
+  final Function(String)? onTimeWeatherChanged;
+  final Function(String)? onDifficultyChanged;
+  final Function(String, String)? onInputChanged;  // key, value 형태
+  final Map<String, String>? initialValues;  // 초기값 전달
+
+  const EnvironmentTab({
+    super.key,
+    this.onEquipmentChanged,
+    this.onTimeWeatherChanged,
+    this.onDifficultyChanged,
+    this.onInputChanged,
+    this.initialValues,
+  });
 
   @override
   State<EnvironmentTab> createState() => _EnvironmentTabState();
@@ -18,6 +31,77 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
   
   String _selectedEquipment = '스마트폰';
   String _selectedLevel = '입문';
+
+  @override
+  void initState() {
+    super.initState();
+    
+    // 초기값 설정
+    if (widget.initialValues != null) {
+      _timeWeatherController.text = widget.initialValues!['time_weather'] ?? '';
+      _crewCountController.text = widget.initialValues!['people'] ?? '';
+      _restrictionsController.text = widget.initialValues!['restrictions'] ?? '';
+      _memoController.text = widget.initialValues!['memo'] ?? '';
+      
+      // equipment 값 복원
+      final equipment = widget.initialValues!['equipment'];
+      if (equipment != null && equipment.isNotEmpty) {
+        if (['smartphone', '액션캠', 'DSLR/미러리스', '짐벌'].contains(equipment) || 
+            ['스마트폰', '액션캠', 'DSLR/미러리스', '짐벌'].contains(equipment)) {
+          _selectedEquipment = equipment;
+        } else {
+          _selectedEquipment = '기타';
+          _customEquipmentController.text = equipment;
+        }
+      }
+      
+      // difficulty 값 복원
+      final difficulty = widget.initialValues!['difficulty'];
+      if (difficulty != null) {
+        switch (difficulty) {
+          case 'novice':
+            _selectedLevel = '입문';
+            break;
+          case 'intermediate':
+            _selectedLevel = '중급';
+            break;
+          case 'advanced':
+            _selectedLevel = '고급';
+            break;
+        }
+      }
+    }
+    
+    // 초기 선택값 콜백 호출
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      widget.onEquipmentChanged?.call(_selectedEquipment);
+      widget.onDifficultyChanged?.call('novice'); // 입문 = novice
+    });
+
+    // time_weather TextField에 리스너 추가
+    _timeWeatherController.addListener(() {
+      if (_timeWeatherController.text.isNotEmpty) {
+        widget.onTimeWeatherChanged?.call(_timeWeatherController.text);
+      }
+    });
+    // 커스텀 장비 TextField에 리스너 추가
+    _customEquipmentController.addListener(() {
+      if (_selectedEquipment == '기타' && _customEquipmentController.text.isNotEmpty) {
+        widget.onEquipmentChanged?.call(_customEquipmentController.text);
+      }
+    });
+    
+    // crew_count, restrictions, memo TextField에 리스너 추가
+    _crewCountController.addListener(() {
+      widget.onInputChanged?.call('crew_count', _crewCountController.text);
+    });
+    _restrictionsController.addListener(() {
+      widget.onInputChanged?.call('restrictions', _restrictionsController.text);
+    });
+    _memoController.addListener(() {
+      widget.onInputChanged?.call('memo', _memoController.text);
+    });
+  }
 
   @override
   void dispose() {
@@ -35,7 +119,7 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
       children: [
         Icon(
           icon,
-          color: AppColors.white,
+          color: AppColors.primary,
           size: 24,
         ),
         const SizedBox(width: 8),
@@ -72,7 +156,7 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
         hintText: hintText,
         hintStyle: TextStyle(color: AppColors.textSecondary),
         filled: true,
-        fillColor: AppColors.cardBackground,
+        fillColor: AppColors.lightGrey,
         isDense: true,  // 기본 높이 제약 제거
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(13),
@@ -101,7 +185,7 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
       child: Container(
         padding: const EdgeInsets.symmetric(vertical: 10),
         decoration: BoxDecoration(
-          color: isSelected ? AppColors.primary : AppColors.cardBackground,
+          color: isSelected ? AppColors.primary : AppColors.lightGrey,
           borderRadius: BorderRadius.circular(13),
         ),
         child: Center(
@@ -146,12 +230,14 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
                       Expanded(
                         child: _buildOption('스마트폰', _selectedEquipment, (value) {
                           setState(() => _selectedEquipment = value);
+                          widget.onEquipmentChanged?.call(value);
                         }),
                       ),
                       const SizedBox(width: 8),
                       Expanded(
                         child: _buildOption('고프로', _selectedEquipment, (value) {
                           setState(() => _selectedEquipment = value);
+                          widget.onEquipmentChanged?.call(value);
                         }),
                       ),
                       const SizedBox(width: 8),
@@ -176,18 +262,21 @@ class _EnvironmentTabState extends State<EnvironmentTab> {
                       Expanded(
                         child: _buildOption('입문', _selectedLevel, (value) {
                           setState(() => _selectedLevel = value);
+                          widget.onDifficultyChanged?.call('novice');
                         }),
                       ),
                       const SizedBox(width: 8),
                       Expanded(
                         child: _buildOption('숙련', _selectedLevel, (value) {
                           setState(() => _selectedLevel = value);
+                          widget.onDifficultyChanged?.call('intermediate');
                         }),
                       ),
                       const SizedBox(width: 8),
                       Expanded(
                         child: _buildOption('전문가', _selectedLevel, (value) {
                           setState(() => _selectedLevel = value);
+                          widget.onDifficultyChanged?.call('expert');
                         }),
                       ),
                     ],

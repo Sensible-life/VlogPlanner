@@ -1,0 +1,191 @@
+{
+  "template_name": "Casual Daily Vlog with Study and Food Focus",
+  "category": "daily_routine",
+  "metadata": {
+    "total_segments": 9,
+    "voice_segments": 52,
+    "screen_segments": 37,
+    "scene_count": 417,
+    "original_segments": 163
+  },
+  "template_info": {
+    "visual_signature": {
+      "color_palette": [
+        "#938373",
+        "#28211e",
+        "#e3dfd6"
+      ],
+      "brightness": "Medium",
+      "brightness_trend": "Stable",
+      "pacing": "Fast",
+      "average_shot_length": 1.8,
+      "scene_changes": 417,
+      "camera_work": [
+        "handheld",
+        "static shots"
+      ]
+    },
+    "audio_signature": {
+      "music_prominence": "Low",
+      "speech_prominence": "Medium",
+      "ambient_prominence": "Low",
+      "mood": "Conversational",
+      "music_ratio": 0.3,
+      "speech_ratio": 0.6,
+      "ambient_ratio": 0.1
+    },
+    "emotion_tone": {
+      "brightness": 3,
+      "energy": 2,
+      "social": 4,
+      "content_focus": 4,
+      "environment": 3
+    }
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "start_timestamp": "[00:00:00]",
+      "end_timestamp": "[00:04:21]",
+      "start_seconds": 0.0,
+      "end_seconds": 261.0,
+      "duration_seconds": 261.0,
+      "dialogue_count": 10,
+      "content": "고마워 이번 ae 대학생을 볼 수 있습니다 ^^ 커피 내려마시는거 | 커피는 남이 타주는게 젤 ~ 전 사약을 주문한 적이 REAL 님께 맞아요 ~ 시사 열심히 희의도 하고 ~? 이날이 첫 새벽공부 스타트라 넘모 졸렸다네요 금 장문 심폐소생하고 있어 그제 다음 수업까지 시간이 떠서 1 서",
+      "has_voice": true,
+      "has_screen": true,
+      "activity": "A person is taking a selfie or recording themselves in a mirror.",
+      "location": "Indoor, likely a bedroom or study area.",
+      "mood": "Casual and playful.",
+      "scene_type": "Selfie/Personal moment."
+    },
+    {
+      "scene_id": 2,
+      "start_timestamp": "[00:04:27]",
+      "end_timestamp": "[00:06:21]",
+      "start_seconds": 267.0,
+      "end_seconds": 381.0,
+      "duration_seconds": 114.0,
+      "dialogue_count": 10,
+      "content": "나만의 강의실을 삼만리 생각해보니 저 혼자라 영상 맘대로 야호 ~ 그 이후로 제 블리틴반히지어 도비 중독이 HEA. 한 잔 마시면 또 한 잔 먹고싶어져요 한단원만 더 보고 조금 놈 강하고 공부하려니까 쉽지많네 학교에서 밤새고 시험 봐 이해해보려고 하는데 이개 점 내 힘들다 근데 순식간에 제주가 짐대로 와버렸습니다 너무 느좋임",
+      "has_voice": false,
+      "has_screen": true,
+      "activity": "The scene shows someone walking, possibly holding a drink.",
+      "location": "Indoor, likely a hallway or corridor.",
+      "mood": "Casual and mundane.",
+      "scene_type": "Transition."
+    },
+    {
+      "scene_id": 3,
+      "start_timestamp": "[00:06:51]",
+      "end_timestamp": "[00:09:51]",
+      "start_seconds": 411.0,
+      "end_seconds": 591.0,
+      "duration_seconds": 180.0,
+      "dialogue_count": 10,
+      "content": "엘베보다 계단으로 내려가는게 더 빨라웃 킹받는건 청와옥 재료소진으로 못가고 딴데 왔어요. 99%아 먹은 순대국밥이 담날까지 소화가 안돼서 베이비 퍼글러인데 너무 기엽피요 추울까봐 파우치 안에 넣어줬어용 ㅎㅎ 오늘은 출근데이                             ： 주워졌다길래 준비 단디했어요 ㅋ                   ： 프로틴쉐이크 타먹클라고 1410) yee 정리하자니 Al Ajo Oy 이번엔 정리 인해볼라거여 ^^ 오늘의 메뉴는 김 ~ERANASLICH~ ~",
+      "has_voice": false,
+      "has_screen": true,
+      "activity": "A person is walking down a staircase.",
+      "location": "Indoor, on a staircase.",
+      "mood": "Casual and relaxed.",
+      "scene_type": "Transition."
+    },
+    {
+      "scene_id": 4,
+      "start_timestamp": "[00:10:00]",
+      "end_timestamp": "[00:00:18.220 --> 00:00:26.240]",
+      "start_seconds": 600.0,
+      "end_seconds": 0.0,
+      "duration_seconds": -600.0,
+      "dialogue_count": 10,
+      "content": "그리 이거 먹고 4시간도 안대서 또 배고파짐 . 근데 AAFSAO SS t 많이 찍어서 애들이 이제 별 생각안하는 것 같아요.. 나머지는 마라탕먹고 집가서 할게 그거 2년전 공부할때 공부가 안된다 그래도 어떻게 해석하는지만 앨뻔나름 시험기간이 내 Bat 기다러줘서 고마모 vy noodles 새우",
+      "has_voice": true,
+      "has_screen": true,
+      "activity": "The scene shows the aftermath of a meal, with empty dishes on a tray.",
+      "location": "Indoor, likely in a cafeteria or casual dining setting.",
+      "mood": "Calm and mundane, suggesting the end of a meal.",
+      "scene_type": "Food closeup."
+    },
+    {
+      "scene_id": 5,
+      "start_timestamp": "[00:00:30.000 --> 00:00:34.300]",
+      "end_timestamp": "[00:01:31.660]",
+      "start_seconds": 0.0,
+      "end_seconds": 91.66,
+      "duration_seconds": 91.66,
+      "dialogue_count": 10,
+      "content": "poner 계란, 소금,ет 미 convolution 마 популяр을 또는 만난중 반 These friends are currently a little different 뼈에 �ò��소려 다 먹다 보니 그 돈 바Really세요 우와 이따 회의가 있어서 지금 집이 티한테 아이디어를 물어봤는데 이렇게",
+      "has_voice": true,
+      "has_screen": false,
+      "activity": "A person is taking a selfie or recording themselves in a mirror.",
+      "location": "Indoor, likely a bedroom or study area.",
+      "mood": "Casual and playful.",
+      "scene_type": "Selfie/Personal moment."
+    },
+    {
+      "scene_id": 6,
+      "start_timestamp": "[00:01:54.660]",
+      "end_timestamp": "[00:04:45.280]",
+      "start_seconds": 114.66,
+      "end_seconds": 285.28,
+      "duration_seconds": 170.61999999999998,
+      "dialogue_count": 10,
+      "content": "아이디어를 물어봤는데, 얘가 그렇게 썩 좋은 아이디어를 주진 않네요. 근데 아이디어가 더 그리워 이거 노정인데, 노가정은 파이팅을 하는 것 같습니다 노이가 이랑한테 깨웠던 꺼낸 다 본 적 있어. 고마워 Eve 차로 갑시다 But I was a little bit dumb, 너무 좋아 ам 아이사가 안 thermal 2년에 저희 embr feet 느낌을 좀 못 comp Reduce",
+      "has_voice": true,
+      "has_screen": false,
+      "activity": "A person is holding a tablet, possibly reviewing or comparing information on a split screen.",
+      "location": "Indoor, likely in a home or office setting.",
+      "mood": "Focused and contemplative.",
+      "scene_type": "Dialogue or information review."
+    },
+    {
+      "scene_id": 7,
+      "start_timestamp": "[00:05:13.460]",
+      "end_timestamp": "[00:06:44.060]",
+      "start_seconds": 313.46,
+      "end_seconds": 404.06,
+      "duration_seconds": 90.60000000000002,
+      "dialogue_count": 10,
+      "content": "맥주 고마워 불만맛 ıkt화 fun acho 막 EddyDo puppies' arkan mellow Gang대고싶so 가시쪽 10개 이번에는 시원하게",
+      "has_voice": true,
+      "has_screen": false,
+      "activity": "A person is writing or taking notes.",
+      "location": "Indoor, likely a café or study area.",
+      "mood": "Calm and focused.",
+      "scene_type": "Dialogue or study session."
+    },
+    {
+      "scene_id": 8,
+      "start_timestamp": "[00:07:05.860]",
+      "end_timestamp": "[00:09:34.320]",
+      "start_seconds": 425.86,
+      "end_seconds": 574.32,
+      "duration_seconds": 148.46000000000004,
+      "dialogue_count": 10,
+      "content": "maybe 얘들이 Millionth 옷 와~~ У신 솔리 보려 journals september animat embedded tsc 보내주 です nings 짭짤주 뛰어서 자, 턱! 어� Swami vielleicht sitzt? 나는 지금 이렇게xim은elcome 두 달 잘 Blog",
+      "has_voice": true,
+      "has_screen": false,
+      "activity": "A person is holding and examining a packaged item, possibly a toy or squishy.",
+      "location": "Indoor, likely in a store or market.",
+      "mood": "Curious and casual.",
+      "scene_type": "Shopping or browsing scene."
+    },
+    {
+      "scene_id": 9,
+      "start_timestamp": "[00:09:36.740]",
+      "end_timestamp": "[00:12:22.900 --> 00:12:25.100]",
+      "start_seconds": 576.74,
+      "end_seconds": 0.0,
+      "duration_seconds": -576.74,
+      "dialogue_count": 9,
+      "content": "오늘은 바로 타고 왜 하러 갈까 convenient 냅떡 들어오지 다음 Tucson education 급히는 제거고요 짐 toc도 있고 되게 멋있게 됐습니다 준비를 stealth 무�rest 10 doll 컬러를 보� benim 다시 공부를 시작하도록 하겠습니다. 집중을 뜨고 싶어서는입니다. 이걸 들으면 공부가 무조건 잘 됩니다. 이걸 더 좋아해요. 이게 진짜 고급 잘 돼. 너무 졸려요. Alzheimer. 약간 confined.",
+      "has_voice": true,
+      "has_screen": false,
+      "activity": "A person is picking up a packaged food item, possibly a dessert.",
+      "location": "Indoor, likely an office or home workspace.",
+      "mood": "Light-hearted and humorous.",
+      "scene_type": "Humorous moment."
+    }
+  ]
+}

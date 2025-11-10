@@ -3,7 +3,16 @@ import '../../../constants/app_colors.dart';
 import '../../../constants/app_styles.dart';
 
 class ConceptStyleTab extends StatefulWidget {
-  const ConceptStyleTab({super.key});
+  final Function(String)? onDurationChanged;
+  final Function(String, String)? onInputChanged;  // key, value 형태
+  final Map<String, String>? initialValues;  // 초기값 전달
+
+  const ConceptStyleTab({
+    super.key,
+    this.onDurationChanged,
+    this.onInputChanged,
+    this.initialValues,
+  });
 
   @override
   State<ConceptStyleTab> createState() => _ConceptStyleTabState();
@@ -15,6 +24,52 @@ class _ConceptStyleTabState extends State<ConceptStyleTab> {
   final TextEditingController _toneMannersController = TextEditingController();
   final TextEditingController _customDurationController = TextEditingController();
   String _selectedDuration = '5분';
+
+  @override
+  void initState() {
+    super.initState();
+    
+    // 초기값 설정
+    if (widget.initialValues != null) {
+      _subjectController.text = widget.initialValues!['subject'] ?? '';
+      _targetAudienceController.text = widget.initialValues!['target_audience'] ?? '';
+      _toneMannersController.text = widget.initialValues!['tone_manners'] ?? '';
+      
+      final duration = widget.initialValues!['target_duration'];
+      if (duration != null && duration.isNotEmpty) {
+        // duration 값에 따라 선택 상태 복원
+        if (['5', '8', '10', '15'].contains(duration)) {
+          _selectedDuration = '$duration분';
+        } else {
+          _selectedDuration = '기타';
+          _customDurationController.text = duration;
+        }
+      }
+    }
+    
+    // 초기 선택값 콜백 호출
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      widget.onDurationChanged?.call(_selectedDuration.replaceAll('분', ''));
+    });
+
+    // 커스텀 duration TextField에 리스너 추가
+    _customDurationController.addListener(() {
+      if (_selectedDuration == '기타' && _customDurationController.text.isNotEmpty) {
+        widget.onDurationChanged?.call(_customDurationController.text.replaceAll('분', ''));
+      }
+    });
+
+    // subject, target_audience, tone_manners TextField에 리스너 추가
+    _subjectController.addListener(() {
+      widget.onInputChanged?.call('subject', _subjectController.text);
+    });
+    _targetAudienceController.addListener(() {
+      widget.onInputChanged?.call('target_audience', _targetAudienceController.text);
+    });
+    _toneMannersController.addListener(() {
+      widget.onInputChanged?.call('tone_manners', _toneMannersController.text);
+    });
+  }
 
   @override
   void dispose() {
@@ -31,7 +86,7 @@ class _ConceptStyleTabState extends State<ConceptStyleTab> {
       children: [
         Icon(
           icon,
-          color: AppColors.white,
+          color: AppColors.primary,
           size: 24,
         ),
         const SizedBox(width: 8),
@@ -69,7 +124,7 @@ class _ConceptStyleTabState extends State<ConceptStyleTab> {
         hintText: hintText,
         hintStyle: TextStyle(color: AppColors.textSecondary),
         filled: true,
-        fillColor: AppColors.cardBackground,
+        fillColor: AppColors.lightGrey,
         isDense: true,  // 기본 높이 제약 제거
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(13),
@@ -98,11 +153,15 @@ class _ConceptStyleTabState extends State<ConceptStyleTab> {
         setState(() {
           _selectedDuration = duration;
         });
+        // 콜백 호출
+        if (duration != '기타') {
+          widget.onDurationChanged?.call(duration.replaceAll('분', ''));
+        }
       },
       child: Container(
         padding: const EdgeInsets.symmetric(vertical: 10),
         decoration: BoxDecoration(
-          color: isSelected ? AppColors.primary : AppColors.cardBackground,
+          color: isSelected ? AppColors.primary : AppColors.lightGrey,
           borderRadius: BorderRadius.circular(13),
         ),
         child: Center(
