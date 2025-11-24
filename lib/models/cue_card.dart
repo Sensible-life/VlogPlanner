@@ -12,12 +12,34 @@ class CueCard {
   final String tone;
   final String styleVibe;
   final String targetAudience;
-  final String script; // 간단한 대본
+  final String script; // 간단한 대본 (deprecated - shotComposition, shootingInstructions 사용)
   final CueCardPro? pro;
   final String rawMarkdown;
 
-  // 새로 추가된 필드
-  final String? thumbnailUrl; // 씬별 이미지 URL
+  // 새로운 촬영 정보 (리뉴얼)
+  final List<String> shotComposition; // 구도 정보 (예: "와이드샷으로 전체 풍경", "클로즈업으로 표정 강조")
+  final List<String> shootingInstructions; // 촬영 지시사항 (예: "천천히 패닝", "손떨림 주의")
+  final String? storyboardImageUrl; // 스토리보드 스타일 이미지 (졸라맨/연필스케치)
+  final String? referenceVideoUrl; // YouTube 레퍼런스 영상 URL
+  final int? referenceVideoTimestamp; // 레퍼런스 영상의 시작 시점 (초 단위)
+
+  // 씬 세부 정보
+  final String location; // 촬영 장소
+  final int cost; // 씬별 비용
+  final int peopleCount; // 씬별 촬영 인원
+  final int shootingTimeMin; // 예상 촬영 시간 (분)
+
+  // 하위 호환성
+  final String? thumbnailUrl; // 씬별 이미지 URL (deprecated - storyboardImageUrl 사용)
+
+  // 체크리스트 구도 이미지 (체크리스트 인덱스 -> 이미지 URL)
+  final Map<int, String>? compositionImages;
+
+  // 체크리스트 완료 상태 (완료된 항목의 인덱스 집합)
+  final Set<int>? checkedChecklistIndices;
+
+  // 대체 씬 ID (전체 스토리보드의 4개 대체 씬 중 하나와 매칭)
+  final String? alternativeSceneId;
 
   CueCard({
     required this.title,
@@ -36,8 +58,116 @@ class CueCard {
     this.script = '',
     this.pro,
     required this.rawMarkdown,
+    this.shotComposition = const [],
+    this.shootingInstructions = const [],
+    this.storyboardImageUrl,
+    this.referenceVideoUrl,
+    this.referenceVideoTimestamp,
+    this.location = '',
+    this.cost = 0,
+    this.peopleCount = 1,
+    this.shootingTimeMin = 30,
     this.thumbnailUrl,
+    this.compositionImages,
+    this.checkedChecklistIndices,
+    this.alternativeSceneId,
   });
+
+  // JSON 직렬화
+  Map<String, dynamic> toJson() {
+    return {
+      'title': title,
+      'allocated_sec': allocatedSec,
+      'trigger': trigger,
+      'summary': summary,
+      'steps': steps,
+      'checklist': checklist,
+      'fallback': fallback,
+      'start_hint': startHint,
+      'stop_hint': stopHint,
+      'completion_criteria': completionCriteria,
+      'tone': tone,
+      'style_vibe': styleVibe,
+      'target_audience': targetAudience,
+      'script': script,
+      'raw_markdown': rawMarkdown,
+      'shot_composition': shotComposition,
+      'shooting_instructions': shootingInstructions,
+      if (storyboardImageUrl != null) 'storyboard_image_url': storyboardImageUrl,
+      if (referenceVideoUrl != null) 'reference_video_url': referenceVideoUrl,
+      if (referenceVideoTimestamp != null) 'reference_video_timestamp': referenceVideoTimestamp,
+      'location': location,
+      'cost': cost,
+      'people_count': peopleCount,
+      'shooting_time_min': shootingTimeMin,
+      if (thumbnailUrl != null) 'thumbnail_url': thumbnailUrl,
+      if (compositionImages != null && compositionImages!.isNotEmpty)
+        'composition_images': compositionImages!.map((key, value) => MapEntry(key.toString(), value)),
+      if (checkedChecklistIndices != null && checkedChecklistIndices!.isNotEmpty)
+        'checked_checklist_indices': checkedChecklistIndices!.toList(),
+      if (pro != null) 'pro': pro!.toJson(),
+      if (alternativeSceneId != null) 'alternative_scene_id': alternativeSceneId,
+    };
+  }
+
+  // JSON 역직렬화
+  factory CueCard.fromJson(Map<String, dynamic> json) {
+    // 안전한 String 파싱 헬퍼
+    String _safeString(dynamic value, {String defaultValue = ''}) {
+      if (value == null) return defaultValue;
+      if (value is String) return value;
+      if (value is List && value.isNotEmpty) return value[0].toString();
+      return value.toString();
+    }
+    
+    return CueCard(
+      title: _safeString(json['title']),
+      allocatedSec: json['allocated_sec'] as int? ?? 0,
+      trigger: _safeString(json['trigger']),
+      summary: json['summary'] != null
+          ? List<String>.from((json['summary'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      steps: json['steps'] != null
+          ? List<String>.from((json['steps'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      checklist: json['checklist'] != null
+          ? List<String>.from((json['checklist'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      fallback: _safeString(json['fallback']),
+      startHint: _safeString(json['start_hint']),
+      stopHint: _safeString(json['stop_hint']),
+      completionCriteria: _safeString(json['completion_criteria']),
+      tone: _safeString(json['tone']),
+      styleVibe: _safeString(json['style_vibe']),
+      targetAudience: _safeString(json['target_audience']),
+      script: _safeString(json['script']),
+      rawMarkdown: _safeString(json['raw_markdown']),
+      shotComposition: json['shot_composition'] != null
+          ? List<String>.from((json['shot_composition'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      shootingInstructions: json['shooting_instructions'] != null
+          ? List<String>.from((json['shooting_instructions'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+          storyboardImageUrl: json['storyboard_image_url'] != null ? _safeString(json['storyboard_image_url']) : null,
+          referenceVideoUrl: json['reference_video_url'] != null ? _safeString(json['reference_video_url']) : null,
+          referenceVideoTimestamp: json['reference_video_timestamp'] as int?,
+          location: _safeString(json['location']),
+      cost: json['cost'] as int? ?? 0,
+      peopleCount: json['people_count'] as int? ?? 1,
+      shootingTimeMin: json['shooting_time_min'] as int? ?? 30,
+      thumbnailUrl: json['thumbnail_url'] as String?,
+      compositionImages: json['composition_images'] != null
+          ? (json['composition_images'] as Map<String, dynamic>).map(
+              (key, value) => MapEntry(int.parse(key), value.toString()),
+            )
+          : null,
+      checkedChecklistIndices: json['checked_checklist_indices'] != null
+          ? Set<int>.from((json['checked_checklist_indices'] as List<dynamic>).map((e) => e is int ? e : int.tryParse(e.toString()) ?? 0))
+          : null,
+      pro: json['pro'] != null ? CueCardPro.fromJson(json['pro'] as Map<String, dynamic>) : null,
+      alternativeSceneId: json['alternative_scene_id'] as String?,
+    );
+  }
 
   // 마크다운 텍스트에서 CueCard 파싱
   factory CueCard.fromMarkdown(String markdown) {
@@ -218,6 +348,71 @@ class CueCard {
     
     return cards;
   }
+
+  // 체크리스트 완료 상태를 업데이트하는 copyWith 메서드
+  CueCard copyWith({
+    String? title,
+    int? allocatedSec,
+    String? trigger,
+    List<String>? summary,
+    List<String>? steps,
+    List<String>? checklist,
+    String? fallback,
+    String? startHint,
+    String? stopHint,
+    String? completionCriteria,
+    String? tone,
+    String? styleVibe,
+    String? targetAudience,
+    String? script,
+    CueCardPro? pro,
+    String? rawMarkdown,
+    List<String>? shotComposition,
+    List<String>? shootingInstructions,
+    String? storyboardImageUrl,
+    String? referenceVideoUrl,
+    int? referenceVideoTimestamp,
+    String? location,
+    int? cost,
+    int? peopleCount,
+    int? shootingTimeMin,
+    String? thumbnailUrl,
+    Map<int, String>? compositionImages,
+    Set<int>? checkedChecklistIndices,
+    String? alternativeSceneId,
+  }) {
+    return CueCard(
+      title: title ?? this.title,
+      allocatedSec: allocatedSec ?? this.allocatedSec,
+      trigger: trigger ?? this.trigger,
+      summary: summary ?? this.summary,
+      steps: steps ?? this.steps,
+      checklist: checklist ?? this.checklist,
+      fallback: fallback ?? this.fallback,
+      startHint: startHint ?? this.startHint,
+      stopHint: stopHint ?? this.stopHint,
+      completionCriteria: completionCriteria ?? this.completionCriteria,
+      tone: tone ?? this.tone,
+      styleVibe: styleVibe ?? this.styleVibe,
+      targetAudience: targetAudience ?? this.targetAudience,
+      script: script ?? this.script,
+      pro: pro ?? this.pro,
+      rawMarkdown: rawMarkdown ?? this.rawMarkdown,
+      shotComposition: shotComposition ?? this.shotComposition,
+      shootingInstructions: shootingInstructions ?? this.shootingInstructions,
+      storyboardImageUrl: storyboardImageUrl ?? this.storyboardImageUrl,
+      referenceVideoUrl: referenceVideoUrl ?? this.referenceVideoUrl,
+      referenceVideoTimestamp: referenceVideoTimestamp ?? this.referenceVideoTimestamp,
+      location: location ?? this.location,
+      cost: cost ?? this.cost,
+      peopleCount: peopleCount ?? this.peopleCount,
+      shootingTimeMin: shootingTimeMin ?? this.shootingTimeMin,
+      thumbnailUrl: thumbnailUrl ?? this.thumbnailUrl,
+      compositionImages: compositionImages ?? this.compositionImages,
+      checkedChecklistIndices: checkedChecklistIndices ?? this.checkedChecklistIndices,
+      alternativeSceneId: alternativeSceneId ?? this.alternativeSceneId,
+    );
+  }
 }
 
 class CueCardPro {
@@ -236,5 +431,39 @@ class CueCardPro {
     required this.safety,
     required this.broll,
   });
+
+  Map<String, dynamic> toJson() {
+    return {
+      'framing': framing,
+      'audio': audio,
+      'dialogue': dialogue,
+      'edit_hint': editHint,
+      'safety': safety,
+      'broll': broll,
+    };
+  }
+
+  factory CueCardPro.fromJson(Map<String, dynamic> json) {
+    return CueCardPro(
+      framing: json['framing'] != null
+          ? List<String>.from((json['framing'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      audio: json['audio'] != null
+          ? List<String>.from((json['audio'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      dialogue: json['dialogue'] != null
+          ? List<String>.from((json['dialogue'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      editHint: json['edit_hint'] != null
+          ? List<String>.from((json['edit_hint'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      safety: json['safety'] != null
+          ? List<String>.from((json['safety'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      broll: json['broll'] != null
+          ? List<String>.from((json['broll'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+    );
+  }
 }
 

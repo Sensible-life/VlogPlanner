@@ -1,18 +1,13 @@
 import 'package:flutter/material.dart';
-import '../../constants/app_colors.dart';
-import '../../constants/app_styles.dart';
-import '../../services/openai_service.dart';
-import '../../services/vlog_data_service.dart';
-import '../../services/image_service.dart';
-import '../../services/weather_service.dart';
-import '../../services/budget_service.dart';
-import '../../widgets/loading_dialog.dart';
-import 'tabs/concept_style_tab.dart';
-import 'tabs/detail_plan_tab.dart';
-import 'tabs/environment_tab.dart';
-import '../../models/plan.dart';
-import '../../models/cue_card.dart';
+import '../../services/vlog_data_service.dart'; // Plan도 export됨
+import '../../services/storyboard_generation_service.dart';
+import '../../services/progress_notification_service.dart';
+import '../../widgets/app_notification.dart';
+import '../home_page.dart';
 import '../storyboard/storyboard_page.dart';
+import 'tabs/concept_style_tab.dart';
+import 'tabs/location_time_tab.dart';
+import 'tabs/environment_tab.dart';
 
 class UserInputPage extends StatefulWidget {
   const UserInputPage({super.key});
@@ -22,417 +17,440 @@ class UserInputPage extends StatefulWidget {
 }
 
 class _UserInputPageState extends State<UserInputPage> {
-  int _selectedSegment = 0;
-  late PageController _pageController;
-  double _dragStartX = 0;
+  int _selectedTab = 0; // 0: 컨셉&스타일, 1: 장소&시간, 2: 환경&제약
   bool _isLoading = false;
+  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
   
+
   // 사용자 입력 데이터 저장
-  final Map<String, String> _userInput = {
-    'target_duration': '8',
-    'difficulty': 'novice',
-    'time_weather': 'daytime',
-    'equipment': 'smartphone',
+  final Map<String, dynamic> _userInput = {
+    // 컨셉&스타일 탭
+    'subject': '',
+    'target_duration': '10',
+    'tones': <String>[],
+    'tone_custom': '',
+    'target_audience': '',
+
+    // 장소&시간 탭
     'location': '',
-    // 기본값 제거 - 화면에서 실제로 입력받는 값만 저장
+    'required_locations': <String>[],
+    'time_weather': '',
+
+    // 환경&제약 탭
+    'equipment': <String>[],
+    'equipment_custom': '',
+    'crew_count': 1,
+    'restrictions': <String>[],
+    'restriction_custom': '',
   };
 
-  // 사용자 입력 업데이트 메서드
-  void _updateUserInput(String key, String value) {
+  void _updateUserInput(String key, dynamic value) {
     setState(() {
       _userInput[key] = value;
     });
-    print('[USER_INPUT] 업데이트: $key = $value');
   }
-  
-  // 모든 사용자 입력 업데이트 (key, value 형태)
-  void _updateUserInputFromTab(String key, String value) {
+
+  void _onTabChanged(int index) {
     setState(() {
-      _userInput[key] = value;
-    });
-    print('[USER_INPUT] 탭에서 업데이트: $key = $value');
-  }
-
-  @override
-  void initState() {
-    super.initState();
-    _pageController = PageController(initialPage: 0);
-  }
-
-  @override
-  void dispose() {
-    _pageController.dispose();
-    super.dispose();
-  }
-
-  void _onPageChanged(int index) {
-    setState(() {
-      _selectedSegment = index;
+      _selectedTab = index;
     });
   }
 
-  void _onSegmentTapped(int index) {
-    _pageController.animateToPage(
-      index,
-      duration: const Duration(milliseconds: 150),
-      curve: Curves.linear,
+  @override
+  Widget build(BuildContext context) {
+    final screenWidth = MediaQuery.of(context).size.width;
+    final screenHeight = MediaQuery.of(context).size.height;
+
+    return Scaffold(
+      key: _scaffoldKey,
+      backgroundColor: const Color(0xFFCEDCD3),
+      resizeToAvoidBottomInset: true,
+      body: SafeArea(
+        child: Stack(
+          children: [
+            // 상단 바
+            _buildTopBar(context, screenWidth),
+
+            // 탭 바
+            _buildTabBar(screenWidth, screenHeight),
+
+            // 입력 필드들
+            _buildInputFields(screenWidth, screenHeight),
+
+            // 입력 완료 버튼
+            _buildCompleteButton(screenWidth, screenHeight),
+          ],
+        ),
+      ),
     );
   }
 
-  void _onHorizontalDragEnd(DragEndDetails details) {
-    final velocity = details.primaryVelocity ?? 0;
-    
-    // 속도 기반: 빠르게 스와이프하면 작은 거리여도 넘어감
-    if (velocity < -100 && _selectedSegment < 2) {
-      // 왼쪽으로 빠르게 스와이프 -> 다음 페이지
-      _pageController.jumpToPage(_selectedSegment + 1);
-    } else if (velocity > 100 && _selectedSegment > 0) {
-      // 오른쪽으로 빠르게 스와이프 -> 이전 페이지
-      _pageController.jumpToPage(_selectedSegment - 1);
-    }
+  // 상단 바
+  Widget _buildTopBar(BuildContext context, double screenWidth) {
+    return Positioned(
+      left: 0,
+      top: 0,
+      right: 0,
+      child: Container(
+        width: screenWidth,
+        height: 79,
+        decoration: const BoxDecoration(
+          color: Color(0xFFCEDCD3),
+        ),
+        child: Stack(
+          children: [
+            // 왼쪽 뒤로가기 버튼
+            Positioned(
+              left: 17,
+              top: 15,
+              child: GestureDetector(
+                onTap: () {
+                  // 키보드 닫기
+                  FocusScope.of(context).unfocus();
+                  Navigator.pop(context);
+                },
+                child: Image.asset(
+                  'assets/icons/icon_arrow.png',
+                  width: 50,
+                  height: 50,
+                  fit: BoxFit.contain,
+                ),
+              ),
+            ),
+
+            // 중앙 로고와 화면 이름
+            Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  // 로고 (클릭 시 홈으로 이동)
+                  GestureDetector(
+                    onTap: () {
+                      // 키보드 닫기
+                      FocusScope.of(context).unfocus();
+                      
+                      // 네비게이션 스택을 모두 제거하고 홈으로 이동
+                      Navigator.of(context).pushAndRemoveUntil(
+                        MaterialPageRoute(builder: (context) => const HomePage()),
+                        (route) => false,
+                      );
+                    },
+                    child: Image.asset(
+                      'assets/images/logo_text.png',
+                      width: screenWidth * 0.25, // 더 작게
+                      fit: BoxFit.contain,
+                    ),
+                  ),
+                  // 화면 이름 (작은 글씨)
+                  Text(
+                    '스토리보드 생성',
+                    style: TextStyle(
+                      fontFamily: 'Tmoney RoundWind',
+                      fontWeight: FontWeight.w600,
+                      fontSize: 14,
+                      color: const Color(0xFF1A1A1A).withOpacity(0.7),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+
+            // 우측 상단 테스트 실행 버튼
+            _buildTestButton(screenWidth),
+          ],
+        ),
+      ),
+    );
   }
 
-  // 브이로그 계획 생성 (Fine-tuned Model + 추가 기능들)
+  // 탭 바 (storyboard와 동일한 스타일)
+  Widget _buildTabBar(double screenWidth, double screenHeight) {
+    final tabs = const ['컨셉&스타일', '장소&시간', '환경&제약'];
+    final isSelected = [
+      _selectedTab == 0,
+      _selectedTab == 1,
+      _selectedTab == 2,
+    ];
+
+    return Positioned(
+      left: (screenWidth - screenWidth * 0.928) / 2,
+      top: 92,
+      child: Container(
+        width: screenWidth * 0.928, // 373/402
+        height: screenHeight * 0.062, // 56/904
+        decoration: BoxDecoration(
+          color: const Color(0xFFFAFAFA),
+          borderRadius: BorderRadius.circular(10),
+          border: const Border(
+            left: BorderSide(color: Color(0xFF1A1A1A), width: 3),
+            bottom: BorderSide(color: Color(0xFF1A1A1A), width: 6),
+            right: BorderSide(color: Color(0xFF1A1A1A), width: 6),
+            top: BorderSide(color: Color(0xFF1A1A1A), width: 3),
+          ),
+        ),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          children: [
+            _buildTabItem(tabs[0], 0, isSelected[0]),
+            _buildTabItem(tabs[1], 1, isSelected[1]),
+            _buildTabItem(tabs[2], 2, isSelected[2]),
+          ],
+        ),
+      ),
+    );
+  }
+
+  // 탭 아이템
+  Widget _buildTabItem(String label, int index, bool isSelected) {
+    // 각 탭에 맞는 배경 이미지와 크기 선택
+    String backgroundImage;
+    double imageWidth;
+    double imageHeight = 60;
+    
+    switch (index) {
+      case 0: // 컨셉&스타일
+        backgroundImage = 'assets/images/background_cc.png';
+        imageWidth = 120; // 컨셉&스타일은 조금 더 넓게
+        break;
+      case 1: // 장소&시간
+        backgroundImage = 'assets/images/background_lt.png';
+        imageWidth = 110; // 장소&시간은 중간
+        break;
+      case 2: // 환경&제약
+        backgroundImage = 'assets/images/background_re.png';
+        imageWidth = 110; // 환경&제약은 중간
+        break;
+      default:
+        backgroundImage = 'assets/images/tab_selection.png';
+        imageWidth = 62;
+    }
+
+    return GestureDetector(
+      onTap: () => _onTabChanged(index),
+      child: Stack(
+        alignment: Alignment.center,
+        children: [
+          // 선택된 탭 배경 이미지
+          if (isSelected)
+            Image.asset(
+              backgroundImage,
+              width: imageWidth,
+              height: imageHeight,
+              fit: BoxFit.contain,
+            ),
+          // 텍스트
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
+            child: Text(
+              label,
+              style: TextStyle(
+                fontFamily: 'Tmoney RoundWind',
+                fontSize: 18,
+                fontWeight: FontWeight.w800,
+                color: isSelected ? const Color(0xFFFAFAFA) : const Color(0xFFB2B2B2),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  // 입력 필드들
+  Widget _buildInputFields(double screenWidth, double screenHeight) {
+    return Positioned(
+      left: 0,
+      top: 79 + 56 + 10, // 상단 바 + 탭 바 + 간격
+      right: 0,
+      bottom: 0,
+      child: IndexedStack(
+        index: _selectedTab,
+        children: [
+          // 컨셉&스타일 탭
+          ConceptStyleTab(
+            onSubjectChanged: (value) => _updateUserInput('subject', value),
+            onDurationChanged: (value) => _updateUserInput('target_duration', value),
+            onTonesChanged: (value) => _updateUserInput('tones', value),
+            onToneCustomChanged: (value) => _updateUserInput('tone_custom', value),
+            onTargetAudienceChanged: (value) => _updateUserInput('target_audience', value),
+            initialValues: _userInput,
+          ),
+          // 장소&시간 탭
+          LocationTimeTab(
+            onLocationChanged: (value) => _updateUserInput('location', value),
+            onRequiredLocationsChanged: (value) => _updateUserInput('required_locations', value),
+            onTimeWeatherChanged: (value) => _updateUserInput('time_weather', value),
+            initialValues: _userInput,
+          ),
+          // 환경&제약 탭
+          EnvironmentTab(
+            onEquipmentChanged: (value) => _updateUserInput('equipment', value),
+            onEquipmentCustomChanged: (value) => _updateUserInput('equipment_custom', value),
+            onCrewCountChanged: (value) => _updateUserInput('crew_count', value),
+            onRestrictionsChanged: (value) => _updateUserInput('restrictions', value),
+            onRestrictionCustomChanged: (value) => _updateUserInput('restriction_custom', value),
+            initialValues: _userInput,
+          ),
+        ],
+      ),
+    );
+  }
+
+  // 입력 완료 버튼 (메인 페이지와 동일)
+  Widget _buildCompleteButton(double screenWidth, double screenHeight) {
+    final baseWidth = 402.0;
+    final baseHeight = 904.0;
+
+    // 버튼 크기: 371px 너비, 84px 높이
+    final buttonWidth = 371.0 * (screenWidth / baseWidth);
+    final buttonHeight = 84.0 * (screenHeight / baseHeight);
+
+    // 버튼 위치: left: 15px, top: 750px (메인 화면과 동일)
+    final buttonLeft = 15.0 * (screenWidth / baseWidth);
+    final buttonTop = 750.0 * (screenHeight / baseHeight);
+
+    // 진행 중인지 확인 (ProgressNotificationService 사용)
+    final isProgressing = ProgressNotificationService().isShowing;
+    final isDisabled = _isLoading || isProgressing;
+
+    return Positioned(
+      left: buttonLeft,
+      top: buttonTop,
+      child: GestureDetector(
+        onTap: isDisabled ? null : _generateVlogPlan,
+        child: Container(
+          width: buttonWidth,
+          height: buttonHeight,
+          decoration: BoxDecoration(
+            color: isDisabled ? const Color(0xFFB2B2B2) : const Color(0xFF455D75),
+            borderRadius: BorderRadius.circular(10),
+            border: const Border(
+              left: BorderSide(color: Color(0xFF1A1A1A), width: 3),
+              top: BorderSide(color: Color(0xFF1A1A1A), width: 3),
+              right: BorderSide(color: Color(0xFF1A1A1A), width: 6),
+              bottom: BorderSide(color: Color(0xFF1A1A1A), width: 6),
+            ),
+          ),
+          child: Center(
+            child: _isLoading
+                ? SizedBox(
+                    width: 20,
+                    height: 20,
+                    child: CircularProgressIndicator(
+                      strokeWidth: 2,
+                      valueColor: const AlwaysStoppedAnimation<Color>(Color(0xFFFAFAFA)),
+                    ),
+                  )
+                : Text(
+                    '입력 완료',
+                    style: TextStyle(
+                      fontFamily: 'Tmoney RoundWind',
+                      fontWeight: FontWeight.w800,
+                      fontSize: 24,
+                      height: 36 / 28,
+                      color: isDisabled ? const Color(0xFF1A1A1A) : const Color(0xFFFAFAFA),
+                    ),
+                  ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  // 테스트용 Mock Data 버튼 (우측 상단)
+  Widget _buildTestButton(double screenWidth) {
+    // 진행 중인지 확인 (ProgressNotificationService 사용)
+    final isProgressing = ProgressNotificationService().isShowing;
+    final isDisabled = _isLoading || isProgressing;
+
+    return Positioned(
+      right: 17,
+      top: 15,
+      child: GestureDetector(
+        onTap: isDisabled ? null : _testWithMockData,
+        behavior: HitTestBehavior.opaque,
+        child: Container(
+          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+          decoration: BoxDecoration(
+            color: isDisabled ? const Color(0xFFB2B2B2) : const Color(0xFFFF6B6B), // 빨간색으로 테스트 버튼임을 표시
+            borderRadius: BorderRadius.circular(8),
+            border: const Border(
+              left: BorderSide(color: Color(0xFF1A1A1A), width: 2),
+              top: BorderSide(color: Color(0xFF1A1A1A), width: 2),
+              right: BorderSide(color: Color(0xFF1A1A1A), width: 4),
+              bottom: BorderSide(color: Color(0xFF1A1A1A), width: 4),
+            ),
+          ),
+          child: _isLoading
+              ? SizedBox(
+                  width: 16,
+                  height: 16,
+                  child: CircularProgressIndicator(
+                    strokeWidth: 2,
+                    valueColor: const AlwaysStoppedAnimation<Color>(Color(0xFFFAFAFA)),
+                  ),
+                )
+              : Text(
+                  '🧪 테스트',
+                  style: TextStyle(
+                    fontFamily: 'Tmoney RoundWind',
+                    fontWeight: FontWeight.w800,
+                    fontSize: 12,
+                    color: isDisabled ? const Color(0xFF1A1A1A) : const Color(0xFFFAFAFA),
+                  ),
+                ),
+        ),
+      ),
+    );
+  }
+
+  // 브이로그 계획 생성
   Future<void> _generateVlogPlan() async {
     setState(() {
       _isLoading = true;
     });
 
     try {
+      // 프롬프트에 전달할 데이터 준비
+      final Map<String, String> promptData = _preparePromptData();
+
       final dataService = VlogDataService();
+      dataService.setUserInput(promptData);
 
-      // 0. 템플릿 캐시 초기화 (새로운 스토리보드 생성 시)
-      OpenAIService.clearTemplateCache();
+      // StoryboardGenerationService를 사용하여 스토리보드 생성
+      final result = await StoryboardGenerationService.generateStoryboard(
+        userInput: promptData,
+        dataService: dataService,
+      );
 
-      // 1. 사용자 입력 저장
-      dataService.setUserInput(_userInput);
-
-      // 2. Fine-tuned Model로 스토리보드 생성
-      if (mounted) {
-        showLoadingDialog(
-          context,
-          title: '스토리보드 생성 중',
-          message: 'AI가 당신만의 브이로그 스토리보드를\n작성하고 있습니다...\n\n⚠️ 앱을 백그라운드로 전환하지 마세요\n잠시만 기다려주세요 (약 15-30초)',
-          progress: 0.2,
-        );
-      }
-
-      print('[USER_INPUT] Fine-tuned model로 스토리보드 생성 시작');
-      print('[USER_INPUT] 사용자 입력: $_userInput');
-
-      final storyboard = await OpenAIService.generateStoryboardWithFineTunedModel(_userInput);
-
-      if (storyboard == null) {
-        if (mounted) Navigator.pop(context);
+      if (result == null) {
         _showErrorDialog('스토리보드 생성에 실패했습니다.\nAPI 키를 확인하거나 네트워크 연결을 확인해주세요.');
         return;
       }
 
-      print('[USER_INPUT] 스토리보드 생성 완료, 파싱 시작');
-
-      // 3. Plan과 CueCards 파싱
-      final result = await OpenAIService.parseStoryboard(storyboard);
-
-      if (result == null || result.plan == null || result.cueCards == null) {
-        if (mounted) Navigator.pop(context);
-        _showErrorDialog('스토리보드 파싱에 실패했습니다.\n응답 형식을 확인해주세요.');
-        return;
-      }
-
-      print('[USER_INPUT] 파싱 완료: Plan과 ${result.cueCards!.length}개의 CueCard');
-
-      // VlogDataService에 저장 (Script 생성 전에 필수!)
-      final vlogService = VlogDataService();
-      vlogService.setPlan(result.plan!);
-      vlogService.setCueCards(result.cueCards!);
-      print('[USER_INPUT] VlogDataService에 Plan과 CueCards 저장 완료');
-      print('[USER_INPUT] 저장 확인: plan=${vlogService.plan != null ? "존재" : "null"}, cueCards=${vlogService.cueCards?.length ?? 0}개');
-
-      // 4. 추가 기능 실행 (병렬 처리)
       if (mounted) {
-        Navigator.pop(context);
-        showLoadingDialog(
-          context,
-          title: '세부 정보 생성 중',
-          message: 'Script, 이미지, 장비 추천 등을\n생성하고 있습니다...\n\n⚠️ 앱을 백그라운드로 전환하지 마세요',
-          progress: 0.6,
-        );
-      }
-
-      print('[USER_INPUT] 추가 기능 실행 시작');
-
-      // 병렬로 실행할 작업들
-      final futures = <Future>[];
-
-      // 4-1. 씬별 스크립트 (병렬, 타임아웃 포함)
-      final scriptFutures = result.cueCards!.asMap().entries.map((entry) {
-        final index = entry.key;
-        final cueCard = entry.value;
-        return OpenAIService.generateScriptForScene(
-          sceneLocation: cueCard.title,
-          sceneSummary: cueCard.summary.join(' '),
-          tone: result.plan!.styleAnalysis?.tone ?? '',
-          vibe: result.plan!.styleAnalysis?.vibe ?? '',
-          durationSec: cueCard.allocatedSec,
-          sceneIndex: index + 1,
-          totalScenes: result.cueCards!.length,
-        ).timeout(
-          const Duration(seconds: 30),
-          onTimeout: () {
-            print('[USER_INPUT] 씬 #${index + 1} 스크립트 생성 타임아웃');
-            return '${cueCard.title}에 대한 멋진 장면입니다.';
-          },
-        );
-      }).toList();
-
-      // 4-2. 시나리오 요약 (SEO용, 타임아웃 포함)
-      final scenarioSummaryFuture = OpenAIService.generateScenarioSummary(
-        sceneSummaries: result.cueCards!.map((c) => c.summary.join(' ')).toList(),
-        location: _userInput['location'] ?? '',
-        tone: result.plan!.styleAnalysis?.tone ?? '',
-        durationMin: result.plan!.goalDurationMin ?? 10,
-      ).timeout(
-        const Duration(seconds: 15),
-        onTimeout: () {
-          print('[USER_INPUT] 시나리오 요약 생성 타임아웃');
-          return '${result.plan!.vlogTitle} 브이로그';
-        },
-      );
-
-      // 4-3. 대표 썸네일 (타임아웃 포함)
-      final mainThumbnailFuture = ImageService.searchMainThumbnail(
-        title: result.plan!.vlogTitle ?? '브이로그',
-        keywords: result.plan!.keywords,
-        tone: result.plan!.styleAnalysis?.tone ?? '',
-      ).timeout(
-        const Duration(seconds: 15),
-        onTimeout: () {
-          print('[USER_INPUT] 대표 썸네일 검색 타임아웃');
-          return null;
-        },
-      );
-
-      // 4-4. 씬별 이미지 (병렬, 타임아웃 포함)
-      final sceneImageFutures = result.cueCards!.asMap().entries.map((entry) {
-        final index = entry.key;
-        final cueCard = entry.value;
-        return ImageService.searchSceneImage(
-          location: cueCard.title,
-          summary: cueCard.summary.join(' '),
-          tone: result.plan!.styleAnalysis?.tone ?? '',
-          globalLocation: _userInput['location'],  // 전체 촬영 장소 (예: "바르셀로나")
-        ).timeout(
-          const Duration(seconds: 15),
-          onTimeout: () {
-            print('[USER_INPUT] 씬 #${index + 1} 이미지 검색 타임아웃');
-            return null;
-          },
-        );
-      }).toList();
-
-      // 4-5. 장비 추천
-      final equipmentFuture = OpenAIService.recommendEquipment(
-        location: _userInput['location'] ?? '',
-        tone: result.plan!.styleAnalysis?.tone ?? '',
-        equipment: _userInput['equipment'] ?? 'smartphone',
-        difficulty: _userInput['difficulty'] ?? 'novice',
-      );
-
-      // 4-6. 날씨 정보 (촬영 장소 기반)
-      final weatherFuture = WeatherService.getWeatherInfo(_userInput['location'] ?? 'Seoul');
-
-      // 4-7. 예산 정보
-      final budgetFuture = BudgetService.getBudgetEstimate(
-        location: _userInput['location'] ?? '',
-        categories: ['입장료', '식사', '교통', '간식'],
-      );
-
-      // 모든 작업 병렬 실행
-      print('[USER_INPUT] 병렬 작업 시작 (${scriptFutures.length} 스크립트 + ${sceneImageFutures.length} 이미지 + 4개 추가 작업)');
-
-      final results = await Future.wait<dynamic>([
-        ...scriptFutures,
-        scenarioSummaryFuture,
-        mainThumbnailFuture,
-        ...sceneImageFutures,
-        equipmentFuture.timeout(
-          const Duration(seconds: 10),
-          onTimeout: () {
-            print('[USER_INPUT] 장비 추천 타임아웃');
-            return null;
-          },
-        ),
-        weatherFuture.timeout(
-          const Duration(seconds: 10),
-          onTimeout: () {
-            print('[USER_INPUT] 날씨 정보 타임아웃');
-            return null;
-          },
-        ),
-        budgetFuture.timeout(
-          const Duration(seconds: 10),
-          onTimeout: () {
-            print('[USER_INPUT] 예산 정보 타임아웃');
-            return <Map<String, dynamic>>[];
-          },
-        ),
-      ]);
-
-      print('[USER_INPUT] 병렬 작업 완료');
-
-      // 결과 적용
-      final numScenes = result.cueCards!.length;
-
-      // Scripts 적용
-      for (int i = 0; i < numScenes; i++) {
-        final script = results[i] as String?;
-        if (script != null) {
-          result.cueCards![i] = CueCard(
-            title: result.cueCards![i].title,
-            allocatedSec: result.cueCards![i].allocatedSec,
-            trigger: result.cueCards![i].trigger,
-            summary: result.cueCards![i].summary,
-            steps: result.cueCards![i].steps,
-            checklist: result.cueCards![i].checklist,
-            fallback: result.cueCards![i].fallback,
-            startHint: result.cueCards![i].startHint,
-            stopHint: result.cueCards![i].stopHint,
-            completionCriteria: result.cueCards![i].completionCriteria,
-            tone: result.cueCards![i].tone,
-            styleVibe: result.cueCards![i].styleVibe,
-            targetAudience: result.cueCards![i].targetAudience,
-            script: script,
-            pro: result.cueCards![i].pro,
-            rawMarkdown: result.cueCards![i].rawMarkdown,
-            thumbnailUrl: null,  // 나중에 적용
-          );
-        }
-      }
-
-      // 시나리오 요약 적용
-      final scenarioSummary = results[numScenes] as String?;
-
-      // 대표 썸네일 적용
-      final mainThumbnail = results[numScenes + 1] as String?;
-
-      // 씬별 이미지 적용
-      for (int i = 0; i < numScenes; i++) {
-        final sceneImage = results[numScenes + 2 + i] as String?;
-        if (sceneImage != null) {
-          result.cueCards![i] = CueCard(
-            title: result.cueCards![i].title,
-            allocatedSec: result.cueCards![i].allocatedSec,
-            trigger: result.cueCards![i].trigger,
-            summary: result.cueCards![i].summary,
-            steps: result.cueCards![i].steps,
-            checklist: result.cueCards![i].checklist,
-            fallback: result.cueCards![i].fallback,
-            startHint: result.cueCards![i].startHint,
-            stopHint: result.cueCards![i].stopHint,
-            completionCriteria: result.cueCards![i].completionCriteria,
-            tone: result.cueCards![i].tone,
-            styleVibe: result.cueCards![i].styleVibe,
-            targetAudience: result.cueCards![i].targetAudience,
-            script: result.cueCards![i].script,
-            pro: result.cueCards![i].pro,
-            rawMarkdown: result.cueCards![i].rawMarkdown,
-            thumbnailUrl: sceneImage,
-          );
-        }
-      }
-
-      // 장비 추천 적용
-      final equipment = results[numScenes + 2 + numScenes] as String?;
-
-      // 날씨 정보 적용
-      final weather = results[numScenes + 2 + numScenes + 1] as Map<String, dynamic>?;
-
-      // 예산 정보 적용
-      final budgetItems = results[numScenes + 2 + numScenes + 2] as List<Map<String, dynamic>>?;
-
-      // 예산 객체 생성 (BudgetService의 결과를 Budget 모델로 변환)
-      Budget? updatedBudget;
-      if (budgetItems != null && budgetItems.isNotEmpty) {
-        final totalBudget = BudgetService.calculateTotalBudget(budgetItems);
-        final budgetItemObjects = budgetItems.map((item) {
-          return BudgetItem(
-            category: item['category'] as String? ?? '',
-            description: item['description'] as String? ?? '',
-            amount: item['amount'] as int? ?? 0,
-          );
-        }).toList();
+        // 키보드 닫기
+        FocusScope.of(context).unfocus();
         
-        updatedBudget = Budget(
-          totalBudget: totalBudget,
-          items: budgetItemObjects,
-          currency: 'KRW',
-        );
-        print('[USER_INPUT] 예산 정보 생성 완료: 총 ${totalBudget.toString().replaceAllMapped(RegExp(r'(\d{1,3})(?=(\d{3})+(?!\d))'), (Match m) => '${m[1]},')}원');
-      }
-
-      // Plan 업데이트
-      final updatedPlan = Plan(
-        summary: scenarioSummary ?? result.plan!.summary,
-        vlogTitle: result.plan!.vlogTitle,
-        keywords: result.plan!.keywords,
-        goalDurationMin: result.plan!.goalDurationMin,
-        bufferRate: result.plan!.bufferRate,
-        chapters: result.plan!.chapters,
-        styleAnalysis: result.plan!.styleAnalysis,
-        shootingRoute: result.plan!.shootingRoute,
-        budget: updatedBudget ?? result.plan!.budget,  // 새로 가져온 예산 사용
-        shootingChecklist: result.plan!.shootingChecklist,
-        locationImage: mainThumbnail,
-        equipmentRecommendation: equipment,
-        weatherInfo: weather,
-      );
-
-      print('[USER_INPUT] 모든 추가 기능 적용 완료');
-
-      // 5. VlogDataService에 저장
-      dataService.setPlan(updatedPlan);
-      dataService.setCueCards(result.cueCards!);
-
-      print('[USER_INPUT] VlogDataService에 저장 완료');
-      print('[USER_INPUT] 브이로그 제목: ${updatedPlan.vlogTitle}');
-      print('[USER_INPUT] 키워드: ${updatedPlan.keywords.join(", ")}');
-      print('[USER_INPUT] 씬 개수: ${result.cueCards!.length}');
-
-      // 현재 스토리보드 저장
-      final storyboardId = dataService.saveCurrentStoryboard(mainThumbnail: mainThumbnail);
-      print('[USER_INPUT] 스토리보드 저장 완료: ID=$storyboardId');
-
-      // 완료
-      if (mounted) {
-        Navigator.pop(context);
-        showLoadingDialog(
+        // 완료 알림 표시 (다이얼로그 대신 AppNotification 사용)
+        AppNotification.show(
           context,
-          title: '완료!',
-          message: '브이로그 촬영 계획이 준비되었습니다.\n\n제목: ${updatedPlan.vlogTitle}\n씬 개수: ${result.cueCards!.length}개',
-          progress: 1.0,
+          '완료되었습니다! 스토리보드를 확인하러 가시겠습니까?',
+          type: NotificationType.success,
+          onTap: () {
+            // 스토리보드 화면으로 이동
+            Navigator.pushReplacement(
+              context,
+              MaterialPageRoute(
+                builder: (context) => const StoryboardPage(),
+              ),
+            );
+          },
         );
-
-        // 잠시 후 스토리보드 페이지로 이동
-        await Future.delayed(const Duration(milliseconds: 1500));
-
-        if (mounted) {
-          Navigator.pop(context);
-          // 스토리보드 페이지로 이동 (뒤로가기 가능하도록 pushReplacement 대신 push 사용)
-          Navigator.pushReplacement(
-            context,
-            MaterialPageRoute(
-              builder: (context) => const StoryboardPage(),
-            ),
-          );
-        }
       }
-    } catch (e, stackTrace) {
-      print('[USER_INPUT] 에러 발생: $e');
-      print('[USER_INPUT] 스택 트레이스: $stackTrace');
-
+    } catch (e) {
       if (mounted) {
-        Navigator.pop(context);
-        _showErrorDialog('오류가 발생했습니다:\n$e\n\n콘솔을 확인해주세요.');
+        _showErrorDialog('오류가 발생했습니다:\n$e');
       }
     } finally {
       if (mounted) {
@@ -442,216 +460,184 @@ class _UserInputPageState extends State<UserInputPage> {
       }
     }
   }
-  
+
+
+  // Mock Data로 user_input 채우기 (테스트용)
+  void _fillMockData() {
+    setState(() {
+      // 컨셉&스타일 탭
+      _userInput['subject'] = '친구들과 제주도 여행';
+      _userInput['target_duration'] = '10';
+      _userInput['tones'] = ['밝고 경쾌한', '자연스러운'];
+      _userInput['tone_custom'] = '';
+      _userInput['target_audience'] = '20대 여행 좋아하는 사람들';
+
+      // 장소&시간 탭
+      _userInput['location'] = '제주도';
+      _userInput['required_locations'] = ['성산일출봉', '섭지코지', '월정리 해변'];
+      _userInput['time_weather'] = '낮, 맑음';
+
+      // 환경&제약 탭
+      _userInput['equipment'] = ['smartphone'];
+      _userInput['equipment_custom'] = '';
+      _userInput['crew_count'] = 3;
+      _userInput['restrictions'] = [];
+      _userInput['restriction_custom'] = '';
+    });
+  }
+
+  // Mock Data로 채우고 바로 API 요청 보내기 (테스트용)
+  Future<void> _testWithMockData() async {
+    // Mock Data로 채우기
+    _fillMockData();
+    
+    // 약간의 딜레이 후 API 요청 (UI 업데이트를 위해)
+    await Future.delayed(const Duration(milliseconds: 300));
+    
+    // API 요청 보내기
+    await _generateVlogPlan();
+  }
+
+  // 프롬프트에 전달할 데이터 준비
+  Map<String, String> _preparePromptData() {
+    final Map<String, String> promptData = {};
+
+    // 촬영 주제
+    if (_userInput['subject']?.toString().isNotEmpty ?? false) {
+      promptData['subject'] = _userInput['subject'].toString();
+    }
+
+    // 목표 영상 길이
+    promptData['target_duration'] = _userInput['target_duration'].toString();
+
+    // 영상 톤 (멀티 선택 + 기타)
+    final tonesRaw = _userInput['tones'];
+    final tones = tonesRaw != null
+        ? (tonesRaw is List<String>
+            ? tonesRaw
+            : List<String>.from((tonesRaw as List<dynamic>).map((e) => e.toString())))
+        : <String>[];
+    final toneCustom = _userInput['tone_custom']?.toString() ?? '';
+    if (tones.isNotEmpty || toneCustom.isNotEmpty) {
+      final toneLabels = tones.map((value) {
+        switch (value) {
+          case 'bright': return '밝고 활기찬';
+          case 'healing': return '힐링/여유로운';
+          case 'hip': return '힙한/트렌디한';
+          case 'funny': return '재미있는/유머';
+          case 'informative': return '정보전달/깔끔한';
+          case 'vintage': return '빈티지/레트로';
+          default: return value;
+        }
+      }).toList();
+
+      if (toneCustom.isNotEmpty) {
+        toneLabels.add(toneCustom);
+      }
+
+      promptData['tone_manners'] = toneLabels.join(', ');
+    }
+
+    // 대상 시청자
+    if (_userInput['target_audience']?.toString().isNotEmpty ?? false) {
+      promptData['target_audience'] = _userInput['target_audience'].toString();
+    }
+
+    // 촬영 장소
+    if (_userInput['location']?.toString().isNotEmpty ?? false) {
+      promptData['location'] = _userInput['location'].toString();
+    }
+
+    // 필수 촬영 장소
+    final requiredLocationsRaw = _userInput['required_locations'];
+    final requiredLocations = requiredLocationsRaw != null
+        ? (requiredLocationsRaw is List<String>
+            ? requiredLocationsRaw
+            : List<String>.from((requiredLocationsRaw as List<dynamic>).map((e) => e.toString())))
+        : <String>[];
+    if (requiredLocations.isNotEmpty) {
+      promptData['required_location'] = requiredLocations.join(', ');
+    }
+
+    // 시간/날씨
+    if (_userInput['time_weather']?.toString().isNotEmpty ?? false) {
+      promptData['time_weather'] = _userInput['time_weather'].toString();
+    }
+
+    // 사용 장비 (멀티 선택 + 기타)
+    final equipmentRaw = _userInput['equipment'];
+    final equipment = equipmentRaw != null
+        ? (equipmentRaw is List<String>
+            ? equipmentRaw
+            : List<String>.from((equipmentRaw as List<dynamic>).map((e) => e.toString())))
+        : <String>[];
+    final equipmentCustom = _userInput['equipment_custom']?.toString() ?? '';
+    if (equipment.isNotEmpty || equipmentCustom.isNotEmpty) {
+      final equipmentLabels = equipment.map((value) {
+        switch (value) {
+          case 'smartphone': return '스마트폰';
+          case 'dslr': return 'DSLR';
+          case 'action_cam': return '액션캠';
+          case 'tripod': return '삼각대';
+          case 'gimbal': return '짐벌';
+          case 'microphone': return '마이크';
+          default: return value;
+        }
+      }).toList();
+
+      if (equipmentCustom.isNotEmpty) {
+        equipmentLabels.add(equipmentCustom);
+      }
+
+      promptData['equipment'] = equipmentLabels.join(', ');
+    }
+
+    // 촬영 인원
+    promptData['crew_count'] = _userInput['crew_count'].toString();
+
+    // 촬영 제약 (멀티 선택 + 기타)
+    final restrictionsRaw = _userInput['restrictions'];
+    final restrictions = restrictionsRaw != null
+        ? (restrictionsRaw is List<String>
+            ? restrictionsRaw
+            : List<String>.from((restrictionsRaw as List<dynamic>).map((e) => e.toString())))
+        : <String>[];
+    final restrictionCustom = _userInput['restriction_custom']?.toString() ?? '';
+    if (restrictions.isNotEmpty || restrictionCustom.isNotEmpty) {
+      final restrictionLabels = restrictions.map((value) {
+        switch (value) {
+          case 'time_limit': return '시간 부족';
+          case 'budget_limit': return '예산 부족';
+          case 'solo_shooting': return '혼자 촬영';
+          case 'camera_shy': return '낯가림/출연 부담';
+          default: return value;
+        }
+      }).toList();
+
+      if (restrictionCustom.isNotEmpty) {
+        restrictionLabels.add(restrictionCustom);
+      }
+
+      promptData['restrictions'] = restrictionLabels.join(', ');
+    }
+
+    return promptData;
+  }
+
   void _showErrorDialog(String message) {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        backgroundColor: AppColors.cardBackground,
-        title: Text(
-          '오류',
-          style: AppTextStyles.heading3.copyWith(
-            color: AppColors.textPrimary,
-          ),
-        ),
-        content: Text(
-          message,
-          style: AppTextStyles.bodyMedium.copyWith(
-            color: AppColors.textSecondary,
-          ),
-        ),
+        backgroundColor: const Color(0xFFFAFAFA),
+        title: const Text('오류'),
+        content: Text(message),
         actions: [
           TextButton(
             onPressed: () => Navigator.pop(context),
-            child: Text(
-              '확인',
-              style: TextStyle(color: AppColors.primary),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-  
-  // 세그먼트 버튼 생성 헬퍼 메서드
-  Widget _buildSegmentButton(int index, String label) {
-    return Expanded(
-      child: GestureDetector(
-        onTap: () => _onSegmentTapped(index),
-        child: Container(
-          padding: const EdgeInsets.symmetric(vertical: 8),
-          alignment: Alignment.center,
-          color: Colors.transparent,
-          child: Text(
-            label,
-            style: AppTextStyles.segmentButton.copyWith(
-              color: _selectedSegment == index
-                  ? Colors.white
-                  : AppColors.textPrimary,
-              fontWeight: _selectedSegment == index
-                  ? FontWeight.w600
-                  : FontWeight.w400,
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Column(
-        children: [
-          // 헤더 영역 (타이틀 + 세그먼티드 컨트롤)
-          Container(
-            color: AppColors.white,
-            child: SafeArea(
-              bottom: false,
-              child: Column(
-                children: [
-                  // 페이지 타이틀
-                  Padding(
-                    padding: const EdgeInsets.only(top: 18.0, left: 5.0, right: 18.0),
-                    child: Row(
-                      children: [
-                        IconButton(
-                          icon: const Icon(Icons.arrow_back),
-                          color: AppColors.textPrimary,
-                          onPressed: () => Navigator.pop(context),
-                        ),
-                        Expanded(
-                          child: Text(
-                            '브이로그 기획',
-                            style: AppTextStyles.heading2.copyWith(
-                              color: AppColors.textPrimary,
-                            ),
-                            textAlign: TextAlign.center,
-                          ),
-                        ),
-                        const SizedBox(width: 35),  // 오른쪽 여백 (화살표 버튼 크기만큼)
-                      ],
-                    ),
-                  ),
-                  
-                  // 세그먼티드 컨트롤 (iOS 스타일)
-                  Padding(
-                    padding: const EdgeInsets.only(top: 10.0, bottom: 8.0, left: 18.0, right: 18.0),
-                    child: LayoutBuilder(
-                      builder: (context, constraints) {
-                        final segmentWidth = (constraints.maxWidth - 6) / 3;  // padding all(3) = 좌우 6
-                        return Container(
-                          decoration: BoxDecoration(
-                            color: AppColors.lightGrey,
-                            borderRadius: BorderRadius.circular(13),
-                          ),
-                          padding: const EdgeInsets.all(3),
-                          child: Stack(
-                            children: [
-                              // 애니메이션되는 선택 표시
-                              AnimatedPositioned(
-                                duration: const Duration(milliseconds: 150),
-                                curve: Curves.easeInOut,
-                                left: _selectedSegment * segmentWidth,
-                                top: 0,
-                                bottom: 0,
-                                width: segmentWidth,
-                                child: Container(
-                                  decoration: BoxDecoration(
-                                    color: AppColors.primary,
-                                    borderRadius: BorderRadius.circular(10),
-                                  ),
-                                ),
-                              ),
-                              // 버튼들
-                              Row(
-                                children: [
-                                  _buildSegmentButton(0, '컨셉&스타일'),
-                                  _buildSegmentButton(1, '상세 기획'),
-                                  _buildSegmentButton(2, '환경&제약'),
-                                ],
-                              ),
-                            ],
-                          ),
-                        );
-                      },
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ),
-          
-          // 페이지뷰 (스와이프 가능)
-          Expanded(
-            child: GestureDetector(
-              onHorizontalDragEnd: _onHorizontalDragEnd,
-              child: PageView(
-                controller: _pageController,
-                onPageChanged: _onPageChanged,
-                physics: const PageScrollPhysics(parent: ClampingScrollPhysics()),
-                children: [
-                  ConceptStyleTab(
-                    onDurationChanged: (value) => _updateUserInput('target_duration', value),
-                    onInputChanged: (key, value) => _updateUserInputFromTab(key, value),
-                    initialValues: _userInput,
-                  ),
-                  DetailPlanTab(
-                    onLocationChanged: (value) => _updateUserInput('location', value),
-                    onInputChanged: (key, value) => _updateUserInputFromTab(key, value),
-                    initialValues: _userInput,
-                  ),
-                  EnvironmentTab(
-                    onEquipmentChanged: (value) => _updateUserInput('equipment', value),
-                    onTimeWeatherChanged: (value) => _updateUserInput('time_weather', value),
-                    onDifficultyChanged: (value) => _updateUserInput('difficulty', value),
-                    onInputChanged: (key, value) => _updateUserInputFromTab(key, value),
-                    initialValues: _userInput,
-                  ),
-                ],
-              ),
-            ),
-          ),
-          
-          // 완료 버튼 (bottomNavigationBar 위에 위치)
-          SafeArea(
-            top: false,
-            child: Padding(
-              padding: const EdgeInsets.all(18.0),
-              child: SizedBox(
-                width: double.infinity,
-                  child: ElevatedButton(
-                    onPressed: _isLoading ? null : _generateVlogPlan,
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: AppColors.primary,
-                    foregroundColor: Colors.white,
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(13),
-                    ),
-                  ),
-                  child: _isLoading
-                      ? const SizedBox(
-                          height: 20,
-                          width: 20,
-                          child: CircularProgressIndicator(
-                            strokeWidth: 2,
-                            valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
-                          ),
-                        )
-                      : Text(
-                          '완료',
-                          style: AppTextStyles.button.copyWith(
-                            color: Colors.white,
-                          ),
-                        ),
-                ),
-              ),
-            ),
+            child: const Text('확인'),
           ),
         ],
       ),
     );
   }
 }
-

@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import '../constants/app_colors.dart';
+import '../ui/styles.dart';
 import '../constants/app_styles.dart';
 import '../services/vlog_data_service.dart';
 
@@ -41,7 +41,7 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
         markerId: MarkerId('marker_${location.order}'),
         position: LatLng(location.latitude, location.longitude),
         infoWindow: InfoWindow(
-          title: '${location.order}. ${location.name}',
+          title: location.name,
           snippet: location.description,
         ),
         icon: BitmapDescriptor.defaultMarkerWithHue(
@@ -96,7 +96,7 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(13),
             border: Border.all(
-              color: AppColors.grey.withOpacity(0.3),
+              color: AppColors.gray.withOpacity(0.3),
               width: 1,
             ),
           ),
@@ -134,7 +134,7 @@ class _ShootingRouteMapState extends State<ShootingRouteMap> {
               // 로딩 인디케이터
               if (_isMapLoading)
                 Container(
-                  color: AppColors.cardBackground,
+                  color: AppColors.white,
                   child: Center(
                     child: CircularProgressIndicator(
                       color: AppColors.primary,

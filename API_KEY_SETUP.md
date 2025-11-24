@@ -1,6 +1,8 @@
 # API 키 설정 가이드
 
-## 1. OpenAI API 키 발급받기
+## 1. 필수 API 키
+
+### OpenAI API 키 (필수)
 
 1. [OpenAI 플랫폼](https://platform.openai.com/)에 접속합니다
 2. 로그인 후 [API Keys 페이지](https://platform.openai.com/api-keys)로 이동합니다
@@ -8,15 +10,35 @@
 4. 키 이름을 입력하고 생성합니다
 5. 생성된 API 키를 복사합니다 (다시 볼 수 없으니 안전한 곳에 보관하세요!)
 
-## 2. API 키 설정하기
+## 2. 선택적 API 키
+
+### YouTube Data API v3 키 (선택사항)
+
+**용도**: 각 씬의 레퍼런스 영상을 YouTube에서 자동으로 검색
+
+1. [Google Cloud Console](https://console.cloud.google.com/)에 접속합니다
+2. 새 프로젝트를 만들거나 기존 프로젝트를 선택합니다
+3. [API 라이브러리](https://console.cloud.google.com/apis/library)로 이동합니다
+4. "YouTube Data API v3"를 검색하고 활성화합니다
+5. [API 및 서비스 > 사용자 인증 정보](https://console.cloud.google.com/apis/credentials)로 이동합니다
+6. "사용자 인증 정보 만들기" > "API 키"를 선택합니다
+7. 생성된 API 키를 복사합니다
+
+**참고**: YouTube API 키가 없으면 레퍼런스 영상 검색이 건너뛰어지며, 앱의 다른 기능은 정상 작동합니다.
+
+## 3. API 키 설정하기
 
 ### 방법 1: .env 파일 사용 (권장)
 
 1. `assets/.env` 파일을 엽니다
-2. `OPENAI_API_KEY=` 뒤에 발급받은 API 키를 붙여넣습니다
+2. 발급받은 API 키들을 입력합니다
 
 ```env
+# 필수
 OPENAI_API_KEY=sk-proj-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# 선택사항 (있으면 추가)
+YOUTUBE_API_KEY=AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
 3. 앱을 재시작합니다
@@ -38,17 +60,28 @@ void main() async {
 
 ⚠️ **주의**: 방법 2는 테스트용으로만 사용하고, 실제 배포 시에는 .env 파일을 사용하세요!
 
-## 3. API 키 확인하기
+## 4. API 키 확인하기
 
-앱을 실행하고 사용자 입력을 완료한 후, 콘솔에서 다음 메시지를 확인하세요:
+앱을 실행하고 사용자 입력을 완료한 후, 콘솔에서 다음 메시지들을 확인하세요:
 
+**OpenAI API:**
 ```
 [OPENAI_API] API 키 확인됨: sk-proj-xx...
 ```
 
-이 메시지가 보이면 API 키가 정상적으로 설정된 것입니다.
+**YouTube API (선택사항):**
+```
+[YOUTUBE_API] 검색 쿼리: 워밍업 스트레칭 브이로그
+[YOUTUBE_API] ✅ 레퍼런스 영상 찾음: 10분 전신 스트레칭...
+```
 
-## 4. 문제 해결
+YouTube API 키가 없으면:
+```
+[YOUTUBE_API] ⚠️ YouTube API 키가 설정되지 않았습니다.
+[YOUTUBE_API] API 키가 없어 검색을 건너뜁니다.
+```
+
+## 5. 문제 해결
 
 ### "API 키가 설정되지 않았습니다" 오류
 
@@ -62,7 +95,7 @@ void main() async {
 - OpenAI 계정에 크레딧이 있는지 확인
 - 인터넷 연결 상태 확인
 
-## 5. 비용 관리
+## 6. 비용 관리
 
 OpenAI API는 사용량에 따라 비용이 발생합니다:
 
@@ -81,7 +114,16 @@ OpenAI API는 사용량에 따라 비용이 발생합니다:
 
 [OpenAI 사용량 대시보드](https://platform.openai.com/usage)에서 사용량을 확인할 수 있습니다.
 
-## 6. 보안 주의사항
+### YouTube Data API 비용
+
+YouTube Data API v3는 **할당량 기반**입니다:
+- **일일 무료 할당량**: 10,000 units
+- **검색 1회**: 100 units
+- **약 100회 검색/일 무료**
+
+한 번의 스토리보드 생성(10개 씬)에 약 1,000 units (10회 검색) 사용하므로, **하루에 약 10개의 스토리보드**를 무료로 생성할 수 있습니다.
+
+## 7. 보안 주의사항
 
 ⚠️ **절대로 하지 말아야 할 것들:**
 - API 키를 GitHub 등 공개 저장소에 커밋하지 마세요

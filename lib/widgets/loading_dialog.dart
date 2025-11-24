@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../constants/app_colors.dart';
+import '../ui/styles.dart';
 import '../constants/app_styles.dart';
 
 class LoadingDialog extends StatelessWidget {
@@ -21,7 +21,7 @@ class LoadingDialog extends StatelessWidget {
       child: Container(
         padding: const EdgeInsets.all(24.0),
         decoration: BoxDecoration(
-          color: AppColors.cardBackground,
+          color: AppColors.white,
           borderRadius: BorderRadius.circular(16),
         ),
         child: Column(
@@ -36,7 +36,7 @@ class LoadingDialog extends StatelessWidget {
                       value: progress,
                       strokeWidth: 4,
                       valueColor: AlwaysStoppedAnimation<Color>(AppColors.primary),
-                      backgroundColor: AppColors.grey.withOpacity(0.3),
+                      backgroundColor: AppColors.gray.withOpacity(0.3),
                     )
                   : CircularProgressIndicator(
                       strokeWidth: 4,

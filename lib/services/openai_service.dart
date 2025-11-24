@@ -3,15 +3,91 @@ import 'dart:convert';
 import '../config/api_config.dart';
 import '../constants/prompts.dart';
 import '../models/cue_template.dart';
-import '../models/plan.dart';
 import '../models/cue_card.dart';
 import 'template_matching_service.dart';
-import 'vlog_data_service.dart';
+import 'vlog_data_service.dart'; // Plan도 export됨
+import 'progress_notification_service.dart';
 
 class OpenAIService {
   static const String _baseUrl = 'https://api.openai.com/v1/chat/completions';
   static const String _model = 'gpt-3.5-turbo';
-  static const String _fineTunedModel = 'ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CUv7VoVY';
+  // Updated fine-tuned model (59 templates, trained on 2025-11-20)
+  static const String _fineTunedModel = 'ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CdoLdEtq';
+  
+  // Fine-tuned models 목록 조회 (최신 모델 확인용)
+  static Future<List<Map<String, dynamic>>> listFineTunedModels() async {
+    if (!ApiConfig.isApiKeySet) {
+      throw Exception('OpenAI API 키가 설정되지 않았습니다.');
+    }
+    
+    try {
+      final response = await http.get(
+        Uri.parse('https://api.openai.com/v1/fine_tuning/jobs'),
+        headers: {
+          'Authorization': 'Bearer ${ApiConfig.apiKey}',
+        },
+      );
+      
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final jobs = data['data'] as List<dynamic>;
+        
+        // 완료된 fine-tuning job만 필터링하고 정렬
+        final completedJobs = jobs
+            .where((job) => job['status'] == 'succeeded')
+            .map((job) => {
+                  'id': job['fine_tuned_model'],
+                  'created_at': job['created_at'],
+                  'finished_at': job['finished_at'],
+                  'training_file': job['training_file'],
+                  'hyperparameters': job['hyperparameters'],
+                })
+            .toList();
+        
+        // 최신순으로 정렬
+        completedJobs.sort((a, b) {
+          final aTime = a['finished_at'] ?? a['created_at'] ?? 0;
+          final bTime = b['finished_at'] ?? b['created_at'] ?? 0;
+          return bTime.compareTo(aTime);
+        });
+        
+        return completedJobs.cast<Map<String, dynamic>>();
+      } else {
+        print('[OPENAI_API] Fine-tuned models 조회 실패: ${response.statusCode} - ${response.body}');
+        return [];
+      }
+    } catch (e) {
+      print('[OPENAI_API] Fine-tuned models 조회 오류: $e');
+      return [];
+    }
+  }
+  
+  // 현재 사용 중인 모델이 최신인지 확인
+  static Future<Map<String, dynamic>> checkCurrentModel() async {
+    final models = await listFineTunedModels();
+    
+    if (models.isEmpty) {
+      return {
+        'current': _fineTunedModel,
+        'isLatest': false,
+        'latest': null,
+        'message': 'Fine-tuned models를 조회할 수 없습니다.',
+      };
+    }
+    
+    final latestModel = models.first;
+    final isLatest = latestModel['id'] == _fineTunedModel;
+    
+    return {
+      'current': _fineTunedModel,
+      'isLatest': isLatest,
+      'latest': latestModel,
+      'allModels': models,
+      'message': isLatest
+          ? '현재 사용 중인 모델이 최신입니다.'
+          : '더 최신 모델이 있습니다: ${latestModel['id']}',
+    };
+  }
   
   static Future<String?> generateResponse(String prompt) async {
     if (!ApiConfig.isApiKeySet) {
@@ -81,7 +157,7 @@ class OpenAIService {
   // [DEPRECATED] 큐카드 생성 API 호출 - Fine-tuned model 사용으로 불필요
   // static Future<List<CueCard>> generateCueCards(List<CueTemplate> templates, Plan plan) async { ... }
   
-  // JSON 응답 정리 (코드 펜스 제거 등)
+  // JSON 응답 정리 (코드 펜스 제거, 제어 문자 제거 등)
   static String _cleanJsonResponse(String response) {
     // 코드 펜스 제거
     String cleaned = response.trim();
@@ -93,20 +169,288 @@ class OpenAIService {
     if (cleaned.endsWith('```')) {
       cleaned = cleaned.substring(0, cleaned.length - 3);
     }
-    return cleaned.trim();
+    cleaned = cleaned.trim();
+    
+    // JSON 문자열 값 내부의 제어 문자를 이스케이프
+    // 따옴표로 둘러싸인 문자열 값 내부의 제어 문자를 찾아서 이스케이프
+    final buffer = StringBuffer();
+    bool inString = false;
+    bool escaped = false;
+    
+    for (int i = 0; i < cleaned.length; i++) {
+      final char = cleaned[i];
+      final codeUnit = char.codeUnitAt(0);
+      
+      if (escaped) {
+        // 이스케이프 시퀀스 처리 중
+        buffer.write(char);
+        escaped = false;
+        continue;
+      }
+      
+      if (char == '\\') {
+        // 이스케이프 문자 시작
+        buffer.write(char);
+        escaped = true;
+        continue;
+      }
+      
+      if (char == '"' && (i == 0 || cleaned[i - 1] != '\\')) {
+        // 문자열 시작/끝 (이스케이프되지 않은 따옴표)
+        inString = !inString;
+        buffer.write(char);
+        continue;
+      }
+      
+      if (inString) {
+        // JSON 문자열 값 내부
+        // 제어 문자를 이스케이프된 형태로 변환
+        if (codeUnit == 0x0A) { // \n
+          buffer.write('\\n');
+        } else if (codeUnit == 0x0D) { // \r
+          buffer.write('\\r');
+        } else if (codeUnit == 0x09) { // \t
+          buffer.write('\\t');
+        } else if (codeUnit < 0x20) {
+          // 다른 제어 문자는 공백으로 대체
+          buffer.write(' ');
+        } else {
+          buffer.write(char);
+        }
+      } else {
+        // JSON 구조 부분 (키, 구분자 등)
+        // 구조 부분의 제어 문자는 제거
+        if (codeUnit >= 0x20 || codeUnit == 0x09 || codeUnit == 0x0A || codeUnit == 0x0D) {
+          buffer.write(char);
+        } else {
+          buffer.write(' ');
+        }
+      }
+    }
+    
+    return buffer.toString();
   }
   
   // Fine-tuned model을 사용한 통합 스토리보드 생성
+  // API 호출 헬퍼 함수 (JSON 파싱 및 정리 포함)
+  static Future<Map<String, dynamic>?> _callApiWithPrompt(String prompt, String stepName) async {
+    if (!ApiConfig.isApiKeySet) {
+      print('[OPENAI_API] API 키가 설정되지 않음');
+      throw Exception('OpenAI API 키가 설정되지 않았습니다.');
+    }
+
+    print('[OPENAI_API] $stepName API 호출 중...');
+
+    final response = await http.post(
+      Uri.parse(_baseUrl),
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer ${ApiConfig.apiKey}',
+      },
+      body: jsonEncode({
+        'model': _fineTunedModel,
+        'messages': [
+          {
+            'role': 'system',
+            'content': 'You are an expert vlog storyboard creator that generates comprehensive vlog shooting plans in JSON format. Always respond with valid JSON only, no markdown or code fences.',
+          },
+          {
+            'role': 'user',
+            'content': prompt,
+          },
+        ],
+        'temperature': 0.7,
+        'max_tokens': 16384, // API 최대값
+      }),
+    );
+
+    print('[OPENAI_API] $stepName 응답 상태: ${response.statusCode}');
+
+    if (response.statusCode == 200) {
+      final data = jsonDecode(response.body);
+      final content = data['choices'][0]['message']['content'];
+      print('[OPENAI_API] $stepName 응답 길이: ${content.length}');
+
+      // JSON 파싱 (제어 문자 제거 후)
+      final cleanedResponse = _cleanJsonResponse(content);
+      print('[OPENAI_API] $stepName 정리된 JSON 길이: ${cleanedResponse.length}');
+      
+      // JSON 파싱 시도
+      Map<String, dynamic> result;
+      try {
+        result = jsonDecode(cleanedResponse) as Map<String, dynamic>;
+      } catch (e) {
+        print('[OPENAI_API] $stepName JSON 파싱 실패, 추가 정리 시도: $e');
+        
+        // 오류 위치 찾기
+        if (e is FormatException) {
+          final offset = e.offset;
+          if (offset != null && offset < cleanedResponse.length) {
+            final start = (offset - 200).clamp(0, cleanedResponse.length);
+            final end = (offset + 200).clamp(0, cleanedResponse.length);
+            print('[OPENAI_API] $stepName 오류 위치 주변 (offset: $offset):');
+            print('[OPENAI_API] ${cleanedResponse.substring(start, end)}');
+          }
+        }
+        
+        // 추가 정리: 더 공격적인 정리 시도
+        String furtherCleaned = cleanedResponse;
+        
+        // 잘린 문자열 복구 시도
+        final openQuotes = furtherCleaned.split('"').length - 1;
+        if (openQuotes % 2 != 0) {
+          print('[OPENAI_API] $stepName ⚠️ 따옴표가 닫히지 않았습니다. 마지막 문자열 복구 시도...');
+          int lastOpenQuote = -1;
+          int quoteCount = 0;
+          for (int i = furtherCleaned.length - 1; i >= 0; i--) {
+            if (furtherCleaned[i] == '"' && (i == 0 || furtherCleaned[i - 1] != '\\')) {
+              quoteCount++;
+              if (quoteCount == 1) {
+                lastOpenQuote = i;
+                break;
+              }
+            }
+          }
+          
+          if (lastOpenQuote != -1) {
+            final afterQuote = furtherCleaned.substring(lastOpenQuote + 1);
+            final nextComma = afterQuote.indexOf(',');
+            final nextBrace = afterQuote.indexOf('}');
+            final nextBracket = afterQuote.indexOf(']');
+            final nextColon = afterQuote.indexOf(':');
+            
+            int cutPoint = afterQuote.length;
+            if (nextComma != -1 && nextComma < cutPoint) cutPoint = nextComma;
+            if (nextBrace != -1 && nextBrace < cutPoint) cutPoint = nextBrace;
+            if (nextBracket != -1 && nextBracket < cutPoint) cutPoint = nextBracket;
+            if (nextColon != -1 && nextColon < cutPoint) cutPoint = nextColon;
+            
+            if (cutPoint < afterQuote.length) {
+              furtherCleaned = furtherCleaned.substring(0, lastOpenQuote + 1 + cutPoint);
+            }
+            if (!furtherCleaned.endsWith('"')) {
+              furtherCleaned += '"';
+            }
+            print('[OPENAI_API] $stepName 잘린 문자열 복구 완료');
+          }
+        }
+        
+        // 닫히지 않은 객체/배열 닫기
+        int openBraces = furtherCleaned.split('{').length - 1;
+        int closeBraces = furtherCleaned.split('}').length - 1;
+        int openBrackets = furtherCleaned.split('[').length - 1;
+        int closeBrackets = furtherCleaned.split(']').length - 1;
+        
+        if (openBraces > closeBraces) {
+          furtherCleaned += '}' * (openBraces - closeBraces);
+          print('[OPENAI_API] $stepName 닫히지 않은 객체 ${openBraces - closeBraces}개 복구');
+        }
+        if (openBrackets > closeBrackets) {
+          furtherCleaned += ']' * (openBrackets - closeBrackets);
+          print('[OPENAI_API] $stepName 닫히지 않은 배열 ${openBrackets - closeBrackets}개 복구');
+        }
+        
+        // 제어 문자 처리
+        final regex = RegExp(r'"([^"\\]|\\.)*"');
+        furtherCleaned = furtherCleaned.replaceAllMapped(regex, (match) {
+          String value = match.group(0)!;
+          String cleaned = value.replaceAllMapped(RegExp(r'(?<!\\)(\n|\r|\t)'), (m) {
+            if (m.group(1) == '\n') return '\\n';
+            if (m.group(1) == '\r') return '\\r';
+            if (m.group(1) == '\t') return '\\t';
+            return m.group(0)!;
+          });
+          return cleaned;
+        });
+        
+        furtherCleaned = furtherCleaned.replaceAll(RegExp(r'[\x00-\x08\x0B\x0C\x0E-\x1F]'), ' ');
+        
+        try {
+          result = jsonDecode(furtherCleaned) as Map<String, dynamic>;
+        } catch (e2) {
+          print('[OPENAI_API] $stepName 추가 정리 후에도 파싱 실패: $e2');
+          final finalCleaned = furtherCleaned.replaceAll(RegExp(r'[\x00-\x1F]'), ' ');
+          result = jsonDecode(finalCleaned) as Map<String, dynamic>;
+        }
+      }
+
+      return result;
+    } else {
+      print('[OPENAI_API] $stepName API 오류: ${response.statusCode} - ${response.body}');
+      return null;
+    }
+  }
+
   static Future<Map<String, dynamic>?> generateStoryboardWithFineTunedModel(
     Map<String, String> userInput,
   ) async {
     try {
       // 새로운 스토리보드 생성 시 템플릿 캐시 초기화
       clearTemplateCache();
-      
-      final prompt = Prompts.buildFineTunedStoryboardPrompt(userInput);
 
-      print('[OPENAI_API] Fine-tuned model로 스토리보드 생성 중...');
+      print('[OPENAI_API] Fine-tuned model로 스토리보드 생성 중 (2단계 분할)...');
+
+      // 진행 상황 알림 시작
+      ProgressNotificationService().show(progress: 0.05, task: '영상 계획을 세우는 중...');
+
+      // 1단계: Plan 정보 + alternative_scenes 생성
+      final planPrompt = Prompts.buildFineTunedPlanPrompt(userInput);
+      ProgressNotificationService().update(progress: 0.1, task: '영상 계획을 세우는 중...');
+      final planData = await _callApiWithPrompt(planPrompt, '1단계: Plan 정보');
+      
+      if (planData == null) {
+        print('[OPENAI_API] 1단계 실패: Plan 정보 생성 실패');
+        ProgressNotificationService().hide();
+        return null;
+      }
+      
+      print('[OPENAI_API] 1단계 완료: Plan 정보 생성 성공');
+      print('[OPENAI_API]   - chapters 개수: ${(planData['chapters'] as List?)?.length ?? 0}');
+      print('[OPENAI_API]   - alternative_scenes 개수: ${(planData['alternative_scenes'] as List?)?.length ?? 0}');
+
+      // 2단계: Scenes 배열 생성
+      ProgressNotificationService().update(progress: 0.2, task: '씬 목록을 만드는 중...');
+      final scenesPrompt = Prompts.buildFineTunedScenesPrompt(userInput, planData);
+      ProgressNotificationService().update(progress: 0.25, task: '씬 목록을 만드는 중...');
+      final scenesData = await _callApiWithPrompt(scenesPrompt, '2단계: Scenes 배열');
+      
+      if (scenesData == null) {
+        print('[OPENAI_API] 2단계 실패: Scenes 배열 생성 실패');
+        ProgressNotificationService().hide();
+        return null;
+      }
+      
+      print('[OPENAI_API] 2단계 완료: Scenes 배열 생성 성공');
+      print('[OPENAI_API]   - scenes 개수: ${(scenesData['scenes'] as List?)?.length ?? 0}');
+
+      // 두 결과 합치기
+      final storyboard = <String, dynamic>{
+        ...planData,
+        'scenes': scenesData['scenes'] ?? [],
+      };
+
+      print('[OPENAI_API] 스토리보드 생성 완료: scenes ${(storyboard['scenes'] as List).length}개');
+      ProgressNotificationService().update(progress: 0.4, task: '스토리보드 정보를 정리하는 중...');
+      return storyboard;
+    } catch (e) {
+      print('[OPENAI_API] Fine-tuned model 스토리보드 생성 오류: $e');
+      ProgressNotificationService().hide();
+      return null;
+    }
+  }
+
+  // Fine-tuned model을 사용한 스토리보드 수정
+  static Future<Map<String, dynamic>?> modifyStoryboardWithFineTunedModel({
+    required Map<String, dynamic> currentStoryboard,
+    required String modificationRequest,
+  }) async {
+    try {
+      final prompt = Prompts.buildStoryboardModificationPrompt(
+        currentStoryboard: currentStoryboard,
+        modificationRequest: modificationRequest,
+      );
+
+      print('[OPENAI_API] Fine-tuned model로 스토리보드 수정 중...');
 
       if (!ApiConfig.isApiKeySet) {
         print('[OPENAI_API] API 키가 설정되지 않음');
@@ -132,28 +476,110 @@ class OpenAIService {
             },
           ],
           'temperature': 0.7,
-          'max_tokens': 8000,
+          'max_tokens': 16384, // API 최대값 (alternative_scenes 포함)
         }),
       );
 
-      print('[OPENAI_API] Fine-tuned model 응답 상태: ${response.statusCode}');
+      print('[OPENAI_API] Fine-tuned model 수정 응답 상태: ${response.statusCode}');
 
       if (response.statusCode == 200) {
         final data = jsonDecode(response.body);
         final content = data['choices'][0]['message']['content'];
-        print('[OPENAI_API] Fine-tuned model 응답 길이: ${content.length}');
+        print('[OPENAI_API] Fine-tuned model 수정 응답 길이: ${content.length}');
 
-        // JSON 파싱
+        // JSON 파싱 (제어 문자 제거 후)
         final cleanedResponse = _cleanJsonResponse(content);
-        final Map<String, dynamic> storyboard = jsonDecode(cleanedResponse);
+        print('[OPENAI_API] 정리된 JSON 길이: ${cleanedResponse.length}');
+        
+        // JSON 파싱 시도
+        Map<String, dynamic> storyboard;
+        try {
+          storyboard = jsonDecode(cleanedResponse) as Map<String, dynamic>;
+        } catch (e) {
+          print('[OPENAI_API] JSON 파싱 실패, 추가 정리 시도: $e');
+          
+          // 오류 위치 찾기
+          if (e is FormatException) {
+            final offset = e.offset;
+            if (offset != null && offset < cleanedResponse.length) {
+              final start = (offset - 200).clamp(0, cleanedResponse.length);
+              final end = (offset + 200).clamp(0, cleanedResponse.length);
+              print('[OPENAI_API] 오류 위치 주변 (offset: $offset):');
+              print('[OPENAI_API] ${cleanedResponse.substring(start, end)}');
+            }
+          } else {
+            print('[OPENAI_API] 오류 위치 주변: ${cleanedResponse.length > 1000 ? cleanedResponse.substring(0, 1000) : cleanedResponse}');
+          }
+          
+          // 추가 정리: 더 공격적인 정리 시도
+          String furtherCleaned = cleanedResponse;
+          
+          // 잘린 문자열 복구 시도: 마지막 따옴표가 닫히지 않은 경우
+          final openQuotes = furtherCleaned.split('"').length - 1;
+          if (openQuotes % 2 != 0) {
+            // 따옴표가 홀수 개면 마지막 문자열이 닫히지 않았을 가능성
+            print('[OPENAI_API] ⚠️ 따옴표가 닫히지 않았습니다. 마지막 문자열 복구 시도...');
+            // 마지막 불완전한 문자열을 찾아서 닫기
+            final lastQuoteIndex = furtherCleaned.lastIndexOf('"');
+            if (lastQuoteIndex != -1) {
+              // 마지막 따옴표 이후의 내용을 확인
+              final afterLastQuote = furtherCleaned.substring(lastQuoteIndex + 1);
+              // 줄바꿈이나 쉼표가 나오기 전까지의 내용을 문자열로 간주하고 닫기
+              final nextComma = afterLastQuote.indexOf(',');
+              final nextBrace = afterLastQuote.indexOf('}');
+              final nextBracket = afterLastQuote.indexOf(']');
+              int cutPoint = afterLastQuote.length;
+              if (nextComma != -1) cutPoint = nextComma;
+              if (nextBrace != -1 && nextBrace < cutPoint) cutPoint = nextBrace;
+              if (nextBracket != -1 && nextBracket < cutPoint) cutPoint = nextBracket;
+              
+              if (cutPoint < afterLastQuote.length) {
+                // 불완전한 문자열을 제거하고 닫기
+                furtherCleaned = furtherCleaned.substring(0, lastQuoteIndex + 1 + cutPoint);
+                if (!furtherCleaned.endsWith('"')) {
+                  furtherCleaned += '"';
+                }
+                print('[OPENAI_API] 잘린 문자열 복구 완료');
+              }
+            }
+          }
+          
+          // 1단계: JSON 문자열 값 내부의 이스케이프되지 않은 제어 문자 처리
+          final regex = RegExp(r'"([^"\\]|\\.)*"');
+          furtherCleaned = furtherCleaned.replaceAllMapped(regex, (match) {
+            String value = match.group(0)!;
+            String cleaned = value.replaceAllMapped(RegExp(r'(?<!\\)(\n|\r|\t)'), (m) {
+              if (m.group(1) == '\n') return '\\n';
+              if (m.group(1) == '\r') return '\\r';
+              if (m.group(1) == '\t') return '\\t';
+              return m.group(0)!;
+            });
+            return cleaned;
+          });
+          
+          // 2단계: 구조 부분의 제어 문자 제거
+          furtherCleaned = furtherCleaned.replaceAll(RegExp(r'[\x00-\x08\x0B\x0C\x0E-\x1F]'), ' ');
+          
+          try {
+            storyboard = jsonDecode(furtherCleaned) as Map<String, dynamic>;
+          } catch (e2) {
+            print('[OPENAI_API] 추가 정리 후에도 파싱 실패: $e2');
+            // 최종 시도: 모든 제어 문자를 공백으로 대체
+            final finalCleaned = furtherCleaned.replaceAll(RegExp(r'[\x00-\x1F]'), ' ');
+            storyboard = jsonDecode(finalCleaned) as Map<String, dynamic>;
+          }
+        }
 
+        ProgressNotificationService().update(progress: 0.8, task: '스토리보드 수정이 완료되었습니다');
         return storyboard;
       } else {
-        print('[OPENAI_API] Fine-tuned model API 오류: ${response.statusCode} - ${response.body}');
+        print('[OPENAI_API] Fine-tuned model 수정 API 오류: ${response.statusCode} - ${response.body}');
+        ProgressNotificationService().hide();
         return null;
       }
     } catch (e) {
-      print('[OPENAI_API] Fine-tuned model 스토리보드 생성 오류: $e');
+      print('[OPENAI_API] Fine-tuned model 스토리보드 수정 오류: $e');
+      ProgressNotificationService().hide();
       return null;
     }
   }
@@ -163,52 +589,159 @@ class OpenAIService {
     Map<String, dynamic> storyboard,
   ) async {
     try {
-      // Plan 생성
-      final plan = Plan.fromJson(storyboard);
+      // Plan 생성 전에 데이터 정리 (안전한 파싱을 위해)
+      final cleanedStoryboard = _cleanJsonForParsing(storyboard);
+      
+      // alternative_scenes 데이터 확인을 위한 디버그 로그
+      print('[OPENAI_API] JSON 응답에서 alternative_scenes 확인:');
+      if (cleanedStoryboard['alternative_scenes'] != null) {
+        final altScenesJson = cleanedStoryboard['alternative_scenes'];
+        print('[OPENAI_API]   - alternative_scenes 타입: ${altScenesJson.runtimeType}');
+        if (altScenesJson is List) {
+          print('[OPENAI_API]   - alternative_scenes 개수: ${altScenesJson.length}');
+          for (var i = 0; i < altScenesJson.length; i++) {
+            final altScene = altScenesJson[i];
+            if (altScene is Map) {
+              print('[OPENAI_API]     - 대체 씬 #${i + 1}: id=${altScene['id']}, title=${altScene['title']}');
+            }
+          }
+        } else {
+          print('[OPENAI_API]   - ⚠️ alternative_scenes가 List가 아닙니다: $altScenesJson');
+        }
+      } else {
+        print('[OPENAI_API]   - ⚠️ alternative_scenes가 JSON 응답에 없습니다');
+        print('[OPENAI_API]   - JSON 키 목록: ${cleanedStoryboard.keys.toList()}');
+      }
+      
+      // rationale 데이터 확인을 위한 디버그 로그
+      if (cleanedStoryboard['style_analysis'] != null) {
+        final styleAnalysis = cleanedStoryboard['style_analysis'] as Map<String, dynamic>;
+        if (styleAnalysis['rationale'] != null) {
+          final rationale = styleAnalysis['rationale'] as Map<String, dynamic>;
+          print('[OPENAI_API] rationale 데이터 발견:');
+          print('[OPENAI_API] - movement: ${rationale['movement']}');
+          print('[OPENAI_API] - location_diversity: ${rationale['location_diversity']}');
+          print('[OPENAI_API] - excitement_surprise: ${rationale['excitement_surprise']}');
+          print('[OPENAI_API] - speed_rhythm: ${rationale['speed_rhythm']}');
+          print('[OPENAI_API] - emotional_expression: ${rationale['emotional_expression']}');
+        } else {
+          print('[OPENAI_API] ⚠️ rationale 데이터가 없습니다');
+        }
+      } else {
+        print('[OPENAI_API] ⚠️ style_analysis 데이터가 없습니다');
+      }
+      
+      final plan = Plan.fromJson(cleanedStoryboard);
+      
+      // 대체 씬 생성 여부 확인
+      if (plan.alternativeScenes.isNotEmpty) {
+        print('[OPENAI_API] ✅ 대체 씬 생성 완료: ${plan.alternativeScenes.length}개');
+        for (var i = 0; i < plan.alternativeScenes.length; i++) {
+          final altScene = plan.alternativeScenes[i];
+          print('[OPENAI_API]   - 대체 씬 #${i + 1} (${altScene.alternativeSceneId ?? "id 없음"}): ${altScene.title}');
+        }
+      } else {
+        print('[OPENAI_API] ⚠️ 대체 씬이 생성되지 않았습니다');
+      }
+      
+      // 파싱 후 rationale 확인
+      if (plan.styleAnalysis?.rationale != null) {
+        final rationale = plan.styleAnalysis!.rationale!;
+        print('[OPENAI_API] 파싱된 rationale:');
+        print('[OPENAI_API] - movement: ${rationale.movement}');
+        print('[OPENAI_API] - locationDiversity: ${rationale.locationDiversity}');
+        print('[OPENAI_API] - excitementSurprise: ${rationale.excitementSurprise}');
+        print('[OPENAI_API] - speedRhythm: ${rationale.speedRhythm}');
+        print('[OPENAI_API] - emotionalExpression: ${rationale.emotionalExpression}');
+      } else {
+        print('[OPENAI_API] ⚠️ 파싱된 rationale이 null입니다');
+      }
 
       // CueCards 생성
-      final scenesJson = storyboard['scenes'] as List<dynamic>?;
+      final scenesJson = cleanedStoryboard['scenes'] as List<dynamic>?;
       if (scenesJson == null || scenesJson.isEmpty) {
         print('[OPENAI_API] scenes 데이터가 없습니다');
         return null;
       }
 
       final cueCards = <CueCard>[];
+      int scenesWithAlternativeId = 0;
+      int scenesWithoutAlternativeId = 0;
+      final alternativeIdCounts = <String, int>{};
+      
       for (var sceneJson in scenesJson) {
-        final scene = sceneJson as Map<String, dynamic>;
+        // scene도 정리
+        final scene = sceneJson is Map<String, dynamic> 
+            ? _cleanJsonForParsing(sceneJson) 
+            : (sceneJson as Map<String, dynamic>);
 
-        // CueCard 생성
+        // 대체 씬 ID 확인
+        final alternativeSceneId = scene['alternative_scene_id'] != null ? _safeString(scene['alternative_scene_id']) : null;
+        if (alternativeSceneId != null) {
+          scenesWithAlternativeId++;
+          alternativeIdCounts[alternativeSceneId] = (alternativeIdCounts[alternativeSceneId] ?? 0) + 1;
+        } else {
+          scenesWithoutAlternativeId++;
+        }
+
+        // CueCard 생성 (안전한 파싱 사용)
         final cueCard = CueCard(
-          title: scene['title'] as String? ?? '',
-          allocatedSec: scene['allocated_sec'] as int? ?? 0,
-          trigger: scene['trigger'] as String? ?? '',
-          summary: (scene['summary'] as List<dynamic>?)
-                  ?.map((e) => e.toString())
-                  .toList() ??
-              [],
-          steps: (scene['steps'] as List<dynamic>?)
-                  ?.map((e) => e.toString())
-                  .toList() ??
-              [],
-          checklist: (scene['checklist'] as List<dynamic>?)
-                  ?.map((e) => e.toString())
-                  .toList() ??
-              [],
-          fallback: scene['fallback'] as String? ?? '',
-          startHint: scene['start_hint'] as String? ?? '',
-          stopHint: scene['stop_hint'] as String? ?? '',
-          completionCriteria: scene['completion_criteria'] as String? ?? '',
-          tone: scene['tone'] as String? ?? '',
-          styleVibe: scene['style_vibe'] as String? ?? '',
-          targetAudience: scene['target_audience'] as String? ?? '',
-          script: scene['script'] as String? ?? '',
-          pro: scene['pro'] != null
+          title: _safeString(scene['title']),
+          allocatedSec: _safeInt(scene['allocated_sec']),
+          trigger: _safeString(scene['trigger']),
+          summary: scene['summary'] != null
+              ? List<String>.from((scene['summary'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          steps: scene['steps'] != null
+              ? List<String>.from((scene['steps'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          checklist: scene['checklist'] != null
+              ? List<String>.from((scene['checklist'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          fallback: _safeString(scene['fallback']),
+          startHint: _safeString(scene['start_hint']),
+          stopHint: _safeString(scene['stop_hint']),
+          completionCriteria: _safeString(scene['completion_criteria']),
+          tone: _safeString(scene['tone']),
+          styleVibe: _safeString(scene['style_vibe']),
+          targetAudience: _safeString(scene['target_audience']),
+          script: _safeString(scene['script']),
+          // 새로운 필드들
+          shotComposition: scene['shot_composition'] != null
+              ? List<String>.from((scene['shot_composition'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          shootingInstructions: scene['shooting_instructions'] != null
+              ? List<String>.from((scene['shooting_instructions'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          location: _safeString(scene['location']),
+          cost: _safeInt(scene['cost']),
+          peopleCount: _safeInt(scene['people_count'], defaultValue: 1),
+          shootingTimeMin: _safeInt(scene['shooting_time_min'], defaultValue: 30),
+          storyboardImageUrl: scene['storyboard_image_url'] != null ? _safeString(scene['storyboard_image_url']) : null,
+          referenceVideoUrl: scene['reference_video_url'] != null ? _safeString(scene['reference_video_url']) : null,
+          referenceVideoTimestamp: _safeInt(scene['reference_video_timestamp']),
+          pro: scene['pro'] != null && scene['pro'] is Map<String, dynamic>
               ? _parsePro(scene['pro'] as Map<String, dynamic>)
               : null,
           rawMarkdown: '',
+          // 대체 씬 ID 할당 (Plan 레벨의 alternative_scenes와 매칭)
+          alternativeSceneId: alternativeSceneId,
         );
 
         cueCards.add(cueCard);
+      }
+
+      // 대체 씬 ID 할당 통계 로그
+      print('[OPENAI_API] 대체 씬 ID 할당 통계:');
+      print('[OPENAI_API]   - 대체 씬 ID가 있는 씬: ${scenesWithAlternativeId}개');
+      if (scenesWithoutAlternativeId > 0) {
+        print('[OPENAI_API]   - ⚠️ 대체 씬 ID가 없는 씬: ${scenesWithoutAlternativeId}개');
+      }
+      if (alternativeIdCounts.isNotEmpty) {
+        print('[OPENAI_API]   - 대체 씬 ID별 할당 현황:');
+        alternativeIdCounts.forEach((id, count) {
+          print('[OPENAI_API]     • $id: ${count}개 씬');
+        });
       }
 
       print('[OPENAI_API] Plan과 ${cueCards.length}개의 CueCard 파싱 완료');
@@ -219,33 +752,134 @@ class OpenAIService {
     }
   }
 
+  // JSON 데이터 정리 (List를 String으로 잘못 캐스팅하는 것을 방지)
+  static Map<String, dynamic> _cleanJsonForParsing(Map<String, dynamic> json) {
+    final cleaned = <String, dynamic>{};
+    
+    json.forEach((key, value) {
+      if (value == null) {
+        cleaned[key] = null;
+      } else if (value is Map) {
+        cleaned[key] = _cleanJsonForParsing(value as Map<String, dynamic>);
+      } else if (value is List) {
+        // List는 그대로 유지 (Plan.fromJson에서 처리)
+        cleaned[key] = value;
+      } else if (value is String || value is int || value is double || value is bool) {
+        cleaned[key] = value;
+      } else {
+        // 예상치 못한 타입은 문자열로 변환
+        cleaned[key] = value.toString();
+      }
+    });
+    
+    return cleaned;
+  }
+
+  // 대체 씬 파싱 헬퍼 함수
+  static List<CueCard> _parseAlternativeScenes(List<dynamic> alternativeScenes, Map<String, dynamic> parentScene) {
+    final altScenes = <CueCard>[];
+
+    for (var altSceneJson in alternativeScenes) {
+      if (altSceneJson is! Map<String, dynamic>) continue;
+
+      final altScene = altSceneJson as Map<String, dynamic>;
+
+      try {
+        final altCueCard = CueCard(
+          title: _safeString(altScene['title']),
+          allocatedSec: _safeInt(altScene['allocated_sec']),
+          trigger: _safeString(altScene['trigger']),
+          summary: altScene['summary'] != null
+              ? List<String>.from((altScene['summary'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          steps: altScene['steps'] != null
+              ? List<String>.from((altScene['steps'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          checklist: altScene['checklist'] != null
+              ? List<String>.from((altScene['checklist'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          fallback: _safeString(altScene['fallback']),
+          startHint: _safeString(altScene['start_hint']),
+          stopHint: _safeString(altScene['stop_hint']),
+          completionCriteria: _safeString(altScene['completion_criteria']),
+          tone: _safeString(altScene['tone']),
+          styleVibe: _safeString(altScene['style_vibe']),
+          targetAudience: _safeString(altScene['target_audience']),
+          script: _safeString(altScene['script']),
+          shotComposition: altScene['shot_composition'] != null
+              ? List<String>.from((altScene['shot_composition'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          shootingInstructions: altScene['shooting_instructions'] != null
+              ? List<String>.from((altScene['shooting_instructions'] as List<dynamic>).map((e) => e.toString()))
+              : [],
+          location: _safeString(altScene['location']),
+          cost: _safeInt(altScene['cost']),
+          peopleCount: _safeInt(altScene['people_count'], defaultValue: 1),
+          shootingTimeMin: _safeInt(altScene['shooting_time_min'], defaultValue: 30),
+          storyboardImageUrl: altScene['storyboard_image_url'] != null ? _safeString(altScene['storyboard_image_url']) : null,
+          referenceVideoUrl: altScene['reference_video_url'] != null ? _safeString(altScene['reference_video_url']) : null,
+          referenceVideoTimestamp: _safeInt(altScene['reference_video_timestamp']),
+          pro: null, // 대체 씬은 pro 필드를 가지지 않음
+          rawMarkdown: '',
+          alternativeSceneId: null, // 대체 씬은 alternativeSceneId를 가지지 않음
+        );
+
+        altScenes.add(altCueCard);
+      } catch (e) {
+        print('[OPENAI_API] 대체 씬 파싱 오류: $e');
+        // 파싱 실패 시 해당 대체 씬은 건너뛰고 계속 진행
+        continue;
+      }
+    }
+
+    return altScenes;
+  }
+
+  // 안전한 String 파싱 헬퍼 함수
+  static String _safeString(dynamic value, {String defaultValue = ''}) {
+    if (value == null) return defaultValue;
+    if (value is String) return value;
+    if (value is List && value.isNotEmpty) {
+      // List인 경우 첫 번째 요소를 문자열로 변환
+      return value[0].toString();
+    }
+    return value.toString();
+  }
+
+  // 안전한 int 파싱 헬퍼 함수
+  static int _safeInt(dynamic value, {int defaultValue = 0}) {
+    if (value == null) return defaultValue;
+    if (value is int) return value;
+    if (value is String) {
+      return int.tryParse(value) ?? defaultValue;
+    }
+    if (value is double) {
+      return value.toInt();
+    }
+    return defaultValue;
+  }
+
   // Pro 정보 파싱
   static CueCardPro _parsePro(Map<String, dynamic> proJson) {
     return CueCardPro(
-      framing: (proJson['framing'] as List<dynamic>?)
-              ?.map((e) => e.toString())
-              .toList() ??
-          [],
-      audio: (proJson['audio'] as List<dynamic>?)
-              ?.map((e) => e.toString())
-              .toList() ??
-          [],
-      dialogue: (proJson['dialogue'] as List<dynamic>?)
-              ?.map((e) => e.toString())
-              .toList() ??
-          [],
-      editHint: (proJson['edit_hint'] as List<dynamic>?)
-              ?.map((e) => e.toString())
-              .toList() ??
-          [],
-      safety: (proJson['safety'] as List<dynamic>?)
-              ?.map((e) => e.toString())
-              .toList() ??
-          [],
-      broll: (proJson['broll'] as List<dynamic>?)
-              ?.map((e) => e.toString())
-              .toList() ??
-          [],
+      framing: proJson['framing'] != null
+          ? List<String>.from((proJson['framing'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      audio: proJson['audio'] != null
+          ? List<String>.from((proJson['audio'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      dialogue: proJson['dialogue'] != null
+          ? List<String>.from((proJson['dialogue'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      editHint: proJson['edit_hint'] != null
+          ? List<String>.from((proJson['edit_hint'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      safety: proJson['safety'] != null
+          ? List<String>.from((proJson['safety'] as List<dynamic>).map((e) => e.toString()))
+          : [],
+      broll: proJson['broll'] != null
+          ? List<String>.from((proJson['broll'] as List<dynamic>).map((e) => e.toString()))
+          : [],
     );
   }
 

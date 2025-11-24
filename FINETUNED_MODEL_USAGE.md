@@ -4,7 +4,13 @@
 
 이 프로젝트는 OpenAI의 Fine-tuned GPT-4o 모델을 사용하여 사용자 입력으로부터 완전한 브이로그 스토리보드를 생성합니다.
 
-**Fine-tuned Model ID**: `ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CUv7VoVY`
+**Fine-tuned Model ID**: `ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CdoLdEtq`
+
+**업데이트 내역** (2025-11-20):
+- 59개 템플릿으로 재학습 (기존 43개 → 59개)
+- Training set: 47개, Validation set: 12개
+- 학습 시간: 약 42분
+- 주요 카테고리: Travel (32), Food (4), Daily (4), 기타
 
 ## 주요 기능
 
@@ -247,7 +253,7 @@ List<CueCard> scenes = dataService.cueCards ?? [];
 
 2. **모델 ID**: Fine-tuned model ID가 정확해야 합니다:
    ```dart
-   static const String _fineTunedModel = 'ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CUv7VoVY';
+   static const String _fineTunedModel = 'ft:gpt-4o-2024-08-06:ael-kaist:vlog-template-v1:CdoLdEtq';
    ```
 
 3. **응답 시간**: Fine-tuned model은 많은 데이터를 생성하므로 응답 시간이 10-30초 정도 걸릴 수 있습니다.

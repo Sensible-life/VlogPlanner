@@ -2,6 +2,7 @@ import '../models/cue_template.dart';
 import '../models/plan.dart';
 import '../models/cue_card.dart';
 import '../models/chapter.dart';
+import 'firestore_service.dart';
 
 // Plan 내부 클래스들도 사용 가능하도록
 export '../models/plan.dart';
@@ -25,6 +26,49 @@ class SavedStoryboard {
     required this.cueCards,
     this.mainThumbnail,
   });
+
+  Map<String, dynamic> toJson() {
+    return {
+      'id': id,
+      'title': title,
+      'created_at': createdAt.toIso8601String(),
+      'user_input': userInput,
+      'plan': plan.toJson(),
+      'cue_cards': cueCards.map((c) => c.toJson()).toList(),
+      if (mainThumbnail != null) 'main_thumbnail': mainThumbnail,
+    };
+  }
+
+  factory SavedStoryboard.fromJson(Map<String, dynamic> json) {
+    final planJson = json['plan'] as Map<String, dynamic>? ?? {};
+    print('[VLOG_DATA] SavedStoryboard.fromJson - plan JSON 확인');
+    print('[VLOG_DATA]   - alternative_scenes 존재: ${planJson.containsKey('alternative_scenes')}');
+    if (planJson.containsKey('alternative_scenes')) {
+      final altScenes = planJson['alternative_scenes'];
+      print('[VLOG_DATA]   - alternative_scenes 타입: ${altScenes.runtimeType}');
+      if (altScenes is List) {
+        print('[VLOG_DATA]   - alternative_scenes 개수: ${altScenes.length}');
+      }
+    }
+    
+    final plan = Plan.fromJson(planJson);
+    print('[VLOG_DATA] SavedStoryboard.fromJson - Plan 파싱 완료');
+    print('[VLOG_DATA]   - Plan.alternativeScenes 개수: ${plan.alternativeScenes.length}');
+    
+    return SavedStoryboard(
+      id: json['id'] as String? ?? '',
+      title: json['title'] as String? ?? '',
+      createdAt: json['created_at'] != null
+          ? DateTime.parse(json['created_at'] as String)
+          : DateTime.now(),
+      userInput: Map<String, String>.from(json['user_input'] as Map? ?? {}),
+      plan: plan,
+      cueCards: (json['cue_cards'] as List<dynamic>?)
+              ?.map((e) => CueCard.fromJson(e as Map<String, dynamic>))
+              .toList() ?? [],
+      mainThumbnail: json['main_thumbnail'] as String?,
+    );
+  }
 }
 
 /// 브이로그 데이터를 관리하는 싱글톤 서비스
@@ -32,6 +76,9 @@ class VlogDataService {
   static final VlogDataService _instance = VlogDataService._internal();
   factory VlogDataService() => _instance;
   VlogDataService._internal();
+
+  // Firebase 서비스
+  final FirestoreService _firestoreService = FirestoreService();
 
   // 사용자 입력 정보
   Map<String, String> userInput = {};
@@ -41,10 +88,14 @@ class VlogDataService {
   Plan? plan;
   List<CueCard>? cueCards;
 
-  // 저장된 스토리보드 목록
+  // 저장된 스토리보드 목록 (캐시)
   final List<SavedStoryboard> _savedStoryboards = [];
   String? _currentStoryboardId;
   bool _sampleDataInitialized = false;
+  bool _firestoreLoaded = false;
+
+  // 구도 이미지 저장: sceneId -> checklistIndex -> imageUrl
+  final Map<String, Map<int, String>> _compositionImages = {};
 
   // 데이터 초기화
   void reset() {
@@ -86,7 +137,7 @@ class VlogDataService {
         Chapter(id: '맛집 투어 & 마무리', allocSec: 120, alternatives: []),
       ],
       styleAnalysis: StyleAnalysis(
-        tone: '밝고 경쾌한',
+        tone: '차분함',
         vibe: 'MZ 힐링',
         pacing: '적당한 템포',
         visualStyle: ['자연 풍경', '밝은 색감', '카페 감성'],
@@ -109,14 +160,14 @@ class VlogDataService {
         estimatedWalkingMinutes: 120,
       ),
       budget: Budget(
-        totalBudget: 150000,
+        totalBudget: 40000,
         items: [
-          BudgetItem(category: '입장료', amount: 20000, description: '성산일출봉, 섭지코지'),
-          BudgetItem(category: '식사', amount: 60000, description: '점심, 저녁 맛집'),
-          BudgetItem(category: '카페', amount: 30000, description: '카페 2-3곳'),
-          BudgetItem(category: '교통비', amount: 40000, description: '렌터카 주유비 등'),
+          BudgetItem(category: '입장료', amount: 5000, description: '성산일출봉, 섭지코지'),
+          BudgetItem(category: '식사', amount: 15000, description: '점심, 저녁 맛집'),
+          BudgetItem(category: '카페', amount: 10000, description: '카페 2-3곳'),
+          BudgetItem(category: '교통비', amount: 10000, description: '렌터카 주유비 등'),
         ],
-        currency: 'KRW',
+        currency: 'USD',
       ),
       shootingChecklist: [
         '카메라/스마트폰 충전',
@@ -326,8 +377,8 @@ class VlogDataService {
     _savedStoryboards.add(sampleStoryboard);
   }
 
-  // 현재 스토리보드를 저장된 목록에 추가
-  String saveCurrentStoryboard({String? mainThumbnail}) {
+  // 현재 스토리보드를 Firestore에 저장
+  Future<String> saveCurrentStoryboard({String? mainThumbnail}) async {
     if (plan == null || cueCards == null) {
       throw Exception('저장할 스토리보드가 없습니다');
     }
@@ -343,15 +394,56 @@ class VlogDataService {
       mainThumbnail: mainThumbnail,
     );
 
-    _savedStoryboards.insert(0, storyboard);
-    _currentStoryboardId = id;
-    
-    return id;
+    // Firestore에 저장
+    try {
+      final firestoreId = await _firestoreService.saveStoryboard(storyboard);
+
+      // 로컬 캐시에도 추가 (Firestore ID 사용)
+      final savedStoryboard = SavedStoryboard(
+        id: firestoreId,
+        title: storyboard.title,
+        createdAt: storyboard.createdAt,
+        userInput: storyboard.userInput,
+        plan: storyboard.plan,
+        cueCards: storyboard.cueCards,
+        mainThumbnail: storyboard.mainThumbnail,
+      );
+
+      _savedStoryboards.insert(0, savedStoryboard);
+      _currentStoryboardId = firestoreId;
+
+      return firestoreId;
+    } catch (e) {
+      // Firestore 저장 실패 시 로컬에만 저장
+      print('Firestore 저장 실패, 로컬에만 저장: $e');
+      _savedStoryboards.insert(0, storyboard);
+      _currentStoryboardId = id;
+      return id;
+    }
   }
 
-  // 저장된 스토리보드 목록 가져오기
+  // Firestore에서 스토리보드 목록 로드
+  Future<void> loadStoryboardsFromFirestore() async {
+    if (_firestoreLoaded) return;
+
+    try {
+      final storyboards = await _firestoreService.getAllStoryboards();
+      _savedStoryboards.clear();
+      _savedStoryboards.addAll(storyboards);
+      _firestoreLoaded = true;
+    } catch (e) {
+      print('Firestore에서 스토리보드 로드 실패: $e');
+    }
+  }
+
+  // 저장된 스토리보드 목록 가져오기 (캐시된 데이터)
   List<SavedStoryboard> getSavedStoryboards() {
     return List.unmodifiable(_savedStoryboards);
+  }
+
+  // Firestore 스토리보드 스트림 가져오기
+  Stream<List<SavedStoryboard>> getStoryboardsStream() {
+    return _firestoreService.getStoryboardsStream();
   }
 
   // 특정 스토리보드 로드
@@ -371,7 +463,7 @@ class VlogDataService {
   String? get currentStoryboardId => _currentStoryboardId;
 
   // 현재 스토리보드 업데이트 (편집 후)
-  void updateCurrentStoryboard() {
+  Future<void> updateCurrentStoryboard() async {
     if (_currentStoryboardId == null || plan == null || cueCards == null) {
       return;
     }
@@ -379,7 +471,7 @@ class VlogDataService {
     final index = _savedStoryboards.indexWhere((s) => s.id == _currentStoryboardId);
     if (index != -1) {
       final oldStoryboard = _savedStoryboards[index];
-      _savedStoryboards[index] = SavedStoryboard(
+      final updatedStoryboard = SavedStoryboard(
         id: oldStoryboard.id,
         title: plan!.vlogTitle,
         createdAt: oldStoryboard.createdAt,
@@ -388,6 +480,31 @@ class VlogDataService {
         cueCards: List.from(cueCards!),
         mainThumbnail: oldStoryboard.mainThumbnail,
       );
+
+      // Firestore에 업데이트
+      try {
+        await _firestoreService.updateStoryboard(updatedStoryboard);
+        _savedStoryboards[index] = updatedStoryboard;
+      } catch (e) {
+        print('Firestore 업데이트 실패, 로컬만 업데이트: $e');
+        _savedStoryboards[index] = updatedStoryboard;
+      }
+    }
+  }
+
+  // 스토리보드 삭제
+  Future<void> deleteStoryboard(String id) async {
+    try {
+      await _firestoreService.deleteStoryboard(id);
+      _savedStoryboards.removeWhere((s) => s.id == id);
+
+      if (_currentStoryboardId == id) {
+        _currentStoryboardId = null;
+        reset();
+      }
+    } catch (e) {
+      print('Firestore 삭제 실패: $e');
+      throw Exception('스토리보드 삭제 실패');
     }
   }
 
@@ -488,9 +605,23 @@ class VlogDataService {
     return userInput['budget'] ?? '미정';
   }
 
-  // 등장 인물
+  // 등장 인물 (숫자+명 형태로 반환)
   String getPeople() {
-    return userInput['people'] ?? '3명';
+    final people = userInput['people'];
+    if (people == null) return '3명';
+    
+    // 이미 "명"이 붙어있으면 그대로 반환
+    if (people.toString().contains('명')) {
+      return people.toString();
+    }
+    
+    // 숫자만 있으면 "명" 추가
+    final numMatch = RegExp(r'\d+').firstMatch(people.toString());
+    if (numMatch != null) {
+      return '${numMatch.group(0)}명';
+    }
+    
+    return '3명';
   }
 
   // 영상 톤
@@ -553,8 +684,79 @@ class VlogDataService {
   
   // 촬영 동선 정보
   List<LocationPoint> getShootingLocations() {
-    if (plan?.shootingRoute == null) return [];
-    return plan!.shootingRoute!.locations;
+    // plan의 shootingRoute.locations를 기본으로 사용 (실제 GPS 좌표가 있는 것만)
+    final routeLocations = plan?.shootingRoute?.locations ?? [];
+    
+    if (cueCards == null || cueCards!.isEmpty) {
+      return routeLocations;
+    }
+    
+    // routeLocations에 있는 location만 사용 (실제 GPS 좌표가 있는 것만)
+    // 같은 이름의 location이 여러 씬에서 사용되면 하나로 합침
+    final locationMap = <String, LocationPoint>{}; // location 이름 -> LocationPoint
+    
+    // routeLocations를 맵에 추가 (이름 기준)
+    for (final loc in routeLocations) {
+      // 같은 이름의 location이 있으면 sceneIds를 합침
+      if (locationMap.containsKey(loc.name)) {
+        final existing = locationMap[loc.name]!;
+        final combinedSceneIds = <String>{
+          ...existing.sceneIds,
+          ...loc.sceneIds,
+        }.toList();
+        locationMap[loc.name] = LocationPoint(
+          name: existing.name,
+          description: existing.description,
+          latitude: existing.latitude,
+          longitude: existing.longitude,
+          order: existing.order,
+          sceneIds: combinedSceneIds,
+        );
+      } else {
+        locationMap[loc.name] = loc;
+      }
+    }
+    
+    // 각 씬의 location을 routeLocations에서 찾아서 sceneIds에 추가
+    for (int i = 0; i < cueCards!.length; i++) {
+      final card = cueCards![i];
+      final sceneLocation = card.location;
+      
+      if (sceneLocation.isEmpty) {
+        print('[VLOG_DATA] 씬 ${i + 1} (${card.title}): location이 비어있음');
+        continue;
+      }
+      
+      // routeLocations에서 location 이름으로 찾기
+      if (locationMap.containsKey(sceneLocation)) {
+        final location = locationMap[sceneLocation]!;
+        final sceneId = 'scene_${i + 1}';
+        
+        // sceneIds에 없으면 추가
+        if (!location.sceneIds.contains(sceneId)) {
+          locationMap[sceneLocation] = LocationPoint(
+            name: location.name,
+            description: location.description,
+            latitude: location.latitude,
+            longitude: location.longitude,
+            order: location.order,
+            sceneIds: [...location.sceneIds, sceneId],
+          );
+        }
+        print('[VLOG_DATA] 씬 ${i + 1} (${card.title}): ${sceneLocation} 매칭됨');
+      } else {
+        // routeLocations에 없는 location은 제외 (GPS 좌표가 없으므로)
+        print('[VLOG_DATA] 씬 ${i + 1} (${card.title}): ${sceneLocation} - routeLocations에 없어서 제외됨');
+      }
+    }
+    
+    // 순서대로 정렬하여 반환
+    final allLocations = locationMap.values.toList();
+    allLocations.sort((a, b) => a.order.compareTo(b.order));
+    
+    print('[VLOG_DATA] getShootingLocations: ${allLocations.length}개 위치 반환 (씬 개수: ${cueCards!.length}, routeLocations: ${routeLocations.length}개)');
+    
+    return allLocations;
   }
   
   String getRouteDescription() {
@@ -567,11 +769,80 @@ class VlogDataService {
     return plan!.shootingRoute!.estimatedWalkingMinutes;
   }
   
-  // 예산 정보
+  // 예산 정보 (원화 형식으로 반환)
+  // 예산 탭과 동일한 로직으로 계산: plan의 budget.items와 모든 씬의 cost를 통합한 합계
   String getTotalBudget() {
-    if (plan?.budget == null) return '미정';
-    final budget = plan!.budget!;
-    return '${budget.totalBudget.toString().replaceAllMapped(RegExp(r'(\d{1,3})(?=(\d{3})+(?!\d))'), (Match m) => '${m[1]},')}원';
+    // 예산 탭과 동일한 로직으로 합계 계산
+    final budgetItems = plan?.budget?.items ?? [];
+    
+    // 모든 씬의 cost를 카테고리별로 그룹화
+    final sceneCostsByCategory = <String, int>{};
+    
+    if (cueCards != null) {
+      for (final card in cueCards!) {
+        if (card.cost > 0) {
+          // 씬의 location이나 title을 기반으로 카테고리 추정
+          String category = '기타';
+          if (card.location.contains('식당') || card.location.contains('맛집') || card.location.contains('푸드')) {
+            category = '식사';
+          } else if (card.location.contains('카페') || card.location.contains('커피')) {
+            category = '카페';
+          } else if (card.location.contains('입장') || card.location.contains('게이트') || card.location.contains('공원')) {
+            category = '입장료';
+          } else if (card.location.contains('교통') || card.location.contains('주차')) {
+            category = '교통비';
+          }
+          
+          sceneCostsByCategory[category] = (sceneCostsByCategory[category] ?? 0) + card.cost;
+        }
+      }
+    }
+    
+    // 기존 budget items와 씬 cost를 통합
+    final allBudgetItems = <Map<String, dynamic>>[];
+    
+    // 기존 budget items 추가
+    for (final item in budgetItems) {
+      allBudgetItems.add({
+        'category': item.category,
+        'description': item.description,
+        'amount': item.amount,
+      });
+    }
+    
+    // 씬 cost를 카테고리별로 추가 (기존 항목과 같은 카테고리가 있으면 합산)
+    sceneCostsByCategory.forEach((category, amount) {
+      final existingIndex = allBudgetItems.indexWhere((item) => item['category'] == category);
+      if (existingIndex >= 0) {
+        // 기존 항목에 합산
+        allBudgetItems[existingIndex]['amount'] = (allBudgetItems[existingIndex]['amount'] as int) + amount;
+      } else {
+        // 새 항목 추가
+        allBudgetItems.add({
+          'category': category,
+          'description': '씬별 촬영 비용',
+          'amount': amount,
+        });
+      }
+    });
+    
+    // 표시된 모든 예산 항목의 합계 계산 (예산 탭과 동일)
+    final totalAmount = allBudgetItems.fold<int>(
+      0,
+      (sum, item) => sum + (item['amount'] as int),
+    );
+    
+    // 원화 포맷으로 변환
+    if (totalAmount == 0) {
+      return '0원';
+    }
+    
+    final formatted = totalAmount.toString().replaceAllMapped(
+      RegExp(r'(\d{1,3})(?=(\d{3})+(?!\d))'),
+      (Match m) => '${m[1]},',
+    );
+    
+    return '$formatted원';
   }
   
   List<BudgetItem> getBudgetItems() {
@@ -662,6 +933,92 @@ class VlogDataService {
   String? getExcitementSurpriseRationale() {
     if (plan?.styleAnalysis?.rationale == null) return null;
     return plan!.styleAnalysis!.rationale!.excitementSurprise;
+  }
+
+  // 구도 이미지 관련 메서드
+  void setCompositionImage(String sceneId, int checklistIndex, String imageUrl) {
+    // 메모리 캐시에 저장
+    if (!_compositionImages.containsKey(sceneId)) {
+      _compositionImages[sceneId] = {};
+    }
+    _compositionImages[sceneId]![checklistIndex] = imageUrl;
+
+    // CueCard에도 저장 (씬 인덱스 추출)
+    if (cueCards != null) {
+      // sceneId에서 씬 인덱스 추출 (예: "scene_1" -> 0)
+      final sceneIndex = int.tryParse(sceneId.replaceAll('scene_', '')) ?? 1;
+      final cardIndex = sceneIndex - 1; // 0-based 인덱스
+
+      if (cardIndex >= 0 && cardIndex < cueCards!.length) {
+        final card = cueCards![cardIndex];
+
+        // 기존 compositionImages에 새 이미지 추가
+        final updatedCompositionImages = Map<int, String>.from(card.compositionImages ?? {});
+        updatedCompositionImages[checklistIndex] = imageUrl;
+
+        // 새로운 CueCard 생성 (불변성 유지)
+        final updatedCard = CueCard(
+          title: card.title,
+          allocatedSec: card.allocatedSec,
+          trigger: card.trigger,
+          summary: card.summary,
+          steps: card.steps,
+          checklist: card.checklist,
+          fallback: card.fallback,
+          startHint: card.startHint,
+          stopHint: card.stopHint,
+          completionCriteria: card.completionCriteria,
+          tone: card.tone,
+          styleVibe: card.styleVibe,
+          targetAudience: card.targetAudience,
+          script: card.script,
+          pro: card.pro,
+          rawMarkdown: card.rawMarkdown,
+          shotComposition: card.shotComposition,
+          shootingInstructions: card.shootingInstructions,
+          storyboardImageUrl: card.storyboardImageUrl,
+          referenceVideoUrl: card.referenceVideoUrl,
+          referenceVideoTimestamp: card.referenceVideoTimestamp,
+          location: card.location,
+          cost: card.cost,
+          peopleCount: card.peopleCount,
+          shootingTimeMin: card.shootingTimeMin,
+          thumbnailUrl: card.thumbnailUrl,
+          compositionImages: updatedCompositionImages,
+        );
+
+        // CueCard 업데이트
+        cueCards![cardIndex] = updatedCard;
+
+        // Firebase에 자동 저장
+        updateCurrentStoryboard().catchError((error) {
+          print('[VLOG_DATA] Firebase 구도 이미지 저장 실패: $error');
+        });
+      }
+    }
+  }
+
+  String? getCompositionImage(String sceneId, int checklistIndex) {
+    // 먼저 메모리 캐시 확인
+    final cachedImage = _compositionImages[sceneId]?[checklistIndex];
+    if (cachedImage != null) return cachedImage;
+
+    // CueCard에서도 확인
+    if (cueCards != null) {
+      final sceneIndex = int.tryParse(sceneId.replaceAll('scene_', '')) ?? 1;
+      final cardIndex = sceneIndex - 1;
+
+      if (cardIndex >= 0 && cardIndex < cueCards!.length) {
+        final card = cueCards![cardIndex];
+        return card.compositionImages?[checklistIndex];
+      }
+    }
+
+    return null;
+  }
+
+  bool hasCompositionImage(String sceneId, int checklistIndex) {
+    return getCompositionImage(sceneId, checklistIndex) != null;
   }
 }
 

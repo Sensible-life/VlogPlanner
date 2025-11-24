@@ -83,10 +83,10 @@ class ImageService {
     required String tone,
   }) async {
     try {
-      // 첫 번째 키워드를 메인 키워드로 사용
+      // 첫 번째 키워드를 메인 키워드로 사용 (필수 촬영 장소가 우선)
       final mainKeyword = keywords.isNotEmpty ? keywords[0] : _extractKeyword(title);
 
-      print('[IMAGE_SERVICE] 대표 썸네일 검색: $mainKeyword');
+      print('[IMAGE_SERVICE] 대표 썸네일 검색 (필수 촬영 장소): $mainKeyword');
 
       // Featured 이미지 검색 (고품질)
       final unsplashUrl = await _searchUnsplash(

@@ -1,7 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- 인터넷 권한 (구글 지도) -->
+    <!-- 인터넷 권한 (구글 지도, YouTube) -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
+    <!-- WebView 사용 (YouTube 플레이어) -->
+    <uses-feature android:name="android.software.webview" android:required="false" />
 
     <!-- 저장소 권한 -->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -70,5 +73,16 @@
             <action android:name="android.intent.action.PROCESS_TEXT"/>
             <data android:mimeType="text/plain"/>
         </intent>
+        <!-- URL Launcher를 위한 쿼리 -->
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="https" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="http" />
+        </intent>
+        <!-- YouTube 앱 (선택적) -->
+        <package android:name="com.google.android.youtube" />
     </queries>
 </manifest>

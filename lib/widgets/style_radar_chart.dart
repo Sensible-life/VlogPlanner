@@ -1,144 +1,253 @@
 import 'package:flutter/material.dart';
-import 'package:fl_chart/fl_chart.dart';
-import '../constants/app_colors.dart';
-import '../constants/app_styles.dart';
+import 'dart:math' as math;
 import '../services/vlog_data_service.dart';
 
 class StyleRadarChart extends StatelessWidget {
-  const StyleRadarChart({super.key});
+  final int selectedIndex;
+  final Function(int)? onTap;
+
+  const StyleRadarChart({
+    super.key,
+    this.selectedIndex = 0,
+    this.onTap,
+  });
 
   @override
   Widget build(BuildContext context) {
     final dataService = VlogDataService();
-    return RadarChart(
-      RadarChartData(
-        radarShape: RadarShape.polygon,
-        radarBorderData: BorderSide(
-          color: AppColors.grey.withOpacity(0.3),
-          width: 1,
+
+    // 데이터 가져오기
+    final values = [
+      (dataService.getMovement() + dataService.getIntensity()) / 2,
+      dataService.getLocationDiversity().toDouble(),
+      dataService.getExcitementSurprise().toDouble(),
+      dataService.getExcitementSurprise().toDouble(), // 색감/질감
+      dataService.getSpeedRhythm().toDouble(),
+      dataService.getEmotionalExpression().toDouble(),
+    ];
+
+    return GestureDetector(
+      onTapUp: (details) {
+        if (onTap == null) return;
+
+        // 탭 위치를 기반으로 어느 축을 선택했는지 계산
+        final RenderBox box = context.findRenderObject() as RenderBox;
+        final localPosition = box.globalToLocal(details.globalPosition);
+        final center = Offset(box.size.width / 2, box.size.height / 2);
+        final dx = localPosition.dx - center.dx;
+        final dy = localPosition.dy - center.dy;
+
+        // 각도 계산 (12시 방향이 0도)
+        var angle = (math.atan2(dx, -dy) * 180 / math.pi);
+        if (angle < 0) angle += 360;
+
+        // 6개 축으로 나누기 (60도씩)
+        final index = ((angle + 30) / 60).floor() % 6;
+        onTap!(index);
+      },
+      child: CustomPaint(
+        painter: CustomRadarChartPainter(
+          values: values,
+          selectedIndex: selectedIndex,
         ),
-        gridBorderData: BorderSide(
-          color: AppColors.grey.withOpacity(0.2),
-          width: 1,
-        ),
-        tickCount: 5,
-        ticksTextStyle: AppTextStyles.bodySmall.copyWith(
-          color: AppColors.textSecondary,
-          fontSize: 10,
-        ),
-        tickBorderData: BorderSide(
-          color: AppColors.grey.withOpacity(0.2),
-          width: 1,
-        ),
-        getTitle: (index, angle) {
-          const titles = [
-            '동작 강도',
-            '감정 표현',
-            '장소 다양성',
-            '속도/리듬',
-            '흥분/놀람',
-          ];
-          return RadarChartTitle(
-            text: titles[index],
-            angle: 0,
-          );
-        },
-        titleTextStyle: const TextStyle(
-          fontFamily: 'Pretendard Variable',
-          color: Colors.black,
-          fontWeight: FontWeight.w300,
-          fontSize: 11,
-        ),
-        dataSets: [
-          RadarDataSet(
-            fillColor: AppColors.primary.withOpacity(0.2),
-            borderColor: AppColors.primary,
-            borderWidth: 2,
-            entryRadius: 3,
-            dataEntries: [
-              RadarEntry(value: (dataService.getMovement() + dataService.getIntensity()) / 2), // 동작 강도 (동작+강도 평균)
-              RadarEntry(value: dataService.getEmotionalExpression().toDouble()), // 감정 표현
-              RadarEntry(value: dataService.getLocationDiversity().toDouble()), // 장소 다양성
-              RadarEntry(value: dataService.getSpeedRhythm().toDouble()), // 속도/리듬
-              RadarEntry(value: dataService.getExcitementSurprise().toDouble()), // 흥분/놀람
-            ],
-          ),
-        ],
+        child: Container(),
       ),
     );
   }
-
-  Widget _buildStyleItem(String title, int score, String description) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Row(
-          children: [
-            Text(
-              title,
-              style: AppTextStyles.bodyLarge.copyWith(
-                color: AppColors.textPrimary,
-                fontWeight: FontWeight.w600,
-              ),
-            ),
-            const SizedBox(width: 12),
-            Row(
-              children: List.generate(5, (index) {
-                return Icon(
-                  index < score ? Icons.star : Icons.star_border,
-                  color: AppColors.primary,
-                  size: 20,
-                );
-              }),
-            ),
-          ],
-        ),
-        const SizedBox(height: 8),
-        Text(
-          description,
-          style: AppTextStyles.bodyMedium.copyWith(
-            color: AppColors.textSecondary,
-          ),
-        ),
-      ],
-    );
-  }
-
-  // 점수에 따른 설명 생성 함수들
-  String _getEmotionalExpressionDescription(int score) {
-    if (score >= 4) return '풍부하고 다양한 감정을 표현하며 시청자와 강한 공감대를 형성합니다.';
-    if (score >= 3) return '자연스러운 감정 표현으로 편안한 분위기를 만듭니다.';
-    return '절제된 감정 표현으로 담담하게 이야기를 전달합니다.';
-  }
-
-  String _getMovementDescription(int score) {
-    if (score >= 4) return '활발한 움직임과 다이나믹한 장면 전환이 특징입니다.';
-    if (score >= 3) return '적절한 움직임으로 자연스러운 흐름을 만듭니다.';
-    return '정적인 구도와 안정적인 프레임을 유지합니다.';
-  }
-
-  String _getIntensityDescription(int score) {
-    if (score >= 4) return '높은 에너지와 강렬한 장면으로 몰입감을 극대화합니다.';
-    if (score >= 3) return '적절한 강도로 지루하지 않은 영상을 만듭니다.';
-    return '차분하고 편안한 강도로 편안한 시청 경험을 제공합니다.';
-  }
-
-  String _getLocationDiversityDescription(int score) {
-    if (score >= 4) return '다양한 장소와 앵글을 활용하여 시각적 변화를 극대화합니다.';
-    if (score >= 3) return '여러 장소를 적절히 활용하여 단조롭지 않게 구성합니다.';
-    return '제한된 장소에서 안정적인 구도로 촬영합니다.';
-  }
-
-  String _getSpeedRhythmDescription(int score) {
-    if (score >= 4) return '빠른 템포와 경쾌한 리듬으로 활기찬 분위기를 만듭니다.';
-    if (score >= 3) return '적절한 템포로 편안하게 시청할 수 있습니다.';
-    return '느린 템포로 여유롭고 차분한 분위기를 연출합니다.';
-  }
-
-  String _getExcitementSurpriseDescription(int score) {
-    if (score >= 4) return '예상치 못한 장면과 이벤트로 흥미진진한 스토리를 전개합니다.';
-    if (score >= 3) return '적절한 이벤트로 지루하지 않게 구성됩니다.';
-    return '차분한 일상으로 자연스럽게 흘러갑니다.';
-  }
 }
 
+class CustomRadarChartPainter extends CustomPainter {
+  final List<double> values;
+  final int selectedIndex;
+
+  CustomRadarChartPainter({
+    required this.values,
+    required this.selectedIndex,
+  });
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final center = Offset(size.width / 2, size.height / 2);
+    final radius = math.min(size.width, size.height) / 2 * 0.75; // 70% 크기로 축소
+
+    // 1. 축선 그리기 (dashed, 육각형보다 길게)
+    _drawRadialLines(canvas, center, radius, radius * 1.2);
+
+    // 2. 동심원 육각형 그리기 (5개)
+    _drawHexagonGrids(canvas, center, radius);
+
+    // 3. 데이터 영역 그리기
+    _drawDataArea(canvas, center, radius);
+
+    // 4. 포인트 그리기
+    _drawDataPoints(canvas, center, radius);
+  }
+
+  void _drawRadialLines(Canvas canvas, Offset center, double maxRadius, double extendedRadius) {
+    for (int i = 0; i < 6; i++) {
+      final angle = (i * 60) * math.pi / 180;
+      final endX = center.dx + extendedRadius * math.sin(angle);
+      final endY = center.dy - extendedRadius * math.cos(angle);
+
+      final paint = Paint()
+        ..color = i == selectedIndex ? const Color(0xFF1A1A1A) : const Color(0xFFB2B2B2)
+        ..strokeWidth = 1
+        ..style = PaintingStyle.stroke;
+
+      if (i == selectedIndex) {
+        // 선택된 축: 중심~포인트(dashed) + 포인트~끝(실선)
+
+        // 포인트 위치 계산
+        final value = values[i].clamp(0.0, 5.0);
+        final valueRadius = maxRadius * (value / 5);
+        final pointX = center.dx + valueRadius * math.sin(angle);
+        final pointY = center.dy - valueRadius * math.cos(angle);
+
+        // 중심 ~ 포인트: dashed line
+        _drawDashedLine(
+          canvas,
+          paint,
+          center,
+          Offset(pointX, pointY),
+          dashLength: 4,
+          dashSpace: 4,
+        );
+
+        // 포인트 ~ 끝: 실선
+        canvas.drawLine(Offset(pointX, pointY), Offset(endX, endY), paint);
+      } else {
+        // 선택되지 않은 축: dashed line
+        _drawDashedLine(
+          canvas,
+          paint,
+          center,
+          Offset(endX, endY),
+          dashLength: 4,
+          dashSpace: 4,
+        );
+      }
+    }
+  }
+
+  void _drawHexagonGrids(Canvas canvas, Offset center, double maxRadius) {
+    final paint = Paint()
+      ..color = const Color(0xFF1A1A1A)
+      ..strokeWidth = 1
+      ..style = PaintingStyle.stroke;
+
+    // 5개의 레벨 (1/5, 2/5, 3/5, 4/5, 5/5)
+    for (int level = 1; level <= 5; level++) {
+      final levelRadius = maxRadius * (level / 5);
+      final path = _createHexagonPath(center, levelRadius);
+      canvas.drawPath(path, paint);
+    }
+  }
+
+  void _drawDataArea(Canvas canvas, Offset center, double maxRadius) {
+    final fillPaint = Paint()
+      ..color = const Color(0xFF2C3E50).withOpacity(0.75)
+      ..style = PaintingStyle.fill;
+
+    final strokePaint = Paint()
+      ..color = const Color(0xFF1A1A1A)
+      ..strokeWidth = 1
+      ..style = PaintingStyle.stroke;
+
+    final path = Path();
+
+    for (int i = 0; i < 6; i++) {
+      final angle = (i * 60) * math.pi / 180;
+      final value = values[i].clamp(0.0, 5.0); // 0-5 범위로 제한
+      final valueRadius = maxRadius * (value / 5);
+      final x = center.dx + valueRadius * math.sin(angle);
+      final y = center.dy - valueRadius * math.cos(angle);
+
+      if (i == 0) {
+        path.moveTo(x, y);
+      } else {
+        path.lineTo(x, y);
+      }
+    }
+    path.close();
+
+    canvas.drawPath(path, fillPaint);
+    canvas.drawPath(path, strokePaint);
+  }
+
+  void _drawDataPoints(Canvas canvas, Offset center, double maxRadius) {
+    final fillPaint = Paint()
+      ..color = const Color(0xFFFAFAFA)
+      ..style = PaintingStyle.fill;
+
+    for (int i = 0; i < 6; i++) {
+      final angle = (i * 60) * math.pi / 180;
+      final value = values[i].clamp(0.0, 5.0);
+      final valueRadius = maxRadius * (value / 5);
+      final x = center.dx + valueRadius * math.sin(angle);
+      final y = center.dy - valueRadius * math.cos(angle);
+
+      final strokePaint = Paint()
+        ..color = i == selectedIndex ? const Color(0xFF1A1A1A) : const Color(0xFFB2B2B2)
+        ..strokeWidth = 1
+        ..style = PaintingStyle.stroke;
+
+      canvas.drawCircle(Offset(x, y), 3, fillPaint);
+      canvas.drawCircle(Offset(x, y), 3, strokePaint);
+    }
+  }
+
+  Path _createHexagonPath(Offset center, double radius) {
+    final path = Path();
+
+    for (int i = 0; i < 6; i++) {
+      final angle = (i * 60) * math.pi / 180;
+      final x = center.dx + radius * math.sin(angle);
+      final y = center.dy - radius * math.cos(angle);
+
+      if (i == 0) {
+        path.moveTo(x, y);
+      } else {
+        path.lineTo(x, y);
+      }
+    }
+    path.close();
+
+    return path;
+  }
+
+  void _drawDashedLine(
+    Canvas canvas,
+    Paint paint,
+    Offset start,
+    Offset end,
+    {required double dashLength,
+    required double dashSpace}
+  ) {
+    final dx = end.dx - start.dx;
+    final dy = end.dy - start.dy;
+    final distance = math.sqrt(dx * dx + dy * dy);
+    final dashCount = (distance / (dashLength + dashSpace)).floor();
+
+    for (int i = 0; i < dashCount; i++) {
+      final startFraction = (i * (dashLength + dashSpace)) / distance;
+      final endFraction = ((i * (dashLength + dashSpace)) + dashLength) / distance;
+
+      canvas.drawLine(
+        Offset(
+          start.dx + dx * startFraction,
+          start.dy + dy * startFraction,
+        ),
+        Offset(
+          start.dx + dx * endFraction,
+          start.dy + dy * endFraction,
+        ),
+        paint,
+      );
+    }
+  }
+
+  @override
+  bool shouldRepaint(CustomRadarChartPainter oldDelegate) {
+    return oldDelegate.values != values || oldDelegate.selectedIndex != selectedIndex;
+  }
+}

@@ -1,15 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/foundation.dart';
-import 'package:flutter/gestures.dart';
-import 'package:cached_network_image/cached_network_image.dart';
-import 'dart:ui' as ui;
-import 'dart:async';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
-import '../../constants/app_colors.dart';
 import '../../services/vlog_data_service.dart';
-import '../../widgets/style_radar_chart.dart';
+import '../../services/storyboard_generation_service.dart';
+import '../../widgets/app_notification.dart';
+import '../../ui/styles.dart';
 import '../scene/scene_list_page.dart';
-import '../../models/cue_card.dart';
+import '../home/user_drawer.dart';
+import '../home_page.dart';
+import 'tabs/summary_tab.dart';
+import 'tabs/shooting_tab.dart';
+import 'tabs/budget_tab.dart';
+import 'tabs/direction_tab.dart';
+import 'tabs/etc_tab.dart';
 
 class StoryboardPage extends StatefulWidget {
   const StoryboardPage({super.key});
@@ -20,811 +21,316 @@ class StoryboardPage extends StatefulWidget {
 
 class _StoryboardPageState extends State<StoryboardPage> {
   final VlogDataService _dataService = VlogDataService();
-  String _selectedTab = 'STRUCTURE'; // STRUCTURE or PRODUCTION
-  Color _textColor = Colors.white; // 기본값은 흰색
-  int _selectedSceneIndex = 0; // 선택된 씬 인덱스
-  late PageController _pageController;
+  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
+  int _selectedTab = 0;
+  
+  // 입력창 관련
+  final TextEditingController _inputController = TextEditingController();
+  final FocusNode _inputFocusNode = FocusNode();
+  bool _isInputExpanded = false;
+  double _previousKeyboardHeight = 0;
 
   @override
   void initState() {
     super.initState();
-    _pageController = PageController(initialPage: 0);
-    _calculateTextColor();
+    _precacheImages();
+    _inputFocusNode.addListener(_onFocusChanged);
+    _inputController.addListener(_onInputChanged);
   }
-
+  
   @override
   void dispose() {
-    _pageController.dispose();
+    _inputController.removeListener(_onInputChanged);
+    _inputController.dispose();
+    _inputFocusNode.removeListener(_onFocusChanged);
+    _inputFocusNode.dispose();
     super.dispose();
   }
-
-  // 탭 변경
-  void _changeTab(String newTab) {
-    if (_selectedTab != newTab) {
-      setState(() {
-        _selectedTab = newTab;
-      });
-      _pageController.animateToPage(
-        newTab == 'STRUCTURE' ? 0 : 1,
-        duration: const Duration(milliseconds: 200),
-        curve: Curves.easeInOut,
+  
+  // 포커스 변경 감지
+  void _onFocusChanged() {
+    setState(() {
+      // 포커스가 있으면 확장, 없으면 한 줄로 축소
+      _isInputExpanded = _inputFocusNode.hasFocus;
+    });
+  }
+  
+  // 입력 변경 감지 (X 버튼 상태 업데이트용)
+  void _onInputChanged() {
+    if (mounted) {
+      setState(() {});
+    }
+  }
+  
+  // 수정 사항 전송 처리
+  Future<void> _handleSendModification() async {
+    final modificationText = _inputController.text.trim();
+    
+    if (modificationText.isEmpty) {
+      AppNotification.show(
+        context,
+        '수정 내용을 입력해주세요.',
+        type: NotificationType.warning,
       );
+      return;
+    }
+    
+    final plan = _dataService.plan;
+    final cueCards = _dataService.cueCards;
+    
+    if (plan == null || cueCards == null) {
+      AppNotification.show(
+        context,
+        '스토리보드 데이터를 불러올 수 없습니다.',
+        type: NotificationType.error,
+      );
+      return;
+    }
+    
+    try {
+      // 현재 스토리보드 데이터 준비
+      final currentStoryboard = {
+        'plan': plan.toJson(),
+        'scenes': cueCards.map((c) => c.toJson()).toList(),
+        'user_input': _dataService.userInput,
+      };
+      
+      // StoryboardGenerationService를 사용하여 스토리보드 수정
+      final result = await StoryboardGenerationService.modifyStoryboard(
+        currentStoryboard: currentStoryboard,
+        modificationRequest: modificationText,
+        dataService: _dataService,
+      );
+      
+      if (result == null) {
+        AppNotification.show(
+          context,
+          '스토리보드 수정에 실패했습니다.\nAPI 키를 확인하거나 네트워크 연결을 확인해주세요.',
+          type: NotificationType.error,
+        );
+        return;
+      }
+      
+      // 입력창 초기화
+      _inputController.clear();
+      _inputFocusNode.unfocus();
+      
+      if (mounted) {
+        setState(() {
+          _isInputExpanded = false;
+        });
+        
+        AppNotification.show(
+          context,
+          '스토리보드가 성공적으로 수정되었습니다!',
+          type: NotificationType.success,
+        );
+      }
+    } catch (e) {
+      print('[STORYBOARD] 스토리보드 수정 오류: $e');
+      if (mounted) {
+        AppNotification.show(
+          context,
+          '스토리보드 수정 중 오류가 발생했습니다: ${e.toString()}',
+          type: NotificationType.error,
+        );
+      }
     }
   }
 
-  // 배경 이미지의 밝기를 계산하여 텍스트 색상 결정
-  Future<void> _calculateTextColor() async {
-    final plan = _dataService.plan;
-    if (plan == null) return;
+  // 이미지 미리 캐싱
+  void _precacheImages() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      // 탭 선택 이미지
+      precacheImage(const AssetImage('assets/images/tab_selection.png'), context);
+      
+      // 버튼 이미지
+      precacheImage(const AssetImage('assets/images/button_sidebar.png'), context);
+      precacheImage(const AssetImage('assets/images/button_scenelist.png'), context);
+      
+      // 세부 정보 아이콘들
+      precacheImage(const AssetImage('assets/icons/icon_clock.png'), context);
+      precacheImage(const AssetImage('assets/icons/icon_camera.png'), context);
+      precacheImage(const AssetImage('assets/icons/icon_people.png'), context);
+      precacheImage(const AssetImage('assets/icons/icon_pallette.png'), context);
+      precacheImage(const AssetImage('assets/icons/icon_scenes.png'), context);
+      precacheImage(const AssetImage('assets/icons/icon_money.png'), context);
+      
+      // DALL-E 생성 이미지 미리 캐싱
+      _precacheStoryboardImages();
+    });
+  }
 
-    final imageUrl = plan.locationImage ?? 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800';
+  // DALL-E 생성 스토리보드 이미지 미리 캐싱
+  void _precacheStoryboardImages() {
+    final cueCards = _dataService.cueCards;
+    if (cueCards == null || cueCards.isEmpty) return;
+
+    print('[STORYBOARD] DALL-E 이미지 캐싱 시작: ${cueCards.length}개 씬');
     
-    try {
-      final imageProvider = CachedNetworkImageProvider(imageUrl);
-      final imageStream = imageProvider.resolve(const ImageConfiguration());
-      
-      final completer = Completer<ui.Image>();
-      imageStream.addListener(ImageStreamListener((ImageInfo info, bool _) {
-        completer.complete(info.image);
-      }));
-      
-      final image = await completer.future;
-      final byteData = await image.toByteData(format: ui.ImageByteFormat.rawRgba);
-      
-      if (byteData == null) return;
-      
-      final bytes = byteData.buffer.asUint8List();
-      int totalR = 0, totalG = 0, totalB = 0;
-      int pixelCount = 0;
-      
-      // 상단 30% 영역만 샘플링 (제목이 표시되는 영역)
-      final samplingHeight = (image.height * 0.3).toInt();
-      
-      for (int y = 0; y < samplingHeight; y += 10) {
-        for (int x = 0; x < image.width; x += 10) {
-          final index = (y * image.width + x) * 4;
-          if (index + 2 < bytes.length) {
-            totalR += bytes[index];
-            totalG += bytes[index + 1];
-            totalB += bytes[index + 2];
-            pixelCount++;
-          }
+    for (final cueCard in cueCards) {
+      if (cueCard.storyboardImageUrl != null && 
+          cueCard.storyboardImageUrl!.isNotEmpty) {
+        try {
+          precacheImage(
+            NetworkImage(cueCard.storyboardImageUrl!),
+            context,
+          ).then((_) {
+            print('[STORYBOARD] 이미지 캐싱 완료: ${cueCard.storyboardImageUrl}');
+          }).catchError((error) {
+            print('[STORYBOARD] 이미지 캐싱 실패: ${cueCard.storyboardImageUrl}, 오류: $error');
+          });
+        } catch (e) {
+          print('[STORYBOARD] 이미지 캐싱 예외: ${cueCard.storyboardImageUrl}, 오류: $e');
         }
       }
-      
-      if (pixelCount > 0) {
-        final avgR = totalR / pixelCount;
-        final avgG = totalG / pixelCount;
-        final avgB = totalB / pixelCount;
-        
-        // 밝기 계산 (0-255)
-        final brightness = (avgR * 0.299 + avgG * 0.587 + avgB * 0.114);
-        
-        setState(() {
-          // 밝기가 128 이상이면 검은색, 미만이면 흰색
-          _textColor = brightness > 128 ? Colors.black : Colors.white;
-        });
-      }
-    } catch (e) {
-      print('이미지 밝기 계산 오류: $e');
-      // 오류 발생 시 기본값(흰색) 유지
     }
+  }
+
+  void _onTabChanged(int index) {
+    setState(() {
+      _selectedTab = index;
+    });
   }
 
   @override
   Widget build(BuildContext context) {
     final plan = _dataService.plan;
     final cueCards = _dataService.cueCards;
-    final userInput = _dataService.userInput;
 
     if (plan == null || cueCards == null) {
-      return Scaffold(
-        appBar: AppBar(title: const Text('스토리보드')),
-        body: const Center(child: Text('스토리보드 데이터를 불러올 수 없습니다')),
+      return const Scaffold(
+        resizeToAvoidBottomInset: false,
+        body: SafeArea(
+          child: Center(child: Text('스토리보드 데이터를 불러올 수 없습니다')),
+        ),
       );
     }
 
-    final locationImage = plan.locationImage ?? 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800';
-    final keywords = plan.keywords.take(4).toList();
-
+    final screenWidth = MediaQuery.of(context).size.width;
     final screenHeight = MediaQuery.of(context).size.height;
-    final topPadding = screenHeight * 0.6 - 190; // 배경 이미지 하단 부근에 헤더 위치 (48px 위로)
+    
+    // 키보드 높이 변화 감지를 별도로 처리하여 리빌드 최소화
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final keyboardHeight = MediaQuery.of(context).viewInsets.bottom;
+      // 키보드가 내려갔을 때 포커스 해제
+      if (_previousKeyboardHeight > 0 && keyboardHeight == 0) {
+        if (mounted && _inputFocusNode.hasFocus) {
+          _inputFocusNode.unfocus();
+        }
+      }
+      if (mounted) {
+        _previousKeyboardHeight = keyboardHeight;
+      }
+    });
 
     return Scaffold(
-      body: Stack(
-        children: [
-          // 배경 이미지 (고정)
-          Positioned(
-            left: -200,
-            right: -200,
-            top: 0,
-            height: screenHeight * 0.6,
-            child: CachedNetworkImage(
-              imageUrl: locationImage,
-              fit: BoxFit.cover,
-              placeholder: (context, url) => Container(color: Colors.grey[300]),
-              errorWidget: (context, url, error) => Container(color: Colors.grey[300]),
+      key: _scaffoldKey,
+      backgroundColor: const Color(0xFFCEDCD3),
+      resizeToAvoidBottomInset: true, // 키보드 나타날 때 레이아웃 리사이즈 허용
+      drawer: const UserDrawer(),
+      body: SafeArea(
+        child: Column(
+          children: [
+            // 상단 헤더 바
+            _buildTopBar(context, screenWidth),
+            SizedBox(height: screenHeight * 0.01),
+            // 탭 바
+            _buildTabBar(screenWidth, screenHeight),
+            SizedBox(height: AppDims.marginContentToSubtitle(screenHeight)),
+            // PageView로 탭 전환 (시나리오 요약 포함)
+            Expanded(
+              child: _buildDetailsSection(plan, cueCards, screenWidth, screenHeight),
             ),
-          ),
-
-          // 메인 컨텐츠 - NestedScrollView
-          Positioned.fill(
-            child: NestedScrollView(
-              headerSliverBuilder: (context, innerBoxIsScrolled) {
-                // 그라데이션 높이 = topPadding + 헤더 높이 + 탭 상단 여백(32px)
-                // 헤더 높이: 제목(~60px) + 24px + 키워드(~12px) = ~88px
-                final headerHeight = 88.0;
-                final tabTopPadding = 32.0;
-                final gradientHeight = topPadding + headerHeight + tabTopPadding;
-
-                return [
-                  // 그라데이션과 헤더를 함께 렌더링
-                  SliverToBoxAdapter(
-                    child: Stack(
-                      children: [
-                        // 그라데이션 (배경)
-                        Container(
-                          height: gradientHeight,
-                          decoration: BoxDecoration(
-                            gradient: LinearGradient(
-                              begin: Alignment.topCenter,
-                              end: Alignment.bottomCenter,
-                              colors: [
-                                Color(0xFFC8C8C8).withOpacity(0.0),
-                                Color(0xFFFFFFFF).withOpacity(1.0),
-                              ],
-                              stops: [0.0, 1.0],
-                            ),
-                          ),
-                        ),
-                        // 헤더 섹션 (그라데이션 위)
-                        Column(
-                          children: [
-                            SizedBox(height: topPadding),
-                            _buildHeaderSection(plan, userInput, keywords),
-                          ],
-                        ),
-                      ],
-                    ),
-                  ),
-
-                  // 탭 섹션 - 고정 (상단 32px)
-                  SliverPersistentHeader(
-                    pinned: true,
-                    delegate: _StickyTabDelegate(
-                      child: Container(
-                        color: Colors.white,
-                        padding: const EdgeInsets.only(top: 32),
-                        child: _buildTabSection(),
-                      ),
-                      height: 32 + 50 + 16, // 상단 여백 + 탭 높이 + 탭 마진
-                    ),
-                  ),
-                ];
-              },
-              body: Container(
-                color: Colors.white,
-                child: PageView(
-                  controller: _pageController,
-                  onPageChanged: (index) {
-                    setState(() {
-                      _selectedTab = index == 0 ? 'STRUCTURE' : 'PRODUCTION';
-                    });
-                  },
-                  children: [
-                    // STRUCTURE 탭
-                    SingleChildScrollView(
-                      physics: const ClampingScrollPhysics(),
-                      child: _buildStructureContent(plan),
-                    ),
-                    // PRODUCTION 탭
-                    SingleChildScrollView(
-                      physics: const ClampingScrollPhysics(),
-                      child: _buildProductionContent(plan, cueCards),
-                    ),
-                  ],
-                ),
-              ),
-            ),
-          ),
-
-          // 플로팅 액션 버튼 (촬영 시작) - 오른쪽 하단
-          Positioned(
-            right: 24,
-            bottom: 40,
-            child: _buildStartShootingButton(),
-          ),
-        ],
+          ],
+        ),
       ),
+      bottomNavigationBar: _buildBottomInputBar(screenWidth, screenHeight),
     );
   }
 
-  // 배경 이미지 (그라데이션 포함)
-  Widget _buildBackgroundImage(String imageUrl) {
-    final screenHeight = MediaQuery.of(context).size.height;
-
-    return Stack(
-      children: [
-        // 배경 이미지 (확대)
-        Positioned(
-          left: -200,
-          right: -200,
-          top: 0,
-          height: screenHeight * 0.6,
-          child: CachedNetworkImage(
-            imageUrl: imageUrl,
-            fit: BoxFit.cover,
-            placeholder: (context, url) => Container(color: Colors.grey[300]),
-            errorWidget: (context, url, error) => Container(color: Colors.grey[300]),
-          ),
-        ),
-        
-                // 그라데이션 오버레이 (아래로 갈수록 검은색)
-        Positioned(
-          left: 0,
-          right: 0,
-          top: 0,
-          height: screenHeight * 0.6,
-          child: Container(
-            decoration: BoxDecoration(
-              gradient: LinearGradient(
-                begin: Alignment.topCenter,
-                end: Alignment.bottomCenter,
-                colors: [
-                  Color(0xFFC8C8C8).withOpacity(0.0),
-                  Color(0xFFFFFFFF).withOpacity(1.0),
-                ],
-                stops: [0.0, 1.0],
-              ),
-            ),
-          ),
-        ),
-      ],
-    );
-  }
-
-  // 헤더 섹션 (제목 + 키워드)
-  Widget _buildHeaderSection(Plan plan, Map<String, String> userInput, List<String> keywords) {
-    return Column(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        // 제목 (중앙 정렬)
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 54),
-          child: Text(
-            plan.vlogTitle.replaceAll(RegExp(r'[\u{1F300}-\u{1F9FF}]', unicode: true), '').trim(),
-            textAlign: TextAlign.center,
-            style: TextStyle(
-              fontFamily: 'Pretendard Variable',
-              fontWeight: FontWeight.w700,
-              fontSize: 28,
-              height: 1.2,
-              color: _textColor,
-            ),
-          ),
-        ),
-
-        const SizedBox(height: 24),
-
-        // 키워드 (4개, dot으로 구분)
-        _buildKeywords(keywords, userInput),
-      ],
-    );
-  }
-
-  // 키워드 섹션
-  Widget _buildKeywords(List<String> keywords, Map<String, String> userInput) {
-    final items = <String>[];
-    
-    // 최대 4개 항목
-    if (keywords.isNotEmpty) items.add(keywords[0]);
-    items.add(userInput['target_duration'] != null ? '${userInput['target_duration']}분' : '10분');
-    
-    final timeWeather = userInput['time_weather'];
-    final weatherParts = timeWeather?.split(',') ?? [];
-    items.add(weatherParts.isNotEmpty ? weatherParts[0].trim() : '낮');
-    items.add(weatherParts.length > 1 ? weatherParts[1].trim() : '맑음');
-
-    return Row(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        for (int i = 0; i < items.length; i++) ...[
-          Text(
-            items[i],
-            style: TextStyle(
-              fontFamily: 'Pretendard Variable',
-              fontWeight: FontWeight.w400,
-              fontSize: 12,
-              color: _textColor,
-            ),
-          ),
-          if (i < items.length - 1)
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 8),
-              child: Container(
-                width: 4,
-                height: 4,
-                decoration: BoxDecoration(
-                  color: _textColor,
-                  shape: BoxShape.circle,
-                ),
-              ),
-            ),
-        ],
-      ],
-    );
-  }
-
-  // 탭 섹션 (STRUCTURE / PRODUCTION)
-  Widget _buildTabSection() {
+  // 상단 헤더 바
+  Widget _buildTopBar(BuildContext context, double screenWidth) {
     return Container(
-      margin: const EdgeInsets.fromLTRB(24, 8, 24, 8),
-      height: 50,
-      decoration: BoxDecoration(
-        color: AppColors.brandBlue,
-        borderRadius: BorderRadius.circular(20),
+      width: screenWidth,
+      height: 79,
+      decoration: const BoxDecoration(
+        color: Color(0xFFCEDCD3),
       ),
       child: Stack(
         children: [
-          // 슬라이딩 하얀 배경
-          AnimatedAlign(
-            duration: const Duration(milliseconds: 200),
-            curve: Curves.easeInOut,
-            alignment: _selectedTab == 'STRUCTURE' ? Alignment.centerLeft : Alignment.centerRight,
-            child: Container(
-              width: (MediaQuery.of(context).size.width - 48 - 13) / 2, // 전체 너비에서 margin과 padding 제외
-              height: 37,
-              margin: const EdgeInsets.all(6.5),
-              decoration: BoxDecoration(
-                color: const Color(0xFFFFFFFF),
-                borderRadius: BorderRadius.circular(15),
+          // 왼쪽 사이드바 버튼
+          Positioned(
+            left: 17,
+            top: 15,
+            child: GestureDetector(
+              onTap: () => _scaffoldKey.currentState?.openDrawer(),
+              child: Image.asset(
+                'assets/images/button_sidebar.png',
+                width: 50,
+                height: 50,
+                fit: BoxFit.contain,
               ),
             ),
           ),
-          // 탭 버튼들
-          Row(
-            children: [
-              Expanded(
-                child: GestureDetector(
-                  onTap: () => _changeTab('STRUCTURE'),
-                  child: Container(
-                    alignment: Alignment.center,
-                    child: Text(
-                      'STRUCTURE',
-                      style: TextStyle(
-                        fontFamily: 'Inter',
-                        fontWeight: FontWeight.w400,
-                        fontSize: 12,
-                        color: _selectedTab == 'STRUCTURE' ? Colors.black : const Color(0xFFFFFFFF),
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-              Expanded(
-                child: GestureDetector(
-                  onTap: () => _changeTab('PRODUCTION'),
-                  child: Container(
-                    alignment: Alignment.center,
-                    child: Text(
-                      'PRODUCTION',
-                      style: TextStyle(
-                        fontFamily: 'Inter',
-                        fontWeight: FontWeight.w400,
-                        fontSize: 12,
-                        color: _selectedTab == 'PRODUCTION' ? Colors.black : const Color(0xFFFFFFFF),
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ],
-      ),
-    );
-  }
-
-  // STRUCTURE 컨텐츠
-  Widget _buildStructureContent(Plan plan) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 24),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const SizedBox(height: 16),
-
-          // 시나리오 요약 제목
-          const Text(
-            '시나리오 요약',
-            style: TextStyle(
-              fontFamily: 'Pretendard Variable',
-              fontWeight: FontWeight.w600,
-              fontSize: 20,
-              color: Colors.black,
-            ),
-          ),
-
-          const SizedBox(height: 16),
-
-          // 시나리오 요약 내용
-          Text(
-            plan.summary,
-            style: const TextStyle(
-              fontFamily: 'Inter',
-              fontWeight: FontWeight.w400,
-              fontSize: 12,
-              height: 1.2,
-              color: Colors.black,
-            ),
-          ),
-
-          const SizedBox(height: 24),
-
-          // 구분선
-          Container(
-            height: 1,
-            color: AppColors.brandBlue,
-          ),
-
-          const SizedBox(height: 24),
-
-          // 톤 & 분위기 제목 + 세부 내용 링크
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              const Text(
-                '톤 & 분위기',
-                style: TextStyle(
-                  fontFamily: 'Pretendard Variable',
-                  fontWeight: FontWeight.w600,
-                  fontSize: 20,
-                  color: Colors.black,
-                ),
-              ),
-              GestureDetector(
-                onTap: () => _showToneDetailDialog(),
-                child: const Text(
-                  '세부 내용',
-                  style: TextStyle(
-                    fontFamily: 'Pretendard Variable',
-                    fontWeight: FontWeight.w400,
-                    fontSize: 12,
-                    decoration: TextDecoration.underline,
-                    decorationColor: AppColors.brandBlue,
-                    color: AppColors.brandBlue,
-                  ),
-                ),
-              ),
-            ],
-          ),
-
-          const SizedBox(height: 24),
-
-          // 레이더 차트
-          SizedBox(
-            height: 190,
-            child: StyleRadarChart(),
-          ),
-
-          // SizedBox(height: MediaQuery.of(context).size.height * 0.3), // 화면 높이의 30%만큼 하단 여백
-          const SizedBox(height: 24),
-        ],
-      ),
-    );
-  }
-
-  // PRODUCTION 컨텐츠 (촬영 동선, 예산, 체크리스트)
-  Widget _buildProductionContent(Plan plan, List<CueCard> cueCards) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 24),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const SizedBox(height: 16),
           
-          // 촬영 동선
-          const Text(
-            '촬영 동선',
-            style: TextStyle(
-              fontFamily: 'Pretendard Variable',
-              fontWeight: FontWeight.w600,
-              fontSize: 20,
-              color: Colors.black,
-            ),
-          ),
-          
-          const SizedBox(height: 12),
-          
-          // Google Maps
-          _buildGoogleMap(plan),
-          
-          const SizedBox(height: 14),
-          
-          // 씬 선택 인디케이터
-          _buildSceneIndicator(cueCards.length),
-          
-          const SizedBox(height: 14),
-          
-          // 선택된 씬의 위치 정보
-          if (_selectedSceneIndex < cueCards.length)
-            _buildSelectedSceneLocation(cueCards[_selectedSceneIndex]),
-          
-          const SizedBox(height: 24),
-          
-          // 구분선
-          Container(
-            height: 1,
-            color: AppColors.brandBlue,
-          ),
-          
-          const SizedBox(height: 24),
-          
-          // 예산
-          const Text(
-            '예산',
-            style: TextStyle(
-              fontFamily: 'Pretendard Variable',
-              fontWeight: FontWeight.w600,
-              fontSize: 20,
-              color: Colors.black,
-            ),
-          ),
-          
-          const SizedBox(height: 14),
-          
-          // 예산 항목
-          if (plan.budget?.items != null)
-            ...plan.budget!.items.map((item) => Padding(
-              padding: const EdgeInsets.only(bottom: 14),
-              child: Row(
-                children: [
-                  Container(
-                    width: 30,
-                    height: 30,
-                    decoration: const BoxDecoration(
-                      color: AppColors.brandBlue,
-                      shape: BoxShape.circle,
-                    ),
-                    child: const Icon(Icons.attach_money, color: Colors.white, size: 16),
-                  ),
-                  const SizedBox(width: 7),
-                  Expanded(
-                    child: Text(
-                      item.description,
-                      style: const TextStyle(
-                        fontFamily: 'Inter',
-                        fontWeight: FontWeight.w400,
-                        fontSize: 12,
-                        color: Colors.black,
-                      ),
-                    ),
-                  ),
-                  Text(
-                    '${plan.budget!.currency} ${item.amount}',
-                    style: const TextStyle(
-                      fontFamily: 'Inter',
-                      fontWeight: FontWeight.w400,
-                      fontSize: 12,
-                      color: Colors.black,
-                    ),
-                  ),
-                ],
-              ),
-            )).toList(),
-          
-          const SizedBox(height: 8),
-          
-          // 합계
-          if (plan.budget != null)
-            Row(
+          // 중앙 로고와 화면 이름
+          Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                const Text(
-                  '합계',
-                  style: TextStyle(
-                    fontFamily: 'Pretendard Variable',
-                    fontWeight: FontWeight.w500,
-                    fontSize: 18,
-                    color: Colors.black,
+                // 로고 (클릭 시 홈으로 이동)
+                GestureDetector(
+                  onTap: () {
+                    // 키보드 닫기
+                    FocusScope.of(context).unfocus();
+                    
+                    // 네비게이션 스택을 모두 제거하고 홈으로 이동
+                    Navigator.of(context).pushAndRemoveUntil(
+                      MaterialPageRoute(builder: (context) => const HomePage()),
+                      (route) => false,
+                    );
+                  },
+                  child: Image.asset(
+                    'assets/images/logo_text.png',
+                    width: screenWidth * 0.25, // 더 작게
+                    fit: BoxFit.contain,
                   ),
                 ),
-                const Spacer(),
+                // 화면 이름 (작은 글씨)
                 Text(
-                  '${plan.budget!.currency} ${plan.budget!.totalBudget}',
-                  style: const TextStyle(
-                    fontFamily: 'Inter',
-                    fontWeight: FontWeight.w400,
-                    fontSize: 12,
-                    color: Colors.black,
+                  '스토리보드',
+                  style: TextStyle(
+                    fontFamily: 'Tmoney RoundWind',
+                    fontWeight: FontWeight.w600,
+                    fontSize: 14,
+                    color: const Color(0xFF1A1A1A).withOpacity(0.7),
                   ),
                 ),
               ],
             ),
-          
-          const SizedBox(height: 24),
-          
-          // 구분선
-          Container(
-            height: 1,
-            color: AppColors.brandBlue,
           ),
           
-          const SizedBox(height: 24),
-          
-          // 촬영 체크리스트
-          const Text(
-            '촬영 체크리스트',
-            style: TextStyle(
-              fontFamily: 'Pretendard Variable',
-              fontWeight: FontWeight.w600,
-              fontSize: 20,
-              color: Colors.black,
-            ),
-          ),
-          
-          const SizedBox(height: 14),
-          
-          // 체크리스트 항목
-          if (plan.shootingChecklist != null)
-            ...plan.shootingChecklist!.map((item) => Padding(
-              padding: const EdgeInsets.only(bottom: 14),
-              child: Row(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Container(
-                    width: 16,
-                    height: 16,
-                    decoration: BoxDecoration(
-                      color: item.contains('✓') ? AppColors.brandBlue : const Color(0xFFD9D9D9),
-                      borderRadius: BorderRadius.circular(3),
-                    ),
-                  ),
-                  const SizedBox(width: 14),
-                  Expanded(
-                    child: Text(
-                      item.replaceAll('✓', '').trim(),
-                      style: const TextStyle(
-                        fontFamily: 'Inter',
-                        fontWeight: FontWeight.w400,
-                        fontSize: 12,
-                        color: Colors.black,
-                      ),
-                    ),
-                  ),
-                ],
+          // 오른쪽 씬 리스트 버튼
+          Positioned(
+            right: 17,
+            top: 15,
+            child: GestureDetector(
+              onTap: () {
+                // 키보드 닫기
+                FocusScope.of(context).unfocus();
+
+                Navigator.push(
+                  context,
+                  SceneListPage.route(),
+                );
+              },
+              child: Image.asset(
+                'assets/images/button_scenelist.png',
+                width: 50,
+                height: 50,
+                fit: BoxFit.contain,
               ),
-            )).toList(),
-
-          // SizedBox(height: MediaQuery.of(context).size.height * 0.3), // 화면 높이의 30%만큼 하단 여백
-          const SizedBox(height: 24),
-        ],
-      ),
-    );
-  }
-
-  // 촬영 시작 버튼
-  Widget _buildStartShootingButton() {
-    return Container(
-      width: 60,
-      height: 60,
-      decoration: BoxDecoration(
-        shape: BoxShape.circle,
-        gradient: const LinearGradient(
-          begin: Alignment(-0.5, -0.9),
-          end: Alignment(0.5, 0.9),
-          colors: [Color(0xFF1DBBB1), Color(0xFF64BF79)],
-        ),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.25),
-            blurRadius: 4,
-            offset: const Offset(0, 4),
-          ),
-        ],
-      ),
-      child: IconButton(
-        icon: const Icon(Icons.play_arrow, color: Color(0xFFFFFFFF), size: 30),
-        onPressed: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => const SceneListPage()),
-          );
-        },
-      ),
-    );
-  }
-
-  // 톤 & 분위기 세부 내용 다이얼로그
-  void _showToneDetailDialog() {
-    final plan = _dataService.plan;
-    if (plan?.styleAnalysis == null) return;
-
-    final style = plan!.styleAnalysis!;
-
-    showDialog(
-      context: context,
-      builder: (context) => Dialog(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-        child: Container(
-          padding: const EdgeInsets.all(24),
-          constraints: const BoxConstraints(maxWidth: 400, maxHeight: 600),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  const Text(
-                    '톤 & 분위기 세부 내용',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.w600,
-                    ),
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.close),
-                    onPressed: () => Navigator.pop(context),
-                  ),
-                ],
-              ),
-              const SizedBox(height: 20),
-              Expanded(
-                child: SingleChildScrollView(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      _buildDetailItem('톤', style.tone),
-                      _buildDetailItem('분위기', style.vibe),
-                      _buildDetailItem('페이싱', style.pacing),
-                      _buildDetailItem('시각 스타일', style.visualStyle.join(', ')),
-                      _buildDetailItem('오디오 스타일', style.audioStyle.join(', ')),
-                      const SizedBox(height: 20),
-                      const Text(
-                        '레이더 차트 점수',
-                        style: TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                      const SizedBox(height: 10),
-                      _buildScoreItem('감정 표현', style.emotionalExpression),
-                      _buildScoreItem('동작', style.movement),
-                      _buildScoreItem('강도', style.intensity),
-                      _buildScoreItem('장소 다양성', style.locationDiversity),
-                      _buildScoreItem('속도/리듬', style.speedRhythm),
-                      _buildScoreItem('흥분/놀람', style.excitementSurprise),
-                    ],
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildDetailItem(String label, String value) {
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 12),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(
-            label,
-            style: const TextStyle(
-              fontSize: 12,
-              fontWeight: FontWeight.w600,
-              color: Colors.grey,
-            ),
-          ),
-          const SizedBox(height: 4),
-          Text(
-            value,
-            style: const TextStyle(
-              fontSize: 14,
-              fontWeight: FontWeight.w400,
             ),
           ),
         ],
@@ -832,274 +338,221 @@ class _StoryboardPageState extends State<StoryboardPage> {
     );
   }
 
-  Widget _buildScoreItem(String label, int score) {
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 8),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          Text(label),
-          Row(
-            children: [
-              for (int i = 0; i < 5; i++)
-                Icon(
-                  i < score ? Icons.star : Icons.star_border,
-                  size: 16,
-                  color: AppColors.brandBlue,
-                ),
-            ],
-          ),
-        ],
-      ),
-    );
-  }
-
-  // Google Maps 위젯
-  Widget _buildGoogleMap(Plan plan) {
-    final locations = _dataService.getShootingLocations();
-    
-    if (locations.isEmpty) {
-      return Container(
-        height: 243,
-        width: double.infinity,
-        decoration: BoxDecoration(
-          color: Colors.grey[200],
-          borderRadius: BorderRadius.circular(10),
-        ),
-        child: const Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Icon(Icons.map, size: 48, color: Colors.grey),
-              SizedBox(height: 8),
-              Text(
-                '촬영 장소 정보 없음',
-                style: TextStyle(
-                  fontFamily: 'Inter',
-                  fontSize: 12,
-                  color: Colors.grey,
-                ),
-              ),
-            ],
-          ),
-        ),
-      );
-    }
-
-    // 마커 생성
-    final markers = locations.asMap().entries.map((entry) {
-      int index = entry.key;
-      final location = entry.value;
-      
-      return Marker(
-        markerId: MarkerId('marker_${location.order}'),
-        position: LatLng(location.latitude, location.longitude),
-        infoWindow: InfoWindow(
-          title: '${location.order}. ${location.name}',
-          snippet: location.description,
-        ),
-        icon: BitmapDescriptor.defaultMarkerWithHue(
-          index == 0 
-              ? BitmapDescriptor.hueGreen  // 시작점은 초록색
-              : index == locations.length - 1
-                  ? BitmapDescriptor.hueBlue  // 끝점은 파란색
-                  : BitmapDescriptor.hueRed,  // 중간은 빨간색
-        ),
-      );
-    }).toSet();
-
-    // 폴리라인 생성
-    final polylineCoordinates = locations
-        .map((location) => LatLng(location.latitude, location.longitude))
-        .toList();
-
-    final polylines = {
-      Polyline(
-        polylineId: const PolylineId('route'),
-        points: polylineCoordinates,
-        color: AppColors.brandBlue,
-        width: 4,
-      ),
-    };
-
-    // 카메라 위치 (첫 번째 위치 중심)
-    final cameraPosition = LatLng(
-      locations.first.latitude,
-      locations.first.longitude,
-    );
+  // 탭 바
+  Widget _buildTabBar(double screenWidth, double screenHeight) {
+    final tabs = const ['요약', '촬영', '예산', '연출', '기타'];
+    final isSelected = [
+      _selectedTab == 0,
+      _selectedTab == 1,
+      _selectedTab == 2,
+      _selectedTab == 3,
+      _selectedTab == 4,
+    ];
 
     return Container(
-      height: 243,
-      width: double.infinity,
+      width: screenWidth * 0.928, // 373/402
+      height: screenHeight * 0.062, // 56/904
       decoration: BoxDecoration(
+        color: const Color(0xFFFAFAFA),
         borderRadius: BorderRadius.circular(10),
-      ),
-      clipBehavior: Clip.antiAlias,
-      child: GoogleMap(
-        initialCameraPosition: CameraPosition(
-          target: cameraPosition,
-          zoom: 15,
+        border: const Border(
+          left: BorderSide(color: Color(0xFF1A1A1A), width: 3),
+          bottom: BorderSide(color: Color(0xFF1A1A1A), width: 6),
+          right: BorderSide(color: Color(0xFF1A1A1A), width: 6),
+          top: BorderSide(color: Color(0xFF1A1A1A), width: 3),
         ),
-        markers: markers,
-        polylines: polylines,
-        mapType: MapType.normal,
-        myLocationButtonEnabled: false,
-        zoomControlsEnabled: true,
-        zoomGesturesEnabled: true,
-        scrollGesturesEnabled: true,
-        rotateGesturesEnabled: true,
-        tiltGesturesEnabled: true,
-        // 제스처 인식기 설정 - 지도가 터치를 우선적으로 처리
-        gestureRecognizers: <Factory<OneSequenceGestureRecognizer>>{
-          Factory<OneSequenceGestureRecognizer>(
-            () => EagerGestureRecognizer(),
-          ),
-        },
+      ),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          // 요약 탭
+          _buildTabItem('요약', 0, isSelected[0], hasIcon: true),
+          _buildTabItem('촬영', 1, isSelected[1]),
+          _buildTabItem('예산', 2, isSelected[2]),
+          _buildTabItem('연출', 3, isSelected[3]),
+          _buildTabItem('기타', 4, isSelected[4]),
+        ],
       ),
     );
   }
 
-  // 씬 인디케이터 (동그라미 + 라인)
-  Widget _buildSceneIndicator(int sceneCount) {
-    if (sceneCount == 0) return const SizedBox.shrink();
-    
-    return Container(
-      height: 40,
-      padding: const EdgeInsets.symmetric(horizontal: 16),
+  // 탭 아이템
+  Widget _buildTabItem(String label, int index, bool isSelected, {bool hasIcon = false}) {
+    return GestureDetector(
+      onTap: () => _onTabChanged(index),
       child: Stack(
         alignment: Alignment.center,
         children: [
-          // 가로 라인
-          Positioned(
-            left: 20,
-            right: 20,
-            child: Container(
-              height: 2,
-              color: AppColors.brandBlue.withOpacity(0.3),
+          // 선택된 탭 배경 이미지
+          if (isSelected)
+            Image.asset(
+              'assets/images/tab_selection.png',
+              width: 62,
+              height: 37,
+              fit: BoxFit.contain,
             ),
-          ),
-          // 동그라미들
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: List.generate(sceneCount, (index) {
-              final isSelected = index == _selectedSceneIndex;
-              return GestureDetector(
-                onTap: () {
-                  setState(() {
-                    _selectedSceneIndex = index;
-                  });
-                },
-                child: Container(
-                  width: isSelected ? 16 : 12,
-                  height: isSelected ? 16 : 12,
-                  decoration: BoxDecoration(
-                    color: isSelected ? AppColors.brandGreen : AppColors.brandBlue,
-                    shape: BoxShape.circle,
-                    border: Border.all(
-                      color: isSelected ? AppColors.brandGreen : AppColors.brandBlue,
-                      width: isSelected ? 3 : 2,
-                    ),
-                  ),
-                ),
-              );
-            }),
-          ),
-        ],
-      ),
-    );
-  }
-
-  // 선택된 씬의 위치 정보
-  Widget _buildSelectedSceneLocation(CueCard cueCard) {
-    return Container(
-      padding: const EdgeInsets.all(12),
-      decoration: BoxDecoration(
-        color: AppColors.brandGreen.withOpacity(0.1),
-        borderRadius: BorderRadius.circular(8),
-        border: Border.all(
-          color: AppColors.brandGreen,
-          width: 1,
-        ),
-      ),
-      child: Row(
-        children: [
+          // 텍스트
           Container(
-            width: 21,
-            height: 21,
-            decoration: const BoxDecoration(
-              color: AppColors.brandGreen,
-              shape: BoxShape.circle,
-            ),
-            child: Center(
-              child: Text(
-                '${_selectedSceneIndex + 1}',
-                style: const TextStyle(
-                  fontFamily: 'Inter',
-                  fontWeight: FontWeight.w600,
-                  fontSize: 10,
-                  color: Colors.white,
-                ),
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+            child: Text(
+              label,
+              style: TextStyle(
+                fontFamily: 'Tmoney RoundWind',
+                fontWeight: FontWeight.w800,
+                fontSize: 20,
+                height: 1.3,
+                color: isSelected ? const Color(0xFFFAFAFA) : const Color(0xFFB2B2B2),
               ),
             ),
           ),
-          const SizedBox(width: 12),
-          Expanded(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  cueCard.title,
-                  style: const TextStyle(
-                    fontFamily: 'Pretendard Variable',
-                    fontWeight: FontWeight.w600,
-                    fontSize: 14,
-                    color: Colors.black,
-                  ),
-                ),
-                if (cueCard.summary.isNotEmpty)
-                  Padding(
-                    padding: const EdgeInsets.only(top: 4),
-                    child: Text(
-                      cueCard.summary.first,
-                      style: TextStyle(
-                        fontFamily: 'Inter',
-                        fontWeight: FontWeight.w400,
-                        fontSize: 11,
-                        color: Colors.grey[600],
-                      ),
-                      maxLines: 2,
-                      overflow: TextOverflow.ellipsis,
-                    ),
-                  ),
-              ],
-            ),
-          ),
         ],
       ),
     );
   }
-}
 
-// SliverPersistentHeader를 위한 Delegate
-class _StickyTabDelegate extends SliverPersistentHeaderDelegate {
-  final Widget child;
-  final double height;
-
-  _StickyTabDelegate({required this.child, required this.height});
-
-  @override
-  double get minExtent => height;
-
-  @override
-  double get maxExtent => height;
-
-  @override
-  Widget build(BuildContext context, double shrinkOffset, bool overlapsContent) {
-    return child;
+  // IndexedStack 섹션 - 선택된 탭만 렌더링
+  Widget _buildDetailsSection(dynamic plan, List<dynamic> cueCards, double screenWidth, double screenHeight) {
+    return RepaintBoundary(
+      child: IndexedStack(
+        index: _selectedTab,
+        children: [
+          RepaintBoundary(child: SummaryTab(dataService: _dataService)),
+          RepaintBoundary(child: ShootingTab(dataService: _dataService)),
+          RepaintBoundary(child: BudgetTab(dataService: _dataService)),
+          RepaintBoundary(child: DirectionTab(dataService: _dataService)),
+          RepaintBoundary(child: EtcTab(dataService: _dataService)),
+        ],
+      ),
+    );
   }
 
-  @override
-  bool shouldRebuild(covariant _StickyTabDelegate oldDelegate) {
-    return oldDelegate.height != height || oldDelegate.child != child;
+  // 하단 입력 바
+  Widget _buildBottomInputBar(double screenWidth, double screenHeight) {
+    // 키보드 높이를 별도 위젯으로 분리하여 리빌드 최소화
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final keyboardHeight = MediaQuery.of(context).viewInsets.bottom;
+        
+        return AnimatedPadding(
+          duration: const Duration(milliseconds: 200),
+          curve: Curves.easeOut,
+          padding: EdgeInsets.only(bottom: keyboardHeight), // 키보드 높이만큼 패딩 추가
+          child: Container(
+        width: screenWidth,
+        constraints: BoxConstraints(
+          minHeight: screenHeight * 0.087, // 최소 높이
+        ),
+        decoration: const BoxDecoration(
+          color: Color(0xFFFAFAFA),
+          border: Border(
+            top: BorderSide(color: Color(0xFF1A1A1A), width: 3),
+          ),
+        ),
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // 입력 필드
+          Expanded(
+            child: Container(
+              constraints: const BoxConstraints(
+                minHeight: 48,
+              ),
+              decoration: BoxDecoration(
+                color: const Color(0xFFFAFAFA),
+                border: const Border(
+                  left: BorderSide(color: Color(0xFF2C3E50), width: 3),
+                  bottom: BorderSide(color: Color(0xFF2C3E50), width: 6),
+                  right: BorderSide(color: Color(0xFF2C3E50), width: 6),
+                  top: BorderSide(color: Color(0xFF2C3E50), width: 3),
+                ),
+                borderRadius: BorderRadius.circular(10),
+              ),
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Expanded(
+                    child: TextField(
+                      controller: _inputController,
+                      focusNode: _inputFocusNode,
+                      textAlignVertical: TextAlignVertical.top,
+                      maxLines: _isInputExpanded ? null : 1,
+                      minLines: 1,
+                      textInputAction: TextInputAction.newline,
+                      keyboardType: TextInputType.multiline,
+                      decoration: const InputDecoration(
+                        hintText: '수정 내용을 입력하세요...',
+                        hintStyle: TextStyle(
+                          fontFamily: 'Tmoney RoundWind',
+                          fontWeight: FontWeight.w400,
+                          fontSize: 14,
+                          color: Color(0xFFB2B2B2),
+                        ),
+                        border: InputBorder.none,
+                        contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                        isDense: true,
+                      ),
+                      style: const TextStyle(
+                        fontFamily: 'Tmoney RoundWind',
+                        fontWeight: FontWeight.w400,
+                        fontSize: 14,
+                        color: Color(0xFF1A1A1A),
+                      ),
+                    ),
+                  ),
+                  // X 버튼 (항상 표시)
+                  GestureDetector(
+                    onTap: _inputController.text.isNotEmpty
+                        ? () {
+                            _inputController.clear();
+                            setState(() {
+                              _isInputExpanded = false;
+                            });
+                          }
+                        : null,
+                    child: Container(
+                      width: 32,
+                      height: 32,
+                      margin: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: _inputController.text.isNotEmpty
+                            ? const Color(0xFFB2B2B2).withOpacity(0.2)
+                            : const Color(0xFFB2B2B2).withOpacity(0.1),
+                        shape: BoxShape.circle,
+                      ),
+                      child: Icon(
+                        Icons.close,
+                        size: 18,
+                        color: _inputController.text.isNotEmpty
+                            ? const Color(0xFF1A1A1A)
+                            : const Color(0xFFB2B2B2),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          const SizedBox(width: 17),
+          // 전송 버튼
+          Padding(
+            padding: const EdgeInsets.only(top: 4),
+            child: GestureDetector(
+              onTap: _handleSendModification,
+              child: Image.asset(
+                'assets/images/button_send.png',
+                width: 45,
+                height: 45,
+                fit: BoxFit.contain,
+              ),
+            ),
+          ),
+        ],
+      ),
+      ),
+        );
+      },
+    );
   }
+
 }

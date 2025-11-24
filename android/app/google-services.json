@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809348064676",
+    "project_id": "plotto-be5e0",
+    "storage_bucket": "plotto-be5e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809348064676:android:ea28c508418e168fc90d31",
+        "android_client_info": {
+          "package_name": "com.example.graduationdesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa27R2SJ3Nhn4_sFVqZoTKQdGmXIAaCig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

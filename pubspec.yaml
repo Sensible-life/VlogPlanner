@@ -53,6 +53,14 @@ dependencies:
   video_player: ^2.8.1
   image_picker: ^1.0.4
   device_info_plus: ^9.1.0
+  youtube_player_flutter: ^9.1.1
+  screenshot: ^2.2.0
+  url_launcher: ^6.2.5
+
+  # Firebase 관련 패키지
+  firebase_core: ^3.8.1
+  cloud_firestore: ^5.5.0
+  firebase_storage: ^12.3.2
 
 dev_dependencies:
   flutter_test:
@@ -80,6 +88,8 @@ flutter:
   assets:
     - assets/
     - assets/.env
+    - assets/images/
+    - assets/icons/
     # Template directories for script generation
     - assets/templates/fitness_01/
     - assets/templates/fitness_02/
@@ -137,3 +147,9 @@ flutter:
           weight: 800
         - asset: assets/fonts/Pretendard-Black.ttf
           weight: 900
+    - family: Tmoney RoundWind
+      fonts:
+        - asset: assets/fonts/TmoneyRoundWindRegular.ttf
+          weight: 400
+        - asset: assets/fonts/TmoneyRoundWindExtraBold.ttf
+          weight: 800
